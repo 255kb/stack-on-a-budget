@@ -7,6 +7,8 @@ All contributions are welcome!
 
 ### [Service name]
 
+[Link to relevant page](http://link)
+
 - *Free tier:* [free tier description]
 - *Pros:* [basic review, interesting features, anything non obvious...]
 - *Limitations:* [specific limitations (exceeding the free tier is not a limitation)]
