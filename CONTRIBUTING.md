@@ -5,7 +5,7 @@ All contributions are welcome!
 - Search for existing issues ad pull requests to avoid duplicates.
 - Follow this template when submitting new services:
 
-##### [Service name]
+### [Service name]
 
 - *Free tier:* [free tier description]
 - *Pros:* [basic review, interesting features, anything non obvious...]
