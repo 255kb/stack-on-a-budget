@@ -25,6 +25,9 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 ## Frontend app hosting
 
 ### **Firebase hosting**
+
+[Pricing page](https://firebase.google.com/pricing/)
+
 *Free tier*: 1Gb storage, 10Gb/month transfer, custom domain and SSL
 
 *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
