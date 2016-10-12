@@ -1,10 +1,11 @@
 # Stack on a budget
 
 Not everyone has 20$ per month to spend on apps or database hosting for every single side-project.
-This repository offers a collection of services with free tiers for developers on a budget. 
+This repository offers a collection of services with free tiers for developers on a budget.
 
 # Table of Contents
-- [App hosting](#app-hosting)
+- [Frontend app hosting](#frontend-app-hosting)
+- [Backend app hosting](#backend-app-hosting)
 - [Database hosting](#database-hosting)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
@@ -15,7 +16,8 @@ This repository offers a collection of services with free tiers for developers o
 - [Analytics](#analytics)
 - [Misc](#misc)
 
-## App hosting
+## Frontend app hosting
+## Backend app hosting
 ## Database hosting
 ## Code versioning
 ## Collaboration tools
