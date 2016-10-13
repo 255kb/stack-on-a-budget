@@ -19,6 +19,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Continuous integration](#continuous-integration)
 - [APIs](#apis)
 - [User authentication](#user-authentication)
+    - [**Auth0**](#auth0)
 - [Push notifications](#push-notifications)
 - [Emailing](#emailing)
 - [Analytics](#analytics)
@@ -76,6 +77,17 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 ## Continuous integration
 ## APIs
 ## User authentication
+
+### **Auth0**
+
+[Pricing page](https://auth0.com/pricing)
+
+*Free tier*: unlimitedlogins for 7000 active users/month, authentication with email/password and up to 2 social providers
+
+*Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
+
+*Limitations*: active users are users who logged in the last 30 days
+
 ## Push notifications
 ## Emailing
 ## Analytics
