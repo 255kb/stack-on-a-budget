@@ -25,6 +25,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Emailing](#emailing)
 - [Analytics](#analytics)
 - [Misc](#misc)
+    - [**Let's encrypt**](#lets-encrypt)
 
 <!-- /TOC -->
 
@@ -103,3 +104,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 ## Emailing
 ## Analytics
 ## Misc
+
+### **Let's encrypt**
+
+[Pricing page](https://firebase.google.com/pricing/)
+
+*Free tier*: provide SSL certificates for free
+
+*Pros*: it's free, certificate provisioning can be automated
+
+*Limitations*: certificates are only valid for 90 days, no wildcard certificates
