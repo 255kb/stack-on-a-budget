@@ -18,6 +18,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration](#continuous-integration)
 - [APIs](#apis)
+- [User authentication](#user-authentication)
 - [Push notifications](#push-notifications)
 - [Emailing](#emailing)
 - [Analytics](#analytics)
@@ -74,6 +75,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 ## Collaboration tools
 ## Continuous integration
 ## APIs
+## User authentication
 ## Push notifications
 ## Emailing
 ## Analytics
