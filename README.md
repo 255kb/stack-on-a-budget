@@ -35,9 +35,8 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Pricing page](https://firebase.google.com/pricing/)
 
-*Free tier*: 1Gb storage, 10Gb/month transfer, custom domain and SSL
-
-*Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
+* *Free tier*: 1Gb storage, 10Gb/month transfer, custom domain and SSL
+* *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
 ## App hosting
 
@@ -45,22 +44,18 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Pricing page](https://zeit.co/now#pricing)
 
-*Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
-
-*Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use NodeJS last version, can also host static websites
-
-*Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+* *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
+* *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use NodeJS last version, can also host static websites
+* *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
 
 
 ### **Hyperdev**
 
 [About page](https://hyperdev.com/about/)
 
-*Free tier*: instantly deployed NodeJS app with collaboration tool
-
-*Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-
-*Limitations*: no custom domain, memory limited to 64Mb
+* *Free tier*: instantly deployed NodeJS app with collaboration tool
+* *Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
+* *Limitations*: no custom domain, memory limited to 64Mb
 
 ## Database hosting
 
@@ -68,11 +63,9 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Pricing page](https://firebase.google.com/pricing/)
 
-*Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
-
-*Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
-
-*Limitations*: no backups, limited queries, complicated security rules (read the manual!)
+* *Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
+* *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
+* *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
 
 ## Code versioning
 ## Collaboration tools
@@ -84,21 +77,17 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Pricing page](https://auth0.com/pricing)
 
-*Free tier*: unlimitedlogins for 7000 active users/month, authentication with email/password and up to 2 social providers
-
-*Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
-
-*Limitations*: active users are users who logged in the last 30 days
+* *Free tier*: unlimitedlogins for 7000 active users/month, authentication with email/password and up to 2 social providers
+* *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
+* *Limitations*: active users are users who logged in the last 30 days
 
 ### **Firebase authentication**
 
 [Pricing page](https://firebase.google.com/pricing/)
 
-*Free tier*: always free, unlimited users
-
-*Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, Github), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
-
-*Limitations*: no UI provided
+* *Free tier*: always free, unlimited users
+* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, Github), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
+* *Limitations*: no UI provided
 
 ## Push notifications
 ## Emailing
@@ -109,8 +98,6 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Home page](https://letsencrypt.org/)
 
-*Free tier*: provide SSL certificates for free
-
-*Pros*: it's free, certificate provisioning can be automated
-
-*Limitations*: certificates are only valid for 90 days, no wildcard certificates
+* *Free tier*: provide SSL certificates for free
+* *Pros*: it's free, certificate provisioning can be automated
+* *Limitations*: certificates are only valid for 90 days, no wildcard certificates
