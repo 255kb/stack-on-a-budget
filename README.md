@@ -20,6 +20,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [APIs](#apis)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
+    - [**Firebase authentication**](#firebase-authentication)
 - [Push notifications](#push-notifications)
 - [Emailing](#emailing)
 - [Analytics](#analytics)
@@ -87,6 +88,16 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
 
 *Limitations*: active users are users who logged in the last 30 days
+
+### **Firebase authentication**
+
+[Pricing page](https://firebase.google.com/pricing/)
+
+*Free tier*: always free, unlimited users
+
+*Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, Github), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
+
+*Limitations*: no UI provided
 
 ## Push notifications
 ## Emailing
