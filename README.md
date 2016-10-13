@@ -107,7 +107,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 ### **Let's encrypt**
 
-[Pricing page](https://firebase.google.com/pricing/)
+[Home page](https://letsencrypt.org/)
 
 *Free tier*: provide SSL certificates for free
 
