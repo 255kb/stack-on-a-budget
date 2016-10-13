@@ -11,7 +11,9 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
     - [**Zeit Now**](#zeit-now)
+    - [**Hyperdev**](#hyperdev)
 - [Database hosting](#database-hosting)
+    - [**Firebase database**](#firebase-database)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration](#continuous-integration)
@@ -52,11 +54,22 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 *Free tier*: instantly deployed NodeJS app with collaboration tool
 
-*Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration 
+*Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
 
 *Limitations*: no custom domain, memory limited to 64Mb
 
 ## Database hosting
+
+### **Firebase database**
+
+[Pricing page](https://firebase.google.com/pricing/)
+
+*Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
+
+*Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
+
+*Limitations*: no backups, limited queries, complicated security rules (read the manual!)
+
 ## Code versioning
 ## Collaboration tools
 ## Continuous integration
