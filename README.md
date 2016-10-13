@@ -7,9 +7,9 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
 
-- [Frontend app hosting](#frontend-app-hosting)
+- [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
-- [Backend app hosting](#backend-app-hosting)
+- [App hosting](#app-hosting)
 - [Database hosting](#database-hosting)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
@@ -22,7 +22,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 <!-- /TOC -->
 
-## Frontend app hosting
+## Static app hosting
 
 ### **Firebase hosting**
 
@@ -33,7 +33,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
 
-## Backend app hosting
+## App hosting
 ## Database hosting
 ## Code versioning
 ## Collaboration tools
