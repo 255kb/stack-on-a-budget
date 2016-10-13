@@ -45,6 +45,17 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
 
+
+### **Hyperdev**
+
+[About page](https://hyperdev.com/about/)
+
+*Free tier*: instantly deployed NodeJS app with collaboration tool
+
+*Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration 
+
+*Limitations*: no custom domain, memory limited to 64Mb
+
 ## Database hosting
 ## Code versioning
 ## Collaboration tools
