@@ -10,6 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
+    - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
@@ -32,8 +33,18 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
-
 ## App hosting
+
+### **Zeit Now**
+
+[Pricing page](https://zeit.co/now#pricing)
+
+*Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
+
+*Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use NodeJS last version, can also host static websites
+
+*Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+
 ## Database hosting
 ## Code versioning
 ## Collaboration tools
