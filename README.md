@@ -23,6 +23,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase authentication**](#firebase-authentication)
 - [Push notifications](#push-notifications)
 - [Emailing](#emailing)
+    - [**Mailgun**](#mailgun)
 - [Analytics](#analytics)
 - [Misc](#misc)
     - [**Let's encrypt**](#lets-encrypt)
@@ -91,6 +92,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 ## Push notifications
 ## Emailing
+
+### **Mailgun**
+
+[Pricing page](http://www.mailgun.com/pricing)
+
+* *Free tier*: 10000 emails/month
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics
+
 ## Analytics
 ## Misc
 
