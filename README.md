@@ -10,7 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
-    - [IMB Bluemix](#imb-bluemix)
+    - [**IMB Bluemix**](#imb-bluemix)
     - [**Zeit Now**](#zeit-now)
     - [**Hyperdev**](#hyperdev)
 - [Database hosting](#database-hosting)
@@ -42,7 +42,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 ## App hosting
 
-### IMB Bluemix
+### **IMB Bluemix**
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
