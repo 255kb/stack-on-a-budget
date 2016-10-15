@@ -10,6 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
+    - [IMB Bluemix](#imb-bluemix)
     - [**Zeit Now**](#zeit-now)
     - [**Hyperdev**](#hyperdev)
 - [Database hosting](#database-hosting)
@@ -40,6 +41,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
 ## App hosting
+
+### IMB Bluemix
+
+[Pricing page](https://console.ng.bluemix.net/pricing/)
+
+* *Free tier*: 512Mb/month
+* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, Php, Python Ruby), supports containers
 
 ### **Zeit Now**
 
