@@ -32,6 +32,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase authentication**](#firebase-authentication)
     - [**Ionic Auth**](#ionic-auth)
 - [Push notifications](#push-notifications)
+    - [**Ionic Push**](#ionic-push)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Analytics](#analytics)
@@ -178,6 +179,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, Github, Instagram, LinkedIn), provide forms
 
 ## Push notifications
+
+### **Ionic Push**
+
+[Pricing page](http://ionic.io/pricing)
+
+* *Free tier*: 10K notifications/month
+* *Pros*: provide dashboard to send push to segments, supports scheduling, designed to be sent from Ionic apps
+
 ## Emailing
 
 ### **Mailgun**
