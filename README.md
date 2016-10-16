@@ -11,9 +11,9 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
+    - [**Hyperdev**](#hyperdev)
     - [**IMB Bluemix**](#imb-bluemix)
     - [**Zeit Now**](#zeit-now)
-    - [**Hyperdev**](#hyperdev)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
@@ -53,6 +53,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with NodeJS and Ruby is not in the free tier.
 
+### **Hyperdev**
+
+[About page](https://hyperdev.com/about/)
+
+* *Free tier*: instantly deployed NodeJS app with collaboration tool
+* *Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
+* *Limitations*: no custom domain, memory limited to 64Mb
+
 ### **IMB Bluemix**
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
@@ -67,15 +75,6 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use NodeJS last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
-
-
-### **Hyperdev**
-
-[About page](https://hyperdev.com/about/)
-
-* *Free tier*: instantly deployed NodeJS app with collaboration tool
-* *Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-* *Limitations*: no custom domain, memory limited to 64Mb
 
 ## Database hosting
 
