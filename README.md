@@ -96,7 +96,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 [Pricing page](https://auth0.com/pricing)
 
-* *Free tier*: unlimitedlogins for 7000 active users/month, authentication with email/password and up to 2 social providers
+* *Free tier*: unlimited logins for 7000 active users/month, authentication with email/password and up to 2 social providers
 * *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
 * *Limitations*: active users are users who logged in the last 30 days
 
