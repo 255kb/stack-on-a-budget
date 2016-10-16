@@ -30,6 +30,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
+    - [**Ionic Auth**](#ionic-auth)
 - [Push notifications](#push-notifications)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
@@ -168,6 +169,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: always free, unlimited users
 * *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, Github), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
 * *Limitations*: no UI provided
+
+### **Ionic Auth**
+
+[Pricing page](http://ionic.io/pricing)
+
+* *Free tier*: always free, unlimited users
+* *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, Github, Instagram, LinkedIn), provide forms
 
 ## Push notifications
 ## Emailing
