@@ -16,6 +16,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Hyperdev**](#hyperdev)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
+    - [**Google Cloud Datastore**](#google-cloud-datastore)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
@@ -85,6 +86,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
 * *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
+
+### **Google Cloud Datastore**
+
+[Product page](https://cloud.google.com/datastore/)
+
+* *Free tier*: 1Gb storage/day, 50K reads/day, 20K writes/day, 20K deletes/day
+* *Pros*: dashboard, clients available in multiple languages, fully managed (sharding and replication), ACID transactions
+* *Limitations*: complex requests needs specific indexes (read the manual)
 
 ## Code versioning
 ## Collaboration tools
