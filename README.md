@@ -13,6 +13,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Google App Engine**](#google-app-engine)
     - [**Hyperdev**](#hyperdev)
     - [**IMB Bluemix**](#imb-bluemix)
+    - [**Open Shift**](#open-shift)
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
@@ -67,6 +68,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 * *Free tier*: 512Mb/month
 * *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, Php, Python Ruby), supports containers
+
+### **Open Shift**
+
+[Pricing page](https://www.openshift.com/pricing/index.html)
+
+* *Free tier*: 3 small gears (1 CPU, 512Mb memory and 1Gb storage)
+* *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
+* *Limitations*: deployment requires installation of Open Shift app
 
 ### **Zeit Now**
 
