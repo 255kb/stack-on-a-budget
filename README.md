@@ -10,6 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
+    - [**Google App Engine**](#google-app-engine)
     - [**IMB Bluemix**](#imb-bluemix)
     - [**Zeit Now**](#zeit-now)
     - [**Hyperdev**](#hyperdev)
@@ -42,6 +43,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
 ## App hosting
+
+### **Google App Engine**
+
+[Product page](https://cloud.google.com/appengine)
+
+* *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
+* *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
+* *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with NodeJS and Ruby is not in the free tier.
 
 ### **IMB Bluemix**
 
