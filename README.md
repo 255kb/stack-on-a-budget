@@ -53,22 +53,22 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 * *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
-* *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with NodeJS and Ruby is not in the free tier.
+* *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
 
 ### **Heroku**
 
 [Pricing page](https://www.heroku.com/pricing)
 
 * *Free tier*: one "dyno" (512Mb memory), custom domains
-* *Pros*: supports multiple languages (Node, Ruby, Java, PHP, Python, Go, Scala or Clojure)
+* *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
 
 ### **Hyperdev**
 
 [About page](https://hyperdev.com/about/)
 
-* *Free tier*: instantly deployed NodeJS app with collaboration tool
-* *Pros*: based on NodeJS, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
+* *Free tier*: instantly deployed Node.js app with collaboration tool
+* *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
 * *Limitations*: no custom domain, memory limited to 64Mb
 
 ### **IMB Bluemix**
@@ -91,7 +91,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 [Pricing page](https://zeit.co/now#pricing)
 
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
-* *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use NodeJS last version, can also host static websites
+* *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
 
 ## Database hosting
