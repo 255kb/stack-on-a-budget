@@ -17,7 +17,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase database**](#firebase-database)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
-- [Continuous integration](#continuous-integration)
+- [Continuous integration/delivery](#continuous-integrationdelivery)
 - [APIs](#apis)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
@@ -78,7 +78,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 ## Code versioning
 ## Collaboration tools
-## Continuous integration
+## Continuous integration/delivery
 ## APIs
 ## User authentication
 
