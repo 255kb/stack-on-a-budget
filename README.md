@@ -18,6 +18,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
+    - [**Codeship**](#codeship)
 - [APIs](#apis)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
@@ -79,6 +80,15 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 ## Code versioning
 ## Collaboration tools
 ## Continuous integration/delivery
+
+### **Codeship**
+
+[Pricing page](https://codeship.com/pricing)
+
+* *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
+* *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
+* *Limitations*: no Docker support in free tier
+
 ## APIs
 ## User authentication
 
