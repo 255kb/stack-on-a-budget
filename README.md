@@ -19,6 +19,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
+    - [**Heroku Postgres**](#heroku-postgres)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
@@ -111,6 +112,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 1Gb storage/day, 50K reads/day, 20K writes/day, 20K deletes/day
 * *Pros*: dashboard, clients available in multiple languages, fully managed (sharding and replication), ACID transactions
 * *Limitations*: complex requests needs specific indexes (read the manual)
+
+### **Heroku Postgres**
+
+[Product page](https://www.heroku.com/postgres)
+
+* *Free tier*: 10K rows/month
+* *Pros*: dashboard, secured
+* *Limitations*: SLA with maximum of 4 hours of downtime/month
 
 ## Code versioning
 ## Collaboration tools
