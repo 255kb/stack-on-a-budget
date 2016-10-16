@@ -20,6 +20,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase database**](#firebase-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
     - [**Heroku Postgres**](#heroku-postgres)
+    - [**Heroku Redis**](#heroku-redis)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
@@ -120,6 +121,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 10K rows/month
 * *Pros*: dashboard, secured
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
+
+### **Heroku Redis**
+
+[Product page](https://www.heroku.com/redis)
+
+* *Free tier*: 25Mb ram, 20 connections
+* *Pros*: dashboard, secured, analytics, access via Heroku CLI
 
 ## Code versioning
 ## Collaboration tools
