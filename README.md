@@ -11,6 +11,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase hosting**](#firebase-hosting)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
+    - [**Heroku**](#heroku)
     - [**Hyperdev**](#hyperdev)
     - [**IMB Bluemix**](#imb-bluemix)
     - [**Open Shift**](#open-shift)
@@ -53,6 +54,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with NodeJS and Ruby is not in the free tier.
+
+### **Heroku**
+
+[Pricing page](https://www.heroku.com/pricing)
+
+* *Free tier*: one "dyno" (512Mb memory), custom domains
+* *Pros*: supports multiple languages (Node, Ruby, Java, PHP, Python, Go, Scala or Clojure)
+* *Limitations*: instance will sleep after 30 mins of inactivity
 
 ### **Hyperdev**
 
