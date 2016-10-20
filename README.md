@@ -21,6 +21,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Google Cloud Datastore**](#google-cloud-datastore)
     - [**Heroku Postgres**](#heroku-postgres)
     - [**Heroku Redis**](#heroku-redis)
+    - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
 - [Code versioning](#code-versioning)
 - [Collaboration tools](#collaboration-tools)
@@ -132,6 +133,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 25Mb ram, 20 connections
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
+
+### **mLab**
+
+[Pricing page](https://mlab.com/plans/pricing/)
+
+* *Free tier*: 500Mb storage, daily backup, 
+* *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
 
