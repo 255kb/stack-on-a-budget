@@ -9,6 +9,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
+    - [**Github Pages**](#github-pages)    
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
@@ -50,6 +51,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 * *Free tier*: 1Gb storage, 10Gb/month transfer, custom domain and SSL
 * *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
+
+### **Github Pages**
+
+[Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
+
+* *Free tier*: 1Gb storage, 100Gb bandwidth or 100K requests/month, 10 builds per hour
+* *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
+* *Limitations*: no HTTPS for custom domains
 
 ## App hosting
 
