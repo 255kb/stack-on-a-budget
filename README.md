@@ -24,8 +24,8 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Heroku Redis**](#heroku-redis)
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
-- [Code versioning](#code-versioning)
-- [Collaboration tools](#collaboration-tools)
+- [Code collaboration tools](#code-collaboration-tools)
+    - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**Codeship**](#codeship)
 - [APIs](#apis)
@@ -157,8 +157,15 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 30Mb, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
 
-## Code versioning
-## Collaboration tools
+## Code collaboration tools
+
+### **GitLab**
+
+[Product page](https://about.gitlab.com/gitlab-com/)
+
+* *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10Gb storage/project
+* *Pros*: can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
+
 ## Continuous integration/delivery
 
 ### **Codeship**
