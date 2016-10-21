@@ -25,6 +25,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
 - [Code collaboration tools](#code-collaboration-tools)
+    - [**GitHub**](#github)
     - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**Codeship**](#codeship)
@@ -158,6 +159,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
 
 ## Code collaboration tools
+
+### **GitHub**
+
+[Pricing page](https://github.com/pricing)
+
+* *Free tier*: unlimited public repositories, collaborators and organizations
+* *Pros*: provide issue tracking, code reviews, organizations/team management, 3rd party integration and hooks, has a desktop app
+* *Limitations*: no private repository in the free version
 
 ### **GitLab**
 
