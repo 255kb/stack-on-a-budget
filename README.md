@@ -39,7 +39,8 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Ionic Push**](#ionic-push)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
-- [Analytics](#analytics)
+- [Mobile analytics](#mobile-analytics)
+    - [**Firebase Analytics**](#firebase-analytics)
 - [Misc](#misc)
     - [**Let's encrypt**](#lets-encrypt)
 
@@ -237,7 +238,16 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 10000 emails/month
 * *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
-## Analytics
+## Mobile analytics
+
+### **Firebase Analytics**
+
+[Product page](https://firebase.google.com/docs/analytics/)
+
+* *Free tier*: unlimited reporting of 500 events each with max. 25 attributes
+* *Pros*: provide dashboard, demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
+* *Limitations*: only available for native Android and iOS (no javascript version)
+
 ## Misc
 
 ### **Let's encrypt**
