@@ -165,7 +165,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 [Pricing page](https://github.com/pricing)
 
 * *Free tier*: unlimited public repositories, collaborators and organizations
-* *Pros*: provide issue tracking, code reviews, organizations/team management, 3rd party integration and hooks, has a desktop app
+* *Pros*: provide issue tracking, code snippets (Gist), code reviews, organizations/team management, 3rd party integration and hooks, has a desktop app
 * *Limitations*: no private repository in the free version
 
 ### **GitLab**
@@ -173,7 +173,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 [Product page](https://about.gitlab.com/gitlab-com/)
 
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10Gb storage/project
-* *Pros*: can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
+* *Pros*: provide issue tracking, code snippets and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
 
 ## Continuous integration/delivery
 
