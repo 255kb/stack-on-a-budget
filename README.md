@@ -40,6 +40,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
     - [**Firebase Analytics**](#firebase-analytics)
+    - [**Mixpanel**](#mixpanel)
 - [Misc](#misc)
     - [**Let's encrypt**](#lets-encrypt)
 
@@ -245,6 +246,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: unlimited reporting of 500 events each with max. 25 attributes
 * *Pros*: provide dashboard, demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
 * *Limitations*: only available for native Android and iOS (no javascript version)
+
+### **Mixpanel**
+
+[Pricing page](https://mixpanel.com/pricing/)
+
+* *Free tier*: unlimited projects, 20 millions data points/month/project, 1 custom event/project, 60 days data history
+* *Pros*: Ideal for mobile applications or "events" oriented websites
+* *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
 
 ## Misc
 
