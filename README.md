@@ -29,6 +29,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**GitHub**](#github)
     - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
+    - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
@@ -187,6 +188,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
 
 ## Continuous integration/delivery
+
+### **CircleCI**
+
+[Pricing page](https://circleci.com/pricing/)
+
+* *Free tier*: unlimited repos and users, 1 concurrent build, 1500 build minutes/month
+* *Pros*: supports containers (Docker), integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 
 ### **Codeship**
 
