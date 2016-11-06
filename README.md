@@ -41,6 +41,8 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Mobile analytics](#mobile-analytics)
     - [**Firebase Analytics**](#firebase-analytics)
     - [**Mixpanel**](#mixpanel)
+- [Content Delivery Networks](#content-delivery-networks)
+    - [**Clouflare**](#clouflare)
 - [Misc](#misc)
     - [**Let's encrypt**](#lets-encrypt)
 
@@ -254,6 +256,15 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: unlimited projects, 20 millions data points/month/project, 1 custom event/project, 60 days data history
 * *Pros*: Ideal for mobile applications or "events" oriented websites
 * *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
+
+## Content Delivery Networks
+
+### **Clouflare**
+
+[Pricing page](https://www.cloudflare.com/plans/)
+
+* *Free tier*: unlimited websites, free global CDN, free DNS management, shared SSL certificate, 3 page rules/website, basic DDoS protection
+* *Pros*: very fast and reliable free CDN, fast DNS propagation, supports CNAME flattening, compatible with HTTP/2, SPDY, WebSockets and IPv6, offers shared SSL (between User and Cloudflare servers), a lot of services are provided (page rules, script injection, image optimization, statistics, etc)
 
 ## Misc
 
