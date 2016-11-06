@@ -9,7 +9,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
-    - [**Github Pages**](#github-pages)    
+    - [**Github Pages**](#github-pages)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
@@ -30,7 +30,6 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**Codeship**](#codeship)
-- [APIs](#apis)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
@@ -194,7 +193,6 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
 
-## APIs
 ## User authentication
 
 ### **Auth0**
