@@ -37,8 +37,8 @@ Nowadays, a lot of services are offering really good free tier more than enough 
     - [**Firebase authentication**](#firebase-authentication)
     - [**Ionic Auth**](#ionic-auth)
 - [Push notifications](#push-notifications)
-    - [**Ionic Push**](#ionic-push)
     - [**Firebase Push**](#firebase-push)
+    - [**Ionic Push**](#ionic-push)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
@@ -241,13 +241,6 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 ## Push notifications
 
-### **Ionic Push**
-
-[Pricing page](http://ionic.io/pricing)
-
-* *Free tier*: 10K notifications/month
-* *Pros*: provide dashboard to send push to segments, supports scheduling, designed to be sent from Ionic apps
-
 ### **Firebase Push**
 
 [Pricing page](https://firebase.google.com/pricing/)
@@ -255,6 +248,13 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: unlimited notifications
 * *Pros*: supports Android and iOS native applications, users segmentation, message scheduling, integrates with Firebase analytics
 * *Limitations*: no javascript library
+
+### **Ionic Push**
+
+[Pricing page](http://ionic.io/pricing)
+
+* *Free tier*: 10K notifications/month
+* *Pros*: provide dashboard to send push to segments, supports scheduling, designed to be sent from Ionic apps
 
 ## Emailing
 
