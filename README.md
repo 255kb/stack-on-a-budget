@@ -31,6 +31,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
+    - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
@@ -203,6 +204,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
+
+### **Travis CI (Org)**
+
+[Home page](https://travis-ci.org/)
+
+* *Free tier*: unlimited projects and parallel testing for open source projects
+* *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
+* *Limitations*: free tier is limited to open source projects
 
 ## User authentication
 
