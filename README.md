@@ -10,6 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
     - [**Github Pages**](#github-pages)
+    - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
@@ -67,6 +68,14 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 * *Free tier*: 1Gb storage, 100Gb bandwidth or 100K requests/month, 10 builds per hour
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
 * *Limitations*: no HTTPS for custom domains
+
+### **surge**
+
+[Pricing page](http://surge.sh/pricing)
+
+* *Free tier*: unlimited deployments, custom domain and basic SSL
+* *Pros*: deploy from CLI, cstom 404 pages
+* *Limitations*: no custom redirects or http->https redirection in free tier
 
 ## App hosting
 
