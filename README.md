@@ -59,6 +59,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Content Delivery Networks](#content-delivery-networks)
     - [**Clouflare**](#clouflare)
 - [Misc](#misc)
+    - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
 
 <!-- /TOC -->
@@ -336,10 +337,18 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 ## Misc
 
+### **Cloudinary**
+
+[Pricing page](http://cloudinary.com/pricing)
+
+* *Free tier*: 75000 total images or videos and 7500 monthly transformations, 2Gb storage, 5Gb bandwidth/month
+* *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
+* *Limitations*: free tier does not offer custom domain
+
 ### **Let's encrypt**
 
 [Home page](https://letsencrypt.org/)
 
 * *Free tier*: provide SSL certificates for free
-* *Pros*: it's free, certificate provisioning can be automated
+* *Pros*: 
 * *Limitations*: certificates are only valid for 90 days, no wildcard certificates
