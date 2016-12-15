@@ -1,8 +1,16 @@
 # Stack on a budget
 
-This repository offers a collection of services with free tiers for developers on a budget. Because not everyone has 20$ per month to spend on app or database hosting for every single side-project.
+This repository offers a collection of services with great free tiers for developers on a budget. Because not everyone has 20$ per month to spend on app or database hosting for every single side-project.
 
 Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
+
+# Selection rules
+
+There are not much rules for a service to be in this list but free tiers too limited should be excluded. If the limitation is not critical it should be stated in the *Limitations* section of each service.
+
+# Contribution
+
+Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
