@@ -18,6 +18,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
     - [**Github Pages**](#github-pages)
+    - [**netlify**](#netlify)
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
@@ -76,6 +77,13 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Free tier*: 1Gb storage, 100Gb bandwidth or 100K requests/month, 10 builds per hour
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
 * *Limitations*: no HTTPS for custom domains
+
+### **netlify**
+
+[Pricing page](https://www.netlify.com/pricing/)
+
+* *Free tier*: Unlimited sites, custom domain and SSL
+* *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
 
 ### **surge**
 
