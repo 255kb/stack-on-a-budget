@@ -53,6 +53,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
+    - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Firebase Analytics**](#firebase-analytics)
     - [**Mixpanel**](#mixpanel)
 - [Content Delivery Networks](#content-delivery-networks)
@@ -299,6 +300,14 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
 ## Mobile analytics
+
+### **Amazon Mobile Analytics**
+
+[Pricing page](https://aws.amazon.com/mobileanalytics/pricing/)
+
+* *Free tier*: 100 millions basic sessions and custom events per month
+* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and javascript SDKs, events are send in batch and cached until the device is online
+* *Limitations*: export to S3 or RedShift is subject to these services respective pricings
 
 ### **Firebase Analytics**
 
