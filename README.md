@@ -41,6 +41,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
+    - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
@@ -230,6 +231,13 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
+
+### **TeamCity**
+
+[Home page](https://www.jetbrains.com/teamcity/)
+
+* *Free tier*: 20 builds configurations, 3 build agents, access to all features
+* *Pros*: Integrates with cloud providers (AWS, Microsoft Azure and VMware vSphere) and VCS providers (GitHub, Bitbucket), supports Docker
 
 ### **Travis CI (Org)**
 
