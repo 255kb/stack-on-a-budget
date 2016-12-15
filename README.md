@@ -314,7 +314,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Product page](https://firebase.google.com/docs/analytics/)
 
 * *Free tier*: unlimited reporting of 500 events each with max. 25 attributes
-* *Pros*: provide dashboard, demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
+* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
 * *Limitations*: only available for native Android and iOS (no javascript version)
 
 ### **Mixpanel**
