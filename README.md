@@ -90,7 +90,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Pricing page](http://surge.sh/pricing)
 
 * *Free tier*: unlimited deployments, custom domain and basic SSL
-* *Pros*: deploy from CLI, cstom 404 pages
+* *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
 
 ## App hosting
