@@ -24,7 +24,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
     - [**Gomix**](#gomix)
-    - [**IMB Bluemix**](#imb-bluemix)
+    - [**IBM Bluemix**](#ibm-bluemix)
     - [**Open Shift**](#open-shift)
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
@@ -122,7 +122,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
 * *Limitations*: no custom domain, memory limited to 64Mb
 
-### **IMB Bluemix**
+### **IBM Bluemix**
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
