@@ -23,7 +23,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
-    - [**Hyperdev**](#hyperdev)
+    - [**Gomix**](#gomix)
     - [**IMB Bluemix**](#imb-bluemix)
     - [**Open Shift**](#open-shift)
     - [**Zeit Now**](#zeit-now)
@@ -114,9 +114,9 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
 
-### **Hyperdev**
+### **Gomix**
 
-[About page](https://hyperdev.com/about/)
+[About page](https://gomix.com/about/)
 
 * *Free tier*: instantly deployed Node.js app with collaboration tool
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
