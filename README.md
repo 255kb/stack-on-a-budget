@@ -25,6 +25,7 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**Google App Engine**](#google-app-engine)
+    - [**AWS Free Tier**](#amazon-free-tier)
     - [**Heroku**](#heroku)
     - [**Gomix**](#gomix)
     - [**IBM Bluemix**](#ibm-bluemix)
@@ -118,6 +119,14 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 * *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
+
+### **Amazon Free Tier**
+
+[Product page](https://aws.amazon.com/free/)
+
+* *Free tier*: 750 hours/month, t2micro instance
+* *Limitations*: expires 12 months after sign-up
+
 
 ### **Heroku**
 
