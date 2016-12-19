@@ -25,7 +25,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**Heroku**](#heroku)
     - [**Gomix**](#gomix)
     - [**IBM Bluemix**](#ibm-bluemix)
-    - [**Open Shift**](#open-shift)
+    - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
