@@ -12,11 +12,10 @@ There are not much rules for a service to be in this list but free tiers too lim
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23), [tpluscode](https://github.com/tpluscode)
+Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23), [tpluscode](https://github.com/tpluscode), [sdomino](https://github.com/sdomino)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
-
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
     - [**Github Pages**](#github-pages)
@@ -37,6 +36,8 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Heroku Redis**](#heroku-redis)
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
+- [Microplatforms](#microplatforms)
+    - [**Nanobox**](#nanobox)
 - [Code collaboration tools](#code-collaboration-tools)
     - [**Bitbucket**](#bitbucket)
     - [**GitHub**](#github)
@@ -198,7 +199,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500Mb storage, daily backup, 
+* *Free tier*: 500Mb storage, daily backup,
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -207,6 +208,16 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: 30Mb, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+## Microplatforms
+
+### **Nanobox**
+
+[Product page](https://nanobox.io/) / [Pricing page](https://nanobox.io/pricing)
+
+- *Free tier:* Free for any open-source/personal project (1 Server, any size).
+- *Pros:* Complete dev to production workflow. Run any language/framework on any provider (DO, AWS, etc.). Logs, collaboration, TLS/SSL. Full access to virtual environment/containers locally and remotely.
+- *Limitations:* Free apps on first tier (tinker) only.
 
 ## Code collaboration tools
 
