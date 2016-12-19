@@ -50,7 +50,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Push notifications](#push-notifications)
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
-    - [**onesignal**](#onesignal-push)
+    - [**onesignal**](#onesignal)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
@@ -296,8 +296,8 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 [Pricing page](https://onesignal.com/#pricing)
 
-* *Free tier*: Unlimited Devices, Unlimited Notifications
-* *Pros*: support iOS, Android, web push, Windows Phone, Amazon Fire, Chrome Extensions and native support for every development environment, Localization, Unlimited Segments, Delivery Scheduling, Realtime Analytics, Delivery Automation, Full API, A/B Testing, Import & Export Your Data
+* *Free tier*: unlimited devices, unlimited notifications
+* *Pros*: support iOS, Android, web push, Windows Phone, Amazon Fire, Chrome extensions and native support for every development environment, localization, unlimited segments, delivery scheduling, realtime analytics, delivery automation, full API, A/B testing, import & export your data
 
 ## Emailing
 
