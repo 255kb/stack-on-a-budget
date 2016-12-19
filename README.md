@@ -12,7 +12,7 @@ There are not much rules for a service to be in this list but free tiers too lim
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23)
+Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23), [tpluscode](https://github.com/tpluscode)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
