@@ -264,7 +264,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
 
-### ** Shippable **
+### **Shippable**
 
 [Home page](https://app.shippable.com/)
 
