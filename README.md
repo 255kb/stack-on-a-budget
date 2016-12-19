@@ -34,6 +34,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
+    - [**GearHost Database**](#gearhost-database)
     - [**Heroku Postgres**](#heroku-postgres)
     - [**Heroku Redis**](#heroku-redis)
     - [**mLab**](#mlab)
@@ -219,6 +220,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: 30Mb, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+### **GearHost Database**
+
+[Pricing page](https://www.gearhost.com/pricing)
+
+* *Free tier*: 5MB MySQL database or 10MB MS SQL database
+* *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
+* *Limitations*: simultaneous connections seems to be limited (according to [this page](http://talk.gearhost.com/t/restrictions-or-limitations-of-the-free-account/105), approx. 15)
 
 ## Code collaboration tools
 
