@@ -57,7 +57,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**Firebase Analytics**](#firebase-analytics)
     - [**Mixpanel**](#mixpanel)
 - [Content Delivery Networks](#content-delivery-networks)
-    - [**Clouflare**](#clouflare)
+    - [**Cloudflare**](#cloudflare)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -328,7 +328,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 ## Content Delivery Networks
 
-### **Clouflare**
+### **Cloudflare**
 
 [Pricing page](https://www.cloudflare.com/plans/)
 
