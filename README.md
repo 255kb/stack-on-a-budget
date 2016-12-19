@@ -352,5 +352,5 @@ Thanks to the contributors: [RationalCoding](https://github.com/RationalCoding),
 [Home page](https://letsencrypt.org/)
 
 * *Free tier*: provide SSL certificates for free
-* *Pros*: 
-* *Limitations*: certificates are only valid for 90 days, no wildcard certificates
+* *Pros*: free?
+* *Limitations*: certificates are valid for 90 days so automation is stronly recommended, no wildcard certificates
