@@ -43,6 +43,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**GitHub**](#github)
     - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
+    - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
     - [**TeamCity**](#teamcity)
@@ -241,6 +242,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
 
 ## Continuous integration/delivery
+
+### **AppVeyor**
+
+[Pricing page](https://www.appveyor.com/pricing/)
+
+* *Free tier*: unlimited projects for open source, 1 concurrent build
+* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, BitBucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
 ### **CircleCI**
 
