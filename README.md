@@ -357,6 +357,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Free tier*: 10000 emails/month
 * *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
+### SparkPost
+
+[Pricing page](https://www.sparkpost.com/pricing/)
+
+* *Free tier*: 100000 emails/month
+* *Pros* : pre-built client libraries, SMTP or REST, real-time data with webhooks
+
 ## Mobile analytics
 
 ### **Amazon Mobile Analytics**
