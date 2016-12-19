@@ -237,8 +237,8 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 
 [Pricing page](https://www.appveyor.com/pricing/)
 
-* *Free tier*: unlimited repos, 1 concurrent build
-* *Pros*: build support for .NET, Xamarin, node.js and Ruby; integrates with 10 different code hosting providers; deploys to Azure, Amazon and others
+* *Free tier*: unlimited projects for open source, 1 concurrent build
+* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, BitBucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
 ### **CircleCI**
 
