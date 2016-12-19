@@ -37,6 +37,7 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
     - [**Heroku Redis**](#heroku-redis)
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
+    - [**GearHost**](#gear-host-database-hosting)
 - [Code collaboration tools](#code-collaboration-tools)
     - [**Bitbucket**](#bitbucket)
     - [**GitHub**](#github)
@@ -205,6 +206,14 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 
 * *Free tier*: 30Mb, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+### **GearHost database hosting**
+
+[Pricing page](https://www.gearhost.com/pricing)
+
+* *Free tier*: 5MB MySQL database or 10MB MS SQL database
+* *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
+* *Limitations*: Limited connections
 
 ## Code collaboration tools
 
