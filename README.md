@@ -12,7 +12,7 @@ There are not much rules for a service to be in this list but free tiers too lim
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Thanks to the contributors: [RationalCoding](https://github.com/RationalCoding), [omajid](https://github.com/omajid)
+Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
