@@ -290,8 +290,8 @@ Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](h
 
 [Pricing Page](https://stormpath.com/pricing)
 
-- *Free tier:* free forever, 10k API calls/mo
-- *Pros:* complete user authentication, authorization and management through their API. Client libraries for multiple languages
+- *Free tier:* unlimited users, 10k API calls/mo
+- *Pros:* complete user authentication, authorization and management through their API, client libraries for multiple languages
 
 ## Push notifications
 
