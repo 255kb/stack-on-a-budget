@@ -115,6 +115,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 ## App hosting
 
+### **AWS EC2**
+
+[Product page](https://aws.amazon.com/free/)
+
+* *Free tier*: 750 hours/month of t2.micro instances
+* *Limitations*: expires 12 months after sign-up
+
 ### **Google App Engine**
 
 [Product page](https://cloud.google.com/appengine)
@@ -122,13 +129,6 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
-
-### **AWS EC2**
-
-[Product page](https://aws.amazon.com/free/)
-
-* *Free tier*: 750 hours/month of t2.micro instances
-* *Limitations*: expires 12 months after sign-up
 
 ### **Heroku**
 
