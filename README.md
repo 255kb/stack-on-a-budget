@@ -219,6 +219,12 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 ## Continuous integration/delivery
 
+### **GitLab CI**
+
+[Product page](https://about.gitlab.com/gitlab-com/)
+
+* *Free tier*: shared runners for public/private projects
+
 ### **CircleCI**
 
 [Pricing page](https://circleci.com/pricing/)
