@@ -67,6 +67,8 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Cloudflare**](#cloudflare)
 - [App Testing](#app-testing)
     - [**Sauce Labs**](#sauce-labs)
+- [Realtime Infrastructure](#realtime-infrastructure)
+    - [**Pusher**](#pusher)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -388,6 +390,16 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: free for open source, unlimited automated testing, unlimited manual testing, 5 concurrent VMs, 2 subaccounts
 * *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
+
+## Realtime Infrastructure
+
+### **Pusher**
+
+[Pricing page](https://pusher.com/pricing)
+
+* *Free tier*: Unlimited channels, 100 max connections, 200,000 messages a day, support
+* *Pros*: Send messages from your server and subscribe to them in real-time from any client (Android, iOS, JavaScript, etc.) at massive scale (Pub/Sub). Great documentation, intuitive client libraries, and a powerful dashboard for testing, debugging, and analytics. Libraries available for various languages.
+
 
 ## Misc
 
