@@ -247,6 +247,13 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
 
+### **Semaphore**
+
+[Pricing page](https://semaphoreci.com/pricing)
+
+* *Free tier*: Free for open source projects & 100 private builds per month
+* *Pros*: easy to setup. Integrates seamlessly with GitHub & Bitbucket
+
 ### **TeamCity**
 
 [Home page](https://www.jetbrains.com/teamcity/)
