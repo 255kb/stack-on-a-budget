@@ -378,4 +378,4 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 
 * *Free tier*: provide SSL certificates for free
 * *Pros*: free?
-* *Limitations*: certificates are valid for 90 days so automation is stronly recommended, no wildcard certificates
+* *Limitations*: certificates are valid for 90 days so automation is strongly recommended, no wildcard certificates
