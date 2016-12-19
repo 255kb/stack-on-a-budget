@@ -49,6 +49,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Codeship**](#codeship)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
+    - [**Drone](#drone)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
@@ -290,6 +291,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
+* *Limitations*: free tier is limited to open source projects
+
+### **Drone**
+
+[Home page](https://drone.io)
+* *Free tier*: unlimited public projects and unlimited builds
+* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker
 * *Limitations*: free tier is limited to open source projects
 
 ## User authentication
