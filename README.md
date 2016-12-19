@@ -50,6 +50,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Push notifications](#push-notifications)
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
+    - [**onesignal**](#onesignal-push)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
@@ -290,6 +291,13 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 * *Free tier*: 10K notifications/month
 * *Pros*: provide dashboard to send push to segments, supports scheduling, designed to be sent from Ionic apps
+
+### **onesignal**
+
+[Pricing page](https://onesignal.com/#pricing)
+
+* *Free tier*: Unlimited Devices, Unlimited Notifications
+* *Pros*: support iOS, Android, web push, Windows Phone, Amazon Fire, Chrome Extensions and native support for every development environment, Localization, Unlimited Segments, Delivery Scheduling, Realtime Analytics, Delivery Automation, Full API, A/B Testing, Import & Export Your Data
 
 ## Emailing
 
