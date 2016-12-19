@@ -12,7 +12,7 @@ There are not much rules for a service to be in this list but free tiers too lim
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23)
+Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam),[Mistic92](https://github.com/Mistic92), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
@@ -24,8 +24,8 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
     - [**netlify**](#netlify)
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
+    - [**AWS EC2**](#aws-ec2)
     - [**Google App Engine**](#google-app-engine)
-    - [**AWS Free Tier**](#amazon-free-tier)
     - [**Heroku**](#heroku)
     - [**Gomix**](#gomix)
     - [**IBM Bluemix**](#ibm-bluemix)
@@ -120,13 +120,12 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
 
-### **Amazon Free Tier**
+### **AWS EC2**
 
 [Product page](https://aws.amazon.com/free/)
 
-* *Free tier*: 750 hours/month, t2micro instance
+* *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
-
 
 ### **Heroku**
 
