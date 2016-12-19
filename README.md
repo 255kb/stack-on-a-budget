@@ -50,6 +50,7 @@ Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](h
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
     - [**Ionic Auth**](#ionic-auth)
+    - [**Stormpath**](#stormpath)
 - [Push notifications](#push-notifications)
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
@@ -284,6 +285,13 @@ Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](h
 
 * *Free tier*: always free, unlimited users
 * *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, Github, Instagram, LinkedIn), provide forms
+
+### **Stormpath**
+
+[Pricing Page](https://stormpath.com/pricing)
+
+- *Free tier:* free forever, 10k API calls/mo
+- *Pros:* complete user authentication, authorization and management through their API. Client libraries for multiple languages
 
 ## Push notifications
 
