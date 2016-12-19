@@ -63,7 +63,7 @@ Thanks to the contributors: [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [
     - [**Mixpanel**](#mixpanel)
 - [Content Delivery Networks](#content-delivery-networks)
     - [**Cloudflare**](#cloudflare)
-- [App Testint](#app-testing)
+- [App Testing](#app-testing)
     - [**Sauce Labs**](#sauce-labs)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
