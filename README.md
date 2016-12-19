@@ -159,7 +159,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: 3 small gears (1 CPU, 512Mb memory and 1Gb storage)
 * *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
-* *Limitations*: deployment requires installation of OpenShift app
+* *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
 
 ### **Zeit Now**
 
