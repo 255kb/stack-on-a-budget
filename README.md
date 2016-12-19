@@ -18,7 +18,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
     - [**Github Pages**](#github-pages)
-    - [**Gitlab Pages**](#gitlab-pages)
+    - [**GitLab Pages**](#gitlab-pages)
     - [**netlify**](#netlify)
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
@@ -82,9 +82,9 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
 * *Limitations*: no HTTPS for custom domains
 
-### **Gitlab Pages**
+### **GitLab Pages**
 
-[Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/?_ga=1.46460647.1908573291.1479946563)
+[Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
 
 * *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
 * *Pros*: Use any static website generator, Connect your custom domain(s) and TLS certificates, Shared / Self-hosted CI runners
