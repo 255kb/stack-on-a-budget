@@ -10,6 +10,8 @@ The goal is to have enough details about each free tier so a developer can choos
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
 
+Please also have a look to the [List of excluded services](https://github.com/255kb/stack-on-a-budget/wiki/List-of-excluded-services) where you can find which service has been considered and why it has been rejected.
+
 # Table of Contents
 <!-- TOC depthFrom:2 -->
 
@@ -21,9 +23,10 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**AWS EC2**](#aws-ec2)
+    - [**GearHost**](#gearhost)
+    - [**Gomix**](#gomix)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
-    - [**Gomix**](#gomix)
     - [**IBM Bluemix**](#ibm-bluemix)
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
@@ -44,6 +47,9 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
     - [**ContinuousPHP**](#continuousphp)
+    - [**GitLab CI**](#gitlab-ci)
+    - [**Semaphore**](#semaphore)
+    - [**Shippable**](#shippable)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
@@ -97,8 +103,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
 
 * *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
-* *Pros*: Use any static website generator, Connect your custom domain(s) and TLS certificates, Shared / Self-hosted CI runners
-* *Limitations*: Shared CI can be delayed some time
+* *Pros*: Use any static website generator, connect your custom domain(s) and TLS certificates
 
 ### **netlify**
 
@@ -124,21 +129,13 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
 
-### **Google App Engine**
+### **GearHost**
 
-[Product page](https://cloud.google.com/appengine)
+[Pricing page](https://www.gearhost.com/pricing)
 
-* *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
-* *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
-* *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
-
-### **Heroku**
-
-[Pricing page](https://www.heroku.com/pricing)
-
-* *Free tier*: one "dyno" (512Mb memory), custom domains
-* *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
-* *Limitations*: instance will sleep after 30 mins of inactivity
+* *Free tier*: 1 shared node and 1 worker at max, 100Mb storage, 1Gb bandwidth/month, custom domains
+* *Pros*: supports .NET (4.6), PHP (5.3-5.5) and Node.js apps, MSSQL and MySQL databases, easy publishing over FTP, WebDeploy or directly from Git/GitHub/Bitbucket
+* *Limitation*: cumulative limits for CPU (60 minutes) and RAM (256 MB), no SSL support, only 32bits processes
 
 ### **Gomix**
 
@@ -148,12 +145,28 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
 * *Limitations*: no custom domain, memory limited to 64Mb
 
+### **Google App Engine**
+
+[Product page](https://cloud.google.com/appengine)
+
+* *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
+* *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
+* *Limitations*: free tier only applies to standard environment which supports Python, Java, PHP and Go. Flexible environment with Node.js and Ruby is not in the free tier.
+
+### **Heroku**
+
+[Pricing page](https://www.heroku.com/pricing)
+
+* *Free tier*: one "dyno" (512Mb memory), custom domains
+* *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
+* *Limitations*: instance will sleep after 30 mins of inactivity
+
 ### **IBM Bluemix**
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
 * *Free tier*: 512Mb/month
-* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, Php, Python Ruby), supports containers
+* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
 
 ### **OpenShift**
 
@@ -249,7 +262,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Product page](https://about.gitlab.com/gitlab-com/)
 
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10Gb storage/project
-* *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
+* *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
 
 ## Continuous integration/delivery
 
@@ -283,6 +296,28 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
 * *Limitations*: dedicated to PHP
 
+### **GitLab CI**
+
+[Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
+
+* *Free tier*: shared runners (Digital Ocean 4Gb instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
+* *Pros*: runners can also be installed on premise, fully integrated with GitLab
+* *Limitations*: Shared runners builds can be delayed some time
+
+### **Semaphore**
+
+[Pricing page](https://semaphoreci.com/pricing)
+
+* *Free tier*: free for open source projects or 100 private builds per month
+* *Pros*: supports various languages (JavaScript, Go, Java, PHP, Python...), databases (MongoDB, PostgreSQL, MySQL...) and Docker, integrates seamlessly with GitHub and Bitbucket, automatic configurations for a wide range of projects, integrates with communication tools (Campfire, Slack...), implements custom workflow through API, deploys to many hosting providers (AWS S3, Lambda and Elastic Beanstalk, Cloud 66, Heroku, FTP)
+
+### **Shippable**
+
+[Home page](https://app.shippable.com/)
+
+* *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
+* *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
+
 ### **TeamCity**
 
 [Home page](https://www.jetbrains.com/teamcity/)
@@ -297,6 +332,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
+
 
 ## User authentication
 
@@ -345,8 +381,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: unlimited notifications
-* *Pros*: supports Android and iOS native applications, users segmentation, message scheduling, integrates with Firebase analytics
-* *Limitations*: no javascript library
+* *Pros*: supports Android, iOS and browsers (Push API), users segmentation, message scheduling, integrates with Firebase analytics
 
 ### **Ionic Push**
 
@@ -378,7 +413,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Pricing page](https://aws.amazon.com/mobileanalytics/pricing/)
 
 * *Free tier*: 100 millions basic sessions and custom events per month
-* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and javascript SDKs, events are send in batch and cached until the device is online
+* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and JavaScript SDKs, events are send in batch and cached until the device is online
 * *Limitations*: export to S3 or RedShift is subject to these services respective pricings
 
 ### **Countly Analytics**
@@ -386,7 +421,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 [Product page](https://count.ly/product) 
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
-* *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Nodejs. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
+* *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
 * *Limitations*: Community Edition has less number of features than Countly Enterprise Edition (e.g Drill, User Profiles, etc).
 
 ### **Firebase Analytics**
@@ -395,7 +430,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 * *Free tier*: unlimited reporting of 500 events each with max. 25 attributes
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
-* *Limitations*: only available for native Android and iOS (no javascript version)
+* *Limitations*: only available for native Android and iOS (no JavaScript version)
 
 ### **Mixpanel**
 
