@@ -55,6 +55,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Ionic Auth**](#ionic-auth)
     - [**Stormpath**](#stormpath)
 - [Push notifications](#push-notifications)
+    - [**Batch**](#batch)
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
     - [**onesignal**](#onesignal)
@@ -325,6 +326,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 - *Pros:* complete user authentication, authorization and management through their API, client libraries for multiple languages
 
 ## Push notifications
+
+### **Batch**
+
+[Pricing page](https://batch.com/pricing)
+
+* *Free tier*: unlimited notifications, up to 100,000 monthly active users
+* *Pros*: supports iOS, Android, Cordova, Phonegap, Ionic, Adobe AIR, Unity mobile applications, basic users segmentation (country/language targeting), message scheduling, transactional API
+* *Limitations*: no advanced user segmentation, campaigns API, data push and A/B testing on free tier
 
 ### **Firebase Push**
 
