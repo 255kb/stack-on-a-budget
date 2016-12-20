@@ -60,6 +60,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**onesignal**](#onesignal)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
+    - [**SparkPost**](#sparkpost)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Countly Analytics**](#countly-analytics)
