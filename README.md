@@ -10,6 +10,8 @@ The goal is to have enough details about each free tier so a developer can choos
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
 
+Please also have a look to the [List of excluded services](https://github.com/255kb/stack-on-a-budget/wiki/List-of-excluded-services) where you can find which service has been considered and why it has been rejected.
+
 # Table of Contents
 <!-- TOC depthFrom:2 -->
 
