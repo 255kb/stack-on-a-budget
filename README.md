@@ -99,8 +99,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
 
 * *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
-* *Pros*: Use any static website generator, Connect your custom domain(s) and TLS certificates, Shared / Self-hosted CI runners
-* *Limitations*: Shared CI can be delayed some time
+* *Pros*: Use any static website generator, connect your custom domain(s) and TLS certificates
 
 ### **netlify**
 
@@ -251,7 +250,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Product page](https://about.gitlab.com/gitlab-com/)
 
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10Gb storage/project
-* *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users
+* *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
 
 ## Continuous integration/delivery
 
@@ -283,6 +282,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: shared runners (Digital Ocean 4Gb instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
 * *Pros*: runners can also be installed on premise, fully integrated with GitLab
+* *Limitations*: Shared runners builds can be delayed some time
 
 ### **TeamCity**
 
