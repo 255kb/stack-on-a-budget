@@ -429,6 +429,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
 * *Limitations*: free tier does not offer custom domain
 
+### **Filestack**
+
+[Pricing page](https://filestack.com/pricing)
+
+* *Free tier*: Unlimited file uploads up to 250 monthly, 500 monthly file transformations, 3Gb bandwidth/month
+* *Pros*: image and video transformations, document file conversions, audio/video transcoding, free CDN, HTML widget, iOS SDK, tons of cloud storage integrations
+* *Limitations*: free tier does not offer custom CNAME, S3 as file source is premium feature
+
 ### **Let's encrypt**
 
 [Home page](https://letsencrypt.org/)
