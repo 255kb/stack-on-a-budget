@@ -55,6 +55,8 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
     - [**onesignal**](#onesignal)
+- [Activity Feeds](#activity-feeds)
+    - [**Stream**](#stream)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
@@ -352,6 +354,15 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 * *Free tier*: unlimited devices, unlimited notifications
 * *Pros*: support iOS, Android, web push, Windows Phone, Amazon Fire, Chrome extensions and native support for every development environment, localization, unlimited segments, delivery scheduling, realtime analytics, delivery automation, full API, A/B testing, import & export your data
+
+## Activity Feeds
+
+### **Stream**
+
+[Pricing page](https://getstream.io/pricing/)
+
+* *Free tier*: 3M feed updates per month into flat feeds, aggregated feeds or notification feeds
+* *Pros*: SDK Support for Python, Go, JavaScript, Ruby, PHP, Java, Scala and several frameworks (Rails, Django, Node, .NET, Laravel, etc), plenty of example apps including an open-source Android app, community and email support, data import/export, replication of data, machine learning and personalization of feed data.
 
 ## Emailing
 
