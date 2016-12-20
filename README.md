@@ -403,8 +403,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](http://www.mailgun.com/pricing)
 
-* *Free tier*: 10000 emails/month
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics
+* *Free tier*: 10000 emails/month (can apparently be raised up to 30000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics, 
 
 ## Mobile analytics
 
