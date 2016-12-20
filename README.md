@@ -214,9 +214,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Product page](https://www.heroku.com/postgres)
 
-* *Free tier*: 10K rows/month
+* *Free tier*: 10K rows/month, 20 simultaneous connections
 * *Pros*: dashboard, secured
-* *Limitations*: SLA with maximum of 4 hours of downtime/month
+* *Limitations*: SLA with maximum of 4 hours of downtime/month (99.5% uptime), no in-memory cache, no expensive queries support
 
 ### **Heroku Redis**
 
