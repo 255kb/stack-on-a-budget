@@ -43,6 +43,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
+    - [**ContinuousPHP**](#continuousphp)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
@@ -273,6 +274,14 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
+
+### **ContinuousPHP**
+
+[Pricing page](https://continuousphp.com/plans)
+
+* *Free tier*: unlimited projects for open source projects
+* *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
+* *Limitations*: dedicated to PHP
 
 ### **TeamCity**
 
