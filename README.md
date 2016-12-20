@@ -289,8 +289,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://semaphoreci.com/pricing)
 
-* *Free tier*: Free for open source projects or 100 private builds per month
-* *Pros*: easy to setup. Integrates seamlessly with GitHub & Bitbucket
+* *Free tier*: free for open source projects or 100 private builds per month
+* *Pros*: supports various languages (JavaScript, Go, Java, PHP, Python...), databases (MongoDB, PostgreSQL, MySQL...) and Docker, integrates seamlessly with GitHub and Bitbucket, automatic configurations for a wide range of projects, integrates with communication tools (Campfire, Slack...), implements custom workflow through API, deploys to many hosting providers (AWS S3, Lambda and Elastic Beanstalk, Cloud 66, Heroku, FTP)
 
 ### **TeamCity**
 
