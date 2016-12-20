@@ -23,13 +23,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**AWS EC2**](#aws-ec2)
+    - [**GearHost**](#gearhost)
+    - [**Gomix**](#gomix)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
-    - [**Gomix**](#gomix)
     - [**IBM Bluemix**](#ibm-bluemix)
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
-    - [**GearHost**](#gearhost)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**GearHost Database**](#gearhost-database)
@@ -127,6 +127,22 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
 
+### **GearHost**
+
+[Pricing page](https://www.gearhost.com/pricing)
+
+* *Free tier*: 
+* *Pros*: instant .NET (4.6) and PHP (5.3-5.5) hosting, easy publishing over FTP, WebDeploy or directly from git/GitHub/Bitbucket, custom domains
+* *Limitation*: Runs on a shared web node, 100MB storage, cumulative limits for CPU (60 minutes) and RAM (256 MB), 1GB bandwidth, no SSL
+
+### **Gomix**
+
+[About page](https://gomix.com/about/)
+
+* *Free tier*: instantly deployed Node.js app with collaboration tool
+* *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
+* *Limitations*: no custom domain, memory limited to 64Mb
+
 ### **Google App Engine**
 
 [Product page](https://cloud.google.com/appengine)
@@ -142,14 +158,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: one "dyno" (512Mb memory), custom domains
 * *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
-
-### **Gomix**
-
-[About page](https://gomix.com/about/)
-
-* *Free tier*: instantly deployed Node.js app with collaboration tool
-* *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-* *Limitations*: no custom domain, memory limited to 64Mb
 
 ### **IBM Bluemix**
 
@@ -173,14 +181,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
-
-### **GearHost**
-
-[Pricing page](https://www.gearhost.com/pricing)
-
-* *Free tier*: 
-* *Pros*: instant .NET (4.6) and PHP (5.3-5.5) hosting, easy publishing over FTP, WebDeploy or directly from git/GitHub/Bitbucket, custom domains
-* *Limitation*: Runs on a shared web node, 100MB storage, cumulative limits for CPU (60 minutes) and RAM (256 MB), 1GB bandwidth, no SSL
 
 ## Database hosting
 
