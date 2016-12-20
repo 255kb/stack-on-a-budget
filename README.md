@@ -48,9 +48,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Codeship**](#codeship)
     - [**GitLab CI**](#gitlab-ci)
     - [**Semaphore**](#semaphore)
+    - [**Shippable**](#shippable)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
-    - [**Shippable**](#shippable)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
@@ -302,6 +302,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: free for open source projects or 100 private builds per month
 * *Pros*: supports various languages (JavaScript, Go, Java, PHP, Python...), databases (MongoDB, PostgreSQL, MySQL...) and Docker, integrates seamlessly with GitHub and Bitbucket, automatic configurations for a wide range of projects, integrates with communication tools (Campfire, Slack...), implements custom workflow through API, deploys to many hosting providers (AWS S3, Lambda and Elastic Beanstalk, Cloud 66, Heroku, FTP)
 
+### **Shippable**
+
+[Home page](https://app.shippable.com/)
+
+* *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
+* *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
+
 ### **TeamCity**
 
 [Home page](https://www.jetbrains.com/teamcity/)
@@ -317,14 +324,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
 
-### **Shippable**
-
-[Home page](https://app.shippable.com/)
-
-* *Free tier*: unlimited projects from either public or private repos
-* *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a whole tonne of stuff, including various Amazon services, Slack, Gitlab, IRC, Jenkins and JFrog Artifactory
-* *Cons*: Sometimes the service is a little shakey; I've had it go down a couple of times in the last month or so
-* *Limitations*: free tier limited to one build 'minion' and 150 builds per month for private repositories. Additional minions are $25 p/m with unlimited builds
 
 ## User authentication
 
