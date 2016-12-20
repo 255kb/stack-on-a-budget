@@ -97,7 +97,7 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 * *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
 * *Pros*: Use any static website generator, Connect your custom domain(s) and TLS certificates, Shared / Self-hosted CI runners
-* *Limitations*: Shared CI can be delayed some time
+* *Limitations*: page load is sometimes delayed on a Shared CI
 
 ### **netlify**
 
