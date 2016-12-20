@@ -45,6 +45,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
+    - [**GitLab CI**](#gitlab-ci)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
@@ -275,6 +276,12 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
+
+### **GitLab CI**
+
+[Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
+
+* *Free tier*: shared runners for public/private projects
 
 ### **TeamCity**
 
