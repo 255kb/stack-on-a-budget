@@ -4,13 +4,11 @@ This repository offers a collection of services with great free tiers for develo
 
 Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
 
-# Selection rules
-
-There are not much rules for a service to be in this list but free tiers too limited should be excluded. If the limitation is not critical it should be stated in the *Limitations* section of each service.
+The goal is to have enough details about each free tier so a developer can choose whether or not the service suits her needs just by reading the description.
 
 # Contribution
 
-Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
+Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
