@@ -29,6 +29,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**IBM Bluemix**](#ibm-bluemix)
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
+    - [**GearHost**](#gearhost)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**GearHost Database**](#gearhost-database)
@@ -172,6 +173,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+
+### **GearHost**
+
+[Pricing page](https://www.gearhost.com/pricing)
+
+* *Free tier*: 
+* *Pros*: instant .NET (4.6) and PHP (5.3-5.5) hosting, easy publishing over FTP, WebDeploy or directly from git/GitHub/Bitbucket, custom domains
+* *Limitation*: Runs on a shared web node, 100MB storage, cumulative limits for CPU (60 minutes) and RAM (256 MB), 1GB bandwidth, no SSL
 
 ## Database hosting
 
