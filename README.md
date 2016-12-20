@@ -281,7 +281,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
 
-* *Free tier*: shared runners for public/private projects
+* *Free tier*: shared runners (Digital Ocean 4Gb instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
+* *Pros*: runners can also be installed on premise, fully integrated with GitLab
 
 ### **TeamCity**
 
