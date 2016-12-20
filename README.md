@@ -46,6 +46,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
     - [**GitLab CI**](#gitlab-ci)
+    - [**Semaphore**](#semaphore)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
@@ -283,6 +284,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: shared runners (Digital Ocean 4Gb instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
 * *Pros*: runners can also be installed on premise, fully integrated with GitLab
 * *Limitations*: Shared runners builds can be delayed some time
+
+### **Semaphore**
+
+[Pricing page](https://semaphoreci.com/pricing)
+
+* *Free tier*: Free for open source projects or 100 private builds per month
+* *Pros*: easy to setup. Integrates seamlessly with GitHub & Bitbucket
 
 ### **TeamCity**
 
