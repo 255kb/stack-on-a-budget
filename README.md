@@ -12,7 +12,7 @@ There are not much rules for a service to be in this list but free tiers too lim
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam),[Mistic92](https://github.com/Mistic92), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23)
+Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam),[Mistic92](https://github.com/Mistic92), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23), [haroenv](https://github.com/haroenv)
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
@@ -219,7 +219,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500Mb storage, daily backup, 
+* *Free tier*: 500Mb storage, daily backup,
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -357,6 +357,16 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Free tier*: 10000 emails/month
 * *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
+## Searching
+
+### Algolia
+
+[Pricing page](https://www.algolia.com/pricing)
+
+- *Free tier:* 10,000 records, 100,000 Operations / Month
+- *Pros:* Integration with lots of services, lots of redundant backups, CDN, unlimited collaboration, easy usage dashboard
+- *Limitations:* You need to add a "powered by Algolia" notice when using the free tier
+
 ## Mobile analytics
 
 ### **Amazon Mobile Analytics**
@@ -369,7 +379,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 ### **Countly Analytics**
 
-[Product page](https://count.ly/product) 
+[Product page](https://count.ly/product)
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Nodejs. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
