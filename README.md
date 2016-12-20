@@ -404,7 +404,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Product page](https://count.ly/product) 
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
-* *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Nodejs. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
+* *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
 * *Limitations*: Community Edition has less number of features than Countly Enterprise Edition (e.g Drill, User Profiles, etc).
 
 ### **Firebase Analytics**
