@@ -132,7 +132,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
-* *Limitations*: free tier only applies to standard environment which supports Python, Java, Php and Go. Flexible environment with Node.js and Ruby is not in the free tier.
+* *Limitations*: free tier only applies to standard environment which supports Python, Java, PHP and Go. Flexible environment with Node.js and Ruby is not in the free tier.
 
 ### **Heroku**
 
@@ -155,7 +155,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
 * *Free tier*: 512Mb/month
-* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, Php, Python Ruby), supports containers
+* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
 
 ### **OpenShift**
 
@@ -355,7 +355,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: unlimited notifications
 * *Pros*: supports Android and iOS native applications, users segmentation, message scheduling, integrates with Firebase analytics
-* *Limitations*: no javascript library
+* *Limitations*: no JavaScript library
 
 ### **Ionic Push**
 
@@ -387,7 +387,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://aws.amazon.com/mobileanalytics/pricing/)
 
 * *Free tier*: 100 millions basic sessions and custom events per month
-* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and javascript SDKs, events are send in batch and cached until the device is online
+* *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and JavaScript SDKs, events are send in batch and cached until the device is online
 * *Limitations*: export to S3 or RedShift is subject to these services respective pricings
 
 ### **Countly Analytics**
@@ -404,7 +404,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: unlimited reporting of 500 events each with max. 25 attributes
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
-* *Limitations*: only available for native Android and iOS (no javascript version)
+* *Limitations*: only available for native Android and iOS (no JavaScript version)
 
 ### **Mixpanel**
 
