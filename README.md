@@ -4,15 +4,11 @@ This repository offers a collection of services with great free tiers for develo
 
 Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
 
-# Selection rules
-
-There are not much rules for a service to be in this list but free tiers too limited should be excluded. If the limitation is not critical it should be stated in the *Limitations* section of each service.
+The goal is to have enough details about each free tier so a developer can choose whether or not the service suits her needs just by reading the description.
 
 # Contribution
 
-Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](https://github.com/Ibrahim-Islam), [omajid](https://github.com/omajid), [panchtatvam](https://github.com/panchtatvam), [RationalCoding](https://github.com/RationalCoding), [supernova23](https://github.com/supernova23), [tpluscode](https://github.com/tpluscode), [sdomino](https://github.com/sdomino)
+Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
@@ -23,6 +19,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**netlify**](#netlify)
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
+    - [**AWS EC2**](#aws-ec2)
     - [**Google App Engine**](#google-app-engine)
     - [**Heroku**](#heroku)
     - [**Gomix**](#gomix)
@@ -31,6 +28,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
+    - [**GearHost Database**](#gearhost-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
     - [**Heroku Postgres**](#heroku-postgres)
     - [**Heroku Redis**](#heroku-redis)
@@ -43,6 +41,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**GitHub**](#github)
     - [**GitLab**](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
+    - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
     - [**TeamCity**](#teamcity)
@@ -53,6 +52,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Ionic Auth**](#ionic-auth)
     - [**Stormpath**](#stormpath)
 - [Push notifications](#push-notifications)
+    - [**Batch**](#batch)
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
     - [**onesignal**](#onesignal)
@@ -60,12 +60,15 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Mailgun**](#mailgun)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
+    - [**Countly Analytics**](#countly-analytics)
     - [**Firebase Analytics**](#firebase-analytics)
     - [**Mixpanel**](#mixpanel)
 - [Content Delivery Networks](#content-delivery-networks)
     - [**Cloudflare**](#cloudflare)
 - [App Testing](#app-testing)
     - [**Sauce Labs**](#sauce-labs)
+- [Realtime Infrastructure](#realtime-infrastructure)
+    - [**Pusher**](#pusher)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -114,6 +117,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 ## App hosting
 
+### **AWS EC2**
+
+[Product page](https://aws.amazon.com/free/)
+
+* *Free tier*: 750 hours/month of t2.micro instances
+* *Limitations*: expires 12 months after sign-up
+
 ### **Google App Engine**
 
 [Product page](https://cloud.google.com/appengine)
@@ -151,7 +161,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: 3 small gears (1 CPU, 512Mb memory and 1Gb storage)
 * *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
-* *Limitations*: deployment requires installation of OpenShift app
+* *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
 
 ### **Zeit Now**
 
@@ -170,6 +180,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
 * *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
+
+### **GearHost Database**
+
+[Pricing page](https://www.gearhost.com/pricing)
+
+* *Free tier*: 5MB MySQL database or 10MB MS SQL database
+* *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
+* *Limitations*: simultaneous connections seems to be limited (according to [this page](http://talk.gearhost.com/t/restrictions-or-limitations-of-the-free-account/105), approx. 15)
 
 ### **Google Cloud Datastore**
 
@@ -245,6 +263,13 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 ## Continuous integration/delivery
 
+### **AppVeyor**
+
+[Pricing page](https://www.appveyor.com/pricing/)
+
+* *Free tier*: unlimited projects for open source, 1 concurrent build
+* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, BitBucket, GitLab...), deploys to Azure, Amazon and other hosting providers
+
 ### **CircleCI**
 
 [Pricing page](https://circleci.com/pricing/)
@@ -309,6 +334,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 ## Push notifications
 
+### **Batch**
+
+[Pricing page](https://batch.com/pricing)
+
+* *Free tier*: unlimited notifications, up to 100,000 monthly active users
+* *Pros*: supports iOS, Android, Cordova, Phonegap, Ionic, Adobe AIR, Unity mobile applications, basic users segmentation (country/language targeting), message scheduling, transactional API
+* *Limitations*: no advanced user segmentation, campaigns API, data push and A/B testing on free tier
+
 ### **Firebase Push**
 
 [Pricing page](https://firebase.google.com/pricing/)
@@ -350,6 +383,14 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and javascript SDKs, events are send in batch and cached until the device is online
 * *Limitations*: export to S3 or RedShift is subject to these services respective pricings
 
+### **Countly Analytics**
+
+[Product page](https://count.ly/product)
+
+* *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
+* *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Nodejs. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
+* *Limitations*: Community Edition has less number of features than Countly Enterprise Edition (e.g Drill, User Profiles, etc).
+
 ### **Firebase Analytics**
 
 [Product page](https://firebase.google.com/docs/analytics/)
@@ -383,6 +424,16 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 * *Free tier*: free for open source, unlimited automated testing, unlimited manual testing, 5 concurrent VMs, 2 subaccounts
 * *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
+
+## Realtime Infrastructure
+
+### **Pusher**
+
+[Pricing page](https://pusher.com/pricing)
+
+* *Free tier*: Unlimited channels, 100 max connections, 200,000 messages a day, support
+* *Pros*: Send messages from your server and subscribe to them in real-time from any client (Android, iOS, JavaScript, etc.) at massive scale (Pub/Sub). Great documentation, intuitive client libraries, and a powerful dashboard for testing, debugging, and analytics. Libraries available for various languages.
+
 
 ## Misc
 
