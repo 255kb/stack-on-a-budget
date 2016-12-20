@@ -363,8 +363,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: unlimited notifications
-* *Pros*: supports Android and iOS native applications, users segmentation, message scheduling, integrates with Firebase analytics
-* *Limitations*: no JavaScript library
+* *Pros*: supports Android, iOS and browsers (Push API), users segmentation, message scheduling, integrates with Firebase analytics
 
 ### **Ionic Push**
 
