@@ -467,6 +467,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: Unlimited channels, 100 max connections, 200,000 messages a day, support
 * *Pros*: Send messages from your server and subscribe to them in real-time from any client (Android, iOS, JavaScript, etc.) at massive scale (Pub/Sub). Great documentation, intuitive client libraries, and a powerful dashboard for testing, debugging, and analytics. Libraries available for various languages.
 
+## Monitoring
+
+### **Librato**
+ 
+ [Pricing page](https://www.librato.com/pricing)
+ 
+ * *Free tier*: Developer plan. 100 metric streams at 60s resolution 1 day retention. 10 alerts. 
+ * *Pros*: Monitoring solution that allows for submission of metrics from multiple sources. Metrcis can be submitted via an agent or direct to the API. 
 
 ## Misc
 
