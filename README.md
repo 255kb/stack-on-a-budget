@@ -50,6 +50,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Semaphore**](#semaphore)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
+    - [**Shippable**](#shippable)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
     - [**Firebase authentication**](#firebase-authentication)
@@ -315,6 +316,15 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
+
+### **Shippable**
+
+[Home page](https://app.shippable.com/)
+
+* *Free tier*: unlimited projects from either public or private repos
+* *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a whole tonne of stuff, including various Amazon services, Slack, Gitlab, IRC, Jenkins and JFrog Artifactory
+* *Cons*: Sometimes the service is a little shakey; I've had it go down a couple of times in the last month or so
+* *Limitations*: free tier limited to one build 'minion' and 150 builds per month for private repositories. Additional minions are $25 p/m with unlimited builds
 
 ## User authentication
 
