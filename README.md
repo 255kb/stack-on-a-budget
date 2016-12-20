@@ -131,9 +131,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://www.gearhost.com/pricing)
 
-* *Free tier*: 
-* *Pros*: instant .NET (4.6) and PHP (5.3-5.5) hosting, easy publishing over FTP, WebDeploy or directly from git/GitHub/Bitbucket, custom domains
-* *Limitation*: Runs on a shared web node, 100MB storage, cumulative limits for CPU (60 minutes) and RAM (256 MB), 1GB bandwidth, no SSL
+* *Free tier*: 1 shared node and 1 worker at max, 100Mb storage, 1Gb bandwidth/month, custom domains
+* *Pros*: supports .NET (4.6), PHP (5.3-5.5) and Node.js apps, MSSQL and MySQL databases, easy publishing over FTP, WebDeploy or directly from Git/GitHub/Bitbucket
+* *Limitation*: cumulative limits for CPU (60 minutes) and RAM (256 MB), no SSL support, only 32bits processes
 
 ### **Gomix**
 
