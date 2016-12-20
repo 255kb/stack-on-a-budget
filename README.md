@@ -4,11 +4,13 @@ This repository offers a collection of services with great free tiers for develo
 
 Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
 
-The goal is to have enough details about each free tier so a developer can choose whether or not the service suits her needs just by reading the description.
+*This repository is part of a broader movement called Free Tier Driven Development or FTDD (courtesy of [@thedeerchild](https://twitter.com/thedeerchild))*
 
 # Contribution
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
+
+The goal is to have enough details about each free tier so one can choose whether or not the service suits her needs just by reading the description.
 
 Please also have a look to the [List of excluded services](https://github.com/255kb/stack-on-a-budget/wiki/List-of-excluded-services) where you can find which service has been considered and why it has been rejected.
 
