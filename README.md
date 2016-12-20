@@ -271,7 +271,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://www.appveyor.com/pricing/)
 
 * *Free tier*: unlimited projects for open source, 1 concurrent build
-* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, BitBucket, GitLab...), deploys to Azure, Amazon and other hosting providers
+* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, Bitbucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
 ### **CircleCI**
 
