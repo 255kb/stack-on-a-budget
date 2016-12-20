@@ -46,6 +46,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
+    - [**ContinuousPHP**](#continuousphp)
     - [**GitLab CI**](#gitlab-ci)
     - [**Semaphore**](#semaphore)
     - [**Shippable**](#shippable)
@@ -286,6 +287,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
+
+### **ContinuousPHP**
+
+[Pricing page](https://continuousphp.com/plans)
+
+* *Free tier*: unlimited projects for open source projects
+* *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
+* *Limitations*: dedicated to PHP
 
 ### **GitLab CI**
 
