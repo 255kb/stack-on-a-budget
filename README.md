@@ -362,8 +362,9 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 [Pricing page](https://www.sparkpost.com/pricing/)
 
-* *Free tier*: 100000 emails/month
-* *Pros* : pre-built client libraries, SMTP or REST, real-time data with webhooks
+* *Free tier*: 100,000 emails/month
+* *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
+* *Exceeding the free tier*: sending stops, user must add a credit card
 
 ## Mobile analytics
 
