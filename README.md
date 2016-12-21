@@ -195,7 +195,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://webtask.io/pricing)
 
 * *Free tier*: cron jobs, 2 containers
-* *Pros*: amazingly easy deployment of serverless node.js web handlers, supports authentication with [Auth0](#auth0)
+* *Pros*: amazingly easy deployment of serverless node.js web handlers, 500 KB storage for each handler, supports authentication with [Auth0](#auth0)
 * *Limitations*: 1 request/sec/container
 
 ## Database hosting
