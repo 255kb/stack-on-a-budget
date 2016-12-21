@@ -32,6 +32,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**IBM Bluemix**](#ibm-bluemix)
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
+- [Serverless hosting](#serverless-hosting)    
+    - [**Webtask**](#webtask)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**GearHost Database**](#gearhost-database)
@@ -185,6 +187,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+
+## Serverless hosting
+
+### **Webtask**
+
+[Pricing page](https://webtask.io/pricing)
+
+* *Free tier*: cron jobs, 2 containers
+* *Pros*: amazingly easy deployment of serverless node.js web handlers, supports authentication with [Auth0](#auth0)
+* *Limitations*: 1 request/sec/container
 
 ## Database hosting
 
