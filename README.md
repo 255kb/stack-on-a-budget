@@ -91,14 +91,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://firebase.google.com/pricing/)
 
-* *Free tier*: 1Gb storage, 10Gb/month transfer, custom domain and SSL
+* *Free tier*: 1GB storage, 10GB/month transfer, custom domain and SSL
 * *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
 ### **Github Pages**
 
 [Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
 
-* *Free tier*: 1Gb storage, 100Gb bandwidth or 100K requests/month, 10 builds per hour
+* *Free tier*: 1GB storage, 100GB bandwidth or 100K requests/month, 10 builds per hour
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
 * *Limitations*: no HTTPS for custom domains
 
@@ -137,7 +137,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://www.gearhost.com/pricing)
 
-* *Free tier*: 1 shared node and 1 worker at max, 100Mb storage, 1Gb bandwidth/month, custom domains
+* *Free tier*: 1 shared node and 1 worker at max, 100MB storage, 1GB bandwidth/month, custom domains
 * *Pros*: supports .NET (4.6), PHP (5.3-5.5) and Node.js apps, MSSQL and MySQL databases, easy publishing over FTP, WebDeploy or directly from Git/GitHub/Bitbucket
 * *Limitation*: cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256 MB allocated every hour), 1 GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), no SSL support, only 32bits processes
 * *Exceeding the free tier*: whenever the CPU usage, RAM usage or consumed bandwidth reaches the limit within its timefame, the application goes offline until the counter resets
@@ -148,13 +148,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: instantly deployed Node.js app with collaboration tool
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-* *Limitations*: no custom domain, memory limited to 64Mb
+* *Limitations*: no custom domain, memory limited to 64MB
 
 ### **Google App Engine**
 
 [Product page](https://cloud.google.com/appengine)
 
-* *Free tier*: 28 instance hours/day, 1Gb outgoing traffic/day, 1Gb incoming traffic/day
+* *Free tier*: 28 instance hours/day, 1GB outgoing traffic/day, 1GB incoming traffic/day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, PHP and Go. Flexible environment with Node.js and Ruby is not in the free tier.
 
@@ -162,7 +162,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://www.heroku.com/pricing)
 
-* *Free tier*: one "dyno" (512Mb memory), custom domains
+* *Free tier*: one "dyno" (512MB memory), custom domains
 * *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
 
@@ -170,14 +170,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
-* *Free tier*: 512Mb/month
-* *Pros*: can deploy multiple smaller instance for free for a total of 512Mb (4x128Mb, 2x256Mb...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
+* *Free tier*: 512MB/month
+* *Pros*: can deploy multiple smaller instance for free for a total of 512MB (4x128MB, 2x256MB...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
 
 ### **OpenShift**
 
 [Pricing page](https://www.openshift.com/pricing/index.html)
 
-* *Free tier*: 3 small gears (1 CPU, 512Mb memory and 1Gb storage)
+* *Free tier*: 3 small gears (1 CPU, 512MB memory and 1GB storage)
 * *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
 
@@ -185,9 +185,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://zeit.co/now#pricing)
 
-* *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
+* *Free tier*: 1GB storage, 1GB bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
-* *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+* *Limitations*: maximum of 1MB per file, no custom domain, source code is always public
 
 ## Database hosting
 
@@ -195,7 +195,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://firebase.google.com/pricing/)
 
-* *Free tier*: 1Gb storage, 10Gb/month transfer, 100 simultaneous connections
+* *Free tier*: 1GB storage, 10GB/month transfer, 100 simultaneous connections
 * *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
 
@@ -206,13 +206,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 5MB MySQL database or 10MB MS SQL database
 * *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
 * *Limitations*: simultaneous connections seems to be limited (according to [this page](http://talk.gearhost.com/t/restrictions-or-limitations-of-the-free-account/105), approx. 15)
-* *Exceeding the free tier*: The database becomes locked and a kind email is sent asking to upgrade to paid  plan
+* *Exceeding the free tier*: The database becomes locked and a kind email is sent asking to upgrade to paid plan
 
 ### **Google Cloud Datastore**
 
 [Product page](https://cloud.google.com/datastore/)
 
-* *Free tier*: 1Gb storage/day, 50K reads/day, 20K writes/day, 20K deletes/day
+* *Free tier*: 1GB storage/day, 50K reads/day, 20K writes/day, 20K deletes/day
 * *Pros*: dashboard, clients available in multiple languages, fully managed (sharding and replication), ACID transactions
 * *Limitations*: complex requests needs specific indexes (read the manual)
 
@@ -228,7 +228,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Product page](https://www.heroku.com/redis)
 
-* *Free tier*: 25Mb ram, 20 connections
+* *Free tier*: 25MB ram, 20 connections
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
 
@@ -236,14 +236,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500Mb storage, daily backup, 
+* *Free tier*: 500MB storage, daily backup, 
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
 
 [Pricing page](https://redislabs.com/pricing)
 
-* *Free tier*: 30Mb, 30 connections
+* *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
 
 ## Code collaboration tools
@@ -252,7 +252,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://bitbucket.org/product/pricing/upcoming?tab=host-in-the-cloud)
 
-* *Free tier*: unlimited public and private repositories for 5 users, 1Gb storage/repository, 1Gb file storage, 50 minutes build time/month
+* *Free tier*: unlimited public and private repositories for 5 users, 1GB storage/repository, 1GB file storage, 50 minutes build time/month
 * *Pros*: provide pull requests, issue tracking, code snippets and wiki, has a desktop app
 
 ### **GitHub**
@@ -267,7 +267,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Product page](https://about.gitlab.com/gitlab-com/)
 
-* *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10Gb storage/project
+* *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10GB storage/project
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
 
 ## Continuous integration/delivery
@@ -283,7 +283,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://circleci.com/pricing/)
 
-* *Free tier*: unlimited repos and users, 1 concurrent build, 1500 build minutes/month
+* *Free tier*: unlimited repos and users, 1 concurrent build, 1,500 build minutes/month
 * *Pros*: supports containers (Docker), integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 
 ### **Codeship**
@@ -313,7 +313,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
 
-* *Free tier*: shared runners (Digital Ocean 4Gb instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
+* *Free tier*: shared runners (Digital Ocean 4GB instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
 * *Pros*: runners can also be installed on premise, fully integrated with GitLab
 * *Limitations*: Shared runners builds can be delayed some time
 
@@ -353,7 +353,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://auth0.com/pricing)
 
-* *Free tier*: unlimited logins for 7000 active users/month, authentication with email/password and up to 2 social providers
+* *Free tier*: unlimited logins for 7,000 active users/month, authentication with email/password and up to 2 social providers
 * *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
 * *Limitations*: active users are users who logged in the last 30 days
 
@@ -361,9 +361,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://aws.amazon.com/cognito/pricing/)
 
-* *Free tier*: 50000 active users/month (active means at least one activity during a calendar month)
+* *Free tier*: 50,000 active users/month (active means at least one activity during a calendar month)
 * *Pros*: supports mobile and web apps, multiple authentication providers (Facebook, Twitter, Google, ...)
-* *Limitations*: Cognito Sync (users data synchornization) is only included in the AWS 1 year free tier in the limit of 10Gb storage and 1000000 sync operations/month
+* *Limitations*: Cognito Sync (users data synchornization) is only included in the AWS 1 year free tier in the limit of 10GB storage and 1,000,000 sync operations/month
 
 ### **Firebase authentication**
 
@@ -424,7 +424,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](http://www.mailgun.com/pricing)
 
-* *Free tier*: 10000 emails/month (can apparently be raised up to 30000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
+* *Free tier*: 10,000 emails/month (can apparently be raised up to 30,000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
 * *Pros*: great API, scheduling, SMTP or REST, logs and analytics, 
 
 ## Mobile analytics
@@ -495,7 +495,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](http://cloudinary.com/pricing)
 
-* *Free tier*: 75000 total images or videos and 7500 monthly transformations, 2Gb storage, 5Gb bandwidth/month
+* *Free tier*: 75,000 total images or videos and 7,500 monthly transformations, 2GB storage, 5GB bandwidth/month
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
 * *Limitations*: free tier does not offer custom domain
 
