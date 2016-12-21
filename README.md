@@ -137,7 +137,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 1 shared node and 1 worker at max, 100Mb storage, 1Gb bandwidth/month, custom domains
 * *Pros*: supports .NET (4.6), PHP (5.3-5.5) and Node.js apps, MSSQL and MySQL databases, easy publishing over FTP, WebDeploy or directly from Git/GitHub/Bitbucket
-* *Limitation*: cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256 MB allocaed every hour), 1 GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), no SSL support, only 32bits processes
+* *Limitation*: cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256 MB allocated every hour), 1 GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), no SSL support, only 32bits processes
 * *Exceeding the free tier*: whenever the CPU usage, RAM usage or consumed bandwidth reaches the limit within its timefame, the application goes offline until the counter resets
 
 ### **Gomix**
