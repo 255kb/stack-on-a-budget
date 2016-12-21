@@ -47,7 +47,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
-    - [**Drone](#drone)
+    - [**Drone**](#drone)
     - [**TeamCity**](#teamcity)
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
