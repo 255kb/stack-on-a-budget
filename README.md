@@ -48,8 +48,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
-    - [**Drone**](#drone)
     - [**ContinuousPHP**](#continuousphp)
+    - [**Drone**](#drone)
     - [**GitLab CI**](#gitlab-ci)
     - [**Semaphore**](#semaphore)
     - [**Shippable**](#shippable)
@@ -292,13 +292,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
 
-### **Drone**
-
-[Home page](https://drone.io)
-* *Free tier*: unlimited public projects and unlimited builds
-* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker
-* *Limitations*: free tier is limited to open source projects
-
 ### **ContinuousPHP**
 
 [Pricing page](https://continuousphp.com/plans)
@@ -306,6 +299,13 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: unlimited projects for open source projects
 * *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
 * *Limitations*: dedicated to PHP
+
+### **Drone**
+
+[Home page](https://drone.io)
+* *Free tier*: unlimited public projects and unlimited builds
+* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker
+* *Limitations*: free tier is limited to open source projects
 
 ### **GitLab CI**
 
