@@ -16,7 +16,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 # Table of Contents
 <!-- TOC depthFrom:2 -->
-
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
     - [**Github Pages**](#github-pages)
@@ -40,6 +39,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Heroku Redis**](#heroku-redis)
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
+- [Platform as a service](#platform-as-a-service)
+    - [**Nanobox**](#nanobox)
 - [Code collaboration tools](#code-collaboration-tools)
     - [**Bitbucket**](#bitbucket)
     - [**GitHub**](#github)
@@ -236,7 +237,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500Mb storage, daily backup, 
+* *Free tier*: 500Mb storage, daily backup,
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -245,6 +246,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 30Mb, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+## Platform as a service
+
+### **Nanobox**
+
+[Product page](https://nanobox.io/) / [Pricing page](https://nanobox.io/pricing)
+
+- *Free tier:* Free for any open-source/personal project (1 Server, any size).
+- *Pros:* Complete dev to production workflow. Run any language/framework on any provider (DO, AWS, Azure, etc.). Logs, collaboration, TLS/SSL. Full access to virtual environment/containers locally and remotely.
+- *Limitations:* Free apps on first tier (tinker) only.
 
 ## Code collaboration tools
 
@@ -439,7 +450,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 ### **Countly Analytics**
 
-[Product page](https://count.ly/product) 
+[Product page](https://count.ly/product)
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
