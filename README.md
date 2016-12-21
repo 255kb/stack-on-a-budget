@@ -10,7 +10,7 @@ Nowadays, a lot of services are offering really good free tier more than enough 
 
 Feel free to contribute to existing services or add new ones. Please follow the guidelines when submitting, you can find them in [CONTRIBUTING.md](CONTRIBUTING.md), and especially the rules about how to select a service and describe it (free tier, limitations...).
 
-The goal is to have enough details about each free tier so one can choose whether or not the service suits her needs just by reading the description.
+The goal is to have enough details about each free tier so developers can choose whether or not the service suits their needs just by reading the description.
 
 Please also have a look to the [List of excluded services](https://github.com/255kb/stack-on-a-budget/wiki/List-of-excluded-services) where you can find which service has been considered and why it has been rejected.
 
@@ -68,7 +68,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**onesignal**](#onesignal)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
-    - [**SparkPost**](#sparkpost)
+    - [SparkPost](#sparkpost)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Countly Analytics**](#countly-analytics)
