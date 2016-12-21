@@ -38,6 +38,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Google Cloud Datastore**](#google-cloud-datastore)
     - [**Heroku Postgres**](#heroku-postgres)
     - [**Heroku Redis**](#heroku-redis)
+    - [**Openshift MongoDB**](#openshift-mongodb)
     - [**mLab**](#mlab)
     - [**Redis Cloud**](#redis-cloud)
 - [Code collaboration tools](#code-collaboration-tools)
@@ -57,7 +58,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Travis CI (Org)**](#travis-ci-org)
 - [User authentication](#user-authentication)
     - [**Auth0**](#auth0)
-    - [**AWS Cognito**](#aws-cognito)
     - [**Firebase authentication**](#firebase-authentication)
     - [**Ionic Auth**](#ionic-auth)
     - [**Stormpath**](#stormpath)
@@ -232,6 +232,15 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
 
+### **OpenShift MongoDB**
+
+[Product Page](https://developers.openshift.com/databases/mongodb.html)
+
+* *Free tier*: 1Gb storage
+* *Pros*: Easy to deploy
+* *Limitations*: Only support mongodb 2.4
+
+
 ### **mLab**
 
 [Pricing page](https://mlab.com/plans/pricing/)
@@ -356,14 +365,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: unlimited logins for 7000 active users/month, authentication with email/password and up to 2 social providers
 * *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
 * *Limitations*: active users are users who logged in the last 30 days
-
-### **AWS Cognito**
-
-[Pricing page](https://aws.amazon.com/cognito/pricing/)
-
-* *Free tier*: 50000 active users/month (active means at least one activity during a calendar month)
-* *Pros*: supports mobile and web apps, multiple authentication providers (Facebook, Twitter, Google, ...)
-* *Limitations*: Cognito Sync (users data synchornization) is only included in the AWS 1 year free tier in the limit of 10Gb storage and 1000000 sync operations/month
 
 ### **Firebase authentication**
 
