@@ -328,7 +328,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
 * *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
->>>>>>> ef6c5810b8513ea70b9cabd18edd0ab287c9c7f2
 
 ### **TeamCity**
 
