@@ -304,7 +304,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Home page](https://drone.io)
 * *Free tier*: unlimited public projects and unlimited builds
-* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker
+* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
 * *Limitations*: free tier is limited to open source projects
 
 ### **GitLab CI**
