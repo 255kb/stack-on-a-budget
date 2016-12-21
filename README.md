@@ -75,6 +75,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Cloudflare**](#cloudflare)
 - [App Testing](#app-testing)
     - [**Sauce Labs**](#sauce-labs)
+    - [**Applitools**](#applitools)
 - [Realtime Infrastructure](#realtime-infrastructure)
     - [**Pusher**](#pusher)
 - [Misc](#misc)
