@@ -19,7 +19,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 - [Static app hosting](#static-app-hosting)
     - [**Firebase hosting**](#firebase-hosting)
-    - [**Github Pages**](#github-pages)
+    - [**GitHub Pages**](#github-pages)
     - [**GitLab Pages**](#gitlab-pages)
     - [**netlify**](#netlify)
     - [**surge**](#surge)
@@ -95,7 +95,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 1GB storage, 10GB/month transfer, custom domain and SSL
 * *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
 
-### **Github Pages**
+### **GitHub Pages**
 
 [Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
 
@@ -237,7 +237,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500MB storage, daily backup, 
+* *Free tier*: 500MB storage, daily backup,
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -307,7 +307,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Home page](https://drone.io)
 * *Free tier*: unlimited public projects and unlimited builds
-* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (Github, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
+* *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (GitHub, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
 * *Limitations*: free tier is limited to open source projects
 
 ### **GitLab CI**
@@ -330,7 +330,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Home page](https://app.shippable.com/)
 
 * *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
-* *Pros*: integrates with Github or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
+* *Pros*: integrates with GitHub or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
 
 ### **TeamCity**
 
@@ -371,7 +371,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: always free, unlimited users
-* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, Github), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
+* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, GitHub), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
 * *Limitations*: no UI provided
 
 ### **Ionic Auth**
@@ -379,7 +379,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](http://ionic.io/pricing)
 
 * *Free tier*: always free, unlimited users
-* *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, Github, Instagram, LinkedIn), provide forms
+* *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, GitHub, Instagram, LinkedIn), provide forms
 
 ### **Stormpath**
 
@@ -426,7 +426,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](http://www.mailgun.com/pricing)
 
 * *Free tier*: 10,000 emails/month (can apparently be raised up to 30,000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics, 
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics,
 
 ### SparkPost
 
@@ -448,7 +448,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 ### **Countly Analytics**
 
-[Product page](https://count.ly/product) 
+[Product page](https://count.ly/product)
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
