@@ -385,8 +385,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing Page](https://stormpath.com/pricing)
 
-- *Free tier:* unlimited users, 10k API calls/mo
-- *Pros:* complete user authentication, authorization and management through their API, client libraries for multiple languages
+- *Free tier*: unlimited users, 10k API calls/mo
+- *Pros*: complete user authentication, authorization and management through their API, client libraries for multiple languages
 
 ## Push notifications
 
