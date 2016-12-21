@@ -79,6 +79,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Sauce Labs**](#sauce-labs)
 - [Realtime Infrastructure](#realtime-infrastructure)
     - [**Pusher**](#pusher)
+- [Logging](#logging)
+    - [**Logentries**](#logentries)
+    - [**Loggly**](#loggly)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -488,6 +491,21 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: Unlimited channels, 100 max connections, 200,000 messages a day, support
 * *Pros*: Send messages from your server and subscribe to them in real-time from any client (Android, iOS, JavaScript, etc.) at massive scale (Pub/Sub). Great documentation, intuitive client libraries, and a powerful dashboard for testing, debugging, and analytics. Libraries available for various languages.
 
+## Logging
+
+### **Logentries**
+
+[Pricing page](https://logentries.com/pricing/)
+
+* *Free tier*: Send up to 5GB/month, 7 day Retention
+* *Pros*: Unlimited Hosts & Sources, Basic Analytic Functions (LEQL), Custom Tagging, Regex and Pattern Search, access to free Community Packs, 30 Day Peak Overage Protection. Libraries available for various languages.
+
+### **Loggly**
+
+[Pricing page](https://www.loggly.com/plans-and-pricing/)
+
+* *Free tier*: Send up to 200MB/day, 7 day Retention
+* *Pros*:  Centralized log management, Automated log summaries, Search & filters. Simple scripts available to get you running in one copy & paste command.
 
 ## Misc
 
