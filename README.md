@@ -30,6 +30,7 @@ Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](h
     - [**IBM Bluemix**](#ibm-bluemix)
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
+    - [**AppHarbor**](#appharbor)
 - [Database hosting](#database-hosting)
     - [**Firebase database**](#firebase-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
@@ -156,6 +157,15 @@ Thanks to the contributors: [omajid](https://github.com/omajid), [panchtatvam](h
 * *Free tier*: 1Gb storage, 1Gb bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1Mb per file, no custom domain, source code is always public
+
+
+### **AppHarbor**
+
+[Pricing page](https://appharbor.com/pricing)
+
+* *Free tier*: 1 worker unit
+* *Pros*: auto scaling, deploy with git, one of few PaaS for .NET apps
+* *Limitations*: no custom domain
 
 ## Database hosting
 
