@@ -103,7 +103,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 1Gb storage, 100Gb bandwidth or 100K requests/month, 10 builds per hour
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
-* *Limitations*: no HTTPS for custom domains
+* *Limitations*: no HTTPS for custom domains (to solve this, use in combination with [Cloudflare](#cloudflare))
 
 ### **GitLab Pages**
 
