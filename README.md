@@ -514,7 +514,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](http://cloudinary.com/pricing)
 
 * *Free tier*: 75000 total images or videos and 7500 monthly transformations, 2Gb storage, 5Gb bandwidth/month
-* *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
+* *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiple languages
 * *Limitations*: free tier does not offer custom domain
 
 ### **Let's encrypt**
