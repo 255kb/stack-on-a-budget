@@ -71,6 +71,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [SparkPost](#sparkpost)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
+    - [**Segment**](#segment)
     - [**Countly Analytics**](#countly-analytics)
     - [**Firebase Analytics**](#firebase-analytics)
     - [**Mixpanel**](#mixpanel)
@@ -445,6 +446,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 100 millions basic sessions and custom events per month
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and JavaScript SDKs, events are send in batch and cached until the device is online
 * *Limitations*: export to S3 or RedShift is subject to these services respective pricings
+
+### **Segment**
+
+[Pricing page](https://segment.com/pricing)
+
+* *Free tier*: Unlimited [integrations](https://segment.com/integrations), 1 [Source](https://segment.com/sources), 1 [Warehouse](https://segment.com/warehouses), 1 Seat
+* *Pros*: Success engineering team is incredibly helpful around implementation and tool recommendation/consultation. Segment also supports web and mobile, as well as libraries in all of the popular languages. You have access to your raw data from day 1 to prevent vendor lock in.
+* *Limitations*: data replay (replaying your data into a new tool)
 
 ### **Countly Analytics**
 
