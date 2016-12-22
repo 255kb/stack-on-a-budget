@@ -25,6 +25,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**surge**](#surge)
 - [App hosting](#app-hosting)
     - [**AWS EC2**](#aws-ec2)
+    - [**Azure App Service**](#azure-app-service)
     - [**GearHost**](#gearhost)
     - [**Gomix**](#gomix)
     - [**Google App Engine**](#google-app-engine)
@@ -133,6 +134,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
+
+### **Azure App Service**
+
+[Pricing page](https://azure.microsoft.com/en-us/pricing/details/app-service/)
+
+* *Free tier*: 1 shared core, 1GB RAM, 1GB storage
+* *Pros*: supports .NET, easy publishing directly from Git/GitHub/Bitbucket
+* *Limitations*: cumulative limit for CPU (60 minutes allowed every 24 hours), no custom domain, no SSL
 
 ### **GearHost**
 
