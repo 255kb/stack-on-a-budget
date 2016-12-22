@@ -12,10 +12,9 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 The goal is to have enough details about each free tier so developers can choose whether or not the service suits their needs just by reading the description.
 
-Please also have a look to the [List of excluded services](https://github.com/255kb/stack-on-a-budget/wiki/List-of-excluded-services) where you can find which service has been considered and why it has been rejected.
+Please also have a look to the [List of excluded services](excluded-services.md) where you can find which service has been considered and why it has been rejected.
 
 # Table of Contents
-<!-- TOC depthFrom:2 -->
 
 - [Static app hosting](Static-App-Hosting.md)
 - [App hosting](App-Hosting.md)
@@ -33,5 +32,3 @@ Please also have a look to the [List of excluded services](https://github.com/25
 - [Logging](Logging.md)
 - [Error Reporting](Error-Reporting.md)
 - [Misc](Misc.md)
-
-<!-- /TOC -->
