@@ -13,10 +13,10 @@ All contributions are welcome!
 
 [Link to relevant page (product description/pricing)](#)
 
-- *Free tier:* [free tier description]
-- *Pros:* [basic review, interesting features, anything non obvious... avoid copying service description]
-- *Limitations:* [specific limitations important to know (exceeding the free tier is not a limitation!)]
-- *Exceeding the free tier:* [what happens when exceeding the free tier (API return an error, need to pay, informed by email, etc), in order to anticipate eventual migration]
+- *Free tier*: [free tier description]
+- *Pros*: [basic review, interesting features, anything non obvious... avoid copying service description]
+- *Limitations*: [specific limitations important to know (exceeding the free tier is not a limitation!)]
+- *Exceeding the free tier*: [what happens when exceeding the free tier (API return an error, need to pay, informed by email, etc), in order to anticipate eventual migration]
 
 # Rules
 
@@ -41,7 +41,7 @@ Any limitation that is not critical* should be stated in the *Limitations* secti
 ###### \* Because a critical limitation may exclude the service from this list.
 
 A good example could be:
-- *Free tier:* 100Mb storage per project, 1Gb bandwidth/month, 2 build agents
-- *Pros:* nice interface, automated notifications pushed to GitHub, reactive support
-- *Limitations:* limit of 5 projects maximum, no SSL for the free tier, deployment to hosting provider limited to AWS and Google Cloud
-- *Exceeding the free tier:* service continues to work and a sale representative contacts the user
+- *Free tier*: 100MB storage per project, 1GB bandwidth/month, 2 build agents
+- *Pros*: nice interface, automated notifications pushed to GitHub, reactive support
+- *Limitations*: limit of 5 projects maximum, no SSL for the free tier, deployment to hosting provider limited to AWS and Google Cloud
+- *Exceeding the free tier*: service continues to work and a sale representative contacts the user
