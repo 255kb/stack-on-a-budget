@@ -7,6 +7,7 @@
 - [**GitLab Pages**](#gitlab-pages)
 - [**netlify**](#netlify)
 - [**surge**](#surge)
+- [**AWS S3**](#aws-s3)
 
 ## Providers
 
@@ -46,3 +47,12 @@
 * *Free tier*: unlimited deployments, custom domain and basic SSL
 * *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
+
+### **AWS S3**
+
+[Pricing page](https://aws.amazon.com/s3/pricing/)
+
+* *Free tier*: 5 GB of storage, 20000 GET requests, 2000 PUT requests, 15 GB data transfer per month
+* *Pros*: ACL policies, custom rules and MIME types, supports expiration, multiple regions world-wide
+* *Limitations*: Free for only 1st year for new customers
+* *Exceeding the free tier*: As cheap as USD 0.026 per GB per month

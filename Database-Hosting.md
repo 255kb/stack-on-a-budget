@@ -17,7 +17,7 @@
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: 1GB storage, 10GB/month transfer, 100 simultaneous connections
-* *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
+* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, GitHub), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform, UI available for [Android](https://github.com/firebase/firebaseui-android), [iOS](https://github.com/firebase/firebaseui-ios) and [web](https://github.com/firebase/firebaseui-web).
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
 
 ### **GearHost Database**

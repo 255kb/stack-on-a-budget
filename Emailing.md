@@ -12,7 +12,7 @@
 [Pricing page](http://www.mailgun.com/pricing)
 
 * *Free tier*: 10,000 emails/month (can apparently be raised up to 30,000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics,
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
 ### SparkPost
 
