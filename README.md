@@ -83,6 +83,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 - [Logging](#logging)
     - [**Logentries**](#logentries)
     - [**Loggly**](#loggly)
+- [Error Reporting](#error-reporting)
+    - [**Sentry**](#sentry)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -515,6 +517,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: Send up to 200MB/day, 7 day retention
 * *Pros*:  Centralized log management, automated log summaries, search & filters, simple scripts available to get you running in one copy & paste command.
+
+## Error Reporting
+
+### **Sentry**
+
+[Pricing page](https://sentry.io/pricing/)
+
+* *Free tier*: 5000 events/day, 30-day history
+* *Pros*: supports source maps, view source code in stack traces, request/session information available, filtering, API access, Single sign-on
+* *Limitations*: No pay-as-you-go model
 
 ## Misc
 
