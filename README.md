@@ -18,124 +18,86 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 <!-- TOC depthFrom:2 -->
 
 - [Static app hosting](#static-app-hosting)
-    - [**Firebase hosting**](#firebase-hosting)
-    - [**GitHub Pages**](#github-pages)
-    - [**GitLab Pages**](#gitlab-pages)
-    - [**netlify**](#netlify)
-    - [**surge**](#surge)
-    - [**AWS S3**](#aws-s3)
+    - [AWS S3](#aws-s3)
+    - [Firebase hosting](#firebase-hosting)
+    - [GitHub Pages](#github-pages)
+    - [GitLab Pages](#gitlab-pages)
+    - [netlify](#netlify)
+    - [surge](#surge)
 - [App hosting](#app-hosting)
-    - [**AWS EC2**](#aws-ec2)
-    - [**GearHost**](#gearhost)
-    - [**Gomix**](#gomix)
-    - [**Google App Engine**](#google-app-engine)
-    - [**Heroku**](#heroku)
-    - [**IBM Bluemix**](#ibm-bluemix)
-    - [**OpenShift**](#openshift)
-    - [**Zeit Now**](#zeit-now)
+    - [AWS EC2](#aws-ec2)
+    - [GearHost](#gearhost)
+    - [Gomix](#gomix)
+    - [Google App Engine](#google-app-engine)
+    - [Heroku](#heroku)
+    - [IBM Bluemix](#ibm-bluemix)
+    - [OpenShift](#openshift)
+    - [Zeit Now](#zeit-now)
 - [Database hosting](#database-hosting)
-    - [**Firebase database**](#firebase-database)
-    - [**GearHost Database**](#gearhost-database)
-    - [**Google Cloud Datastore**](#google-cloud-datastore)
-    - [**Heroku Postgres**](#heroku-postgres)
-    - [**Heroku Redis**](#heroku-redis)
-    - [**mLab**](#mlab)
-    - [**Redis Cloud**](#redis-cloud)
+    - [Firebase database](#firebase-database)
+    - [GearHost Database](#gearhost-database)
+    - [Google Cloud Datastore](#google-cloud-datastore)
+    - [Heroku Postgres](#heroku-postgres)
+    - [Heroku Redis](#heroku-redis)
+    - [mLab](#mlab)
+    - [Redis Cloud](#redis-cloud)
 - [Code collaboration tools](#code-collaboration-tools)
-    - [**Bitbucket**](#bitbucket)
-    - [**GitHub**](#github)
-    - [**GitLab**](#gitlab)
+    - [Bitbucket](#bitbucket)
+    - [GitHub](#github)
+    - [GitLab](#gitlab)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
-    - [**AppVeyor**](#appveyor)
-    - [**CircleCI**](#circleci)
-    - [**Codeship**](#codeship)
-    - [**ContinuousPHP**](#continuousphp)
-    - [**Drone**](#drone)
-    - [**GitLab CI**](#gitlab-ci)
-    - [**Semaphore**](#semaphore)
-    - [**Shippable**](#shippable)
-    - [**TeamCity**](#teamcity)
-    - [**Travis CI (Org)**](#travis-ci-org)
+    - [AppVeyor](#appveyor)
+    - [CircleCI](#circleci)
+    - [Codeship](#codeship)
+    - [ContinuousPHP](#continuousphp)
+    - [Drone](#drone)
+    - [GitLab CI](#gitlab-ci)
+    - [Semaphore](#semaphore)
+    - [Shippable](#shippable)
+    - [TeamCity](#teamcity)
+    - [Travis CI (Org)](#travis-ci-org)
 - [User authentication](#user-authentication)
-    - [**Auth0**](#auth0)
-    - [**AWS Cognito**](#aws-cognito)
-    - [**Firebase authentication**](#firebase-authentication)
-    - [**Ionic Auth**](#ionic-auth)
-    - [**Stormpath**](#stormpath)
+    - [Auth0](#auth0)
+    - [AWS Cognito](#aws-cognito)
+    - [Firebase authentication](#firebase-authentication)
+    - [Ionic Auth](#ionic-auth)
+    - [Stormpath](#stormpath)
 - [Push notifications](#push-notifications)
-    - [**Batch**](#batch)
-    - [**Firebase Push**](#firebase-push)
-    - [**Ionic Push**](#ionic-push)
-    - [**onesignal**](#onesignal)
+    - [Batch](#batch)
+    - [Firebase Push](#firebase-push)
+    - [Ionic Push](#ionic-push)
+    - [onesignal](#onesignal)
 - [Emailing](#emailing)
-    - [**Mailgun**](#mailgun)
+    - [Mailgun](#mailgun)
     - [SparkPost](#sparkpost)
 - [Searching](#searching)
-    - [**Algolia**](#algolia)
+    - [Algolia](#algolia)
 - [Mobile analytics](#mobile-analytics)
-    - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
-    - [**Countly Analytics**](#countly-analytics)
-    - [**Firebase Analytics**](#firebase-analytics)
-    - [**Mixpanel**](#mixpanel)
+    - [Amazon Mobile Analytics](#amazon-mobile-analytics)
+    - [Countly Analytics](#countly-analytics)
+    - [Firebase Analytics](#firebase-analytics)
+    - [Mixpanel](#mixpanel)
 - [Content Delivery Networks](#content-delivery-networks)
-    - [**Cloudflare**](#cloudflare)
+    - [Cloudflare](#cloudflare)
 - [App Testing](#app-testing)
-    - [**Sauce Labs**](#sauce-labs)
+    - [Sauce Labs](#sauce-labs)
 - [Realtime Infrastructure](#realtime-infrastructure)
-    - [**Pusher**](#pusher)
+    - [Pusher](#pusher)
 - [Logging](#logging)
-    - [**Logentries**](#logentries)
-    - [**Loggly**](#loggly)
+    - [Logentries](#logentries)
+    - [Loggly](#loggly)
 - [Error Reporting](#error-reporting)
-    - [**Sentry**](#sentry)
+    - [Sentry](#sentry)
 - [Misc](#misc)
-    - [**Cloudinary**](#cloudinary)
-    - [**Filestack**](#filestack)
-    - [**Let's encrypt**](#lets-encrypt)
-
+    - [Cloudinary](#cloudinary)
+    - [Filestack](#filestack)
+    - [Let's encrypt](#lets-encrypt)
 
 <!-- /TOC -->
 
 ## Static app hosting
 
-### **Firebase hosting**
-
-[Pricing page](https://firebase.google.com/pricing/)
-
-* *Free tier*: 1GB storage, 10GB/month transfer, custom domain and SSL
-* *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
-
-### **GitHub Pages**
-
-[Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
-
-* *Free tier*: 1GB storage, 100GB bandwidth or 100K requests/month, 10 builds per hour
-* *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
-* *Limitations*: no HTTPS for custom domains (to solve this, use in combination with [Cloudflare](#cloudflare))
-
-### **GitLab Pages**
-
-[Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
-
-* *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
-* *Pros*: Use any static website generator, connect your custom domain(s) and TLS certificates
-
-### **netlify**
-
-[Pricing page](https://www.netlify.com/pricing/)
-
-* *Free tier*: Unlimited sites, custom domain and SSL
-* *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
-
-### **surge**
-
-[Pricing page](http://surge.sh/pricing)
-
-* *Free tier*: unlimited deployments, custom domain and basic SSL
-* *Pros*: deploy from CLI, custom 404 pages
-* *Limitations*: no custom redirects or http->https redirection in free tier
-
-### **AWS S3**
+### AWS S3
 
 [Pricing page](https://aws.amazon.com/s3/pricing/)
 
@@ -144,16 +106,53 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Limitations*: Free for only 1st year for new customers
 * *Exceeding the free tier*: As cheap as USD 0.026 per GB per month
 
+### Firebase hosting
+
+[Pricing page](https://firebase.google.com/pricing/)
+
+* *Free tier*: 1GB storage, 10GB/month transfer, custom domain and SSL
+* *Pros*: includes CDN, auto provisioned SSL, deployment versioning, custom domain, URL rewriting (useful for HTML5 history API), possibility to define headers
+
+### GitHub Pages
+
+[Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
+
+* *Free tier*: 1GB storage, 100GB bandwidth or 100K requests/month, 10 builds per hour
+* *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
+* *Limitations*: no HTTPS for custom domains (to solve this, use in combination with [Cloudflare](#cloudflare))
+
+### GitLab Pages
+
+[Product page](https://pages.gitlab.io/) / [More info](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
+
+* *Free tier*: Completely free for cloud hosted, self hosted version of Gitlab available
+* *Pros*: Use any static website generator, connect your custom domain(s) and TLS certificates
+
+### netlify
+
+[Pricing page](https://www.netlify.com/pricing/)
+
+* *Free tier*: Unlimited sites, custom domain and SSL
+* *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
+
+### surge
+
+[Pricing page](http://surge.sh/pricing)
+
+* *Free tier*: unlimited deployments, custom domain and basic SSL
+* *Pros*: deploy from CLI, custom 404 pages
+* *Limitations*: no custom redirects or http->https redirection in free tier
+
 ## App hosting
 
-### **AWS EC2**
+### AWS EC2
 
 [Product page](https://aws.amazon.com/free/)
 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
 
-### **GearHost**
+### GearHost
 
 [Pricing page](https://www.gearhost.com/pricing)
 
@@ -162,7 +161,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Limitation*: cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256 MB allocated every hour), 1 GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), no SSL support, only 32bits processes
 * *Exceeding the free tier*: whenever the CPU usage, RAM usage or consumed bandwidth reaches the limit within its timefame, the application goes offline until the counter resets
 
-### **Gomix**
+### Gomix
 
 [About page](https://gomix.com/about/)
 
@@ -170,7 +169,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
 * *Limitations*: no custom domain, memory limited to 64MB
 
-### **Google App Engine**
+### Google App Engine
 
 [Product page](https://cloud.google.com/appengine)
 
@@ -178,7 +177,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, PHP and Go. Flexible environment with Node.js and Ruby is not in the free tier.
 
-### **Heroku**
+### Heroku
 
 [Pricing page](https://www.heroku.com/pricing)
 
@@ -186,14 +185,14 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
 
-### **IBM Bluemix**
+### IBM Bluemix
 
 [Pricing page](https://console.ng.bluemix.net/pricing/)
 
 * *Free tier*: 512MB/month
 * *Pros*: can deploy multiple smaller instance for free for a total of 512MB (4x128MB, 2x256MB...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
 
-### **OpenShift**
+### OpenShift
 
 [Pricing page](https://www.openshift.com/pricing/index.html)
 
@@ -201,7 +200,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
 
-### **Zeit Now**
+### Zeit Now
 
 [Pricing page](https://zeit.co/now#pricing)
 
@@ -211,7 +210,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Database hosting
 
-### **Firebase database**
+### Firebase database
 
 [Pricing page](https://firebase.google.com/pricing/)
 
@@ -219,7 +218,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
 
-### **GearHost Database**
+### GearHost Database
 
 [Pricing page](https://www.gearhost.com/pricing)
 
@@ -228,7 +227,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Limitations*: simultaneous connections seems to be limited (according to [this page](http://talk.gearhost.com/t/restrictions-or-limitations-of-the-free-account/105), approx. 15)
 * *Exceeding the free tier*: The database becomes locked and a kind email is sent asking to upgrade to paid plan
 
-### **Google Cloud Datastore**
+### Google Cloud Datastore
 
 [Product page](https://cloud.google.com/datastore/)
 
@@ -236,7 +235,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: dashboard, clients available in multiple languages, fully managed (sharding and replication), ACID transactions
 * *Limitations*: complex requests needs specific indexes (read the manual)
 
-### **Heroku Postgres**
+### Heroku Postgres
 
 [Product page](https://www.heroku.com/postgres)
 
@@ -244,7 +243,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: dashboard, secured
 * *Limitations*: SLA with maximum of 4 hours of downtime/month (99.5% uptime), no in-memory cache, no expensive queries support
 
-### **Heroku Redis**
+### Heroku Redis
 
 [Product page](https://www.heroku.com/redis)
 
@@ -252,14 +251,14 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
 
-### **mLab**
+### mLab
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
 * *Free tier*: 500MB storage, daily backup
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
-### **Redis Cloud**
+### Redis Cloud
 
 [Pricing page](https://redislabs.com/pricing)
 
@@ -268,14 +267,14 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Code collaboration tools
 
-### **Bitbucket**
+### Bitbucket
 
 [Pricing page](https://bitbucket.org/product/pricing/upcoming?tab=host-in-the-cloud)
 
 * *Free tier*: unlimited public and private repositories for 5 users, 1GB storage/repository, 1GB file storage, 50 minutes build time/month
 * *Pros*: provide pull requests, issue tracking, code snippets and wiki, has a desktop app
 
-### **GitHub**
+### GitHub
 
 [Pricing page](https://github.com/pricing)
 
@@ -283,7 +282,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: provide issue tracking, code snippets (Gist), code reviews, wiki, organizations/team management, 3rd party integration and hooks, has a desktop app
 * *Limitations*: no private repository in the free version
 
-### **GitLab**
+### GitLab
 
 [Product page](https://about.gitlab.com/gitlab-com/)
 
@@ -292,21 +291,21 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Continuous integration/delivery
 
-### **AppVeyor**
+### AppVeyor
 
 [Pricing page](https://www.appveyor.com/pricing/)
 
 * *Free tier*: unlimited projects for open source, 1 concurrent build
 * *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, Bitbucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
-### **CircleCI**
+### CircleCI
 
 [Pricing page](https://circleci.com/pricing/)
 
 * *Free tier*: unlimited repos and users, 1 concurrent build, 1,500 build minutes/month
 * *Pros*: supports containers (Docker), integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 
-### **Codeship**
+### Codeship
 
 [Pricing page](https://codeship.com/pricing)
 
@@ -314,7 +313,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
 
-### **ContinuousPHP**
+### ContinuousPHP
 
 [Pricing page](https://continuousphp.com/plans)
 
@@ -322,14 +321,14 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
 * *Limitations*: dedicated to PHP
 
-### **Drone**
+### Drone
 
 [Home page](https://drone.io)
 * *Free tier*: unlimited public projects and unlimited builds
 * *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (GitHub, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
 * *Limitations*: free tier is limited to open source projects
 
-### **GitLab CI**
+### GitLab CI
 
 [Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
 
@@ -337,28 +336,28 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: runners can also be installed on premise, fully integrated with GitLab
 * *Limitations*: Shared runners builds can be delayed some time
 
-### **Semaphore**
+### Semaphore
 
 [Pricing page](https://semaphoreci.com/pricing)
 
 * *Free tier*: free for open source projects or 100 private builds per month
 * *Pros*: supports various languages (JavaScript, Go, Java, PHP, Python...), databases (MongoDB, PostgreSQL, MySQL...) and Docker, integrates seamlessly with GitHub and Bitbucket, automatic configurations for a wide range of projects, integrates with communication tools (Campfire, Slack...), implements custom workflow through API, deploys to many hosting providers (AWS S3, Lambda and Elastic Beanstalk, Cloud 66, Heroku, FTP)
 
-### **Shippable**
+### Shippable
 
 [Home page](https://app.shippable.com/)
 
 * *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
 * *Pros*: integrates with GitHub or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
 
-### **TeamCity**
+### TeamCity
 
 [Home page](https://www.jetbrains.com/teamcity/)
 
 * *Free tier*: 20 builds configurations, 3 build agents, access to all features
 * *Pros*: Integrates with cloud providers (AWS, Microsoft Azure and VMware vSphere) and VCS providers (GitHub, Bitbucket), supports Docker
 
-### **Travis CI (Org)**
+### Travis CI (Org)
 
 [Home page](https://travis-ci.org/)
 
@@ -369,7 +368,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## User authentication
 
-### **Auth0**
+### Auth0
 
 [Pricing page](https://auth0.com/pricing)
 
@@ -377,7 +376,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: lots of providers, great documentation, support passwordless authentication, UI provided, compatible with iOS Touch ID, offers welcome emails and tasks triggers
 * *Limitations*: active users are users who logged in the last 30 days
 
-### **AWS Cognito**
+### AWS Cognito
 
 [Pricing page](https://aws.amazon.com/cognito/pricing/)
 
@@ -385,21 +384,21 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: supports mobile and web apps, multiple authentication providers (Facebook, Twitter, Google, ...)
 * *Limitations*: Cognito Sync (users data synchornization) is only included in the AWS 1 year free tier in the limit of 10GB storage and 1,000,000 sync operations/month
 
-### **Firebase authentication**
+### Firebase authentication
 
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: always free, unlimited users
 * *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, GitHub), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform, UI available for [Android](https://github.com/firebase/firebaseui-android), [iOS](https://github.com/firebase/firebaseui-ios) and [web](https://github.com/firebase/firebaseui-web).
 
-### **Ionic Auth**
+### Ionic Auth
 
 [Pricing page](http://ionic.io/pricing)
 
 * *Free tier*: always free, unlimited users
 * *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, GitHub, Instagram, LinkedIn), provide forms
 
-### **Stormpath**
+### Stormpath
 
 [Pricing Page](https://stormpath.com/pricing)
 
@@ -408,7 +407,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Push notifications
 
-### **Batch**
+### Batch
 
 [Pricing page](https://batch.com/pricing)
 
@@ -416,21 +415,21 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: supports iOS, Android, Cordova, Phonegap, Ionic, Adobe AIR, Unity mobile applications, basic users segmentation (country/language targeting), message scheduling, transactional API
 * *Limitations*: no advanced user segmentation, campaigns API, data push and A/B testing on free tier
 
-### **Firebase Push**
+### Firebase Push
 
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: unlimited notifications
 * *Pros*: supports Android, iOS and browsers (Push API), users segmentation, message scheduling, integrates with Firebase analytics
 
-### **Ionic Push**
+### Ionic Push
 
 [Pricing page](http://ionic.io/pricing)
 
 * *Free tier*: 10K notifications/month
 * *Pros*: provide dashboard to send push to segments, supports scheduling, designed to be sent from Ionic apps
 
-### **onesignal**
+### onesignal
 
 [Pricing page](https://onesignal.com/#pricing)
 
@@ -439,7 +438,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Emailing
 
-### **Mailgun**
+### Mailgun
 
 [Pricing page](http://www.mailgun.com/pricing)
 
@@ -466,7 +465,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Mobile analytics
 
-### **Amazon Mobile Analytics**
+### Amazon Mobile Analytics
 
 [Pricing page](https://aws.amazon.com/mobileanalytics/pricing/)
 
@@ -474,7 +473,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), data can be exported in CSV format, events can be sent through SDKs or REST API, provide iOS, Android and JavaScript SDKs, events are send in batch and cached until the device is online
 * *Limitations*: export to S3 or RedShift is subject to these services respective pricings
 
-### **Countly Analytics**
+### Countly Analytics
 
 [Product page](https://count.ly/product)
 
@@ -482,7 +481,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
 * *Limitations*: Community Edition has less number of features than Countly Enterprise Edition (e.g Drill, User Profiles, etc).
 
-### **Firebase Analytics**
+### Firebase Analytics
 
 [Product page](https://firebase.google.com/docs/analytics/)
 
@@ -490,7 +489,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: provide dashboard with various metrics (sessions, active users, revenues per user, retention, etc), demographic segmentation linked to other services (Push notifications), can be exported to BigQuery
 * *Limitations*: only available for native Android and iOS (no JavaScript version)
 
-### **Mixpanel**
+### Mixpanel
 
 [Pricing page](https://mixpanel.com/pricing/)
 
@@ -500,7 +499,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Content Delivery Networks
 
-### **Cloudflare**
+### Cloudflare
 
 [Pricing page](https://www.cloudflare.com/plans/)
 
@@ -509,7 +508,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## App Testing
 
-### **Sauce Labs**
+### Sauce Labs
 
 [Pricing page](https://saucelabs.com/beta/signup/OSS/None)
 
@@ -518,7 +517,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Realtime Infrastructure
 
-### **Pusher**
+### Pusher
 
 [Pricing page](https://pusher.com/pricing)
 
@@ -527,7 +526,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Logging
 
-### **Logentries**
+### Logentries
 
 [Pricing page](https://logentries.com/pricing/)
 
@@ -535,7 +534,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: Unlimited hosts & sources, basic analytic functions (LEQL), custom tagging, regex and pattern search, access to free community Packs, libraries available for various languages.
 * *Exceeding the free tier*: logs capture continues for at least 30 days without being billed, after 30 days overage fees may occur.
 
-### **Loggly**
+### Loggly
 
 [Pricing page](https://www.loggly.com/plans-and-pricing/)
 
@@ -544,7 +543,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Error Reporting
 
-### **Sentry**
+### Sentry
 
 [Pricing page](https://sentry.io/pricing/)
 
@@ -554,7 +553,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ## Misc
 
-### **Cloudinary**
+### Cloudinary
 
 [Pricing page](http://cloudinary.com/pricing)
 
@@ -563,7 +562,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
 * *Limitations*: free tier does not offer custom domain
 
-### **Filestack**
+### Filestack
 
 [Pricing page](https://filestack.com/pricing)
 
@@ -571,7 +570,7 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 * *Pros*: image and video transformations, document file conversions, audio/video transcoding, free CDN, HTML widget, iOS SDK, tons of cloud storage integrations
 * *Limitations*: file upload size limited to 50 MB, free tier does not offer custom CNAME, S3 as file source is premium feature
 
-### **Let's encrypt**
+### Let's encrypt
 
 [Home page](https://letsencrypt.org/)
 
