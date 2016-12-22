@@ -374,8 +374,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://firebase.google.com/pricing/)
 
 * *Free tier*: always free, unlimited users
-* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, GitHub), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform
-* *Limitations*: no UI provided
+* *Pros*: offers multiple login providers for free (anonymous, email, Google, Facebook, Twitter, GitHub), provide welcome emails triggers, integrates well with Firebase database security rules, libraries for multiple platform, UI available for [Android](https://github.com/firebase/firebaseui-android), [iOS](https://github.com/firebase/firebaseui-ios) and [web](https://github.com/firebase/firebaseui-web).
 
 ### **Ionic Auth**
 
