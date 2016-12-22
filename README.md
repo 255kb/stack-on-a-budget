@@ -462,9 +462,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
 
 ### **Applitools**
-[Pricing page](https://applitools.com/pricing/) - see the buttom of the page
+[Pricing page](https://applitools.com/pricing/?utm_source=github&utm_medium=stack-on-a-budget) - see the buttom of the page
 
-* *Free tier*: free for open source. A free tier for a single user with limited checkpoints per week.
+* *Free tier*: Free for open source. A free tier for a single user with limited checkpoints per week.
 * *Pros*: smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack).
 
 ## Realtime Infrastructure
