@@ -69,6 +69,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
     - [SparkPost](#sparkpost)
+- [Searching](#searching)
+    - [**Algolia**](#algolia)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Countly Analytics**](#countly-analytics)
@@ -447,9 +449,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://www.algolia.com/pricing)
 
-- *Free tier:* 10,000 records, 100,000 Operations / Month
-- *Pros:* Integration with lots of services, lots of redundant backups, CDN, unlimited collaboration, easy usage dashboard
-- *Limitations:* You need to add a "powered by Algolia" notice when using the free tier
+- *Free tier:* 10,000 records (schemaless object), 100,000 operations (CRUD)/month
+- *Pros:* Integration with lots of services, lots of redundant backups, CDN, unlimited collaboration, easy to use analytics dashboard
+- *Limitations:* a "powered by Algolia" notice next to the search results when using the free tier, records are limited to 10KB, each sorting strategy (e.g. by name, by age, by size...) count as a record
 
 ## Mobile analytics
 
