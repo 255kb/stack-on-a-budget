@@ -66,6 +66,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Firebase Push**](#firebase-push)
     - [**Ionic Push**](#ionic-push)
     - [**onesignal**](#onesignal)
+    - [**Azure Notification Hubs**](#azure-notification-hubs)
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
     - [SparkPost](#sparkpost)
@@ -418,6 +419,15 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: unlimited devices, unlimited notifications
 * *Pros*: support iOS, Android, web push, Windows Phone, Amazon Fire, Chrome extensions and native support for every development environment, localization, unlimited segments, delivery scheduling, realtime analytics, delivery automation, full API, A/B testing, import & export your data
+
+### **Azure Notification Hubs**
+
+[Pricing page](https://azure.microsoft.com/en-us/pricing/details/notification-hubs/)
+
+* *Free tier*: 1 Million notifications, 500 active devices per namespace
+* *Pros*: No daily quotas ,supports Windows Notification Service, Apple Push Notification Service, Google Cloud Messaging, and Microsoft Push Notification Service
+* *Limitations*: 500 active devices, free tier has no SLA and no scheduled pushes
+* *Exceeding the free tier*: Pushes are interrupted when 1m sent. After 500 active devies new registrations are interrupted.
 
 ## Emailing
 
