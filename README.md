@@ -80,6 +80,9 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Sauce Labs**](#sauce-labs)
 - [Realtime Infrastructure](#realtime-infrastructure)
     - [**Pusher**](#pusher)
+- [Logging](#logging)
+    - [**Logentries**](#logentries)
+    - [**Loggly**](#loggly)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
     - [**Let's encrypt**](#lets-encrypt)
@@ -101,7 +104,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: 1GB storage, 100GB bandwidth or 100K requests/month, 10 builds per hour
 * *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
-* *Limitations*: no HTTPS for custom domains
+* *Limitations*: no HTTPS for custom domains (to solve this, use in combination with [Cloudflare](#cloudflare))
 
 ### **GitLab Pages**
 
@@ -497,12 +500,29 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: Unlimited channels, 100 max connections, 200,000 messages a day, support
 * *Pros*: Send messages from your server and subscribe to them in real-time from any client (Android, iOS, JavaScript, etc.) at massive scale (Pub/Sub). Great documentation, intuitive client libraries, and a powerful dashboard for testing, debugging, and analytics. Libraries available for various languages.
 
+## Logging
+
+### **Logentries**
+
+[Pricing page](https://logentries.com/pricing/)
+
+* *Free tier*: Send up to 5GB/month, 7 day retention
+* *Pros*: Unlimited hosts & sources, basic analytic functions (LEQL), custom tagging, regex and pattern search, access to free community Packs, libraries available for various languages.
+* *Exceeding the free tier*: logs capture continues for at least 30 days without being billed, after 30 days overage fees may occur.
+
+### **Loggly**
+
+[Pricing page](https://www.loggly.com/plans-and-pricing/)
+
+* *Free tier*: Send up to 200MB/day, 7 day retention
+* *Pros*:  Centralized log management, automated log summaries, search & filters, simple scripts available to get you running in one copy & paste command.
 
 ## Misc
 
 ### **Cloudinary**
 
 [Pricing page](http://cloudinary.com/pricing)
+
 
 * *Free tier*: 75,000 total images or videos and 7,500 monthly transformations, 2GB storage, 5GB bandwidth/month
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
