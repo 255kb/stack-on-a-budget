@@ -497,15 +497,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://logentries.com/pricing/)
 
-* *Free tier*: Send up to 5GB/month, 7 day Retention
-* *Pros*: Unlimited Hosts & Sources, Basic Analytic Functions (LEQL), Custom Tagging, Regex and Pattern Search, access to free Community Packs, 30 Day Peak Overage Protection. Libraries available for various languages.
+* *Free tier*: Send up to 5GB/month, 7 day retention
+* *Pros*: Unlimited hosts & sources, basic analytic functions (LEQL), custom tagging, regex and pattern search, access to free community Packs, libraries available for various languages.
+* *Exceeding the free tier*: logs capture continues for at least 30 days without being billed, after 30 days overage fees may occur.
 
 ### **Loggly**
 
 [Pricing page](https://www.loggly.com/plans-and-pricing/)
 
-* *Free tier*: Send up to 200MB/day, 7 day Retention
-* *Pros*:  Centralized log management, Automated log summaries, Search & filters. Simple scripts available to get you running in one copy & paste command.
+* *Free tier*: Send up to 200MB/day, 7 day retention
+* *Pros*:  Centralized log management, automated log summaries, search & filters, simple scripts available to get you running in one copy & paste command.
 
 ## Misc
 
