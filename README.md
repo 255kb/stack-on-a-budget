@@ -69,6 +69,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
     - [SparkPost](#sparkpost)
+- [Searching](#searching)
+    - [**Algolia**](#algolia)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Countly Analytics**](#countly-analytics)
@@ -243,7 +245,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500MB storage, daily backup,
+* *Free tier*: 500MB storage, daily backup
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -440,6 +442,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 100,000 emails/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card
+
+## Searching
+
+### Algolia
+
+[Pricing page](https://www.algolia.com/pricing)
+
+- *Free tier:* 10,000 records (schemaless object), 100,000 operations (CRUD)/month
+- *Pros:* Integration with lots of services, lots of redundant backups, CDN, unlimited collaboration, easy to use analytics dashboard
+- *Limitations:* a "powered by Algolia" notice next to the search results when using the free tier, records are limited to 10KB, each sorting strategy (e.g. by name, by age, by size...) count as a record
 
 ## Mobile analytics
 
