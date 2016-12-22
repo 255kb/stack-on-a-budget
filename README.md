@@ -122,10 +122,12 @@ Please also have a look to the [List of excluded services](excluded-services.md)
 
 ### **netlify**
 
-[Pricing page](https://www.netlify.com/pricing/)
+[Product page](https://www.netlify.com/features) / [Pricing page](https://www.netlify.com/pricing/)
 
 * *Free tier*: Unlimited sites, custom domain and SSL
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
+* (Open Source projects get [even more features for free](https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/)
+
 
 ### **surge**
 
