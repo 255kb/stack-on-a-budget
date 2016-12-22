@@ -44,6 +44,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Bitbucket**](#bitbucket)
     - [**GitHub**](#github)
     - [**GitLab**](#gitlab)
+- [Content Management API](#content-management-api)
+    - [**Contentful**](#contentful)
 - [Continuous integration/delivery](#continuous-integrationdelivery)
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
@@ -273,6 +275,18 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10GB storage/project
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
+
+## Content Management API
+
+### **Contentful**
+
+[Pricing page](https://www.contentful.com/pricing/)
+
+* *Free tier*: access to 4 content APIs (management, delivery, preview, images)
+* *Pros*: access to modern web app for content modeling and management, webhooks for integrating with [static app hosting](#static-app-hosting) such as [netlify](#netlify)
+* *Limitations*: 10K records, 50K API calls, 3 users, 3 user roles (admin, developer, editor), no content localization, community support
+* *Exceeding the free tier*: upon approach of 1 limit, Contentful will ask for a credit card in order to charge for over-limit usage 
+
 
 ## Continuous integration/delivery
 
