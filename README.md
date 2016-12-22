@@ -33,6 +33,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
+    - [**Cloudant CouchDB**](#cloudant-couchdb)
     - [**Firebase database**](#firebase-database)
     - [**GearHost Database**](#gearhost-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
@@ -197,6 +198,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Limitations*: maximum of 1MB per file, no custom domain, source code is always public
 
 ## Database hosting
+
+### **Cloudant CouchDB**
+
+[Pricing page](https://cloudant.com/product/pricing/)
+
+* *Free tier*: 1$/GB per month, $0.015$/100 "heavy" requests, $0.015/500 "light" requests,  first $50 per month free
+* *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
+* *Limitations*: Account on shared multitenant instance
+* *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
 
 ### **Firebase database**
 
