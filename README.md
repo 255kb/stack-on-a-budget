@@ -73,6 +73,7 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
     - [**Pusher**](#pusher)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
+    - [**Filestack**](#filestack)
     - [**Let's encrypt**](#lets-encrypt)
 
 <!-- /TOC -->
@@ -433,9 +434,9 @@ Thanks to the contributors: [cmllr](https://github.com/cmllr), [Ibrahim-Islam](h
 
 [Pricing page](https://filestack.com/pricing)
 
-* *Free tier*: Unlimited file uploads up to 250 monthly, 500 monthly file transformations, 3Gb bandwidth/month
+* *Free tier*: 250 file uploads/month, 500 file transformations/month, 3GB bandwidth/month
 * *Pros*: image and video transformations, document file conversions, audio/video transcoding, free CDN, HTML widget, iOS SDK, tons of cloud storage integrations
-* *Limitations*: free tier does not offer custom CNAME, S3 as file source is premium feature
+* *Limitations*: file upload size limited to 50 MB, free tier does not offer custom CNAME, S3 as file source is premium feature
 
 ### **Let's encrypt**
 
