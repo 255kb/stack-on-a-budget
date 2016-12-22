@@ -241,6 +241,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
 
+### **OpenShift MongoDB
+
+[Product Page](https://developers.openshift.com/databases/mongodb.html)
+
+* *Free tier*: 1Gb storage
+* *Pros*: Easy to deploy
+* *Limitations*: Only support mongodb 2.4
+
 ### **mLab**
 
 [Pricing page](https://mlab.com/plans/pricing/)
