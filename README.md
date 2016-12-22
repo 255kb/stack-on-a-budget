@@ -527,6 +527,14 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
 * *Limitations*: free tier does not offer custom domain
 
+### **CloudFlare**
+
+[Home page](https://cloudflare.com)
+
+* *free tier*: free ddos protection, global cdn, shared ssl certificate
+* *Pros*: free, works with domains, also offers dns 
+* *Limitations*: free tier does not have 24/7 support and no private ssl
+
 ### **Let's encrypt**
 
 [Home page](https://letsencrypt.org/)
