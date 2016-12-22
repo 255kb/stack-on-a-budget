@@ -33,6 +33,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**OpenShift**](#openshift)
     - [**Zeit Now**](#zeit-now)
 - [Database hosting](#database-hosting)
+    - [**Cloudant CouchDB**](#cloudant-couchdb)
     - [**Firebase database**](#firebase-database)
     - [**GearHost Database**](#gearhost-database)
     - [**Google Cloud Datastore**](#google-cloud-datastore)
@@ -192,6 +193,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 ## Database hosting
 
+### **Cloudant CouchDB**
+
+[Pricing page](https://cloudant.com/product/pricing/)
+
+* *Free tier*: 1$/GB per month, $0.015$/100 "heavy" requests, $0.015/500 "light" requests,  first $50 per month free
+* *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
+* *Limitations*: Account on shared multitenant instance
+* *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
+
 ### **Firebase database**
 
 [Pricing page](https://firebase.google.com/pricing/)
@@ -237,7 +248,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](https://mlab.com/plans/pricing/)
 
-* *Free tier*: 500MB storage, daily backup, 
+* *Free tier*: 500MB storage, daily backup,
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
 ### **Redis Cloud**
@@ -426,7 +437,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](http://www.mailgun.com/pricing)
 
 * *Free tier*: 10,000 emails/month (can apparently be raised up to 30,000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics, 
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics,
 
 ### SparkPost
 
@@ -448,7 +459,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 ### **Countly Analytics**
 
-[Product page](https://count.ly/product) 
+[Product page](https://count.ly/product)
 
 * *Free tier*: Countly Community Edition (for mobile, web and desktop analytics) is free to download and use.
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
