@@ -87,6 +87,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**Sentry**](#sentry)
 - [Misc](#misc)
     - [**Cloudinary**](#cloudinary)
+    - [**Coveralls**](#coveralls)
     - [**Let's encrypt**](#lets-encrypt)
 
 <!-- /TOC -->
@@ -538,6 +539,15 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 75,000 total images or videos and 7,500 monthly transformations, 2GB storage, 5GB bandwidth/month
 * *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiplae languages
 * *Limitations*: free tier does not offer custom domain
+
+### **Coveralls**
+
+[Pricing page](https://coveralls.io/pricing)
+
+* *Free tier*: Unlimited public repositories.
+* *Pros*: Free test-suite code coverage tracking, pull-request annotation, and repo badges.
+* *Limitations*: free tier does not support private repositories.
+
 
 ### **Let's encrypt**
 
