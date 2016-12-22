@@ -69,6 +69,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 - [Emailing](#emailing)
     - [**Mailgun**](#mailgun)
     - [SparkPost](#sparkpost)
+- [Business Intelligence](#business-intelligence)
+    - [**Metabase**](#metabase)
 - [Mobile analytics](#mobile-analytics)
     - [**Amazon Mobile Analytics**](#amazon-mobile-analytics)
     - [**Countly Analytics**](#countly-analytics)
@@ -437,6 +439,16 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 100,000 emails/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card
+
+## Business Intelligence
+
+### **Metabase**
+
+[FREE](http://www.metabase.com/start)
+
+* *Requires Hosting*: But fits in the free tier of AWS + Heroku.
+* *Pros*: Allows you to run queries without knowing SQL, build dashboards, set up nightly email reports and ask questions from Slack. Works with your application database or a dedicated data warehouse, and supports MySQL, PostgreSQL, Redshift, BigQuery and many others.
+* *Limitations*: No limitations on usage. 
 
 ## Mobile analytics
 
