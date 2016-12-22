@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# Misc
 
-- [Misc](#misc)
-    - [Let's encrypt](#lets-encrypt)
+<!-- TOC depthFrom:2 -->
+
+- [Let's encrypt](#lets-encrypt)
 
 <!-- /TOC -->
-
-# Misc
 
 ## Let's encrypt
 

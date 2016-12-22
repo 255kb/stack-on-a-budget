@@ -1,20 +1,19 @@
-<!-- TOC depthFrom:1 -->
+# Continuous integration/delivery
 
-- [Continuous integration/delivery](#continuous-integrationdelivery)
-    - [AppVeyor](#appveyor)
-    - [CircleCI](#circleci)
-    - [Codeship](#codeship)
-    - [ContinuousPHP](#continuousphp)
-    - [Drone](#drone)
-    - [GitLab CI](#gitlab-ci)
-    - [Semaphore](#semaphore)
-    - [Shippable](#shippable)
-    - [TeamCity](#teamcity)
-    - [Travis CI (Org)](#travis-ci-org)
+<!-- TOC depthFrom:2 -->
+
+- [AppVeyor](#appveyor)
+- [CircleCI](#circleci)
+- [Codeship](#codeship)
+- [ContinuousPHP](#continuousphp)
+- [Drone](#drone)
+- [GitLab CI](#gitlab-ci)
+- [Semaphore](#semaphore)
+- [Shippable](#shippable)
+- [TeamCity](#teamcity)
+- [Travis CI (Org)](#travis-ci-org)
 
 <!-- /TOC -->
-
-# Continuous integration/delivery
 
 ## AppVeyor
 

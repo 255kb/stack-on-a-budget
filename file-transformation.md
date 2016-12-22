@@ -1,12 +1,11 @@
-<!-- TOC depthFrom:1 -->
+# File transformation
 
-- [File transformation](#file-transformation)
-    - [Cloudinary](#cloudinary)
-    - [Filestack](#filestack)
+<!-- TOC depthFrom:2 -->
+
+- [Cloudinary](#cloudinary)
+- [Filestack](#filestack)
 
 <!-- /TOC -->
-
-# File transformation
 
 ## Cloudinary
 

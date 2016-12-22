@@ -1,5 +1,17 @@
 # Database hosting
 
+<!-- TOC depthFrom:2 -->
+
+- [Firebase database](#firebase-database)
+- [GearHost Database](#gearhost-database)
+- [Google Cloud Datastore](#google-cloud-datastore)
+- [Heroku Postgres](#heroku-postgres)
+- [Heroku Redis](#heroku-redis)
+- [mLab](#mlab)
+- [Redis Cloud](#redis-cloud)
+
+<!-- /TOC -->
+
 ## Firebase database
 
 [Pricing page](https://firebase.google.com/pricing/)

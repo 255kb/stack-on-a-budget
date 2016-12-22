@@ -1,12 +1,11 @@
-<!-- TOC depthFrom:1 -->
+# Logging
 
-- [Logging](#logging)
-    - [Logentries](#logentries)
-    - [Loggly](#loggly)
+<!-- TOC depthFrom:2 -->
+
+- [Logentries](#logentries)
+- [Loggly](#loggly)
 
 <!-- /TOC -->
-
-# Logging
 
 ## Logentries
 

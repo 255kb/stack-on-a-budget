@@ -1,12 +1,11 @@
-<!-- TOC depthFrom:1 -->
+# Emailing
 
-- [Emailing](#emailing)
-    - [Mailgun](#mailgun)
-    - [SparkPost](#sparkpost)
+<!-- TOC depthFrom:2 -->
+
+- [Mailgun](#mailgun)
+- [SparkPost](#sparkpost)
 
 <!-- /TOC -->
-
-# Emailing
 
 ## Mailgun
 

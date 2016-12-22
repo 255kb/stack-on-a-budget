@@ -1,16 +1,15 @@
-<!-- TOC depthFrom:1 -->
+# Static app hosting
 
-- [Static app hosting](#static-app-hosting)
-    - [AWS S3](#aws-s3)
-    - [Firebase hosting](#firebase-hosting)
-    - [GitHub Pages](#github-pages)
-    - [GitLab Pages](#gitlab-pages)
-    - [netlify](#netlify)
-    - [surge](#surge)
+<!-- TOC depthFrom:2 -->
+
+- [AWS S3](#aws-s3)
+- [Firebase hosting](#firebase-hosting)
+- [GitHub Pages](#github-pages)
+- [GitLab Pages](#gitlab-pages)
+- [netlify](#netlify)
+- [surge](#surge)
 
 <!-- /TOC -->
-
-# Static app hosting
 
 ## AWS S3
 

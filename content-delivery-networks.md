@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# Content Delivery Networks
 
-- [Content Delivery Networks](#content-delivery-networks)
-    - [Cloudflare](#cloudflare)
+<!-- TOC depthFrom:2 -->
+
+- [Cloudflare](#cloudflare)
 
 <!-- /TOC -->
-
-# Content Delivery Networks
 
 ## Cloudflare
 

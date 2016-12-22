@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# App Testing
 
-- [App Testing](#app-testing)
-    - [Sauce Labs](#sauce-labs)
+<!-- TOC depthFrom:2 -->
+
+- [Sauce Labs](#sauce-labs)
 
 <!-- /TOC -->
-
-# App Testing
 
 ## Sauce Labs
 

@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# Error Reporting
 
-- [Error Reporting](#error-reporting)
-    - [Sentry](#sentry)
+<!-- TOC depthFrom:2 -->
+
+- [Sentry](#sentry)
 
 <!-- /TOC -->
-
-# Error Reporting
 
 ## Sentry
 

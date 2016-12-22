@@ -1,14 +1,13 @@
-<!-- TOC depthFrom:1 -->
+# Mobile analytics
 
-- [Mobile analytics](#mobile-analytics)
-    - [Amazon Mobile Analytics](#amazon-mobile-analytics)
-    - [Countly Analytics](#countly-analytics)
-    - [Firebase Analytics](#firebase-analytics)
-    - [Mixpanel](#mixpanel)
+<!-- TOC depthFrom:2 -->
+
+- [Amazon Mobile Analytics](#amazon-mobile-analytics)
+- [Countly Analytics](#countly-analytics)
+- [Firebase Analytics](#firebase-analytics)
+- [Mixpanel](#mixpanel)
 
 <!-- /TOC -->
-
-# Mobile analytics
 
 ## Amazon Mobile Analytics
 

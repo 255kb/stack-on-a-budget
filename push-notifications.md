@@ -1,14 +1,13 @@
-<!-- TOC depthFrom:1 -->
+# Push notifications
 
-- [Push notifications](#push-notifications)
-    - [Batch](#batch)
-    - [Firebase Push](#firebase-push)
-    - [Ionic Push](#ionic-push)
-    - [onesignal](#onesignal)
+<!-- TOC depthFrom:2 -->
+
+- [Batch](#batch)
+- [Firebase Push](#firebase-push)
+- [Ionic Push](#ionic-push)
+- [onesignal](#onesignal)
 
 <!-- /TOC -->
-
-# Push notifications
 
 ## Batch
 

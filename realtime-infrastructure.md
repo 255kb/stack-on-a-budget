@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# Realtime Infrastructure
 
-- [Realtime Infrastructure](#realtime-infrastructure)
-    - [Pusher](#pusher)
+<!-- TOC depthFrom:2 -->
+
+- [Pusher](#pusher)
 
 <!-- /TOC -->
-
-# Realtime Infrastructure
 
 ## Pusher
 

@@ -1,15 +1,14 @@
-<!-- TOC depthFrom:1 -->
+# User authentication
 
-- [User authentication](#user-authentication)
-    - [Auth0](#auth0)
-    - [AWS Cognito](#aws-cognito)
-    - [Firebase authentication](#firebase-authentication)
-    - [Ionic Auth](#ionic-auth)
-    - [Stormpath](#stormpath)
+<!-- TOC depthFrom:2 -->
+
+- [Auth0](#auth0)
+- [AWS Cognito](#aws-cognito)
+- [Firebase authentication](#firebase-authentication)
+- [Ionic Auth](#ionic-auth)
+- [Stormpath](#stormpath)
 
 <!-- /TOC -->
-
-# User authentication
 
 ## Auth0
 

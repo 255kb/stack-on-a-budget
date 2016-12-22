@@ -1,13 +1,12 @@
-<!-- TOC depthFrom:1 -->
+# Code collaboration tools
 
-- [Code collaboration tools](#code-collaboration-tools)
-    - [Bitbucket](#bitbucket)
-    - [GitHub](#github)
-    - [GitLab](#gitlab)
+<!-- TOC depthFrom:2 -->
+
+- [Bitbucket](#bitbucket)
+- [GitHub](#github)
+- [GitLab](#gitlab)
 
 <!-- /TOC -->
-
-# Code collaboration tools
 
 ## Bitbucket
 

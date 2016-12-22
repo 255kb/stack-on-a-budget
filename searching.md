@@ -1,11 +1,10 @@
-<!-- TOC depthFrom:1 -->
+# Searching
 
-- [Searching](#searching)
-    - [Algolia](#algolia)
+<!-- TOC depthFrom:2 -->
+
+- [Algolia](#algolia)
 
 <!-- /TOC -->
-
-# Searching
 
 ## Algolia
 

@@ -1,18 +1,17 @@
-<!-- TOC depthFrom:1 -->
+# App hosting
 
-- [App hosting](#app-hosting)
-    - [AWS EC2](#aws-ec2)
-    - [GearHost](#gearhost)
-    - [Gomix](#gomix)
-    - [Google App Engine](#google-app-engine)
-    - [Heroku](#heroku)
-    - [IBM Bluemix](#ibm-bluemix)
-    - [OpenShift](#openshift)
-    - [Zeit Now](#zeit-now)
+<!-- TOC depthFrom:2 -->
+
+- [AWS EC2](#aws-ec2)
+- [GearHost](#gearhost)
+- [Gomix](#gomix)
+- [Google App Engine](#google-app-engine)
+- [Heroku](#heroku)
+- [IBM Bluemix](#ibm-bluemix)
+- [OpenShift](#openshift)
+- [Zeit Now](#zeit-now)
 
 <!-- /TOC -->
-
-# App hosting
 
 ## AWS EC2
 
