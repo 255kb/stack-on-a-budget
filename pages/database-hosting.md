@@ -2,16 +2,26 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Cloudant CouchDB](#cloudant-couchdb)
 - [Firebase database](#firebase-database)
 - [GearHost Database](#gearhost-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
 - [mLab](#mlab)
-- [Redis Cloud](#redis-cloud)
 - [Openshift MongoDB](#openshift-mongodb)
+- [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
+
+## Cloudant CouchDB
+
+[Pricing page](https://cloudant.com/product/pricing/)
+
+* *Free tier*: 1$/GB per month, $0.015$/100 "heavy" requests, $0.015/500 "light" requests,  first $50 per month free
+* *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
+* *Limitations*: Account on shared multitenant instance
+* *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
 
 ## Firebase database
 
@@ -61,13 +71,6 @@
 * *Free tier*: 500MB storage, daily backup
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
 
-## Redis Cloud
-
-[Pricing page](https://redislabs.com/pricing)
-
-* *Free tier*: 30MB, 30 connections
-* *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
-
 ## OpenShift MongoDB
 
 [Product Page](https://developers.openshift.com/databases/mongodb.html)
@@ -75,3 +78,10 @@
 * *Free tier*: 1Gb storage
 * *Pros*: Easy to deploy
 * *Limitations*: Only support mongodb 2.4
+
+## Redis Cloud
+
+[Pricing page](https://redislabs.com/pricing)
+
+* *Free tier*: 30MB, 30 connections
+* *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
