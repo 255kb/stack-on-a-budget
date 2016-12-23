@@ -6,6 +6,7 @@
 - [Countly Analytics](#countly-analytics)
 - [Firebase Analytics](#firebase-analytics)
 - [Mixpanel](#mixpanel)
+- [Flurry Analytics](#flurry-analytics)
 
 <!-- /TOC -->
 
