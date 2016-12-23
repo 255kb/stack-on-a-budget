@@ -56,6 +56,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [mLab](pages/database-hosting.md/#mlab)
     - [Redis Cloud](pages/database-hosting.md/#redis-cloud)
 - [**Emailing**](pages/emailing.md)
+    - [Emaillabs](pages/emailing.md/#emaillabs)
     - [Mailgun](pages/emailing.md/#mailgun)
     - [SparkPost](pages/emailing.md/#sparkpost)
 - [**Error Reporting**](pages/error-reporting.md)
