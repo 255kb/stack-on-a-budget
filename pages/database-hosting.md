@@ -9,7 +9,7 @@
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
 - [mLab](#mlab)
-- [Openshift MongoDB](#openshift-mongodb)
+- [OpenShift MongoDB](#openshift-mongodb)
 - [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
