@@ -35,6 +35,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [GitHub](pages/code-collaboration-tools.md#github)
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
+- [**Code Review & Coverage**](pages/code-review-coverage.md)
+    - [Coveralls](pages/code-review-coverage.md#coveralls)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
