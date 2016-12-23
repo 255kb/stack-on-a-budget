@@ -40,3 +40,11 @@
 * *Free tier*: unlimited projects, 20 millions data points/month/project, 1 custom event/project, 60 days data history
 * *Pros*: Ideal for mobile applications or "events" oriented websites
 * *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
+
+### **Flurry Analytics**
+
+[Product page](https://developer.yahoo.com/analytics)
+
+* *Free tier*: Flurry analytics is free at any scale
+* *Pros*: Extensive functionality and features including usage metrics, retention, real-time data, revenue metrics, crash reporting, custom user interaction and more.  Flurry features an instant analysis tool (Flurry Explorer) that eliminates need for code and SQL for detailed look into user segmentation, interaction, funnels and retention. 
+* *Limitations*: only available for native Android and iOS (no javascript version)

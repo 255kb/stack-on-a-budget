@@ -74,6 +74,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Countly Analytics](pages/mobile-analytics.md/#countly-analytics)
     - [Firebase Analytics](pages/mobile-analytics.md/#firebase-analytics)
     - [Mixpanel](pages/mobile-analytics.md/#mixpanel)
+    - [Flurry Analytics](pages/mobile-analytics.md/#flurry-analytics)
 - [**Monitoring**](pages/monitoring.md)
     - [Librato](pages/monitoring.md/#librato)
 - [**Push notifications**](pages/push-notifications.md)
