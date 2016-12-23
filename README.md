@@ -68,6 +68,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Loggly](pages/logging.md/#loggly)
 - [**Misc**](pages/misc.md)
     - [Let's encrypt](pages/misc.md/#lets-encrypt)
+    - [Codeanywhere](pages/misc.md/#codeanywhere)
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md/#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md/#countly-analytics)
