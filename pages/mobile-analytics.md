@@ -5,8 +5,9 @@
 - [Amazon Mobile Analytics](#amazon-mobile-analytics)
 - [Countly Analytics](#countly-analytics)
 - [Firebase Analytics](#firebase-analytics)
-- [Mixpanel](#mixpanel)
 - [Flurry Analytics](#flurry-analytics)
+- [Mixpanel](#mixpanel)
+- [Segment](#segment)
 
 <!-- /TOC -->
 
@@ -26,6 +27,14 @@
 * *Pros*: Client and server side application are open source (AGPLv3). Installable on-premises, based on MongoDB and Node.js. Data can be exported in CSV, XLS format or can be read through API. More than 10 SDKs including Android, iOS, Windows Phone, MacOS and Windows. Plugin based infrastructure. Countly Community Edition also includes crash reporting and push notifications.
 * *Limitations*: Community Edition has less number of features than Countly Enterprise Edition (e.g Drill, User Profiles, etc).
 
+## Flurry Analytics
+
+[Product page](https://developer.yahoo.com/analytics)
+
+* *Free tier*: Flurry analytics is free at any scale
+* *Pros*: Extensive functionality and features including usage metrics, retention, real-time data, revenue metrics, crash reporting, custom user interaction and more.  Flurry features an instant analysis tool (Flurry Explorer) that eliminates need for code and SQL for detailed look into user segmentation, interaction, funnels and retention. 
+* *Limitations*: only available for native Android and iOS (no javascript version)
+
 ## Firebase Analytics
 
 [Product page](https://firebase.google.com/docs/analytics/)
@@ -42,10 +51,10 @@
 * *Pros*: Ideal for mobile applications or "events" oriented websites
 * *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
 
-## Flurry Analytics
+## Segment
 
-[Product page](https://developer.yahoo.com/analytics)
+[Pricing page](https://segment.com/pricing)
 
-* *Free tier*: Flurry analytics is free at any scale
-* *Pros*: Extensive functionality and features including usage metrics, retention, real-time data, revenue metrics, crash reporting, custom user interaction and more.  Flurry features an instant analysis tool (Flurry Explorer) that eliminates need for code and SQL for detailed look into user segmentation, interaction, funnels and retention. 
-* *Limitations*: only available for native Android and iOS (no javascript version)
+* *Free tier*: Unlimited [integrations](https://segment.com/integrations), 1 [Source](https://segment.com/sources), 1 [Warehouse](https://segment.com/warehouses), 1 Seat
+* *Pros*: Success engineering team is incredibly helpful around implementation and tool recommendation/consultation. Segment also supports web and mobile, as well as libraries in all of the popular languages. You have access to your raw data from day 1 to prevent vendor lock in.
+* *Limitations*: data replay (replaying your data into a new tool)
