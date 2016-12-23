@@ -68,7 +68,7 @@
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
 
-### **OpenShift MongoDB**
+## OpenShift MongoDB
 
 [Product Page](https://developers.openshift.com/databases/mongodb.html)
 

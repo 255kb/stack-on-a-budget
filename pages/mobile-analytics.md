@@ -42,7 +42,7 @@
 * *Pros*: Ideal for mobile applications or "events" oriented websites
 * *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
 
-### **Flurry Analytics**
+## Flurry Analytics
 
 [Product page](https://developer.yahoo.com/analytics)
 
