@@ -1,6 +1,10 @@
 # Code Review & Coverage
 
+<!-- TOC depthFrom:2 -->
+
 - [Coveralls](#coveralls)
+
+<!-- /TOC -->
 
 ## Coveralls
 
