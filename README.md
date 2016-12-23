@@ -71,6 +71,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Logging**](pages/logging.md)
     - [Logentries](pages/logging.md/#logentries)
     - [Loggly](pages/logging.md/#loggly)
+    - [Splunk](pages/logging.md/#splunk)
 - [**Misc**](pages/misc.md)
     - [Let's encrypt](pages/misc.md/#lets-encrypt)
 - [**Mobile analytics**](pages/mobile-analytics.md)

@@ -4,6 +4,7 @@
 
 - [Logentries](#logentries)
 - [Loggly](#loggly)
+- [Splunk](#splunk)
 
 <!-- /TOC -->
 
@@ -21,3 +22,10 @@
 
 * *Free tier*: Send up to 200MB/day, 7 day retention
 * *Pros*:  Centralized log management, automated log summaries, search & filters, simple scripts available to get you running in one copy & paste command.
+
+## **Splunk**
+
+[Pricing page](https://www.splunk.com/en_us/products/splunk-enterprise/free-vs-enterprise.html)
+
+* *Free tier*: 500MB/day
+* *Pros*: universal indexing, search, dashboards, machine-learning toolkit, Apps
