@@ -28,6 +28,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [IBM Bluemix](pages/app-hosting.md/#ibm-bluemix)
     - [OpenShift](pages/app-hosting.md/#openshift)
     - [Zeit Now](pages/app-hosting.md/#zeit-now)
+    - [**AppHarbor**](pages/app-hosting.md/#appharbor)
 - [**App Testing**](pages/app-testing.md)
     - [Sauce Labs](pages/app-testing.md/#sauce-labs)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
