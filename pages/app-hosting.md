@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [AppHarbor](#appharbor)
 - [AWS EC2](#aws-ec2)
 - [GearHost](#gearhost)
 - [Gomix](#gomix)
@@ -12,6 +13,14 @@
 - [Zeit Now](#zeit-now)
 
 <!-- /TOC -->
+
+## AppHarbor
+
+[Pricing page](https://appharbor.com/pricing)
+
+* *Free tier*: 1 worker unit
+* *Pros*: auto scaling, deploy with git, one of few PaaS for .NET apps
+* *Limitations*: no custom domain
 
 ## AWS EC2
 
@@ -75,11 +84,3 @@
 * *Free tier*: 1GB storage, 1GB bandwidth/month, 20 deploys/month, free backups
 * *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1MB per file, no custom domain, source code is always public
-
-### **AppHarbor**
-
-[Pricing page](https://appharbor.com/pricing)
-
-* *Free tier*: 1 worker unit
-* *Pros*: auto scaling, deploy with git, one of few PaaS for .NET apps
-* *Limitations*: no custom domain
