@@ -5,6 +5,7 @@
 - [Logentries](#logentries)
 - [Loggly](#loggly)
 - [Splunk](#splunk)
+- [Sumologic](#sumologic)
 
 <!-- /TOC -->
 
@@ -29,3 +30,10 @@
 
 * *Free tier*: 500MB/day
 * *Pros*: universal indexing, search, dashboards, machine-learning toolkit, Apps
+
+## **Sumologic**
+
+[Pricing page](https://www.sumologic.com/pricing/)
+
+* *Free tier*: 500MB/day log data, max 3 users, 7 day data retention
+* *Pros*: Centralized log management, powerful ad-hoc search, log-reduce and log-compare, PCI, SOC, CSA, ISO, HIPAA Certifications
