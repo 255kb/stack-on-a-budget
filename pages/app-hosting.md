@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [AppHarbor](#appharbor)
 - [AWS EC2](#aws-ec2)
 - [GearHost](#gearhost)
 - [Gomix](#gomix)
@@ -12,6 +13,14 @@
 - [Zeit Now](#zeit-now)
 
 <!-- /TOC -->
+
+## AppHarbor
+
+[Pricing page](https://appharbor.com/pricing)
+
+* *Free tier*: 1 worker unit
+* *Pros*: auto scaling, deploy with git, one of few PaaS for .NET apps
+* *Limitations*: no custom domain
 
 ## AWS EC2
 

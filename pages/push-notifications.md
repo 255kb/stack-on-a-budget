@@ -2,12 +2,22 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Azure Notification Hubs](#azure-notification-hubs)
 - [Batch](#batch)
 - [Firebase Push](#firebase-push)
 - [Ionic Push](#ionic-push)
 - [onesignal](#onesignal)
 
 <!-- /TOC -->
+
+## Azure Notification Hubs
+
+[Pricing page](https://azure.microsoft.com/en-us/pricing/details/notification-hubs/)
+
+* *Free tier*: 1,000,000 notifications, 500 active devices per namespace
+* *Pros*: No daily quotas, supports Windows Notification Service, Apple Push Notification Service, Google Cloud Messaging and Microsoft Push Notification Service
+* *Limitations*: 500 active devices, free tier has no SLA and no scheduled pushes
+* *Exceeding the free tier*: Pushes are interrupted when 1,000,000 sent. After 500 active devices new registrations are interrupted.
 
 ## Batch
 
