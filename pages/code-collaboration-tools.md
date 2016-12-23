@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Bitbucket](#bitbucket)
+- [Cloud9](#cloud9)
 - [GitHub](#github)
 - [GitLab](#gitlab)
 
@@ -14,6 +15,14 @@
 
 * *Free tier*: unlimited public and private repositories for 5 users, 1GB storage/repository, 1GB file storage, 50 minutes build time/month
 * *Pros*: provide pull requests, issue tracking, code snippets and wiki, has a desktop app
+
+## Cloud9
+
+[Pricing page](https://c9.io/pricing)
+
+* *Free tier*: unlimited public workspace and 1 private workspace, 1 CPU, 512MB RAM & 2GB HDD per workspace
+* *Pros*: supports PHP, Node.js, Django, Ruby on Rails with MongoDB and MySQL database, can also choose basic Ubunutu installation
+* *Limitations*: only one private repository in the free version, workspaces go in hibernation if left unattended
 
 ## GitHub
 

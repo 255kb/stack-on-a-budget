@@ -33,6 +33,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Sauce Labs](pages/app-testing.md/#sauce-labs)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
+    - [Cloud9](pages/code-collaboration-tools.md#cloud9)
     - [GitHub](pages/code-collaboration-tools.md#github)
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
 - [**Code Review & Coverage**](pages/code-review-coverage.md)
