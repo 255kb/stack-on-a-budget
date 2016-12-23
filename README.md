@@ -85,6 +85,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Firebase Push](pages/push-notifications.md/#firebase-push)
     - [Ionic Push](pages/push-notifications.md/#ionic-push)
     - [onesignal](pages/push-notifications.md/#onesignal)
+    - [Azure Notification Hubs](pages/push-notifications.md/#azure-notification-hubs)
 - [**Searching**](pages/searching.md)
     - [Algolia](pages/searching.md/#algolia)
 - [**Static app hosting**](pages/static-app-hosting.md)
