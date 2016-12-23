@@ -14,7 +14,7 @@
 * *Free tier*: 1 PowerCycle, 1 PowerScale and 1 EBS LifeCycle
 * *Pros*: Unlimited cost alerting included. Integrations with Slack and HipChat. Can target as many instances/autoscaling groups/volumes/images/snapshots as you like 
 * *Limitations*: Only one of each configuration type
-* *Exceeding the free tier*: Need to pay before able to create a second PowerCycle, PowerScale or EBS LifeCycle
+* *Exceeding the free tier*: Need to pay before being able to create a second PowerCycle, PowerScale or EBS LifeCycle
 
 ## Let's encrypt
 
