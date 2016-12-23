@@ -56,6 +56,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Heroku Redis](pages/database-hosting.md/#heroku-redis)
     - [mLab](pages/database-hosting.md/#mlab)
     - [Redis Cloud](pages/database-hosting.md/#redis-cloud)
+    - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
 - [**Emailing**](pages/emailing.md)
     - [Mailgun](pages/emailing.md/#mailgun)
     - [SparkPost](pages/emailing.md/#sparkpost)

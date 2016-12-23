@@ -9,6 +9,7 @@
 - [Heroku Redis](#heroku-redis)
 - [mLab](#mlab)
 - [Redis Cloud](#redis-cloud)
+- [Openshift MongoDB](#openshift-mongodb)
 
 <!-- /TOC -->
 
@@ -66,3 +67,11 @@
 
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+### **OpenShift MongoDB**
+
+[Product Page](https://developers.openshift.com/databases/mongodb.html)
+
+* *Free tier*: 1Gb storage
+* *Pros*: Easy to deploy
+* *Limitations*: Only support mongodb 2.4
