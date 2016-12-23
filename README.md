@@ -76,6 +76,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Sumologic](pages/logging.md/#sumologic)
 - [**Misc**](pages/misc.md)
     - [Let's encrypt](pages/misc.md/#lets-encrypt)
+    - [GorillaStack](pages/misc.md/#gorillastack)
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md/#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md/#countly-analytics)
