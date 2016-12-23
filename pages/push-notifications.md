@@ -14,10 +14,10 @@
 
 [Pricing page](https://azure.microsoft.com/en-us/pricing/details/notification-hubs/)
 
-* *Free tier*: 1 Million notifications, 500 active devices per namespace
-* *Pros*: No daily quotas ,supports Windows Notification Service, Apple Push Notification Service, Google Cloud Messaging, and Microsoft Push Notification Service
+* *Free tier*: 1,000,000 notifications, 500 active devices per namespace
+* *Pros*: No daily quotas, supports Windows Notification Service, Apple Push Notification Service, Google Cloud Messaging and Microsoft Push Notification Service
 * *Limitations*: 500 active devices, free tier has no SLA and no scheduled pushes
-* *Exceeding the free tier*: Pushes are interrupted when 1m sent. After 500 active devies new registrations are interrupted.
+* *Exceeding the free tier*: Pushes are interrupted when 1,000,000 sent. After 500 active devices new registrations are interrupted.
 
 ## Batch
 
