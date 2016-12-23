@@ -7,6 +7,7 @@
 - [GitHub Pages](#github-pages)
 - [GitLab Pages](#gitlab-pages)
 - [netlify](#netlify)
+- [slugex](#slugex)
 - [surge](#surge)
 
 <!-- /TOC -->
@@ -48,6 +49,14 @@
 
 * *Free tier*: Unlimited sites, custom domain and SSL
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
+
+### [slugex]
+
+[Product page](https://slugex.com/)
+
+- *Free tier*: Upload web sites upto 10MB in size
+- *Pros*: Allows you to deploy test websites through the terminal and the website
+- *Limitations*: no HTTPS or custom domains
 
 ## surge
 
