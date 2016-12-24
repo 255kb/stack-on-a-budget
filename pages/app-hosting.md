@@ -4,6 +4,7 @@
 
 - [AppHarbor](#appharbor)
 - [AWS EC2](#aws-ec2)
+- [AWS Lambda](#aws-lambda)
 - [GearHost](#gearhost)
 - [Gomix](#gomix)
 - [Google App Engine](#google-app-engine)
@@ -28,6 +29,14 @@
 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
+
+## AWS Lambda
+
+[Pricing page](https://aws.amazon.com/lambda/pricing/)
+
+* *Free tier*: First 1 million requests per month are free 400,000 GB-seconds of compute time per month
+* *Pros does not expire 12 months after account signup , No idle time calculation only calculate your actual request consumtion
+* *Limitations*:  Node.js, Python and Java are only officially supported as of 2016 and you can deploy go using Apex (https://github.com/apex/apex)
 
 ## GearHost
 
