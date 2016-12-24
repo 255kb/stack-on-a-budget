@@ -61,6 +61,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [mLab](pages/database-hosting.md/#mlab)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Redis Cloud](pages/database-hosting.md/#redis-cloud)
+    - [AWS DynamoDB](pages/database-hosting.md/#aws-dynamodb)
 - [**Emailing**](pages/emailing.md)
     - [Mailgun](pages/emailing.md/#mailgun)
     - [SparkPost](pages/emailing.md/#sparkpost)
