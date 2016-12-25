@@ -9,4 +9,4 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot -f README.md -t 5 --allow-redirect --allow-timeout
+  - awesome_bot -f pages/*.md -t 5 --allow-timeout --allow-redirect
