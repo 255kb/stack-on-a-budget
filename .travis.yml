@@ -1,0 +1,12 @@
+# stack-on-a-budget
+
+language: ruby
+
+rvm:
+  - 2.2
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot -f README.md -t 5 --allow-redirect --allow-timeout
