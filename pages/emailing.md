@@ -4,6 +4,7 @@
 
 - [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
+- [Image-Charts](#image-charts)
 
 <!-- /TOC -->
 
@@ -21,3 +22,10 @@
 * *Free tier*: 100,000 emails/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card
+
+## Image-Charts
+
+[Pricing page](https://image-charts.com/)
+
+* *Free tier*: unlimited image chart generation but with a watermark
+* *Pros*: drop-in-replacement for Google Image Charts, gif animation support

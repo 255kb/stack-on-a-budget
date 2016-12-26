@@ -64,6 +64,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Emailing**](pages/emailing.md)
     - [Mailgun](pages/emailing.md/#mailgun)
     - [SparkPost](pages/emailing.md/#sparkpost)
+    - [Image-Charts](pages/emailing.md/#image-charts)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Sentry](pages/error-reporting.md/#sentry)
 - [**File transformation**](pages/file-transformation.md)
