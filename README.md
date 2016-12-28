@@ -51,6 +51,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Shippable](pages/continuous-integration-delivery.md/#shippable)
     - [TeamCity](pages/continuous-integration-delivery.md/#teamcity)
     - [Travis CI (Org)](pages/continuous-integration-delivery.md/#travis-ci-org)
+- [**Cross browser testing**](pages/cross-browser-testing.md)
+    - [BrowserStack](pages/cross-browser-testing.md/#browserstack)
 - [**Database hosting**](pages/database-hosting.md)
     - [Cloudant CouchDB](pages/database-hosting.md/#cloudant-couchdb)
     - [Firebase database](pages/database-hosting.md/#firebase-database)
