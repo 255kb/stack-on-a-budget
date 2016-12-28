@@ -17,6 +17,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 # Table of Contents
 
 - [**Activity feeds**](pages/activity-feeds.md)
+    - [PubNub](pages/activity-feeds.md/#pubnub)
     - [Pusher](pages/activity-feeds.md/#pusher)
     - [Stream](pages/activity-feeds.md/#stream)
 - [**App hosting**](pages/app-hosting.md)
