@@ -39,6 +39,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
 - [**Code Review & Coverage**](pages/code-review-coverage.md)
     - [Coveralls](pages/code-review-coverage.md#coveralls)
+- [**Content management**](pages/content-management.md)
+    - [Contentful](pages/content-management.md#contentful)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
