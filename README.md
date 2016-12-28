@@ -22,6 +22,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**App hosting**](pages/app-hosting.md)
     - [AppHarbor](pages/app-hosting.md/#appharbor)
     - [AWS EC2](pages/app-hosting.md/#aws-ec2)
+    - [Azure App Service](pages/app-hosting.md/#azure-app-service)
     - [GearHost](pages/app-hosting.md/#gearhost)
     - [Gomix](pages/app-hosting.md/#gomix)
     - [Google App Engine](pages/app-hosting.md/#google-app-engine)
