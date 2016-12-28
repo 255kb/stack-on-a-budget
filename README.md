@@ -103,6 +103,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [GitHub Pages](pages/static-app-hosting.md/#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md/#gitlab-pages)
     - [netlify](pages/static-app-hosting.md/#netlify)
+    - [slugex](pages/static-app-hosting.md/#slugex)
     - [surge](pages/static-app-hosting.md/#surge)
 - [**User authentication**](pages/user-authentication.md)
     - [Auth0](pages/user-authentication.md/#auth0)
