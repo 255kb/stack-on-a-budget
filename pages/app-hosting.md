@@ -4,6 +4,7 @@
 
 - [AppHarbor](#appharbor)
 - [AWS EC2](#aws-ec2)
+- [Azure App Service](#azure-app-service)
 - [GearHost](#gearhost)
 - [Gomix](#gomix)
 - [Google App Engine](#google-app-engine)
@@ -28,6 +29,14 @@
 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: expires 12 months after sign-up
+
+## Azure App Service
+
+[Pricing page](https://azure.microsoft.com/en-us/pricing/details/app-service/)
+
+* *Free tier*: 10 applications, 1 shared core, 1GB RAM and 1GB storage per application
+* *Pros*: supports .NET, easy publishing directly from Git/GitHub/Bitbucket
+* *Limitations*: cumulative limit for CPU (60 minutes allowed every 24 hours), no SLA, no custom domain, no SSL
 
 ## GearHost
 
