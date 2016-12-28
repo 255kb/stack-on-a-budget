@@ -95,6 +95,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [onesignal](pages/push-notifications.md/#onesignal)
 - [**Searching**](pages/searching.md)
     - [Algolia](pages/searching.md/#algolia)
+- [**Serverless app hosting**](pages/serverless-app-hosting.md)    
+    - [Webtask](pages/serverless-app-hosting.md#webtask)
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md/#aws-s3)
     - [Firebase hosting](pages/static-app-hosting.md/#firebase-hosting)
