@@ -38,3 +38,10 @@
 
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10GB storage/project
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
+
+### Launchpad
+
+[Product page](https://launchpad.net/+tour)
+
+* *Free tier*: unlimited code hosting with Bazaar, free of Open Source
+* *Pros*: bug tracker, code review tool, community translations collaboration, building and hosting Ubuntu packages, mailing lists, simple project specification tracker
