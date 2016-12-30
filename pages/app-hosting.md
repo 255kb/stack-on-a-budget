@@ -82,6 +82,8 @@
 
 [Pricing page](https://www.openshift.com/pricing/index.html)
 
+The Red Hat OpenShift Online Free plan is available worldwide. As of August 1st, we will not be accepting new users onto the OpenShift (v2) platform
+
 * *Free tier*: 3 small gears (1 CPU, 512MB memory and 1GB storage)
 * *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
