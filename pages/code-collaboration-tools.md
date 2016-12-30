@@ -6,6 +6,7 @@
 - [Cloud9](#cloud9)
 - [GitHub](#github)
 - [GitLab](#gitlab)
+- [Launchpad](#launchpad)
 
 <!-- /TOC -->
 
@@ -39,7 +40,7 @@
 * *Free tier*: unlimited public/private projects, unlimited private collaborators, unlimited global storage, 10GB storage/project
 * *Pros*: provide issue tracking, code snippets, wiki and webhooks, can be also self hosted by downloading GitLab Community Edition, provide also free continuous integration services for GitLab.com users (on shared runners, see [GitLab CI](#gitlab-ci))
 
-### Launchpad
+## Launchpad
 
 [Product page](https://launchpad.net/+tour)
 
