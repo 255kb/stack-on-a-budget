@@ -44,5 +44,5 @@
 
 [Product page](https://launchpad.net/+tour)
 
-* *Free tier*: unlimited code hosting with Bazaar, free of Open Source
+* *Free tier*: unlimited code hosting with Bazaar, free for Open Source
 * *Pros*: bug tracker, code review tool, community translations collaboration, building and hosting Ubuntu packages, mailing lists, simple project specification tracker
