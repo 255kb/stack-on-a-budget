@@ -37,7 +37,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
     - [GitHub](pages/code-collaboration-tools.md#github)
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
-    - [Launchpad](pages/code-collaboration-tools.md#lanchpad)
+    - [Launchpad](pages/code-collaboration-tools.md#launchpad)
 - [**Code Review & Coverage**](pages/code-review-coverage.md)
     - [Coveralls](pages/code-review-coverage.md#coveralls)
 - [**Content management**](pages/content-management.md)
