@@ -2,10 +2,19 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Emaillabs](#emaillabs)
 - [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
 
 <!-- /TOC -->
+
+## Emaillabs
+
+[Pricing page](http://emaillabs.io/pricing/)
+
+* *Free tier*: 12,000 emails/month
+* *Pros*: SMTP or REST, API for logs and analytics
+* *Exceeding the free tier*: billing starts, no service interruptions
 
 ## Mailgun
 

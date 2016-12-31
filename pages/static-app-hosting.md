@@ -44,10 +44,11 @@
 
 ## netlify
 
-[Pricing page](https://www.netlify.com/pricing/)
+[Product page](https://www.netlify.com/features) / [Pricing page](https://www.netlify.com/pricing/)
 
-* *Free tier*: Unlimited sites, custom domain and SSL
+* *Free tier*: Unlimited sites, custom domain and SSL for private projects. Open source projects get [Pro plan for free](https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/) (free plan features plus form handling, prerendering, subdomain builds from Git branches, custom TLS certificates, domain aliases)
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
+
 
 ## surge
 
