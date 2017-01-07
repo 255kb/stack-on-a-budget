@@ -12,6 +12,7 @@
 - [Shippable](#shippable)
 - [TeamCity](#teamcity)
 - [Travis CI (Org)](#travis-ci-org)
+- [Visual Studio Team Services](#visual-studio-team-services)
 
 <!-- /TOC -->
 
@@ -88,3 +89,11 @@
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
+
+## Visual Studio Team Services
+
+[Pricing Page](https://www.visualstudio.com/team-services/pricing/)
+
+* *Free tier*: Unlimited projects, with 4 hosted build hours/month, and unlimited build hours for a single instance of the [self-hosted build agent](https://github.com/Microsoft/vsts-agent)
+* *Pros*: Provides Windows and Linux (preview) hosted build machines, and integrates with many tools/platforms (e.g. .NET, Node.js, iOS, Docker) and services (e.g. Azure, Google Play) via an [ecosystem](https://marketplace.visualstudio.com/vsts) of free extensions
+* *Limitations*: Can only run a single build or release concurrently, with a maximum duration of 30 minutes per run
