@@ -58,6 +58,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Database hosting**](pages/database-hosting.md)
     - [AWS DynamoDB](pages/database-hosting.md#aws-dynamodb)
     - [Cloudant CouchDB](pages/database-hosting.md#cloudant-couchdb)
+    - [Dydra](pages/database-hosting.md#dydra)
     - [Firebase database](pages/database-hosting.md#firebase-database)
     - [GearHost Database](pages/database-hosting.md#gearhost-database)
     - [Google Cloud Datastore](pages/database-hosting.md#google-cloud-datastore)

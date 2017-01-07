@@ -4,6 +4,7 @@
 
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
+- [Dydra](#dydra)
 - [Firebase database](#firebase-database)
 - [GearHost Database](#gearhost-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
@@ -31,6 +32,14 @@
 * *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
 * *Limitations*: Account on shared multitenant instance
 * *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
+## Dydra
+
+[Product page](https://dydra.com)
+
+* *Free tier*: Simple graph storage with unlimited repositories (public and private)
+* *Pros*: Repositories support [SPARQL Query](http://www.w3.org/TR/sparql11-protocol/#query-operation), [SPARQL Update](http://www.w3.org/TR/sparql11-protocol/#update-operation) and [SPARQL Graph protocol](http://www.w3.org/TR/sparql11-http-rdf-update/) and [query federation](http://docs.dydra.com/federation). There is also a simple Web interface for querying datasets, a Web API and a Command-line interface
+* *Limitations*: Currently, public repositories are unrestricted for modifications (see [this GitHub issue](https://github.com/dydra/support/issues/41))
 
 ## Firebase database
 
