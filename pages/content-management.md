@@ -21,5 +21,5 @@
 [Pricing page](https://prismic.io/pricing)
 
 * *Free tier*: Unlimited records (types include text, images, geo, and more), Unlimited API calls, 1 user
-* *Pros*: Node, PHP, Java, and Ruby SDKs and REST API access. Custom record types, advanced query capabilities, free multi user plan for Open Source/Open Content projects.
+* *Pros*: Node.js, PHP, Java, and Ruby SDKs and REST API access. Custom record types, advanced query capabilities, free multi user plan for Open Source/Open Content projects.
 * *Limitations*: no built-in localization support, custom types have no versioning support
