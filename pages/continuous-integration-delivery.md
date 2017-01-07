@@ -96,4 +96,4 @@
 
 * *Free tier*: Unlimited projects, with 4 hosted build hours/month, and unlimited build hours for a single instance of the [self-hosted build agent](https://github.com/Microsoft/vsts-agent)
 * *Pros*: Provides Windows and Linux hosted build machines, and integrates with many tools/platforms (e.g. .NET, Node, iOS, Docker) and services (e.g. Azure, Google Play) via an [ecosystem](https://marketplace.visualstudio.com/vsts) of free extensions
-* *Limitations:*: Can only run a single build or release concurrently, with a maximum duration of 30 minutes per run
+* *Limitations*: Can only run a single build or release concurrently, with a maximum duration of 30 minutes per run
