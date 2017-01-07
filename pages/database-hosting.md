@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
 - [Firebase database](#firebase-database)
 - [GearHost Database](#gearhost-database)
@@ -13,6 +14,14 @@
 - [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
+
+## AWS DynamoDB
+
+[Pricing page](https://aws.amazon.com/dynamodb/pricing/)
+
+- *Free tier*: 25 GB of Storage, 25 Units of Write Capacity, 25 Units of Read Capacity
+- *Pros*: A NoSQL database with both document and key-value store models, replicated with high availability.  The free tier is enough to handle up to 200M requests per month.
+- *Limitations*: One unit of read/write capacity handles one request per second (or two requests per second in the case of eventually consistent reads). Has both strongly consistent and eventually consistent reads.
 
 ## Cloudant CouchDB
 

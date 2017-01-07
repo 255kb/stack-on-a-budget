@@ -56,6 +56,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [TeamCity](pages/continuous-integration-delivery.md#teamcity)
     - [Travis CI (Org)](pages/continuous-integration-delivery.md#travis-ci-org)
 - [**Database hosting**](pages/database-hosting.md)
+    - [AWS DynamoDB](pages/database-hosting.md#aws-dynamodb)
     - [Cloudant CouchDB](pages/database-hosting.md#cloudant-couchdb)
     - [Firebase database](pages/database-hosting.md#firebase-database)
     - [GearHost Database](pages/database-hosting.md#gearhost-database)
