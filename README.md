@@ -42,6 +42,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Coveralls](pages/code-review-coverage.md#coveralls)
 - [**Content management**](pages/content-management.md)
     - [Contentful](pages/content-management.md#contentful)
+    - [prismic.io](pages/content-management.md#prismicio)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
