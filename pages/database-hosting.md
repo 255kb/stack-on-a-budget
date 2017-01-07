@@ -15,7 +15,7 @@
 
 <!-- /TOC -->
 
-### AWS DynamoDB
+## AWS DynamoDB
 
 [Pricing page](https://aws.amazon.com/dynamodb/pricing/)
 
