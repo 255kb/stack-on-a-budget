@@ -15,7 +15,7 @@
 [Pricing Page](https://azure.microsoft.com/en-us/pricing/details/application-insights/)
 
 * *Free tier*: Send up to 1GB/month, 90 day retention
-* *Pros*: Provides a powerful analytics query language, supports many platform SDKs (e.g. Node.js, .NET) and comes with a comprehensive APM
+* *Pros*: Provides a powerful analytics query language, supports numerous platform SDKs (e.g. Node.js, .NET), and comes with a comprehensive APM
 * *Exceeding the free tier*: $2.30/GB of data ingested/month
 
 ## Logentries
