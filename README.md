@@ -80,6 +80,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Cloudinary](pages/file-transformation.md#cloudinary)
     - [Filestack](pages/file-transformation.md#filestack)
 - [**Logging**](pages/logging.md)
+    - [Application Insights](pages/logging.md#application-insights)
     - [Logentries](pages/logging.md#logentries)
     - [Loggly](pages/logging.md#loggly)
     - [Splunk](pages/logging.md#splunk)
