@@ -69,6 +69,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [mLab](pages/database-hosting.md#mlab)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
+    - [Cloud AMPQ](pages/database-hosting.md#cloud-ampq)
 - [**Emailing**](pages/emailing.md)
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [Mailgun](pages/emailing.md#mailgun)

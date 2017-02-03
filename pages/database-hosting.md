@@ -13,6 +13,7 @@
 - [mLab](#mlab)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Redis Cloud](#redis-cloud)
+- [Cloud AMPQ](#cloud-ampq)
 
 <!-- /TOC -->
 
@@ -103,3 +104,11 @@
 
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+## Cloud AMPQ
+
+[Cloud AMPQ](https://www.cloudamqp.com/plans.html)
+
+* *Free tier*: 1M messages\mo, 100 queues
+* *Pros*: replication, monitoring, administration; supports: AWS, Google, DO
+* *Limitations*: up to 20 concurrent connections, 10k queued messages
