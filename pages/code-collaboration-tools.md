@@ -28,14 +28,11 @@
 
 ## Codeanywhere
 
-[Home page](https://codeanywhere.com)
-[Editor Features page](https://codeanywhere.com/features/editor)
-[Pricing page](https://codeanywhere.com/pricing)
+[Product page](https://codeanywhere.com) / [Pricing page](https://codeanywhere.com/pricing)
 
-* *Free tier*: Web-based IDE
-* *Pros*: Free forever; Usable wherever you have an internet connection; You can edit code, 'Google Docs style';
-* *Cons*: Limited amount of connections: 1 connection per connection type;
-* *Beyond free tier*: If you attempt to create more than 1 github connection, for example, it will block it and suggest you pay for Codeanywhere.
+* *Free tier*: Web-based IDE accessible from desktop or mobile device, unlimited live collaboration, 1 revision per file, 1 remote connection (FTP, virtual machine, cloud provider), 1 custom domain, 1 container with 256MB of RAM and 2GB storage
+* *Pros*: available from everywhere, allows live collaboration on code
+* *Exceeding the free tier*: If you attempt to create more than 1 GitHub connection, for example, it will block it and suggest you pay for Codeanywhere.
 
 ## GitHub
 
