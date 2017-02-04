@@ -35,6 +35,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
+    - [Codeanywhere](pages/code-collaboration-tools.md#codeanywhere)
     - [GitHub](pages/code-collaboration-tools.md#github)
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
     - [Launchpad](pages/code-collaboration-tools.md#launchpad)

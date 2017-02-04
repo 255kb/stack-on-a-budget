@@ -4,6 +4,7 @@
 
 - [Bitbucket](#bitbucket)
 - [Cloud9](#cloud9)
+- [Codeanywhere](#codeanywhere)
 - [GitHub](#github)
 - [GitLab](#gitlab)
 - [Launchpad](#launchpad)
@@ -24,6 +25,14 @@
 * *Free tier*: unlimited public workspace and 1 private workspace, 1 CPU, 512MB RAM & 2GB HDD per workspace
 * *Pros*: supports PHP, Node.js, Django, Ruby on Rails with MongoDB and MySQL database, can also choose basic Ubuntu installation
 * *Limitations*: only one private repository in the free version, workspaces go in hibernation if left unattended
+
+## Codeanywhere
+
+[Product page](https://codeanywhere.com) / [Pricing page](https://codeanywhere.com/pricing)
+
+* *Free tier*: Web-based IDE accessible from desktop or mobile device, unlimited live collaboration, 1 revision per file, 1 remote connection (FTP, virtual machine, cloud provider), 1 custom domain, 1 container with 256MB of RAM and 2GB storage
+* *Pros*: available from everywhere, allows live collaboration on code
+* *Exceeding the free tier*: If you attempt to create more than 1 GitHub connection, for example, it will block it and suggest you pay for Codeanywhere.
 
 ## GitHub
 
