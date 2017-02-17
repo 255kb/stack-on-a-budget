@@ -7,6 +7,7 @@
 - [Firebase authentication](#firebase-authentication)
 - [Ionic Auth](#ionic-auth)
 - [Stormpath](#stormpath)
+- [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
 
@@ -46,3 +47,7 @@
 
 - *Free tier*: unlimited users, 10k API calls/mo
 - *Pros*: complete user authentication, authorization and management through their API, client libraries for multiple languages
+
+## Visaul Studio Mobile Center
+
+
