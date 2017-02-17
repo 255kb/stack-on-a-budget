@@ -8,6 +8,7 @@
 - [Flurry Analytics](#flurry-analytics)
 - [Mixpanel](#mixpanel)
 - [Segment](#segment)
+- [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
 
@@ -58,3 +59,12 @@
 * *Free tier*: Unlimited [integrations](https://segment.com/integrations), 1 [source](https://segment.com/sources), 1 [warehouse](https://segment.com/warehouses), 1,000 MTU (monthly tracked user)/month, 1 user, 
 * *Pros*: Success engineering team is incredibly helpful around implementation and tool recommendation/consultation. Segment also supports web and mobile, as well as libraries in all of the popular languages. You have access to your raw data from day 1 to prevent vendor lock in.
 * *Limitations*: data replay (replaying your data into a new tool)
+
+## Visual Studio Mobile Center
+
+* *Free tier*: free during preview.
+* *Pros*: it provides a dashboard with metrics about active users, sessions, top devices, countries, languages and versions. It also allows to track the user’s interaction with the app by tracking events, as well as seeing the incoming logs in real-time. 
+* *Limitations*: unlimited reporting of up to 200 events with 5 properties max. per event. Retention is 90 days.
+
+
+
