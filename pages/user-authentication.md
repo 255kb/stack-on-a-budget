@@ -50,4 +50,6 @@
 
 ## Visaul Studio Mobile Center
 
+[Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
+
 
