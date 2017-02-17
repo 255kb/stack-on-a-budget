@@ -62,6 +62,8 @@
 
 ## Visual Studio Mobile Center
 
+[Pricing page](https://segment.com/pricing)
+
 * *Free tier*: free during preview.
 * *Pros*: it provides a dashboard with metrics about active users, sessions, top devices, countries, languages and versions. It also allows to track the user’s interaction with the app by tracking events, as well as seeing the incoming logs in real-time. 
 * *Limitations*: unlimited reporting of up to 200 events with 5 properties max. per event. Retention is 90 days.
