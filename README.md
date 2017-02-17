@@ -32,7 +32,6 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Zeit Now](pages/app-hosting.md#zeit-now)
 - [**App Testing**](pages/app-testing.md)
     - [Sauce Labs](pages/app-testing.md#sauce-labs)
-    - [Visual Studio Mobile Center](pages/app-testing.md#mobile-center)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
