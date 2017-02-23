@@ -93,10 +93,11 @@
 
 ## Visual Studio Mobile Center
 
-[Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
+[Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing) 
 
 * *Free tier*:1 concurrent build per account, 10 configured branches per app, 30 minutes max/build
 * *Pros*: easy to set up, targeted especially for mobile, out-of-the box support for iOS (Objective C/Swift), Android (Java), Xamarin, React Native
+* *Limitations*: Only supports Github repos
 
 ## Visual Studio Team Services
 
