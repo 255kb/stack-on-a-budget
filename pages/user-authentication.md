@@ -52,4 +52,9 @@
 
 [Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
 
+* *Free tier*: 10 mobile apps and 500 active users while in preview
+* *Pros*: offers multiple login providers (Azure Active Directory, Microsoft Account, Facebook, Google, Twitter), client libraries for iOS, Android, Cordova, Windows, Xamarin.Android, Xamarin.iOS, Xamarin.Forms), UI support
+
+
+
 
