@@ -127,4 +127,4 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Firebase authentication](pages/user-authentication.md#firebase-authentication)
     - [Ionic Auth](pages/user-authentication.md#ionic-auth)
     - [Stormpath](pages/user-authentication.md#stormpath)
-    - [Visual Studio Mobile Center](pages/user-authentication#visual-studio-mobile-center)
+    - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
