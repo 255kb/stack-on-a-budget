@@ -101,6 +101,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Segment](pages/mobile-analytics.md#segment)
 - [**Monitoring**](pages/monitoring.md)
     - [Librato](pages/monitoring.md#librato)
+    - [Sematext SPM](pages/monitoring.md#sematext-spm)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
 - [**Push notifications**](pages/push-notifications.md)
     - [Azure Notification Hubs](pages/push-notifications.md#azure-notification-hubs)
