@@ -70,7 +70,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [mLab](pages/database-hosting.md#mlab)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
-    - [Cloud AMPQ](pages/database-hosting.md#cloud-ampq)
+    - [Cloud AMQP](pages/database-hosting.md#cloud-amqp)
 - [**Database management**](pages/database-management.md)
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
