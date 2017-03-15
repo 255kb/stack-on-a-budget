@@ -16,6 +16,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 
 # Table of Contents
 
+- [**Application Performance Monitoring**](pages/apm.md)
+    - [Opbeat](pages/apm.md#opbeat)
 - [**Activity feeds**](pages/activity-feeds.md)
     - [Pusher](pages/activity-feeds.md#pusher)
     - [Stream](pages/activity-feeds.md#stream)
