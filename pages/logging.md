@@ -5,6 +5,7 @@
 - [Application Insights](#application-insights)
 - [Logentries](#logentries)
 - [Loggly](#loggly)
+- [Logsene](#logsene)
 - [Splunk](#splunk)
 - [Sumologic](#sumologic)
 
@@ -32,6 +33,14 @@
 
 * *Free tier*: Send up to 200MB/day, 7 day retention
 * *Pros*:  Centralized log management, automated log summaries, search & filters, simple scripts available to get you running in one copy & paste command.
+
+## Logsene
+
+[Product page](https://sematext.com/logsene/) - [Pricing page](https://sematext.com/logsene/#plans-and-pricing)
+
+* *Free tier*: Send up to 500 MB/day, 7 day retention
+* *Pros*: Unlimited hosts, sources, dashboard, and users. Elasticsearch API, integrated Kibana, Saved Queries, Alert Queries. Works with all major log shippers and log libraries, and has free iOS and Andoid log shipping libraries.  On Premises version available, too.
+* *Exceeding the free tier*: log collection stops until midnight UTC and then resumes
 
 ## Splunk
 
