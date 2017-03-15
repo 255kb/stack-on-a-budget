@@ -86,6 +86,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Application Insights](pages/logging.md#application-insights)
     - [Logentries](pages/logging.md#logentries)
     - [Loggly](pages/logging.md#loggly)
+    - [Logsene](pages/logging.md#logsene)
     - [Splunk](pages/logging.md#splunk)
     - [Sumologic](pages/logging.md#sumologic)
 - [**Misc**](pages/misc.md)
