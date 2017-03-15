@@ -3,7 +3,6 @@
 <!-- TOC depthFrom:2 -->
 
 - [AWS DynamoDB](#aws-dynamodb)
-- [Cloud AMQP](#cloud-amqp)
 - [Cloudant CouchDB](#cloudant-couchdb)
 - [Dydra](#dydra)
 - [Firebase database](#firebase-database)
@@ -24,14 +23,6 @@
 - *Free tier*: 25 GB of Storage, 25 Units of Write Capacity, 25 Units of Read Capacity
 - *Pros*: A NoSQL database with both document and key-value store models, replicated with high availability.  The free tier is enough to handle up to 200M requests per month.
 - *Limitations*: One unit of read/write capacity handles one request per second (or two requests per second in the case of eventually consistent reads). Has both strongly consistent and eventually consistent reads.
-
-## Cloud AMQP
-
-[Pricing page](https://www.cloudamqp.com/plans.html)
-
-* *Free tier*: 1M messages/month, 100 queues, up to 20 concurrent connections, 10k queued messages
-* *Pros*: offers replication, monitoring, administration interface; supports following hosting providers: AWS, Google, Digital Ocean
-* *Limitations*: Allows maximum idle queue time of 28 days
 
 ## Cloudant CouchDB
 

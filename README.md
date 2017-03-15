@@ -91,6 +91,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Loggly](pages/logging.md#loggly)
     - [Splunk](pages/logging.md#splunk)
     - [Sumologic](pages/logging.md#sumologic)
+- [**Messaging queue services**](pages/messaging-queue-services.md)
+    - [Cloud AMQP](pages/messaging-queue-services.md#cloud-amqp)
 - [**Misc**](pages/misc.md)
     - [GorillaStack](pages/misc.md#gorillastack)
     - [Let's encrypt](pages/misc.md#lets-encrypt)
