@@ -1,4 +1,4 @@
-# Application Performance Monitoring
+# Application performance monitoring
 
 <!-- TOC depthFrom:2 -->
 
