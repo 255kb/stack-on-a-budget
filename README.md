@@ -83,6 +83,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [Mailgun](pages/emailing.md#mailgun)
     - [SparkPost](pages/emailing.md#sparkpost)
+    - [Image Charts](pages/emailing.md#image-charts)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Rollbar](pages/error-reporting.md/#rollbar)
     - [Sentry](pages/error-reporting.md/#sentry)
