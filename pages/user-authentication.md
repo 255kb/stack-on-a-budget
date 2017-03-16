@@ -7,6 +7,7 @@
 - [Firebase authentication](#firebase-authentication)
 - [Ionic Auth](#ionic-auth)
 - [Stormpath](#stormpath)
+- [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
 
@@ -46,3 +47,14 @@
 
 - *Free tier*: unlimited users, 10k API calls/mo
 - *Pros*: complete user authentication, authorization and management through their API, client libraries for multiple languages
+
+## Visual Studio Mobile Center
+
+[Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
+
+* *Free tier*: 10 mobile apps and 500 active users while in preview
+* *Pros*: offers multiple login providers (Azure Active Directory, Microsoft Account, Facebook, Google, Twitter), client libraries for iOS, Android, Cordova, Windows, Xamarin.Android, Xamarin.iOS, Xamarin.Forms), UI support
+
+
+
+

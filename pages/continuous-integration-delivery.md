@@ -12,6 +12,7 @@
 - [Shippable](#shippable)
 - [TeamCity](#teamcity)
 - [Travis CI (Org)](#travis-ci-org)
+- [Visual Studio Mobile Center](#visual-studio-mobile-center)
 - [Visual Studio Team Services](#visual-studio-team-services)
 
 <!-- /TOC -->
@@ -89,6 +90,14 @@
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
 * *Limitations*: free tier is limited to open source projects
+
+## Visual Studio Mobile Center
+
+[Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing) 
+
+* *Free tier*: 1 concurrent build per account, 10 configured branches per app, 30 minutes max/build
+* *Pros*: easy to set up, targeted especially for mobile, out-of-the box support for iOS (Objective C/Swift), Android (Java), Xamarin, React Native
+* *Limitations*: Only supports Github repos
 
 ## Visual Studio Team Services
 
