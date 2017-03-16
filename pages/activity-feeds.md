@@ -2,10 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [PubNub](#pubnub)
 - [Pusher](#pusher)
 - [Stream](#stream)
 
 <!-- /TOC -->
+
+## PubNub
+
+[Pricing page](https://www.pubnub.com/pricing/)
+
+* *Free tier*: Unlimited channels, 100 max devices, 1 million messages/month, support
+* *Pros*: Send and receive messages and signals to any device in under 0.25 seconds worldwide. 70+ Realtime SDKs. Wonderful docs, and dashboard. Add on features such as BLOCKS (Serverless compute for building and scaling realtime applications.), Presence, Storage, Push Notifications, Analytics, and Access Management.
 
 ## Pusher
 
