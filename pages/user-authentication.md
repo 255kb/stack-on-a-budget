@@ -48,7 +48,7 @@
 - *Free tier*: unlimited users, 10k API calls/mo
 - *Pros*: complete user authentication, authorization and management through their API, client libraries for multiple languages
 
-## Visaul Studio Mobile Center
+## Visual Studio Mobile Center
 
 [Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
 
