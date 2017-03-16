@@ -34,6 +34,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Opbeat](pages/application-performance-monitoring.md#opbeat)
 - [**App Testing**](pages/app-testing.md)
     - [Sauce Labs](pages/app-testing.md#sauce-labs)
+    - [Applitools](pages/app-testing.md#applitools)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
