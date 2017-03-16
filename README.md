@@ -44,6 +44,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
     - [Launchpad](pages/code-collaboration-tools.md#launchpad)
 - [**Code Review & Coverage**](pages/code-review-coverage.md)
+    - [Codecov](pages/code-review-coverage.md#codecov)
     - [Coveralls](pages/code-review-coverage.md#coveralls)
 - [**Content as a service**](pages/content-as-a-service.md)
     - [Image Charts](pages/content-as-a-service.md#image-charts)
