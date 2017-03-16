@@ -3,7 +3,6 @@
 <!-- TOC depthFrom:2 -->
 
 - [Emaillabs](#emaillabs)
-- [Image Charts](#image-charts)
 - [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
 
@@ -16,13 +15,6 @@
 * *Free tier*: 12,000 emails/month
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
-
-## Image Charts
-
-[Pricing page](https://image-charts.com/)
-
-* *Free tier*: unlimited image charts generation but with a watermark
-* *Pros*: drop-in replacement for Google Image Charts, gif animation support
 
 ## Mailgun
 
