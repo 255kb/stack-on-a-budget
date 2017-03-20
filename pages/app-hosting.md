@@ -6,7 +6,7 @@
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
 - [GearHost](#gearhost)
-- [Gomix](#gomix)
+- [Glitch](#glitch)
 - [Google App Engine](#google-app-engine)
 - [Heroku](#heroku)
 - [IBM Bluemix](#ibm-bluemix)
@@ -47,9 +47,9 @@
 * *Limitation*: cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256 MB allocated every hour), 1 GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), no SSL support, only 32bits processes
 * *Exceeding the free tier*: whenever the CPU usage, RAM usage or consumed bandwidth reaches the limit within its timefame, the application goes offline until the counter resets
 
-## Gomix
+## Glitch
 
-[About page](https://gomix.com/about/)
+[About page](https://glitch.com/about/)
 
 * *Free tier*: instantly deployed Node.js app with collaboration tool
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
