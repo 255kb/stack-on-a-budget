@@ -8,6 +8,7 @@
 - [GearHost](#gearhost)
 - [Glitch](#glitch)
 - [Google App Engine](#google-app-engine)
+- [Google Compute Engine](#google-compute-engine)
 - [Heroku](#heroku)
 - [IBM Bluemix](#ibm-bluemix)
 - [OpenShift](#openshift)
@@ -57,11 +58,23 @@
 
 ## Google App Engine
 
+Platform for building scalable web applications and mobile backends
+
 [Product page](https://cloud.google.com/appengine)
 
-* *Free tier*: 28 instance hours/day, 1GB outgoing traffic/day, 1GB incoming traffic/day
+* *Free tier*: 28 instance hours/day, 1GB outgoing traffic/day, 1GB incoming traffic/day, 5GB Cloud storage, Shared memcache, 1000 search operations per day, 10 MB search indexing, 100 emails per day
 * *Pros*: managed, automatic scaling, plays well with other Google Cloud features (load balancing, datastores...), multiple languages supported
 * *Limitations*: free tier only applies to standard environment which supports Python, Java, PHP and Go. Flexible environment with Node.js and Ruby is not in the free tier.
+
+## Google Compute Engine
+
+Scalable, high-performance virtual machines
+
+[Product page](https://cloud.google.com/compute/)
+
+* *Free tier*: 1 f1-micro instance per month (US regions only), 30 GB-months HDD, 5 GB-months snapshot, 1 GB network egress from North America to all region destinations per month (excluding China and Australia)
+* *Pros*: plays well with other Google Cloud features (load balancing, datastores...)
+* *Limitations*: for now limited to US region only
 
 ## Heroku
 
