@@ -102,6 +102,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Logsene](pages/logging.md#logsene)
     - [Splunk](pages/logging.md#splunk)
     - [Sumologic](pages/logging.md#sumologic)
+    - [Bugfender](pages/logging.md#bugfender)
 - [**Messaging queue services**](pages/messaging-queue-services.md)
     - [Cloud AMQP](pages/messaging-queue-services.md#cloud-amqp)
 - [**Misc**](pages/misc.md)
