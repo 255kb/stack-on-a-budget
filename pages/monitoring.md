@@ -2,11 +2,19 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Google Stackdriver](#google-stackdriver)
 - [Librato](#librato)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
 
 <!-- /TOC -->
+
+## Google Stackdriver
+
+[Pricing page](https://cloud.google.com/stackdriver/pricing)
+
+* *Free tier*: 5 GB of logs with 7 day retention, read access API, basic email alerting
+* *Pros*: Integrated monitoring, logging and diagnostics suite for applications running on Google Cloud Platform and Amazon Web Services. 
 
 ## Librato
 
