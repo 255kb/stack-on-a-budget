@@ -20,5 +20,5 @@
 [Pricing page](https://cloud.google.com/pubsub/pricing)
 
 * *Free tier*: Free first 10GB
-* *Pros*: Replication, 10,000 messages per second, by default, millions per second and beyond, upon request. Integration with Google Cloud Dataflow for analytics.
+* *Pros*: Replication, 10k messages per second, by default, millions per second and beyond, upon request. Integration with Google Cloud Dataflow for analytics.
 
