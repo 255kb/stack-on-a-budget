@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Application Insights](#application-insights)
+- [Bugfender](#bugfender)
 - [Logentries](#logentries)
 - [Loggly](#loggly)
 - [Logsene](#logsene)
@@ -18,6 +19,13 @@
 * *Free tier*: Send up to 1GB/month, 90 day retention
 * *Pros*: Provides a powerful analytics query language, supports numerous platform SDKs (e.g. Node.js, .NET), and comes with a comprehensive APM
 * *Exceeding the free tier*: $2.30/GB of data ingested/month
+
+## Bugfender
+
+[Product page](https://bugfender.com/) - [Pricing page] https://bugfender.com/pricing)
+
+* *Free tier*: 100k daily logs, 1 day log retention, 1 app. 
+* *Pros*: Android & iOS SDKs, automatic UI logging, offline logs, device information, custom data. 
 
 ## Logentries
 
