@@ -57,3 +57,10 @@
 * *Free tier*: unlimited deployments, custom domain and basic SSL
 * *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
+
+## Appernetic.io
+[Pricing page](https://appernetic.io#section-pricing)
+* *Free tier*: 14 deployments per week, custom domain and basic SSL
+* *Pros*: deploy from CLI, Easy to use WYSIWYG editor and visual content tree view, Theme management and over 110 themes, Hosting with SSL and your own domain name, [auto-deployment](https://blog.appernetic.io/2016/04/09/how-to-set-up-a-static-hugo-website-on-github-pages-in-2-minutes/).
+* *Limitations*: 14 deployments per week
+* *Exceeding the free tier*: Pay as you want
