@@ -104,6 +104,6 @@ Scalable, high-performance virtual machines
 
 [Pricing page](https://zeit.co/now#pricing)
 
-* *Free tier*: 1GB storage, 1GB bandwidth/month, 20 deploys/month, free backups
-* *Pros*: auto scaling, multi cloud, free backups, served over HTTP/2, use Node.js last version, can also host static websites
+* *Free tier*: 1GB storage, 1GB bandwidth/month, 100MB logs/month, unlimited deploys/month, 3 concurrent instances
+* *Pros*: multi cloud, served over HTTP/2, use Node.js last version, can also host static websites
 * *Limitations*: maximum of 1MB per file, no custom domain, source code is always public
