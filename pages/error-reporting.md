@@ -18,7 +18,6 @@
 
 [Pricing page](https://sentry.io/pricing/)
 
-* *Free tier*: 10 events/minute, 5000 events/day, 30-day history
-* *Pros*: supports source maps, view source code in stack traces, request/session information available, filtering, API access, Single sign-on
-* *Limitations*: No pay-as-you-go model, 60-second rolling rate limit, limit 1 user
-
+* *Free tier*: 10,000 events/month, 30-day history
+* *Pros*: [BSD-licensed open source](https://github.com/getsentry/sentry), supports source maps and symbolication, view source code in stack traces, request/session information available, filtering, API access, Single sign-on
+* *Limitations*: Limit 1 user
