@@ -2,11 +2,20 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
 
 <!-- /TOC -->
+
+## Elastic Email
+
+[Pricing page](https://elasticemail.com/pricing/)
+
+* *Free tier*: 150,000 emails/month
+* *Pros*: powerful insights, HTTP API, 24/7 support
+* *Exceeding the free tier*: billing starts, no service interruptions
 
 ## Emaillabs
 

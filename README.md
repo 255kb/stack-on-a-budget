@@ -87,6 +87,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
+    - [Elastic Email](pages/emailing.md#elastic-email)
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [Mailgun](pages/emailing.md#mailgun)
     - [SparkPost](pages/emailing.md#sparkpost)
