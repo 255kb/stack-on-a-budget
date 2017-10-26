@@ -2,12 +2,20 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
-- [Elastic Email](#elastic-email)
 
 <!-- /TOC -->
+
+## Elastic Email
+
+[Pricing page](https://elasticemail.com/pricing/)
+
+* *Free tier*: 150,000 emails/month
+* *Pros*: powerful insights, HTTP API, 24/7 support
+* *Exceeding the free tier*: billing starts, no service interruptions
 
 ## Emaillabs
 
@@ -31,11 +39,3 @@
 * *Free tier*: 100,000 emails/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card
-
-## Elastic Email
-
-[Pricing page](https://elasticemail.com/pricing/)
-
-* *Free tier*: 150,000 emails/month
-* *Pros*: powerful insights, HTTP API, 24/7 support
-* *Exceeding the free tier*: billing starts, no service interruptions
