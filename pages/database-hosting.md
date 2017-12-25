@@ -11,6 +11,7 @@
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
 - [mLab](#mlab)
+- [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Redis Cloud](#redis-cloud)
 
@@ -84,10 +85,17 @@
 
 ## mLab
 
-[Pricing page](https://mlab.com/plans/pricing/)
+[Pricing page](https://mlab.com/plans/pricing)
 
 * *Free tier*: 500MB storage, daily backup
 * *Pros*: managed on AWS, Azure or Google Cloud, data browser, monitoring
+
+## MongoDB Atlas
+
+[Pricing page](https://www.mongodb.com/cloud/atlas/pricing)
+
+* *Free tier*: Start with a free 3-node replica set and 512 MB of storage / Shared RAM.
+* *Pros*: Fast, secure, and highly available MongoDB service for any scale.
 
 ## OpenShift MongoDB
 
