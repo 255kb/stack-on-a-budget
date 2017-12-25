@@ -78,7 +78,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Heroku Postgres](pages/database-hosting.md#heroku-postgres)
     - [Heroku Redis](pages/database-hosting.md#heroku-redis)
     - [mLab](pages/database-hosting.md#mlab)
-    - [MongoDB Atlas](pages/database-hosting.md#mongoDB-atlas)
+    - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
 - [**Database management**](pages/database-management.md)
