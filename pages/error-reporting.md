@@ -9,10 +9,10 @@
 ## Bugsnag
 [Pricing page](https://www.bugsnag.com/pricing)
 
-- *Free tier*: 7,500 free events monthly, unlimited projects, issue tracker and chat integrations, 7-day data storage
-_ *Pros*: Advanced error search and filtering, error spike and regression alerts, daily and weekly summary emails, support for sourcemaps, dSYMs, and Proguard mapping files
-*Limitations*: Limited to 1 user
-- *Exceeding the free tier*: Error reporting continues, but only new errors will be recorded. You'll be alerted to upgrade to increase your data allotment.
+* *Free tier*: 7,500 free events monthly, unlimited projects, issue tracker and chat integrations, 7-day data storage
+* *Pros*: Advanced error search and filtering, error spike and regression alerts, daily and weekly summary emails, support for sourcemaps, dSYMs, and Proguard mapping files
+* *Limitations*: Limited to 1 user
+* *Exceeding the free tier*: Error reporting continues, but only new errors will be recorded. You'll be alerted to upgrade to increase your data allotment.
 
 <!-- /TOC -->
 ## Rollbar
