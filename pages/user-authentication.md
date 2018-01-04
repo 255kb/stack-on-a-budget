@@ -6,7 +6,7 @@
 - [AWS Cognito](#aws-cognito)
 - [Firebase authentication](#firebase-authentication)
 - [Ionic Auth](#ionic-auth)
-- [Stormpath](#stormpath)
+- [Okta](#okta)
 - [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
@@ -41,12 +41,12 @@
 * *Free tier*: always free, unlimited users
 * *Pros*: offers multiple login providers (email, custom with in-app browser, Google, Facebook, Twitter, GitHub, Instagram, LinkedIn), provide forms
 
-## Stormpath
+## Okta
 
-[Pricing Page](https://stormpath.com/pricing)
+[Pricing Page](https://developer.okta.com/pricing/)
 
-- *Free tier*: unlimited users, 10k API calls/mo
-- *Pros*: complete user authentication, authorization and management through their API, client libraries for multiple languages
+- *Free tier*: Up to 7,000 monthly active users, Up to 10 custom apps, OAuth 2.0 & OpenID Connect.
+- *Pros*: Complete authentication, authorization and user management through their API, client libraries for multiple languages.
 
 ## Visual Studio Mobile Center
 
