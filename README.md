@@ -25,7 +25,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [AWS EC2](pages/app-hosting.md#aws-ec2)
     - [Azure App Service](pages/app-hosting.md#azure-app-service)
     - [GearHost](pages/app-hosting.md#gearhost)
-    - [Gomix](pages/app-hosting.md#gomix)
+    - [Glitch](pages/app-hosting.md#glitch)
     - [Google App Engine](pages/app-hosting.md#google-app-engine)
     - [Google Compute Engine](pages/app-hosting.md##google-compute-engine)
     - [Heroku](pages/app-hosting.md#heroku)
