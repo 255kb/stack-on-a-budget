@@ -7,6 +7,8 @@
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
 
+<!-- /TOC -->
+
 ## Bugsnag
 [Pricing page](https://www.bugsnag.com/pricing)
 
@@ -24,7 +26,6 @@
 - *Limitations*: 1000 sessions (continuous period of user activity) and 14 day data retention.
 - *Exceeding the free tier*: Notified on how to upgrade to higher tier and exceeding sessions will not be logged.
 
-<!-- /TOC -->
 ## Rollbar
 
 [Pricing page](https://rollbar.com/pricing/)
