@@ -94,6 +94,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [SparkPost](pages/emailing.md#sparkpost)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
+    - [LogRocket](pages/error-reporting.md#logrocket)
     - [Rollbar](pages/error-reporting.md#rollbar)
     - [Sentry](pages/error-reporting.md#sentry)
 - [**File transformation**](pages/file-transformation.md)

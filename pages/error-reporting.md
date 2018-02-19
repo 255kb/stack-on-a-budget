@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Bugsnag](#bugsnag)
+- [LogRocket](#logrocket)
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
 
@@ -13,6 +14,15 @@
 * *Pros*: Advanced error search and filtering, error spike and regression alerts, daily and weekly summary emails, support for sourcemaps, dSYMs, and Proguard mapping files
 * *Limitations*: Limited to 1 user
 * *Exceeding the free tier*: Error reporting continues, but only new errors will be recorded. You'll be alerted to upgrade to increase your data allotment.
+
+## LogRocket
+
+[Pricing Page](https://logrocket.com/pricing/)
+
+- *Free tier*: Access to all core features (log inspection, application state, video replay, help-desk integrations, etc.).
+- *Pros*: Stand out feature (above competition) is the ability to view a video of what the end-user saw when the error/exception was triggered/thrown.
+- *Limitations*: 1000 sessions (continuous period of user activity) and 14 day data retention.
+- *Exceeding the free tier*: Notified on how to upgrade to higher tier and exceeding sessions will not be logged.
 
 <!-- /TOC -->
 ## Rollbar
