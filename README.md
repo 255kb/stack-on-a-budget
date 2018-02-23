@@ -87,6 +87,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
     - [Metabase](pages/data-mining.md#metabase)
+- [**Data generation**](pages/data-generation.md)
+    - [FakeJSON](pages/data-generation.md#fakejson)
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
