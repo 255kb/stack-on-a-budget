@@ -1,10 +1,12 @@
-# Stack on a budget
+# Stack on a budget (Free Tier Driven Development FTDD)
+
+<h4 align="center"><img src="https://mockoon.com/images/logo.svg" width="200" alt="Mockoon logo"><br><a href="https://mockoon.com/">Mock APIs like a pro with this app I created</a></h4>
+
+# What is it?
 
 This repository offers a collection of services with great free tiers for developers on a budget. Because not everyone has 20$ per month to spend on app or database hosting for every single side-project.
 
 Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
-
-*This repository is part of a broader movement called Free Tier Driven Development or FTDD (courtesy of [@thedeerchild](https://twitter.com/thedeerchild))*
 
 # Contribution
 
