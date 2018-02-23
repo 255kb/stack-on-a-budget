@@ -1,6 +1,6 @@
 # Stack on a budget (Free Tier Driven Development FTDD)
 
-<h4 align="center"><img src="https://mockoon.com/images/logo.svg" width="200" alt="Mockoon logo"><br><a href="https://mockoon.com/">Mock APIs like a pro with this app I created</a></h4>
+<h4 align="center"><a href="https://mockoon.com/"><img src="https://mockoon.com/images/logo.svg" width="200" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4>
 
 # What is it?
 
