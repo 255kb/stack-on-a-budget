@@ -159,3 +159,5 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Ionic Auth](pages/user-authentication.md#ionic-auth)
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
+- [**Web Scraping**](pages/web-scraping.md)
+    - [Scraper API](pages/web-scraping.md#scraper-api)
