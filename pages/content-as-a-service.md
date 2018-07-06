@@ -6,6 +6,7 @@
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
 - [prismic.io](#prismicio)
+- [Storyblok](#storyblok)
 
 <!-- /TOC -->
 
@@ -41,3 +42,12 @@
 * *Free tier*: Unlimited records (types include text, images, geo, and more), Unlimited API calls, 1 user
 * *Pros*: Node.js, PHP, Java, and Ruby SDKs and REST API access. Custom record types, advanced query capabilities, free multi user plan for Open Source/Open Content projects.
 * *Limitations*: no built-in localization support, custom types have no versioning support
+
+## Storyblok
+
+[Pricing page](https://www.storyblok.com/pricing/)
+
+* *Free tier*: Unlimited content entries, unlimited components
+* *Pros*: Internationalization. Image and video asset support. Visual editor for editing a live site. Js/Node/Ruby/PHP SDKs. Headless CMS.
+* *Limitations*: 1 user. Max 50mb video size. No version history. No webhooks.
+* *Exceeding the free tier*: Will reach out if they think there you’re using it in an abusive way.
