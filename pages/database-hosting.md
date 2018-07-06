@@ -56,7 +56,6 @@
 
 * *Free tier*: 5MB MySQL database or 10MB MS SQL database
 * *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
-* *Limitations*: simultaneous connections seems to be limited (according to [this page](http://talk.gearhost.com/t/restrictions-or-limitations-of-the-free-account/105), approx. 15)
 * *Exceeding the free tier*: The database becomes locked and a kind email is sent asking to upgrade to paid plan
 
 ## Google Cloud Datastore
