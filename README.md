@@ -161,4 +161,5 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
+    - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
