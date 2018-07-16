@@ -2,9 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [ProxyCrawl](#proxycrawl)
 - [Scraper API](#scraper-api)
 
 <!-- /TOC -->
+
+## ProxyCrawl
+
+[ProxyCrawl Home Page](https://proxycrawl.com)
+
+* *Free tier*: 1,000 Free API Calls
+* *Pros*: Bypass blocks, captchas and allows to scrape javascript pages with a simple API without managing proxies. Supports all websites.
+* *Limitations*: Rate limited to 20 requests per second, may be increased upon request.
 
 ## Scraper API
 
