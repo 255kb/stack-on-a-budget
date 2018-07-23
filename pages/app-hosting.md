@@ -106,4 +106,4 @@ Scalable, high-performance virtual machines
 
 * *Free tier*: 1GB storage, 1GB bandwidth/month, 100MB logs/month, unlimited deploys/month, 3 concurrent instances
 * *Pros*: multi cloud, served over HTTP/2, use Node.js last version, can also host static websites
-* *Limitations*: maximum of 1MB per file, no custom domain, source code is always public
+* *Limitations*: maximum of 5MB per file, no custom domain, source code is always public
