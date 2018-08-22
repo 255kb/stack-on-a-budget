@@ -1,6 +1,6 @@
 # Stack on a budget (Free Tier Driven Development FTDD)
 
-![CircleCI](https://circleci.com/gh/255kb/stack-on-a-budget.svg?style=shield&circle-token=72380331db2e42e2582efa022e07bd61fa692f3d)
+[![CircleCI](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master.svg?style=svg&circle-token=398473fa26ade43588ec31aaefa8e02191fbceca)](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master)
 
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
