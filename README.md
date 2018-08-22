@@ -1,5 +1,7 @@
 # Stack on a budget (Free Tier Driven Development FTDD)
 
+![CircleCI](https://circleci.com/gh/255kb/stack-on-a-budget.png?circle-token=72380331db2e42e2582efa022e07bd61fa692f3d)
+
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
     <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>    
