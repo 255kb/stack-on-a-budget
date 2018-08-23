@@ -165,5 +165,5 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Web Scraping**](pages/web-scraping.md)
     - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
-- [**Website testing**](pages/website-testing.md)
-    - [Checkbot](pages/website-testing.md#checkbot)
+- [**Website audit**](pages/website-audit.md)
+    - [Checkbot](pages/website-audit.md#checkbot)
