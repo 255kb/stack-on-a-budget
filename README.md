@@ -94,7 +94,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Data mining**](pages/data-mining.md)
     - [Metabase](pages/data-mining.md#metabase)
 - [**Dependency management**](pages/dependency-management.md)
-    - [Dependbaot](pages/dependency-management.md#dependabot)
+    - [Dependabot](pages/dependency-management.md#dependabot)
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
