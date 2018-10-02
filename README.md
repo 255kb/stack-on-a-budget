@@ -4,7 +4,7 @@
 
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
-    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>    
+    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>
 </div>
 
 # What is it?
@@ -93,6 +93,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
     - [Metabase](pages/data-mining.md#metabase)
+- [**Dependency management**](pages/dependency-management.md)
+    - [Dependabot](pages/dependency-management.md#dependabot)
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
