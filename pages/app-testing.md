@@ -2,19 +2,11 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [App Testing](#app-testing)
-  - [Sauce Labs](#sauce-labs)
-  - [Applitools](#applitools)
-  - [LambdaTest](#lambdatest)
+- [Applitools](#applitools)
+- [LambdaTest](#lambdatest)
+- [Sauce Labs](#sauce-labs)
 
 <!-- /TOC -->
-
-## Sauce Labs
-
-[Pricing page](https://saucelabs.com/beta/signup/OSS/None)
-
-* *Free tier*: free for open source, unlimited automated testing, unlimited manual testing, 5 concurrent VMs, 2 subaccounts
-* *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
 
 ## Applitools
 
@@ -30,3 +22,10 @@
 
 * *Free tier*: Capped services quota per month
 * *Pros*: Testing on latest mobile and desktop browsers on cloud with screenshots and responsiveness across 44 devices.
+
+## Sauce Labs
+
+[Pricing page](https://saucelabs.com/beta/signup/OSS/None)
+
+* *Free tier*: free for open source, unlimited automated testing, unlimited manual testing, 5 concurrent VMs, 2 subaccounts
+* *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
