@@ -36,6 +36,6 @@
 
 [Pricing page](https://www.sparkpost.com/pricing/)
 
-* *Free tier*: 15,000 emails/month
+* *Free tier*: 15,000 emails in first 30 days, then 500/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card / upgrade plan
