@@ -1,8 +1,10 @@
 # Stack on a budget (Free Tier Driven Development FTDD)
 
+[![CircleCI](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master.svg?style=shield&circle-token=398473fa26ade43588ec31aaefa8e02191fbceca)](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master)
+
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
-    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>    
+    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>
 </div>
 
 # What is it?
@@ -40,8 +42,9 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
     - [Opbeat](pages/application-performance-monitoring.md#opbeat)
 - [**App Testing**](pages/app-testing.md)
-    - [Sauce Labs](pages/app-testing.md#sauce-labs)
     - [Applitools](pages/app-testing.md#applitools)
+    - [LambdaTest](pages/app-testing.md#LambdaTest)
+    - [Sauce Labs](pages/app-testing.md#sauce-labs)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
@@ -57,6 +60,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [FakeJSON](pages/content-as-a-service.md#fakejson)
     - [Image Charts](pages/content-as-a-service.md#image-charts)
     - [prismic.io](pages/content-as-a-service.md#prismicio)
+    - [Storyblok](pages/content-as-a-service.md#storyblok)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
@@ -90,6 +94,8 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
     - [Metabase](pages/data-mining.md#metabase)
+- [**Dependency management**](pages/dependency-management.md)
+    - [Dependabot](pages/dependency-management.md#dependabot)
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
@@ -160,4 +166,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
+    - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
+- [**Website audit**](pages/website-audit.md)
+    - [Checkbot](pages/website-audit.md#checkbot)
