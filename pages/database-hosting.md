@@ -40,7 +40,7 @@
 
 * *Free tier*: Simple graph storage with unlimited repositories (public and private)
 * *Pros*: Repositories support [SPARQL Query](http://www.w3.org/TR/sparql11-protocol/#query-operation), [SPARQL Update](http://www.w3.org/TR/sparql11-protocol/#update-operation) and [SPARQL Graph protocol](http://www.w3.org/TR/sparql11-http-rdf-update/) and [query federation](http://docs.dydra.com/federation). There is also a simple Web interface for querying datasets, a Web API and a Command-line interface
-* *Limitations*: Invite Only.Currently, public repositories are unrestricted for modifications (see [this GitHub issue](https://github.com/dydra/support/issues/41))
+* *Limitations*: Invite Only.
 
 ## Firebase database
 
