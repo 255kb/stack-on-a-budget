@@ -2,10 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Apify](#apify)
 - [ProxyCrawl](#proxycrawl)
 - [Scraper API](#scraper-api)
 
 <!-- /TOC -->
+
+## Apify
+
+[Apify Home Page](https://www.apify.com/)
+* *Free tier*: 5,000 Free Page Crawls Per Month
+* *Pros*: Handles proxies, provides simple interface and url classification to make scraping easier
+* *Limitations*: Rate limited to 1 crawler at a time, data retention of 7 days.
 
 ## ProxyCrawl
 
