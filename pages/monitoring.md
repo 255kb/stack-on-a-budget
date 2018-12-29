@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Google Stackdriver](#google-stackdriver)
+- [Healthchecks.io](#healthchecksio)
 - [Librato](#librato)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
@@ -14,7 +15,15 @@
 [Pricing page](https://cloud.google.com/stackdriver/pricing)
 
 * *Free tier*: 5 GB of logs with 7 day retention, read access API, basic email alerting
-* *Pros*: Integrated monitoring, logging and diagnostics suite for applications running on Google Cloud Platform and Amazon Web Services. 
+* *Pros*: Integrated monitoring, logging and diagnostics suite for applications running on Google Cloud Platform and Amazon Web Services.
+
+## Healthchecks.io
+
+[Product page](https://healthchecks.io)
+
+* *Free tier*: monitor up to 20 jobs, invite two team members.
+* *Pros*: Monitor cron jobs, background services, scheduled tasks. API access, many integrations, open-source (can be self-hosted).
+* *Limitations*: no SMS notifications for the free tier, no SSO login options
 
 ## Librato
 

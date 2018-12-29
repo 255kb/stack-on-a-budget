@@ -136,6 +136,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Visual Studio Mobile Center](pages/mobile-analytics.md#visual-studio-mobile-center)
 - [**Monitoring**](pages/monitoring.md)
     - [Google Stackdriver](pages/monitoring.md#google-stackdriver)
+    - [Healthchecks.io](pages/monitoring.md#healthchecksio)
     - [Librato](pages/monitoring.md#librato)
     - [Sematext SPM](pages/monitoring.md#sematext-spm)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
