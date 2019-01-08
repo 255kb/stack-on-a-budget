@@ -5,6 +5,7 @@
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
+- [Taskade](#taskade)
 
 <!-- /TOC -->
 
@@ -32,3 +33,12 @@
 * *Pros*: simple and easy to use, "one click" setup for Monitoring and Domains Protection, Prerendering supports ES6 (ECMAScript 2015)
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, Domain Names Protections continues to work as it's free for all accounts on all plans
+
+## Taskade
+
+[Home page](https://taskade.com)
+
+* *Free tier*: 1 workspace, unlimited tasks, lists, and collaborators
+* *Pros*: Simple and real-time task management
+* *Limitations*: No limits
+* *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
