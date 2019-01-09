@@ -38,9 +38,9 @@
 
 [Pricing page](https://github.com/pricing)
 
-* *Free tier*: unlimited public repositories, collaborators and organizations
+* *Free tier*: unlimited public repositories with unlimited collaborators and organizations. Unlimited private repositories with up to 3 collaborators
 * *Pros*: provide issue tracking, code snippets (Gist), code reviews, wiki, organizations/team management, 3rd party integration and hooks, has a desktop app
-* *Limitations*: no private repository in the free version
+* *Limitations*: private repositories limited to 3 collaborators
 
 ## GitLab
 
