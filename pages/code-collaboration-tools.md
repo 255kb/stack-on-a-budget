@@ -20,11 +20,11 @@
 
 ## Cloud9
 
-[Pricing page](https://c9.io/pricing)
+[Pricing page](https://aws.amazon.com/cloud9/pricing/)
 
 * *Free tier*: unlimited public workspace and 1 private workspace, 1 CPU, 512MB RAM & 2GB HDD per workspace
 * *Pros*: supports PHP, Node.js, Django, Ruby on Rails with MongoDB and MySQL database, can also choose basic Ubuntu installation
-* *Limitations*: only one private repository in the free version, workspaces go in hibernation if left unattended
+* *Limitations*: runs on the AWS EC2 Free Tier; so shares the EC2 limitation of expiry after 12 months.
 
 ## Codeanywhere
 
