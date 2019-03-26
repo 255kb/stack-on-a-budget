@@ -5,6 +5,7 @@
 - [AWS Lambda](#aws-lambda)
 - [Google Cloud Functions](#google-cloud-functions)
 - [Webtask](#webtask)
+- [Hook.io](#hook-io)
 
 <!-- /TOC -->
 
@@ -30,7 +31,7 @@
 * *Pros*: amazingly easy deployment of serverless Node.js web handlers, 500 KB storage for each handler, supports authentication with [Auth0](user-authentication.md/#auth0)
 * *Limitations*: 1 request/sec/container
 
-## Hook.io
+## Hook io
 
 [Pricing page](https://hook.io/pricing)
 * *Free Tier*: 1k requests/month, 2 concurrent requests, 20 services, logs, cron jobs, 100 datastore documents, 100MB file-system storage
