@@ -154,7 +154,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [AWS Lambda](pages/serverless-app-hosting.md#aws-lambda)
     - [Google Cloud Functions](pages/serverless-app-hosting.md#google-cloud-functions)
     - [Webtask](pages/serverless-app-hosting.md#webtask)
-    - [Hook.io)(pages/serverless-app-hosting.md#hook-io)
+    - [Hook.io](pages/serverless-app-hosting.md#hook-io)
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
     - [Firebase hosting](pages/static-app-hosting.md#firebase-hosting)
