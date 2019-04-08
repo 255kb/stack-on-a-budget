@@ -4,7 +4,6 @@
 
 - [AWS Lambda](#aws-lambda)
 - [Google Cloud Functions](#google-cloud-functions)
-- [Webtask](#webtask)
 - [Hook.io](#hook-io)
 
 <!-- /TOC -->
@@ -22,14 +21,6 @@
 
 * *Free tier*: 2M requests/month, 400k GB-seconds/month, 200k GHz-seconds/month, 5GB Outbound Date, Unlimited Inbound, Unlimited Outbound to Google APIs in same region
 * *Pros*: automatic scaling, easy to integrate and manage from Firebase console, Node.js support, Webhooks, integration with Google APIs like Cloud Pub/Sub
-
-## Webtask
-
-[Pricing page](https://webtask.io/pricing)
-
-* *Free tier*: 2 containers, cron jobs (schedule tasks)
-* *Pros*: amazingly easy deployment of serverless Node.js web handlers, 500 KB storage for each handler, supports authentication with [Auth0](user-authentication.md/#auth0)
-* *Limitations*: 1 request/sec/container
 
 ## Hook io
 
