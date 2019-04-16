@@ -42,6 +42,14 @@
 * *Pros*: Repositories support [SPARQL Query](http://www.w3.org/TR/sparql11-protocol/#query-operation), [SPARQL Update](http://www.w3.org/TR/sparql11-protocol/#update-operation) and [SPARQL Graph protocol](http://www.w3.org/TR/sparql11-http-rdf-update/) and [query federation](http://docs.dydra.com/federation). There is also a simple Web interface for querying datasets, a Web API and a Command-line interface
 * *Limitations*: Invite Only.
 
+## ElephantSQL
+
+[Product page](https://www.elephantsql.com/)
+
+* *Free tier*: 20MB storage, 5 simultaneous connections
+* *Pros*: SQL web browser for simple database inspection, secure connection over SSL, full automatic backups
+* *Limitations*: No SLA no in-memory cache, shared server
+
 ## Firebase database
 
 [Pricing page](https://firebase.google.com/pricing/)

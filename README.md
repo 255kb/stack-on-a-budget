@@ -81,6 +81,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Cloud AMQP](pages/database-hosting.md#cloud-amqp)
     - [Cloudant CouchDB](pages/database-hosting.md#cloudant-couchdb)
     - [Dydra](pages/database-hosting.md#dydra)
+    - [ElephantSQL](pages/database-hosting.md#elephantsql)
     - [Firebase database](pages/database-hosting.md#firebase-database)
     - [GearHost Database](pages/database-hosting.md#gearhost-database)
     - [Google Cloud Datastore](pages/database-hosting.md#google-cloud-datastore)
