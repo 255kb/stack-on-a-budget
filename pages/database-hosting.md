@@ -5,6 +5,7 @@
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
 - [Dydra](#dydra)
+- [ElephantSQL](#elephantsql)
 - [Firebase database](#firebase-database)
 - [GearHost Database](#gearhost-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
