@@ -124,11 +124,11 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Cloud AMQP](pages/messaging-queue-services.md#cloud-amqp)
     - [Google Cloud Pub/Sub](pages/messaging-queue-services.md#google-cloud-pubsub)
 - [**Misc**](pages/misc.md)
-    - [Let's encrypt](pages/misc.md#lets-encrypt)
+    - [ExchangeRate-API](pages/misc.md#exchangerate-api)
+    - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
     - [Taskade](pages/misc.md#taskade)
-    
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md#countly-analytics)
