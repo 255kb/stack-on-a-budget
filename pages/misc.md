@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [ExchangeRate-API](#exchangerate-api)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
@@ -9,7 +10,15 @@
 
 <!-- /TOC -->
 
-## Let's encrypt
+## ExchangeRate-API
+
+[Home page](https://www.exchangerate-api.com)
+
+* *Free tier*: Free JSON currency conversion rate dataset
+* *Pros*: No request limits, multiple data sources
+* *Limitations*: Only updated every 24 hours
+
+## Let's Encrypt
 
 [Home page](https://letsencrypt.org/)
 
