@@ -66,6 +66,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
     - [AppVeyor](pages/continuous-integration-delivery.md#appveyor)
     - [CircleCI](pages/continuous-integration-delivery.md#circleci)
+    - [Codefresh](pages/continuous-integration-delivery.md#codefresh)    
     - [Codeship](pages/continuous-integration-delivery.md#codeship)
     - [ContinuousPHP](pages/continuous-integration-delivery.md#continuousphp)
     - [Drone](pages/continuous-integration-delivery.md#drone)
