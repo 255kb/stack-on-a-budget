@@ -4,6 +4,7 @@
 
 - [AppVeyor](#appveyor)
 - [CircleCI](#circleci)
+- [Codefresh](#codefresh)
 - [Codeship](#codeship)
 - [ContinuousPHP](#continuousphp)
 - [Drone](#drone)
@@ -30,6 +31,14 @@
 
 * *Free tier*: unlimited repos and users, 1 concurrent build, 1,500 build minutes/month
 * *Pros*: supports containers (Docker), integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
+
+## Codefresh
+
+[Pricing page](https://codefresh.io/pricing/)
+
+* *Free tier*: unlimited repos and 3 users, 1 concurrent build. Unlimited builds per month.
+* *Pros*: Native Docker support, built-in Docker registry, built-in Helm repository. Distributed Docker cache. Kubernetes/Helm dashboard, integrated Docker swarm test environments
+
 
 ## Codeship
 
