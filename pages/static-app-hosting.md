@@ -32,8 +32,7 @@
 [Product page](https://pages.github.com/) / [More info](https://help.github.com/articles/what-is-github-pages/)
 
 * *Free tier*: 1GB storage, 100GB bandwidth or 100K requests/month, 10 builds per hour
-* *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains
-* *Limitations*: no HTTPS for custom domains (to solve this, use in combination with [Cloudflare](#cloudflare))
+* *Pros*: deploy by pushing on a repository branch (`gh-pages`), provide automatic page generator, support HTTPS (on github.io), supports custom domains (with HTTPS)
 
 ## GitLab Pages
 
