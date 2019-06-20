@@ -7,6 +7,7 @@
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
 - [Taskade](#taskade)
+- [loader.io](#loader.io)
 
 <!-- /TOC -->
 
@@ -51,3 +52,8 @@
 * *Pros*: Simple and real-time task management
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
+
+## loader.io
+*  *Free tier*: 10,000 clients, 1 target host, 2 urls per test, 1 minute tests
+*  *Pros*: 100,000 clients, unlimited hosts, 10 urls per test, 10 minute tests
+*  *Limitation*: No limits
