@@ -130,6 +130,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
     - [Taskade](pages/misc.md#taskade)
+    - [loader.io](pages/misc.md#loader.io)
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md#countly-analytics)
