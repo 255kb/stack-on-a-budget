@@ -60,6 +60,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [FakeJSON](pages/content-as-a-service.md#fakejson)
     - [Image Charts](pages/content-as-a-service.md#image-charts)
     - [prismic.io](pages/content-as-a-service.md#prismicio)
+    - [Sanity](pages/content-as-a-service.md#sanity)
     - [Storyblok](pages/content-as-a-service.md#storyblok)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
