@@ -6,6 +6,7 @@
 - [Countly Analytics](#countly-analytics)
 - [Firebase Analytics](#firebase-analytics)
 - [Flurry Analytics](#flurry-analytics)
+- [Indicative Analytics](#indicative-analytics)
 - [Mixpanel](#mixpanel)
 - [Segment](#segment)
 - [Visual Studio Mobile Center](#visual-studio-mobile-center)
@@ -43,6 +44,14 @@
 * *Free tier*: Flurry analytics is free at any scale
 * *Pros*: Extensive functionality and features including usage metrics, retention, real-time data, revenue metrics, crash reporting, custom user interaction and more. Flurry features an instant analysis tool (Flurry Explorer) that eliminates need for code and SQL for detailed look into user segmentation, interaction, funnels and retention. 
 * *Limitations*: only available for native Android and iOS (no JavaScript version)
+
+## Indicative Analytics
+
+[Pricing page](https://www.indicative.com/pricing/)
+
+* *Free Tier*: 1 Billion user events/actions per month, unlimited user seats, unlimited projects
+* *Pros*: Full access to all customer analytics tools including unique multi-path funnel analysis, segmentation, cohorts, no need for code or SQL 
+* *Limitations*: Data warehouse integrations are limited to paid tiers
 
 ## Mixpanel
 

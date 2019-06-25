@@ -135,6 +135,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Countly Analytics](pages/mobile-analytics.md#countly-analytics)
     - [Firebase Analytics](pages/mobile-analytics.md#firebase-analytics)
     - [Flurry Analytics](pages/mobile-analytics.md#flurry-analytics)
+    - [Indicative Analytics](pages/mobile-analytics.md#indicative-analytics)
     - [Mixpanel](pages/mobile-analytics.md#mixpanel)
     - [Segment](pages/mobile-analytics.md#segment)
     - [Visual Studio Mobile Center](pages/mobile-analytics.md#visual-studio-mobile-center)
