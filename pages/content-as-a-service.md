@@ -6,6 +6,7 @@
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
 - [prismic.io](#prismicio)
+- [Sanity](#sanity)
 - [Storyblok](#storyblok)
 
 <!-- /TOC -->
