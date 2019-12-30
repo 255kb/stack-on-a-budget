@@ -5,6 +5,7 @@
 - [Contentful](#contentful)
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
+- [PersianJSONPlaceholder](#persianjsonplaceholder)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
 - [Storyblok](#storyblok)
