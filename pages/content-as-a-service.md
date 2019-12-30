@@ -5,6 +5,7 @@
 - [Contentful](#contentful)
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
+- [PersianJSONPlaceholder](#persianjsonplaceholder)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
 - [Storyblok](#storyblok)
@@ -35,6 +36,12 @@
 
 * *Free tier*: unlimited image charts generation but with a watermark
 * *Pros*: drop-in replacement for Google Image Charts, gif animation support
+
+## PersianJSONPlaceholder
+
+[Product page](https://jsonplaceholder.ir/)
+
+* *Free tier*: Completely free to use
 
 ## prismic.io
 

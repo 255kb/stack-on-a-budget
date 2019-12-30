@@ -59,6 +59,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Contentful](pages/content-as-a-service.md#contentful)
     - [FakeJSON](pages/content-as-a-service.md#fakejson)
     - [Image Charts](pages/content-as-a-service.md#image-charts)
+    - [PersianJSONPlaceholder](pages/content-as-a-service.md#persianjsonplaceholder)
     - [prismic.io](pages/content-as-a-service.md#prismicio)
     - [Sanity](pages/content-as-a-service.md#sanity)
     - [Storyblok](pages/content-as-a-service.md#storyblok)
