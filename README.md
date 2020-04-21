@@ -36,7 +36,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Google App Engine](pages/app-hosting.md#google-app-engine)
     - [Google Compute Engine](pages/app-hosting.md##google-compute-engine)
     - [Heroku](pages/app-hosting.md#heroku)
-    - [IBM Bluemix](pages/app-hosting.md#ibm-bluemix)
+    - [IBM Cloud](pages/app-hosting.md#ibm-cloud)
     - [OpenShift](pages/app-hosting.md#openshift)
     - [Zeit Now](pages/app-hosting.md#zeit-now)
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
