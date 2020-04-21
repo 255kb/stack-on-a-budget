@@ -10,7 +10,7 @@
 - [Google App Engine](#google-app-engine)
 - [Google Compute Engine](#google-compute-engine)
 - [Heroku](#heroku)
-- [IBM Bluemix](#ibm-bluemix)
+- [IBM Cloud](#ibm-cloud)
 - [OpenShift](#openshift)
 - [Zeit Now](#zeit-now)
 
@@ -84,9 +84,9 @@ Scalable, high-performance virtual machines
 * *Pros*: supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
 * *Limitations*: instance will sleep after 30 mins of inactivity
 
-## IBM Bluemix
+## IBM Cloud
 
-[Pricing page](https://console.ng.bluemix.net/pricing/)
+[Pricing page](https://cloud.ibm.com/pricing/)
 
 * *Free tier*: 512MB/month
 * *Pros*: can deploy multiple smaller instance for free for a total of 512MB (4x128MB, 2x256MB...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
