@@ -171,6 +171,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [AWS Cognito](pages/user-authentication.md#aws-cognito)
     - [Firebase authentication](pages/user-authentication.md#firebase-authentication)
     - [Ionic Auth](pages/user-authentication.md#ionic-auth)
+    - [LoginRadius](pages/user-authentication.md#loginradius)
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
