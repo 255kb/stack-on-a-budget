@@ -28,7 +28,7 @@
 
 ## Cloudant CouchDB
 
-[Pricing page](https://cloudant.com/product/pricing/)
+[Pricing page](https://www.ibm.com/cloud/cloudant/pricing)
 
 * *Free tier*: 1$/GB per month, $0.015$/100 "heavy" requests, $0.015/500 "light" requests,  first $50 per month free
 * *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
