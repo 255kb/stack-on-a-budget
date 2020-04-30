@@ -40,7 +40,6 @@
 
 * *Free tier*: unlimited public repositories with unlimited collaborators and organizations. Unlimited private repositories with up to 3 collaborators
 * *Pros*: provide issue tracking, code snippets (Gist), code reviews, wiki, organizations/team management, 3rd party integration and hooks, has a desktop app
-* *Limitations*: private repositories limited to 3 collaborators
 
 ## GitLab
 
