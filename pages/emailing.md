@@ -4,7 +4,6 @@
 
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
-- [Mailgun](#mailgun)
 - [SparkPost](#sparkpost)
 
 <!-- /TOC -->
@@ -24,13 +23,6 @@
 * *Free tier*: 24,000 emails/month
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
-
-## Mailgun
-
-[Pricing page](http://www.mailgun.com/pricing)
-
-* *Free tier*: 5,000 emails/month for 3 months, then pay-as-you-go (can apparently be raised up to 30,000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics,
 
 ## SparkPost
 
