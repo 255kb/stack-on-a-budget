@@ -11,7 +11,9 @@
 - [Google Compute Engine](#google-compute-engine)
 - [Heroku](#heroku)
 - [IBM Cloud](#ibm-cloud)
+- [OpeNode](#openode)
 - [OpenShift](#openshift)
+- [Unubo](#unubo)
 - [Zeit Now](#zeit-now)
 
 <!-- /TOC -->
@@ -91,6 +93,12 @@ Scalable, high-performance virtual machines
 * *Free tier*: 512MB/month
 * *Pros*: can deploy multiple smaller instance for free for a total of 512MB (4x128MB, 2x256MB...), supports multiple languages (Java, JS, Go, PHP, Python Ruby), supports containers
 
+## OpeNode
+
+[Pricing page](https://www.openode.io/pricing)
+* *Free tier*: 100MB RAM, 1GB Storage, 100GB Bandwidth / Month
+* *Limitations*: Your code will be open-sourced unless you declare your project is educational (for students)
+
 ## OpenShift
 
 [Pricing page](https://www.openshift.com/pricing/index.html)
@@ -98,6 +106,13 @@ Scalable, high-performance virtual machines
 * *Free tier*: 1 project, 2GB memory, 2GB storage, no custom domain
 * *Pros*: gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
+
+## Unubo
+
+[Pricing page](https://unubo.com/pricing)
+* *Free tier*: 1 GB RAM, 1 CPU, and 500 MB storage, custom domain support
+* *Pros*: Multiple language support (Node, Python, Go, Ruby and static sites), free automated SSL certificate renewals
+* *Limitations*: No paid plans - seems new
 
 ## Zeit Now
 
