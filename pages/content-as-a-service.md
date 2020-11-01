@@ -5,6 +5,7 @@
 - [Contentful](#contentful)
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
+- [Localizely](#localizely)
 - [PersianJSONPlaceholder](#persianjsonplaceholder)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
@@ -36,6 +37,13 @@
 
 * *Free tier*: unlimited image charts generation but with a watermark
 * *Pros*: drop-in replacement for Google Image Charts, gif animation support
+
+## Localizely
+
+[Pricing page](https://localizely.com/pricing/)
+
+* *Free tier*: 250 string keys, 1 project, unlimited languages and users. 
+* *Pros*: Easy to use. Over-the-air translation updates. Completely free for Open Source projects without limitations.
 
 ## PersianJSONPlaceholder
 
