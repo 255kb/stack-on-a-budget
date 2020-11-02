@@ -2,19 +2,19 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [AppHarbor](#appharbor)
-- [AWS EC2](#aws-ec2)
-- [Azure App Service](#azure-app-service)
-- [GearHost](#gearhost)
-- [Glitch](#glitch)
-- [Google App Engine](#google-app-engine)
-- [Google Compute Engine](#google-compute-engine)
-- [Heroku](#heroku)
-- [IBM Cloud](#ibm-cloud)
-- [OpeNode](#openode)
-- [OpenShift](#openshift)
-- [Unubo](#unubo)
-- [Zeit Now](#zeit-now)
+- [App hosting](#app-hosting)
+  - [AppHarbor](#appharbor)
+  - [AWS EC2](#aws-ec2)
+  - [Azure App Service](#azure-app-service)
+  - [GearHost](#gearhost)
+  - [Glitch](#glitch)
+  - [Google App Engine](#google-app-engine)
+  - [Google Compute Engine](#google-compute-engine)
+  - [Heroku](#heroku)
+  - [IBM Cloud](#ibm-cloud)
+  - [OpeNode](#openode)
+  - [OpenShift](#openshift)
+  - [Vercel](#vercel)
 
 <!-- /TOC -->
 
@@ -107,16 +107,9 @@ Scalable, high-performance virtual machines
 * *Pros*: gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
 
-## Unubo
+## Vercel
 
-[Pricing page](https://unubo.com/pricing)
-* *Free tier*: 1 GB RAM, 1 CPU, and 500 MB storage, custom domain support
-* *Pros*: Multiple language support (Node, Python, Go, Ruby and static sites), free automated SSL certificate renewals
-* *Limitations*: No paid plans - seems new
-
-## Zeit Now
-
-[Pricing page](https://zeit.co/now#pricing)
+[Pricing page](https://vercel.com/pricing)
 
 * *Free tier*: 1GB storage, 1GB bandwidth/month, 100MB logs/month, unlimited deploys/month, 3 concurrent instances
 * *Pros*: multi cloud, served over HTTP/2, use Node.js last version, can also host static websites
