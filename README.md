@@ -96,6 +96,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Database management**](pages/database-management.md)
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
+    - [Count](pages/data-mining.md#count)
     - [Metabase](pages/data-mining.md#metabase)
 - [**Dependency management**](pages/dependency-management.md)
     - [Dependabot](pages/dependency-management.md#dependabot)

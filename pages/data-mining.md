@@ -2,9 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Count](#count)
 - [Metabase](#metabase)
 
 <!-- /TOC -->
+
+## Metabase
+
+[Product page](https://count.co/)
+
+* *Free tier*: Single user, single database connection
+* *Pros*: Connects to your database (BigQuery, PostgreSQL, others coming soon). Analysis is performed in a notebook interface, either by writing SQL or using drag-and-drop. Notebooks are rich documents containing analysis, media, and interactive elements.
+* *Limitations*: Cannot share notebooks publically in free tier, and can only connect to one database.
 
 ## Metabase
 
