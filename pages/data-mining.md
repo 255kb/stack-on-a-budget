@@ -7,7 +7,7 @@
 
 <!-- /TOC -->
 
-## Metabase
+## Count
 
 [Product page](https://count.co/)
 
