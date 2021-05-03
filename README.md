@@ -36,6 +36,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [IBM Cloud](pages/app-hosting.md#ibm-cloud)
     - [OpeNode](pages/app-hosting.md#openode)
     - [OpenShift](pages/app-hosting.md#openshift)
+    - [Oracle](pages/app-hosting.md#oracle)
     - [Vercel](pages/app-hosting.md#vercel)
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
     - [Datadog](pages/application-performance-monitoring.md#datadog)
