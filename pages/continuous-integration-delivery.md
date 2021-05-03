@@ -5,6 +5,7 @@
 - [AppVeyor](#appveyor)
 - [CircleCI](#circleci)
 - [Codefresh](#codefresh)
+- [Codemagic](#codemagic)
 - [Codeship](#codeship)
 - [ContinuousPHP](#continuousphp)
 - [Drone](#drone)
@@ -39,6 +40,12 @@
 * *Free tier*: unlimited repos and 3 users, 1 concurrent build. Unlimited builds per month.
 * *Pros*: Native Docker support, built-in Docker registry, built-in Helm repository. Distributed Docker cache. Kubernetes/Helm dashboard, integrated Docker swarm test environments
 
+## Codemagic
+
+[Pricing page](https://codemagic.io/pricing/)
+
+* *Free tier*: 500 build minutes every month. macOS standard VM.
+* *Pros*: easy to setup Flutter, ReactNative, Cordova, Ionic, and iOS/Android native projects. Publish to App Store and Google Play directly.
 
 ## Codeship
 
