@@ -133,7 +133,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Sumologic](pages/logging.md#sumologic)
     - [Bugfender](pages/logging.md#bugfender)
 - [**Messaging queue services**](pages/messaging-queue-services.md)
-    - [Cloud AMQP](pages/messaging-queue-services.md#cloud-amqp)
+    - [CloudAMQP](pages/messaging-queue-services.md#cloudamqp)
     - [Google Cloud Pub/Sub](pages/messaging-queue-services.md#google-cloud-pubsub)
 - [**Misc**](pages/misc.md)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
