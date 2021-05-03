@@ -7,6 +7,7 @@
 - [Logentries](#logentries)
 - [Loggly](#loggly)
 - [Logsene](#logsene)
+- [New Relic](#new-relic)
 - [Splunk](#splunk)
 - [Sumologic](#sumologic)
 
@@ -24,8 +25,8 @@
 
 [Product page](https://bugfender.com/) - [Pricing page](https://bugfender.com/pricing)
 
-* *Free tier*: 100k daily logs, 1 day log retention, 1 app. 
-* *Pros*: Android & iOS SDKs, automatic UI logging, offline logs, device information, custom data. 
+* *Free tier*: 100k daily logs, 1 day log retention, 1 app.
+* *Pros*: Android & iOS SDKs, automatic UI logging, offline logs, device information, custom data.
 
 ## Logentries
 
@@ -49,6 +50,14 @@
 * *Free tier*: Send up to 500 MB/day, 7 day retention
 * *Pros*: Unlimited hosts, sources, dashboard, and users. Elasticsearch API, integrated Kibana, Saved Queries, Alert Queries. Works with all major log shippers and log libraries, and has free iOS and Andoid log shipping libraries. On Premises version available, too.
 * *Exceeding the free tier*: log collection stops until midnight UTC and then resumes
+
+## New Relic
+
+[Pricing page](https://newrelic.com/pricing)
+
+* *Free tier*: 100 GB/month, 1 free full access user, unlimited free basic users.
+* *Pros*: Collect all your telemetry data (including logs) in one place to deliver full-stack observability and power AI-driven insights so you can confidently improve service reliability and accelerate time to market. Supports most popular back-end, front-end, infrastructure, and cloud frameworks and services.
+* *Exceeding the free tier*: After exceeding the 100 GB/month you will see a paywall asking you to add a credit card. Data collection will continue and access to key pages to lower data ingest will still be available.
 
 ## Splunk
 
