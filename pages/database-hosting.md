@@ -2,19 +2,21 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [AWS DynamoDB](#aws-dynamodb)
-- [Cloudant CouchDB](#cloudant-couchdb)
-- [Dydra](#dydra)
-- [ElephantSQL](#elephantsql)
-- [Firebase database](#firebase-database)
-- [GearHost Database](#gearhost-database)
-- [Google Cloud Datastore](#google-cloud-datastore)
-- [Heroku Postgres](#heroku-postgres)
-- [Heroku Redis](#heroku-redis)
-- [mLab](#mlab)
-- [MongoDB Atlas](#mongodb-atlas)
-- [OpenShift MongoDB](#openshift-mongodb)
-- [Redis Cloud](#redis-cloud)
+- [Database hosting](#database-hosting)
+  - [AWS DynamoDB](#aws-dynamodb)
+  - [Cloudant CouchDB](#cloudant-couchdb)
+  - [DataStax Astra Cassandra](#datastax-astra-cassandra)
+  - [Dydra](#dydra)
+  - [ElephantSQL](#elephantsql)
+  - [Firebase database](#firebase-database)
+  - [GearHost Database](#gearhost-database)
+  - [Google Cloud Datastore](#google-cloud-datastore)
+  - [Heroku Postgres](#heroku-postgres)
+  - [Heroku Redis](#heroku-redis)
+  - [mLab](#mlab)
+  - [MongoDB Atlas](#mongodb-atlas)
+  - [OpenShift MongoDB](#openshift-mongodb)
+  - [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
 
@@ -34,6 +36,14 @@
 * *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
 * *Limitations*: Account on shared multitenant instance
 * *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
+
+## DataStax Astra Cassandra
+[Product page](https://www.datastax.com/products/datastax-astra)
+
+* *Free tier*: 25$ per month for free, serverless databases. Up to 30 million reads, 4.5 million writes, 40GB in total.
+* *Pros*: Unlimited number of databases, Grafana-based health monitor, multiple providers (GCP, Azure, AWS)
+* *Limitations*: Does not support VPC peering, multi-region databases, materialized views, or logged batches
 
 ## Dydra
 
