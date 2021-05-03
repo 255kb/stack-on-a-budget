@@ -45,6 +45,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Applitools](pages/app-testing.md#applitools)
     - [LambdaTest](pages/app-testing.md#LambdaTest)
     - [Sauce Labs](pages/app-testing.md#sauce-labs)
+    - [TestingBot](pages/app-testing.md#testingbot)
 - [**Code collaboration tools**](pages/code-collaboration-tools.md)
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
