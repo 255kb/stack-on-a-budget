@@ -57,9 +57,9 @@
 
 [Pricing page](https://mixpanel.com/pricing/)
 
-* *Free tier*: unlimited projects, 20 millions data points/month/project, 1 custom event/project, 60 days data history
-* *Pros*: Ideal for mobile applications or "events" oriented websites
-* *Limitations*: limited to 3 team members, funnels and segmentation limited to 2 filters
+* *Free tier*: unlimited projects, data history, and seats, up to 100K monthly tracked users
+* *Pros*: Ideal for mobile applications or "events" oriented websites, integrates well with other services like Segment, many types of reports that can be saved and used in dashboards for tracking metrics over time
+* *Limitations*: some advanced reports feature gated, main limit is 5 saved reports per user, advanced data warehouse integrations are limited to paid tiers
 
 ## Segment
 
