@@ -15,6 +15,7 @@
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Redis Cloud](#redis-cloud)
+- [Supabase Postgres](#supabase-postgres)
 
 <!-- /TOC -->
 
