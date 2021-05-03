@@ -5,6 +5,8 @@
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
 - [Librato](#librato)
+- [New Relic](#new-relic)
+- [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
 
@@ -32,6 +34,14 @@
 * *Free tier*: (Developer plan) 100 metric streams at 60s resolution 1 day retention, 10 alerts, 1 dashboard
 * *Pros*: allows for submission of metrics from multiple sources, metrics can be submitted via an agent or directly to the API.
 
+## New Relic
+
+[Pricing page](https://newrelic.com/pricing)
+
+* *Free tier*: 100 GB/month, 1 free full access user, unlimited free basic users.
+* *Pros*: Collect all your telemetry data (including logs) in one place to deliver full-stack observability and power AI-driven insights so you can confidently improve service reliability and accelerate time to market. Supports most popular back-end, front-end, infrastructure, and cloud frameworks and services.
+* *Exceeding the free tier*: After exceeding the 100 GB/month you will see a paywall asking you to add a credit card. Data collection will continue and access to key pages to lower data ingest will still be available.
+
 ## Sematext SPM
 
 [Product page](https://sematext.com/spm) - [Pricing page](http://sematext.com/spm/#plans-and-pricing)
@@ -46,3 +56,13 @@
 * *Free tier*: 50 websites/servers, 5 minutes intervals
 * *Pros*: multiple check supported (HTTP, ping, port...), dashboard with statistics, supports alerts via multiple canals (e-mail, Twitter, Slack, HipChat, push, SMS, web-hook notifications...)
 * *Limitations*: Monitoring location cannot be customized
+
+
+## OnlineOrNot
+
+[Product page](http://onlineornot.com/) - [Pricing page](https://onlineornot.com/pricing)
+
+- *Free tier*: Uptime Monitoring: 10 websites, 5 minute intervals, Page Speed Monitoring: 10 websites, 12 hour intervals
+- *Pros*: Dashboard with uptime and page speed statistics, paid users are able to invite their whole team at no extra cost, supports alerts via multiple channels (e-mail, Slack)
+- *Limitations*: Currently only supports HTTP/HTTPS monitoring, not possible to customise the monitoring location
+- *Exceeding the free tier*: Not possible - users aren't able to add resources beyond the free limits. 

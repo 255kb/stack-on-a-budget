@@ -111,6 +111,6 @@ Scalable, high-performance virtual machines
 
 [Pricing page](https://vercel.com/pricing)
 
-* *Free tier*: 1GB storage, 1GB bandwidth/month, 100MB logs/month, unlimited deploys/month, 3 concurrent instances
-* *Pros*: multi cloud, served over HTTP/2, use Node.js last version, can also host static websites
-* *Limitations*: Project resources sleep after 30 minutes of inactivity, and must sleep 18 hours in a 72 hour period, subscription automatically expires after 60 days
+* *Free tier*: 100GB bandwidth per month, 100 deployments per day, 12 serverless functions written in Node.js, Go, Python and Ruby
+* *Pros*:  Next.js API endpoints are converted to serverless functions automatically. [Also see](static-app-hosting.md#vercel) for static hosting.
+* *Limitations*: Free tier doesn't include commercial usage
