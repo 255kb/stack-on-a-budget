@@ -123,7 +123,7 @@
 * *Pros*: Easy to deploy
 * *Limitations*: Only support mongodb 2.4
 
-## Oracle Cloud Free Tier
+## Oracle Cloud
 
 [Product Page](https://www.oracle.com/cloud/free/#always-free)
 
