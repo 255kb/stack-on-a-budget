@@ -56,3 +56,12 @@
 * *Free tier*: unlimited deployments, custom domain and basic SSL
 * *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
+
+
+## Vercel
+
+[Pricing Page](https://vercel.com/pricing)
+
+* *Free tier*: Unlimited websites, HTTPS-enabled custom domains, continuous deployment with git, Analytics for 1 project, [sponsorship](https://vercel.com/support/articles/can-vercel-sponsor-my-open-source-project) for open source projects
+* *Pros*: Various starter templates, DNS management, Edge network and first-class support for Next.js
+* *Limitations*: Free tier doesn't include commercial usage
