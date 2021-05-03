@@ -5,9 +5,9 @@
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
 - [Librato](#librato)
+- [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
-- [OnlineOrNot](#onlineornot)
 
 <!-- /TOC -->
 
