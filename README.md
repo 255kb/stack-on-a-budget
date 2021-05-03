@@ -31,7 +31,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [GearHost](pages/app-hosting.md#gearhost)
     - [Glitch](pages/app-hosting.md#glitch)
     - [Google App Engine](pages/app-hosting.md#google-app-engine)
-    - [Google Compute Engine](pages/app-hosting.md##google-compute-engine)
+    - [Google Compute Engine](pages/app-hosting.md#google-compute-engine)
     - [Heroku](pages/app-hosting.md#heroku)
     - [IBM Cloud](pages/app-hosting.md#ibm-cloud)
     - [OpeNode](pages/app-hosting.md#openode)
