@@ -20,3 +20,4 @@
 
 * *Free tier*: 100 GB/month, 1 free full access user, unlimited free basic users.
 * *Pros*: Collect all your telemetry data in one place to deliver full-stack observability and power AI-driven insights so you can confidently improve service reliability and accelerate time to market. Supports most popular back-end, front-end, infrastructure, and cloud frameworks and services.
+* *Exceeding the free tier*: After exceeding the 100 GB/month you will see a paywall asking you to add a credit card. Data collection will continue and access to key pages to lower data ingest will still be available.
