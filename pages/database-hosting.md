@@ -17,6 +17,7 @@
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
 - [Redis Cloud](#redis-cloud)
+- [Supabase Postgres](#supabase-postgres)
 
 <!-- /TOC -->
 
@@ -137,3 +138,12 @@
 
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+## Supabase Postgres
+
+[Pricing Page](https://supabase.io/pricing)
+
+* *Free tier*: 500Mb storage, 100 simultaneous connections
+* *Pros*: Open source, built in realtime capabilities and auth, 40+ extensions and pgbouncer preinstalled 
+* *Limitations*: Paused after 1 week of inactivity
+* *Exceeding the free tier*: There are no overage charges. Team will reach out asking user to upgrade to a higher plan if limits are exceeded. 
