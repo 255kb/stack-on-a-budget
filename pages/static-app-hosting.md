@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AWS S3](#aws-s3)
+- [Cloudflare Pages](#cloudflare-pages)
 - [DocEvent](#docevent)
 - [Firebase hosting](#firebase-hosting)
 - [GitHub Pages](#github-pages)
@@ -20,6 +21,14 @@
 * *Pros*: ACL policies, custom rules and MIME types, supports expiration, multiple regions world-wide
 * *Limitations*: Free for only 1st year for new customers
 * *Exceeding the free tier*: As cheap as USD 0.026 per GB per month
+
+## Cloudflare Pages
+
+[pricing page](https://pages.cloudflare.com)
+
+* *Free tier*: Unlimited sites, requests, and bandwidth. Only 1 concurrent builds at once with 500 builds/month limit.
+* *Pros*: Same as free tier + 5 concurrent builds and 5,000 builds/month limit.
+* *Business*: Same as free tier + 20 concurrent builds and 20,000 builds/month limit.
 
 ## DocEvent
 
