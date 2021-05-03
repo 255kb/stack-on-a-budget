@@ -5,6 +5,7 @@
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
 - [Librato](#librato)
+- [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
 
@@ -46,3 +47,13 @@
 * *Free tier*: 50 websites/servers, 5 minutes intervals
 * *Pros*: multiple check supported (HTTP, ping, port...), dashboard with statistics, supports alerts via multiple canals (e-mail, Twitter, Slack, HipChat, push, SMS, web-hook notifications...)
 * *Limitations*: Monitoring location cannot be customized
+
+
+## OnlineOrNot
+
+[Product page](http://onlineornot.com/) - [Pricing page](https://onlineornot.com/pricing)
+
+- *Free tier*: Uptime Monitoring: 10 websites, 5 minute intervals, Page Speed Monitoring: 10 websites, 12 hour intervals
+- *Pros*: Dashboard with uptime and page speed statistics, paid users are able to invite their whole team at no extra cost, supports alerts via multiple channels (e-mail, Slack)
+- *Limitations*: Currently only supports HTTP/HTTPS monitoring, not possible to customise the monitoring location
+- *Exceeding the free tier*: Not possible - users aren't able to add resources beyond the free limits. 
