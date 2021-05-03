@@ -4,6 +4,7 @@
 
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
+- [Postmark](#postmark)
 - [SparkPost](#sparkpost)
 
 <!-- /TOC -->
@@ -22,6 +23,14 @@
 
 * *Free tier*: 24,000 emails/month
 * *Pros*: SMTP or REST, API for logs and analytics
+* *Exceeding the free tier*: billing starts, no service interruptions
+
+## Postmark
+
+[Pricing page](https://postmarkapp.com/pricing)
+
+* *Free tier*: 100 emails/month
+* *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, webhooks, No credit card required
 * *Exceeding the free tier*: billing starts, no service interruptions
 
 ## SparkPost
