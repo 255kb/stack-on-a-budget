@@ -128,10 +128,10 @@
 
 [Product Page](https://www.oracle.com/cloud/free/#always-free)
 
-* *Free tier*: 2VMs with 1GB RAM, 2 Oracle Database VMs with 20GB storage, 2 Block Volumes with 100GB total, 10GB Object Storage, 10GB Archive Storage
-* *Pros*: Easy to deploy, load balancer, Monitoring, decent selection of pre-built OS images
-* *Limitations*: Only two databases total, 10TB Outbound Bandwidth per month
-* *Exceeding the free tier*: Service continues to work, can't exceed free tier
+* *Free tier*: 2 Autonomous Database instances with 1 OCPU and 20GB storage each
+* *Pros*: Flexible workload tuning
+* *Limitations*: Maximum of 20 database sessions
+
 
 ## Redis Cloud
 
