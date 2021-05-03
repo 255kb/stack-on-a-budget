@@ -2,10 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Opbeat](#elastic-apm)
+- [Datadog](#datadog)
+- [Elastic APM](#elastic-apm)
 - [New Relic](#new-relic)
 
 <!-- /TOC -->
+
+## Datadog
+
+[Pricing page](https://www.datadoghq.com/pricing/)
+
+* *Free tier*: Monitoring of 5 hosts with 1 day metric rentention.
+* *Pros*: Offer dashboards and integrations with hundreds of apps and services.
 
 ## Elastic APM
 

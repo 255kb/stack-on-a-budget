@@ -38,6 +38,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [OpenShift](pages/app-hosting.md#openshift)
     - [Vercel](pages/app-hosting.md#vercel)
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
+    - [Datadog](pages/application-performance-monitoring.md#datadog)
     - [Elastic APM](pages/application-performance-monitoring.md#elastic-apm)
     - [New Relic](pages/application-performance-monitoring.md#new-relic)
 - [**App Testing**](pages/app-testing.md)
