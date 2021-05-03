@@ -4,6 +4,7 @@
 
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
+- [DataStax Astra Cassandra](#datastax-astra-cassandra)
 - [Dydra](#dydra)
 - [ElephantSQL](#elephantsql)
 - [Firebase database](#firebase-database)
@@ -34,6 +35,14 @@
 * *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
 * *Limitations*: Account on shared multitenant instance
 * *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
+
+## DataStax Astra Cassandra
+[Product page](https://www.datastax.com/products/datastax-astra)
+
+* *Free tier*: 25$ per month for free, serverless databases. Up to 30 million reads, 4.5 million writes, 40GB in total.
+* *Pros*: Unlimited number of databases, Grafana-based health monitor, multiple providers (GCP, Azure, AWS)
+* *Limitations*: Does not support VPC peering, multi-region databases, materialized views, or logged batches
 
 ## Dydra
 

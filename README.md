@@ -82,6 +82,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [AWS DynamoDB](pages/database-hosting.md#aws-dynamodb)
     - [Cloud AMQP](pages/database-hosting.md#cloud-amqp)
     - [Cloudant CouchDB](pages/database-hosting.md#cloudant-couchdb)
+    - [DataStax Astra Cassandra](pages/database-hosting.md#datastax-astra-cassandra)
     - [Dydra](pages/database-hosting.md#dydra)
     - [ElephantSQL](pages/database-hosting.md#elephantsql)
     - [Firebase database](pages/database-hosting.md#firebase-database)
