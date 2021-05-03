@@ -18,6 +18,14 @@
 * *Pros*: No request limits, multiple data sources
 * *Limitations*: Only updated every 24 hours
 
+## Geocodio
+
+[Home page](https://www.geocod.io)
+
+* *Free tier*: 2,500 lookups per day
+* *Pros*: Forward and reverse geocoding, supports data appends such as Census data, congressional districts and timezones
+* *Limitations*: Only covers US and Canada
+
 ## Let's Encrypt
 
 [Home page](https://letsencrypt.org/)
