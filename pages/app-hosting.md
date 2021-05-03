@@ -14,6 +14,7 @@
   - [IBM Cloud](#ibm-cloud)
   - [OpeNode](#openode)
   - [OpenShift](#openshift)
+  - [Oracle](#oracle)
   - [Vercel](#vercel)
 
 <!-- /TOC -->
@@ -106,6 +107,13 @@ Scalable, high-performance virtual machines
 * *Free tier*: 1 project, 2GB memory, 2GB storage, no custom domain
 * *Pros*: gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
 * *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
+
+## Oracle
+
+[Pricing page](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm)
+*Free tier* 2 Compute instances (1/8th OCPU, 1GB memory each)
+*Pros* Free forever virtual machines
+*Limitations* OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
 
 ## Vercel
 
