@@ -93,6 +93,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [mLab](pages/database-hosting.md#mlab)
     - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
+    - [Openshift MongoDB](pages/database-hosting.md#oracle-cloud-free-tier)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
 - [**Database management**](pages/database-management.md)
     - [Redsmin](pages/database-management.md#redsmin)
