@@ -31,11 +31,3 @@
 * *Free tier*: 500 emails/month, 100 emails/day test accounts
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, real-time data with webhooks
 * *Exceeding the free tier*: sending stops, user must add a credit card / upgrade plan
-
-## Postmark
-
-[Pricing page](https://postmarkapp.com/pricing)
-
-* *Free tier*: 100 emails/month
-* *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, webhooks, No credit card required
-* *Exceeding the free tier*: billing starts, no service interruptions
