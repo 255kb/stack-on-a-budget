@@ -127,6 +127,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Google Cloud Pub/Sub](pages/messaging-queue-services.md#google-cloud-pubsub)
 - [**Misc**](pages/misc.md)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
+    - [Geocodio](pages/misc.md#geocodio)
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
