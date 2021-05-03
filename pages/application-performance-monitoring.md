@@ -2,7 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Opbeat](#opbeat)
+- [Opbeat](#elastic-apm)
 - [New Relic](#new-relic)
 
 <!-- /TOC -->
