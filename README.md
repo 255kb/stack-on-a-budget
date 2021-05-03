@@ -93,6 +93,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
+    - [Supabase Postgres](pages/database-hosting.md#supabase)
 - [**Database management**](pages/database-management.md)
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Data mining**](pages/data-mining.md)
