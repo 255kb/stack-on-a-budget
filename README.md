@@ -174,6 +174,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
     - [netlify](pages/static-app-hosting.md#netlify)
     - [surge](pages/static-app-hosting.md#surge)
+    - [Vercel](pages/static-app-hosting.md#vercel)
 - [**User authentication**](pages/user-authentication.md)
     - [Auth0](pages/user-authentication.md#auth0)
     - [AWS Cognito](pages/user-authentication.md#aws-cognito)
