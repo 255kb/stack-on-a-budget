@@ -15,6 +15,7 @@
 - [mLab](#mlab)
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
+- [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
 - [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
@@ -121,6 +122,14 @@
 * *Free tier*: 1Gb storage
 * *Pros*: Easy to deploy
 * *Limitations*: Only support mongodb 2.4
+
+## Oracle Cloud Free Tier
+
+[Product Page](https://www.oracle.com/cloud/free/#always-free)
+
+* *Free tier*: 1 OCPU and 20 GB storage
+* *Pros*: Easy to deploy
+* *Limitations*: Only two databases total
 
 ## Redis Cloud
 
