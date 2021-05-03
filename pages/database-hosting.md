@@ -130,7 +130,7 @@
 
 * *Free tier*: 2 Autonomous Database instances with 1 OCPU and 20GB storage each
 * *Pros*: Flexible workload tuning
-* *Limitations*: Maximum of 20 database sessions
+* *Limitations*: Maximum of 20 simultaneous database sessions
 
 
 ## Redis Cloud
