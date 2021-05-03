@@ -2,18 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Cloud AMQP](#cloud-amqp)
+- [CloudAMQP](#cloudamqp)
 - [Google Cloud Pub/Sub](#google-cloud-pubsub)
 
 <!-- /TOC -->
 
-## Cloud AMQP
+## CloudAMQP
 
 [Pricing page](https://www.cloudamqp.com/plans.html)
 
 * *Free tier*: 1M messages/month, 100 queues, up to 20 concurrent connections, 10k queued messages
-* *Pros*: offers replication, monitoring, administration interface; supports following hosting providers: AWS, Google, Digital Ocean
-* *Limitations*: Allows maximum idle queue time of 28 days
+* *Pros*: offers replication, monitoring, administration interface; supports following hosting providers: AWS, Azure, Google, Digital Ocean
+* *Limitations*: Allows maximum idle queue time of 28 days (can be removed by removing the default policy)
 
 ## Google Cloud Pub/Sub
 
