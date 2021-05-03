@@ -2,21 +2,20 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Database hosting](#database-hosting)
-  - [AWS DynamoDB](#aws-dynamodb)
-  - [Cloudant CouchDB](#cloudant-couchdb)
-  - [DataStax Astra Cassandra](#datastax-astra-cassandra)
-  - [Dydra](#dydra)
-  - [ElephantSQL](#elephantsql)
-  - [Firebase database](#firebase-database)
-  - [GearHost Database](#gearhost-database)
-  - [Google Cloud Datastore](#google-cloud-datastore)
-  - [Heroku Postgres](#heroku-postgres)
-  - [Heroku Redis](#heroku-redis)
-  - [mLab](#mlab)
-  - [MongoDB Atlas](#mongodb-atlas)
-  - [OpenShift MongoDB](#openshift-mongodb)
-  - [Redis Cloud](#redis-cloud)
+- [AWS DynamoDB](#aws-dynamodb)
+- [Cloudant CouchDB](#cloudant-couchdb)
+- [DataStax Astra Cassandra](#datastax-astra-cassandra)
+- [Dydra](#dydra)
+- [ElephantSQL](#elephantsql)
+- [Firebase database](#firebase-database)
+- [GearHost Database](#gearhost-database)
+- [Google Cloud Datastore](#google-cloud-datastore)
+- [Heroku Postgres](#heroku-postgres)
+- [Heroku Redis](#heroku-redis)
+- [mLab](#mlab)
+- [MongoDB Atlas](#mongodb-atlas)
+- [OpenShift MongoDB](#openshift-mongodb)
+- [Redis Cloud](#redis-cloud)
 
 <!-- /TOC -->
 
