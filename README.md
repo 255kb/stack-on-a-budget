@@ -169,6 +169,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Hook.io](pages/serverless-app-hosting.md#hook-io)
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
+    - [DocEvent](pages/static-app-hosting.md#docevent)
     - [Firebase hosting](pages/static-app-hosting.md#firebase-hosting)
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)

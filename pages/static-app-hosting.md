@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AWS S3](#aws-s3)
+- [DocEvent](#docevent)
 - [Firebase hosting](#firebase-hosting)
 - [GitHub Pages](#github-pages)
 - [GitLab Pages](#gitlab-pages)
@@ -19,6 +20,15 @@
 * *Pros*: ACL policies, custom rules and MIME types, supports expiration, multiple regions world-wide
 * *Limitations*: Free for only 1st year for new customers
 * *Exceeding the free tier*: As cheap as USD 0.026 per GB per month
+
+## DocEvent
+
+[pricing page](https://docevent.io/pricing/)
+
+* *Free tier*: Lets you transfer 200MB of FTP or sftp data, and 5000 operations, 5 accounts/users max
+* *Pros*: Free ftp and sftp server, 3 regions, us-east-1, eu-west-1, ap-southeast-2, don't need to host any servers
+* *Limitations*: The backend is your own S3 (or Azure Blob/Files or GCP) bucket, but this can also be free
+* *Exceeding the free tier*: You can no longer login to the FTP service if you go over your free tier allowance
 
 ## Firebase hosting
 
