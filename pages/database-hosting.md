@@ -4,6 +4,7 @@
 
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
+- [DataStax Astra Cassandra](#datastax-astra-cassandra)
 - [Dydra](#dydra)
 - [ElephantSQL](#elephantsql)
 - [Firebase database](#firebase-database)
@@ -14,7 +15,9 @@
 - [mLab](#mlab)
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
+- [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
 - [Redis Cloud](#redis-cloud)
+- [Supabase Postgres](#supabase-postgres)
 
 <!-- /TOC -->
 
@@ -34,6 +37,14 @@
 * *Pros*: Full CouchDB hosting. Can host also static sites and javascript applications
 * *Limitations*: Account on shared multitenant instance
 * *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
+
+
+## DataStax Astra Cassandra
+[Product page](https://www.datastax.com/products/datastax-astra)
+
+* *Free tier*: 25$ per month for free, serverless databases. Up to 30 million reads, 4.5 million writes, 40GB in total.
+* *Pros*: Unlimited number of databases, Grafana-based health monitor, multiple providers (GCP, Azure, AWS)
+* *Limitations*: Does not support VPC peering, multi-region databases, materialized views, or logged batches
 
 ## Dydra
 
@@ -113,9 +124,26 @@
 * *Pros*: Easy to deploy
 * *Limitations*: Only support mongodb 2.4
 
+## Oracle Cloud
+
+[Product Page](https://www.oracle.com/cloud/free/#always-free)
+
+* *Free tier*: 1 OCPU and 20 GB storage
+* *Pros*: Easy to deploy
+* *Limitations*: Only two databases total
+
 ## Redis Cloud
 
 [Pricing page](https://redislabs.com/pricing)
 
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones
+
+## Supabase Postgres
+
+[Pricing Page](https://supabase.io/pricing)
+
+* *Free tier*: 500Mb storage, 100 simultaneous connections
+* *Pros*: Open source, built in realtime capabilities and auth, 40+ extensions and pgbouncer preinstalled 
+* *Limitations*: Paused after 1 week of inactivity
+* *Exceeding the free tier*: There are no overage charges. Team will reach out asking user to upgrade to a higher plan if limits are exceeded. 

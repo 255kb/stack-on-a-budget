@@ -56,7 +56,7 @@
 
 * *Free tier*: instantly deployed Node.js app with collaboration tool
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-* *Limitations*: no custom domain, memory limited to 64MB
+* *Limitations*: no custom domain, memory limited to 512MB
 
 ## Google App Engine
 

@@ -16,4 +16,4 @@ jobs:
     - name: Check links
       run: |
         gem install awesome_bot
-        awesome_bot pages/*.md -t 5 --allow-timeout --allow-redirect --allow-ssl
+        awesome_bot pages/*.md --allow-timeout --allow-redirect --allow-ssl
