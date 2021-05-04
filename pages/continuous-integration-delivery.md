@@ -26,6 +26,12 @@
 * *Free tier*: unlimited projects for open source, 1 concurrent build
 * *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, Bitbucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
+## Bitrise
+
+[Pricing page](https://www.bitrise.io/pricing)
+
+* *Hobby tier*: On a credit-based plan, you can run up to 90 builds in parallel, with a build time limit of 90 minutes, until you use up your free credit bundle.
+
 ## CircleCI
 
 [Pricing page](https://circleci.com/pricing/)
