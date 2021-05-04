@@ -5,6 +5,7 @@
 - [Apify](#apify)
 - [ProxyCrawl](#proxycrawl)
 - [Scraper API](#scraper-api)
+- [PhantomJsCloud](#phantomjscloud)
 
 <!-- /TOC -->
 
