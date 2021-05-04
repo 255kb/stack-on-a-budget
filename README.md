@@ -88,6 +88,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [DataStax Astra Cassandra](pages/database-hosting.md#datastax-astra-cassandra)
     - [Dydra](pages/database-hosting.md#dydra)
     - [ElephantSQL](pages/database-hosting.md#elephantsql)
+    - [Fauna](pages/database-hosting.md#fauna)
     - [Firebase database](pages/database-hosting.md#firebase-database)
     - [GearHost Database](pages/database-hosting.md#gearhost-database)
     - [Google Cloud Datastore](pages/database-hosting.md#google-cloud-datastore)
