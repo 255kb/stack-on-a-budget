@@ -54,9 +54,9 @@
 
 [About page](https://glitch.com/about/)
 
-* *Free tier*: instantly deployed Node.js app with collaboration tool
+* *Free tier*: instantly deployed Node.js app with collaboration tool, 1000 project hours, 4000 requests/hour, 512MB ram, 200MB disk excluding node_modules, custom domain
 * *Pros*: based on Node.js, online editor with real time collaboration, live redeploy, great for prototyping and collaboration
-* *Limitations*: no custom domain, memory limited to 512MB
+* *Limitations*: free tier instances will sleep after 5 mins of inactivity but will turn on when someone accesses the website
 
 ## Google App Engine
 
