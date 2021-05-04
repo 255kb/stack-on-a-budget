@@ -4,6 +4,7 @@
 
 - [Bugsnag](#bugsnag)
 - [LogRocket](#logrocket)
+- [Muscula](#muscula)
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
 
