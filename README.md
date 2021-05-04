@@ -117,6 +117,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
     - [LogRocket](pages/error-reporting.md#logrocket)
+    - [Muscula](pages/error-reporting.md#muscula)
     - [Rollbar](pages/error-reporting.md#rollbar)
     - [Sentry](pages/error-reporting.md#sentry)
 - [**File transformation**](pages/file-transformation.md)
