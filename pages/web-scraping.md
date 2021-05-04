@@ -5,6 +5,7 @@
 - [Apify](#apify)
 - [ProxyCrawl](#proxycrawl)
 - [Scraper API](#scraper-api)
+- [PhantomJsCloud](#phantomjscloud)
 
 <!-- /TOC -->
 
@@ -30,3 +31,11 @@
 * *Free tier*: 1,000 Free API Calls Per Month
 * *Pros*: Handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
 * *Limitations*: Rate limited to 5 requests per second, may be increased upon request.
+
+## PhantomJsCloud
+
+[PhantomJsCloud Home Page](https://PhantomJsCloud.com/)
+
+* *Free tier*: About 500 pages/day ($0.05/day in credit)
+* *Pros*: Browser Automation, PDF Generation, Screenshots, Full request/response details in JSON.  Scales to hundreds of parallel requests.
+* *Limitations*: Free tier blocked from using the Builtin Anonymous Proxy system.
