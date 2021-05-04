@@ -4,6 +4,7 @@
 
 - [Bugsnag](#bugsnag)
 - [LogRocket](#logrocket)
+- [Muscula](#muscula)
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
 
@@ -25,6 +26,14 @@
 - *Pros*: Stand out feature (above competition) is the ability to view a video of what the end-user saw when the error/exception was triggered/thrown.
 - *Limitations*: 1000 sessions (continuous period of user activity) and 14 day data retention.
 - *Exceeding the free tier*: Notified on how to upgrade to higher tier and exceeding sessions will not be logged.
+
+## Muscula
+
+[Product page](https://www.muscula.com/) - [Pricing page](https://www.muscula.com/pricing)
+
+* *Free tier*: 1000 errors monthly, 30 days retetion, uptime monitoring
+* *Pros*: Eeasy to use, and easy to integrate. 
+* *Exceeding the free tier*: warning messages
 
 ## Rollbar
 
