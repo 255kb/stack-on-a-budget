@@ -137,6 +137,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Google Cloud Pub/Sub](pages/messaging-queue-services.md#google-cloud-pubsub)
 - [**Misc**](pages/misc.md)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
+    - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
     - [Geocodio](pages/misc.md#geocodio)
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)

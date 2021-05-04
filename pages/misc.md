@@ -3,6 +3,8 @@
 <!-- TOC depthFrom:2 -->
 
 - [ExchangeRate-API](#exchangerate-api)
+- [FingerprintJS Pro](#fingerprintjs-pro)
+- [Geocodio](#Geocodio)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
@@ -17,6 +19,15 @@
 * *Free tier*: Free JSON currency conversion rate dataset
 * *Pros*: No request limits, multiple data sources
 * *Limitations*: Only updated every 24 hours
+
+## FingerprintJS Pro
+
+[Pricing page](https://fingerprintjs.com/pricing/)
+
+* *Free tier*: up to 1000 unique visitors per month
+* *Pros*: identifies browser and hybrid mobile application users even when they purge data
+* *Limitations*: the rate limit is reduced to 3 identifications per second
+* *Exceeding the free tier*: the SDK returns an error
 
 ## Geocodio
 
