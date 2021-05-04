@@ -5,6 +5,7 @@
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [Postmark](#postmark)
+- [SendGrid](#sendgrid)
 - [SparkPost](#sparkpost)
 
 <!-- /TOC -->
@@ -32,6 +33,14 @@
 * *Free tier*: 100 emails/month
 * *Pros*: pre-built client libraries (Python, Php, Node.js...), SMTP or REST, webhooks, No credit card required
 * *Exceeding the free tier*: billing starts, no service interruptions
+
+## SendGrid
+
+[Pricing page](https://sendgrid.com/pricing/)
+
+* *Free tier*: 100 emails/day
+* *Pros*: Available API, SMTP relay and webhooks
+* *Limitations*: No email validation, no dedicated IP
 
 ## SparkPost
 

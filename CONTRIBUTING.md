@@ -26,8 +26,6 @@ As a rule of thumb free tiers too limited should be excluded. The idea is that a
 
 That is why free tiers limited in time should be excluded. Some exception could be made, I did one for AWS EC2 considering the duration of the free tier and the popularity of the service.
 
-You can view a list of excluded service on [this page](pages/excluded-services.md).
-
 ## Service description
 
 **Free tier description**

@@ -16,8 +16,6 @@ Feel free to contribute to existing services or add new ones. Please follow the 
 
 The goal is to have enough details about each free tier so developers can choose whether or not the service suits their needs just by reading the description.
 
-Please also have a look to the [List of excluded services](pages/excluded-services.md) where you can find which service has been considered and why it has been rejected.
-
 # Table of Contents
 
 - [**Activity feeds**](pages/activity-feeds.md)
@@ -114,6 +112,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Elastic Email](pages/emailing.md#elastic-email)
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [Postmark](pages/emailing.md#postmark)
+    - [SendGrid](pages/emailing.md#sendgrid)
     - [SparkPost](pages/emailing.md#sparkpost)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
