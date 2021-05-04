@@ -1,6 +1,6 @@
 # Static app hosting
 
-<!-- TOC depthFrom:2 -->
+<!-- TOC depthfrom:2 -->
 
 - [AWS S3](#aws-s3)
 - [Cloudflare Pages](#cloudflare-pages)
@@ -9,7 +9,9 @@
 - [GitHub Pages](#github-pages)
 - [GitLab Pages](#gitlab-pages)
 - [netlify](#netlify)
+- [Render](#render)
 - [surge](#surge)
+- [Vercel](#vercel)
 
 <!-- /TOC -->
 
@@ -66,6 +68,16 @@
 
 * *Free tier*: Unlimited sites, custom domain and SSL for private projects. Open source projects get [Pro plan for free](https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/) (free plan features plus form handling, prerendering, subdomain builds from Git branches, custom TLS certificates, domain aliases)
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
+
+
+## Render
+
+[Pricing page](https://render.com/pricing)
+
+* *Free tier*: includes CDN, automatic CD from git, custom domains with fully managed SSL, unlimited collaborators
+* *Pros*: no credit card needed to sign up
+* *Limitations*: 100 GB/month in egress bandwidth included
+* *Exceeding the free tier*: Usage above bandwidth is charged at $0.10/GB
 
 
 ## surge

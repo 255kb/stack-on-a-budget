@@ -179,6 +179,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
     - [netlify](pages/static-app-hosting.md#netlify)
+    - [Render](pages/static-app-hosting.md#render)
     - [surge](pages/static-app-hosting.md#surge)
     - [Vercel](pages/static-app-hosting.md#vercel)
 - [**User authentication**](pages/user-authentication.md)
