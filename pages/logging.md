@@ -51,6 +51,16 @@
 * *Pros*: Unlimited hosts, sources, dashboard, and users. Elasticsearch API, integrated Kibana, Saved Queries, Alert Queries. Works with all major log shippers and log libraries, and has free iOS and Andoid log shipping libraries. On Premises version available, too.
 * *Exceeding the free tier*: log collection stops until midnight UTC and then resumes
 
+
+## Muscula
+
+[Product page](https://www.muscula.com/) - [Pricing page](https://www.muscula.com/pricing)
+
+* *Free tier*: 1000 errors monthly, 30 days retetion
+* *Pros*: Eeasy to use, and easy to integrate logging and reporting, uptime monitoring included. 
+* *Exceeding the free tier*: warning messages
+
+
 ## New Relic
 
 [Pricing page](https://newrelic.com/pricing)
