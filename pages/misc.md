@@ -3,6 +3,8 @@
 <!-- TOC depthFrom:2 -->
 
 - [ExchangeRate-API](#exchangerate-api)
+- [FingerprintJS Pro](#fingerprintjs-pro)
+- [Geocodio](#Geocodio)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
