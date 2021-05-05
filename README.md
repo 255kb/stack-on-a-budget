@@ -79,7 +79,6 @@ The goal is to have enough details about each free tier so developers can choose
     - [Shippable](pages/continuous-integration-delivery.md#shippable)
     - [TeamCity](pages/continuous-integration-delivery.md#teamcity)
     - [Travis CI (Org)](pages/continuous-integration-delivery.md#travis-ci-org)
-    - [Visual Studio Mobile Center](pages/continuous-integration-delivery.md#visual-studio-mobile-center)
     - [Visual Studio Team Services](pages/continuous-integration-delivery.md#visual-studio-team-services)
 - [**Database hosting**](pages/database-hosting.md)
     - [AWS DynamoDB](pages/database-hosting.md#aws-dynamodb)
