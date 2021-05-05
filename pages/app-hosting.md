@@ -112,9 +112,9 @@ Scalable, high-performance virtual machines
 
 [Pricing page](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm)
 
-* *Free tier* 2 Compute instances (1/8th OCPU, 1GB memory each)
-* *Pros* Free forever virtual machines
-* *Limitations* OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
+* *Free tier*: 2 Compute instances (1/8th OCPU, 1GB memory each)
+* *Pros*: Free forever virtual machines
+* *Limitations*: OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
 
 ## Vercel
 
