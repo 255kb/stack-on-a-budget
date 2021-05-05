@@ -7,6 +7,7 @@
 - [DataStax Astra Cassandra](#datastax-astra-cassandra)
 - [Dydra](#dydra)
 - [ElephantSQL](#elephantsql)
+- [Fauna](#fauna)
 - [Firebase database](#firebase-database)
 - [GearHost Database](#gearhost-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
@@ -61,6 +62,15 @@
 * *Free tier*: 20MB storage, 5 simultaneous connections
 * *Pros*: SQL web browser for simple database inspection, secure connection over SSL, full automatic backups
 * *Limitations*: No SLA no in-memory cache, shared server
+
+## Fauna
+
+[Product page](https://fauna.com/)
+
+* *Free tier*: 100k read ops, 100k write ops, 500k compute ops, 100MB storage
+* *Pros*: Serverless with global replication and ACID transactions. Native GraphQL support, ABAC security model and support for relational, document, graph, and time-series patterns.
+* *Limitations*: No team management or preview sandbox on free tier.
+* *Exceeding the free tier*: Hard limits enforced on free tier. Subscription plans offer metered overages.
 
 ## Firebase database
 
