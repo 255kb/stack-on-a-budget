@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AppVeyor](#appveyor)
+- [Bitrise](#bitrise)
 - [CircleCI](#circleci)
 - [Codefresh](#codefresh)
 - [Codemagic](#codemagic)
@@ -24,6 +25,14 @@
 
 * *Free tier*: unlimited projects for open source, 1 concurrent build
 * *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, Bitbucket, GitLab...), deploys to Azure, Amazon and other hosting providers
+
+## Bitrise
+
+[Pricing page](https://www.bitrise.io/pricing)
+
+* *Free tier*: On a credit-based plan, you can run up to 90 builds in parallel, with a build time limit of 90 minutes, until you use up your free credit bundle.
+* *Pros*: runs are always finished even if you run out of credit in the middle.
+* *Limitations*: unused free monthly credit is lost
 
 ## CircleCI
 

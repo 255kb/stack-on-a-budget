@@ -68,6 +68,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)
     - [AppVeyor](pages/continuous-integration-delivery.md#appveyor)
+    - [Bitrise](pages/continuous-integration-delivery.md#bitrise)
     - [CircleCI](pages/continuous-integration-delivery.md#circleci)
     - [Codefresh](pages/continuous-integration-delivery.md#codefresh)
     - [Codemagic](pages/continuous-integration-delivery.md#codemagic)
