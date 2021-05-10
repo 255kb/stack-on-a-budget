@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AppVeyor](#appveyor)
+- [Bitrise](#bitrise)
 - [CircleCI](#circleci)
 - [Codefresh](#codefresh)
 - [Codemagic](#codemagic)
@@ -30,7 +31,9 @@
 
 [Pricing page](https://www.bitrise.io/pricing)
 
-* *Hobby tier*: On a credit-based plan, you can run up to 90 builds in parallel, with a build time limit of 90 minutes, until you use up your free credit bundle.
+* *Free tier*: On a credit-based plan, you can run up to 90 builds in parallel, with a build time limit of 90 minutes, until you use up your free credit bundle.
+* *Pros*: runs are always finished even if you run out of credit in the middle.
+* *Limitations*: unused free monthly credit is lost
 
 ## CircleCI
 
