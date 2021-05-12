@@ -39,6 +39,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
     - [Datadog](pages/application-performance-monitoring.md#datadog)
     - [Elastic APM](pages/application-performance-monitoring.md#elastic-apm)
+    - [Lightstep](pages/application-performance-monitoring.md#lightstep)
     - [New Relic](pages/application-performance-monitoring.md#new-relic)
 - [**App Testing**](pages/app-testing.md)
     - [Applitools](pages/app-testing.md#applitools)
