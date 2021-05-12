@@ -171,6 +171,8 @@ The goal is to have enough details about each free tier so developers can choose
     - [onesignal](pages/push-notifications.md#onesignal)
 - [**Searching**](pages/searching.md)
     - [Algolia](pages/searching.md#algolia)
+- [**Security**](pages/security.md)
+    - [Snyk](pages/security.md#snyk)
 - [**Serverless app hosting**](pages/serverless-app-hosting.md)
     - [AWS Lambda](pages/serverless-app-hosting.md#aws-lambda)
     - [Google Cloud Functions](pages/serverless-app-hosting.md#google-cloud-functions)
