@@ -13,6 +13,7 @@
 - [Google Cloud Datastore](#google-cloud-datastore)
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
+- [InfluxDB Cloud](#influxdb-cloud)
 - [mLab](#mlab)
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
@@ -111,6 +112,13 @@
 * *Free tier*: 25MB ram, 20 connections
 * *Pros*: dashboard, secured, analytics, access via Heroku CLI
 * *Limitations*: SLA with maximum of 4 hours of downtime/month
+
+## InfluxDB Cloud
+
+[Product page](https://www.influxdata.com/products/influxdb-cloud/)
+
+* *Free tier*: Writes: 5MB every 5 minutes, Tasks & Queries: 300MB every 5 minutes, Storage: 30 days of retention, Cardinality: Up to 10,000 series, Alerting: 2 alert checks and 2 notification rules, You can create up to: 5 dashboards, 5 tasks, 2 databases to store your time series data
+* *Pros*: purpose-built time series database, pre-built UI and dashboarding tools, background processing and monitoring agent
 
 ## mLab
 
