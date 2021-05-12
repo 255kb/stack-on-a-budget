@@ -95,6 +95,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Google Cloud Datastore](pages/database-hosting.md#google-cloud-datastore)
     - [Heroku Postgres](pages/database-hosting.md#heroku-postgres)
     - [Heroku Redis](pages/database-hosting.md#heroku-redis)
+    - [InfluxDB Cloud](pages/database-hosting.md#influxdb-cloud)
     - [mLab](pages/database-hosting.md#mlab)
     - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
