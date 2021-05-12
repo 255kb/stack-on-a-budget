@@ -4,6 +4,7 @@
 
 - [Datadog](#datadog)
 - [Elastic APM](#elastic-apm)
+- [Lightstep](#lightstep)
 - [New Relic](#new-relic)
 
 <!-- /TOC -->
@@ -22,6 +23,13 @@
 * *Free tier*: unlimited applications, 500K transactions/month, 24 hour data retention on metrics and errors, unlimited users.
 * *Pros*: Monitor front-end and back-end JavaScript applications and most common frameworks: React, Angular 1 and 2 and Node.js. Also supports Django and Flask.
 *Formerly Opbeat, acquired by Elastic*
+
+## Lightstep
+
+[Pricing page](https://lightstep.com/pricing)
+
+* *Free tier*: explore all features, 28 day data retention, 4MB/minute trace data, 7500 monthly active time series, unlimited users.
+* *Pros*: Unlimited infrastructure, application, runtime, cloud, third-party metrics ingestion.  Built-in integrations, dashboards, change intelligence, alerting, and real-time querying.
 
 ## New Relic
 
