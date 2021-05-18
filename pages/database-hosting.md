@@ -18,6 +18,7 @@
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
+- [Railway](#railway)
 - [Redis Cloud](#redis-cloud)
 - [Supabase Postgres](#supabase-postgres)
 
@@ -150,6 +151,13 @@
 * *Pros*: Flexible workload tuning
 * *Limitations*: Maximum of 20 simultaneous database sessions
 
+## Railway
+
+[Pricing page](https://railway.app/pricing)
+
+* *Free tier*: 1GB memory per container, shared CPU, 1GB disk usage (10GB hard limit), 100GB outbound traffic (unlimited inbound). [Read more](https://railway.app/legal/fair-use)
+* *Pros*: Allows hosting multiple databases (PostgreSQL, MySQL, Redis, MongoDB) and you can have your app and database on the same platform and run both of them for free. [Also see](app-hosting.md#railway)
+* *Limitations*: 3 projects, 2 plugins per project, 2 environments per project, 3 live deploys per environment.
 
 ## Redis Cloud
 
@@ -163,6 +171,6 @@
 [Pricing Page](https://supabase.io/pricing)
 
 * *Free tier*: 500Mb storage, 100 simultaneous connections
-* *Pros*: Open source, built in realtime capabilities and auth, 40+ extensions and pgbouncer preinstalled 
+* *Pros*: Open source, built in realtime capabilities and auth, 40+ extensions and pgbouncer preinstalled
 * *Limitations*: Paused after 1 week of inactivity
-* *Exceeding the free tier*: There are no overage charges. Team will reach out asking user to upgrade to a higher plan if limits are exceeded. 
+* *Exceeding the free tier*: There are no overage charges. Team will reach out asking user to upgrade to a higher plan if limits are exceeded.

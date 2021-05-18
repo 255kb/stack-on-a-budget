@@ -15,6 +15,7 @@
   - [OpeNode](#openode)
   - [OpenShift](#openshift)
   - [Oracle](#oracle)
+  - [Railway](#railway)
   - [Vercel](#vercel)
 
 <!-- /TOC -->
@@ -116,6 +117,12 @@ Scalable, high-performance virtual machines
 * *Pros*: Free forever virtual machines
 * *Limitations*: OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
 
+## Railway
+[Pricing page](https://railway.app/pricing)
+
+* *Free tier*: 1GB memory per container, shared CPU, 1GB disk usage (10GB hard limit), 100GB outbound traffic (unlimited inbound). [Read more](https://railway.app/legal/fair-use)
+* *Pros*: You can have your app and database on the same platform and run both of them for free. [Also see](database-hosting.md#railway)
+* *Limitations*: 3 projects, 2 plugins per project, 2 environments per project, 3 live deploys per environment.
 ## Vercel
 
 [Pricing page](https://vercel.com/pricing)
