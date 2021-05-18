@@ -121,7 +121,7 @@ Scalable, high-performance virtual machines
 [Pricing page](https://railway.app/pricing)
 
 * *Free tier*: 1GB memory per container, shared CPU, 1GB disk usage (10GB hard limit), 100GB outbound traffic (unlimited inbound). [Read more](https://railway.app/legal/fair-use)
-* *Pros*: You can have your app and database on the same platform and run both of them for free. [Also see](database-hosting.md#railway)
+* *Pros*: You can have your app and database on the same platform and run both of them for free. [Also see](database-hosting.md#railway) for database hosting.
 * *Limitations*: 3 projects, 2 plugins per project, 2 environments per project, 3 live deploys per environment.
 ## Vercel
 

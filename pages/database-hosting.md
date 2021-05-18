@@ -156,7 +156,7 @@
 [Pricing page](https://railway.app/pricing)
 
 * *Free tier*: 1GB memory per container, shared CPU, 1GB disk usage (10GB hard limit), 100GB outbound traffic (unlimited inbound). [Read more](https://railway.app/legal/fair-use)
-* *Pros*: Allows hosting multiple databases (PostgreSQL, MySQL, Redis, MongoDB) and you can have your app and database on the same platform and run both of them for free. [Also see](app-hosting.md#railway)
+* *Pros*: Allows hosting multiple databases (PostgreSQL, MySQL, Redis, MongoDB) and you can have your app and database on the same platform and run both of them for free. [Also see](app-hosting.md#railway) for app hosting.
 * *Limitations*: 3 projects, 2 plugins per project, 2 environments per project, 3 live deploys per environment.
 
 ## Redis Cloud
