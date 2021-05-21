@@ -4,6 +4,7 @@
 
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
+- [Mailgun](#mailgun)
 - [Postmark](#postmark)
 - [SendGrid](#sendgrid)
 - [SparkPost](#sparkpost)
@@ -25,6 +26,15 @@
 * *Free tier*: 24,000 emails/month
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
+
+## Mailgun
+
+[Pricing page](https://www.mailgun.com/pricing/)
+
+* *Free tier*: 5000 free emails/month for 3 months, 1 day log retention
+* *Pros*: Email APIs, SMTP Relay, Webhooks
+* *Limitations*: No custom domains. You can only send to Authorized Recipients; and there is a maximum of 5 Authorized Recipients
+* *Exceeding the free tier*: After 3 months, if billing is enabled, continues with pay-as-you-go model 
 
 ## Postmark
 
