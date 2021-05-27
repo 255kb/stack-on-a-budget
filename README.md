@@ -163,6 +163,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Librato](pages/monitoring.md#librato)
     - [New Relic](pages/monitoring.md#new-relic)
     - [OnlineOrNot](pages/monitoring.md#onlineornot)
+    - [PingPong](pages/monitoring.md#pingpong)
     - [Sematext SPM](pages/monitoring.md#sematext-spm)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
 - [**Push notifications**](pages/push-notifications.md)
