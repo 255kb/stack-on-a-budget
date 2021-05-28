@@ -9,6 +9,7 @@
 - [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
 - [Uptime Robot](#uptime-robot)
+- [PingPong](#pingpong)
 
 <!-- /TOC -->
 
@@ -65,4 +66,12 @@
 - *Free tier*: Uptime Monitoring: 10 websites, 5 minute intervals, Page Speed Monitoring: 10 websites, 12 hour intervals
 - *Pros*: Dashboard with uptime and page speed statistics, paid users are able to invite their whole team at no extra cost, supports alerts via multiple channels (e-mail, Slack)
 - *Limitations*: Currently only supports HTTP/HTTPS monitoring, not possible to customise the monitoring location
-- *Exceeding the free tier*: Not possible - users aren't able to add resources beyond the free limits. 
+- *Exceeding the free tier*: Not possible - users aren't able to add resources beyond the free limits.
+
+## PingPong
+
+[Product page](https://pingpong.one/) - [Pricing page](https://pingpong.one/pricing/)
+
+* *Free tier*: Public, customizable status page with custom subdomain with SSL
+* *Pros*: Includes unlimited components, incident reports and scheduled maintenance. With badges and integrations to showcase system status on users' website
+* *Limitations*: No service monitoring, team members, subscribers, custom domain, only e-mail notifications, Slack manager, sync subscribers with customer service software like Intercom
