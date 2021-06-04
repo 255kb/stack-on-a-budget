@@ -4,6 +4,7 @@
 
 - [Contentful](#contentful)
 - [FakeJSON](#fakejson)
+- [Dummy Image](#dummy-image)
 - [Image Charts](#image-charts)
 - [Localizely](#localizely)
 - [PersianJSONPlaceholder](#persianjsonplaceholder)
@@ -21,6 +22,13 @@
 * *Pros*: access to modern web app for content modeling and management, webhooks for integrating with other apps
 * *Limitations*: no content localization, community support
 * *Exceeding the free tier*: upon approach of a quota, Contentful will ask for a credit card in order to charge for over-limit usage
+
+## Dummy Image
+
+[Product page](https://dummyimage.com/)
+
+* *Free tier*: Completely free to use
+* *Pros*: Dynamically generate a dummy image at any size, color, and with custom text
 
 ## FakeJSON
 
