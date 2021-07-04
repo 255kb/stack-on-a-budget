@@ -9,7 +9,6 @@
 - [ElephantSQL](#elephantsql)
 - [Fauna](#fauna)
 - [Firebase database](#firebase-database)
-- [GearHost Database](#gearhost-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
@@ -81,14 +80,6 @@
 * *Free tier*: 1GB storage, 10GB/month transfer, 100 simultaneous connections
 * *Pros*: really fast can be used for real time pub/sub, libraries for multiple platforms, designed to be used directly from frontend (with security rules), integrates with Firebase Authentication
 * *Limitations*: no backups, limited queries, complicated security rules (read the manual!)
-
-## GearHost Database
-
-[Pricing page](https://www.gearhost.com/pricing)
-
-* *Free tier*: 5MB MySQL database or 10MB MS SQL database
-* *Pros*: Recent versions (MySQL 5.6, MS SQL Server 2014)
-* *Exceeding the free tier*: The database becomes locked and a kind email is sent asking to upgrade to paid plan
 
 ## Google Cloud Datastore
 
