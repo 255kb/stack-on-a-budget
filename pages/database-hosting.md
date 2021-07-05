@@ -13,7 +13,6 @@
 - [Heroku Postgres](#heroku-postgres)
 - [Heroku Redis](#heroku-redis)
 - [InfluxDB Cloud](#influxdb-cloud)
-- [mLab](#mlab)
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
