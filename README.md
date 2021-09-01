@@ -51,6 +51,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Bitbucket](pages/code-collaboration-tools.md#bitbucket)
     - [Cloud9](pages/code-collaboration-tools.md#cloud9)
     - [Codeanywhere](pages/code-collaboration-tools.md#codeanywhere)
+    - [GitDailies](pages/code-collaboration-tools.md#gitdailies)
     - [GitHub](pages/code-collaboration-tools.md#github)
     - [GitLab](pages/code-collaboration-tools.md#gitlab)
     - [Launchpad](pages/code-collaboration-tools.md#launchpad)
