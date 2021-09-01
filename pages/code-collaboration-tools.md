@@ -5,6 +5,7 @@
 - [Bitbucket](#bitbucket)
 - [Cloud9](#cloud9)
 - [Codeanywhere](#codeanywhere)
+- [GitDailies](#gitdailies)
 - [GitHub](#github)
 - [GitLab](#gitlab)
 - [Launchpad](#launchpad)
@@ -33,6 +34,14 @@
 * *Free tier*: Web-based IDE accessible from desktop or mobile device, unlimited live collaboration, 1 revision per file, 1 remote connection (FTP, virtual machine, cloud provider), 1 custom domain, 1 container with 256MB of RAM and 2GB storage
 * *Pros*: available from everywhere, allows live collaboration on code
 * *Exceeding the free tier*: If you attempt to create more than 1 GitHub connection, for example, it will block it and suggest you pay for Codeanywhere.
+
+## GitDailies
+
+[Product page](https://gitdailies.com)
+
+* *Free tier*: daily reports of Commit and Pull Request activity, unlimited users, Push visualizer, peer recognition system, custom alert builder
+* *Pros*: keeps a software team updated with what happened in their repos today, lets you monitor changes to sensitive areas of code, avoids alert overload
+* *Limitations*: max 3 repos, max 3 alert configs
 
 ## GitHub
 
