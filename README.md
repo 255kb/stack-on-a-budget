@@ -119,6 +119,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Postmark](pages/emailing.md#postmark)
     - [SendGrid](pages/emailing.md#sendgrid)
     - [SparkPost](pages/emailing.md#sparkpost)
+    - [Mailazy](pages/emailing.md#mailazy)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
     - [LogRocket](pages/error-reporting.md#logrocket)
