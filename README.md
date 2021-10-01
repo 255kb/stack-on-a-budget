@@ -202,6 +202,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Firebase authentication](pages/user-authentication.md#firebase-authentication)
     - [Ionic Auth](pages/user-authentication.md#ionic-auth)
     - [LoginRadius](pages/user-authentication.md#loginradius)
+    - [MojoAuth](pages/user-authentication.md#mojoauth)
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
