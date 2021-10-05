@@ -7,6 +7,7 @@
 - [Firebase authentication](#firebase-authentication)
 - [Ionic Auth](#ionic-auth)
 - [LoginRadius](#loginradius)
+- [MojoAuth](#mojoauth)
 - [Okta](#okta)
 - [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
@@ -49,6 +50,14 @@
 * *Free tier*: 1 Web or Mobile App, Standard Login, 3 Social Providers, Managed Auth Page, 5000 Monthly Active Users 
 * *Pros*: Complete Authentication with Managed Login Page, full customization of the login page and prebuilt themes available, self-serve dashboard and documentation, transactional emails & template customization, SDKs of popular programming languages, and demos.
 * *Limitations*: active users are users who logged in the last 30 days.
+
+## MojoAuth
+
+[Pricing Page](https://mojoauth.com/pricing)
+
+* *Free tier*: Unlimited monthly active users, unlimited total users and unlimited monthly logins, email support (Basic: 48 hours response time), live chat support
+* *Pros*: Passwordless authentication with magic link login, email OTP login, and WebAuthn. Provides custom branding, user management, great documentation, SDKs of popular programming languages, and demos.
+* *Limitations*: 2 RPS authentication request for free tier
 
 ## Okta
 
