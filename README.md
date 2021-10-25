@@ -116,7 +116,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Emailing**](pages/emailing.md)
     - [Elastic Email](pages/emailing.md#elastic-email)
     - [Emaillabs](pages/emailing.md#emaillabs)
-    - [Parsio Email Parser](pages/emailing.md#parsio)
+    - [Parsio Email Parser](pages/emailing.md#parsio-email-parser)
     - [Postmark](pages/emailing.md#postmark)
     - [SendGrid](pages/emailing.md#sendgrid)
     - [SparkPost](pages/emailing.md#sparkpost)
