@@ -4,6 +4,7 @@
 
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
+- [Parsio Email Parser](#parsio-email-parser)
 - [Postmark](#postmark)
 - [SendGrid](#sendgrid)
 - [SparkPost](#sparkpost)
@@ -26,6 +27,14 @@
 * *Free tier*: 24,000 emails/month
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
+
+## Parsio Email Parser
+
+[Product page](https://parsio.io)
+
+* *Free tier*: Completely free
+* *Pros*: Easy to use: Forward emails, extract data, send to your app (via webhooks)
+* *Exceeding the free tier*: For the moment completely free but they may add pricing plans later
 
 ## Postmark
 
