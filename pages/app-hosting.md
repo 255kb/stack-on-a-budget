@@ -113,7 +113,7 @@ Scalable, high-performance virtual machines
 
 [Pricing page](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm)
 
-* *Free tier*: 2 Compute instances (1/8th OCPU, 1GB memory each)
+* *Free tier*: 2 Compute(AMD) Micro instances (1/8th OCPU, 1GB memory each), Ampere A1 Compute(Arm) instances (4 OCPUs and 24 GB of memory, which you can allocate flexibly) and 20TB outbound traffic (unlimited inbound) [Read more](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm)
 * *Pros*: Free forever virtual machines
 * *Limitations*: OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
 
