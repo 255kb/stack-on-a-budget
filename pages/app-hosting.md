@@ -17,6 +17,7 @@
 - [OpeNode](#openode)
 - [OpenShift](#openshift)
 - [Oracle](#oracle)
+- [Qoddi](#qoddi)
 - [Railway](#railway)
 - [Vercel](#vercel)
 
@@ -137,6 +138,14 @@
 * *Free tier*: 2 Compute(AMD) Micro instances (1/8th OCPU, 1GB memory each), Ampere A1 Compute(Arm) instances (4 OCPUs and 24GB of memory that you can allocate flexibly), 20TB outbound bandwidth (unlimited inbound) [Read more](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm)
 * *Pros*: Free forever virtual machines
 * *Limitations*: OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
+
+## Qoddi
+
+[Pricing page](https://qoddi.com/#pricing)
+
+* *Free tier*: 512MB RAM, 1 vCPU
+* *Pros*: Always online, Unlimited build minutes
+* *Limitations*: No uptime SLA on free tier
 
 ## Railway
 
