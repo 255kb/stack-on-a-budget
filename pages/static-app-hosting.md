@@ -3,15 +3,15 @@
 <!-- TOC depthfrom:2 -->
 
 - [AWS S3](#aws-s3)
+- [Cloudflare Pages](#cloudflare-pages)
+- [DocEvent](#docevent)
 - [Firebase hosting](#firebase-hosting)
 - [GitHub Pages](#github-pages)
 - [GitLab Pages](#gitlab-pages)
-- [Vercel](#vercel)
 - [Netlify](#netlify)
 - [Render](#render)
 - [Surge](#surge)
-- [Cloudflare Pages](#cloudflare-pages)
-- [DocEvent](#docevent)
+- [Vercel](#vercel)
 
 <!-- /TOC -->
 
@@ -22,6 +22,22 @@
 * *Free tier*: 5 GB of storage, 20000 GET requests, 2000 PUT requests, 15 GB data transfer per month
 * *Pros*: ACL policies, Custom rules and MIME types, Supports expiration, Multiple regions world-wide
 * *Limitations*: Free only for 12 months
+
+## Cloudflare Pages
+
+[pricing page](https://pages.cloudflare.com)
+
+* *Free tier*: Unlimited sites, Unlimited requests, Unlimited bandwidth, 1 concurrent builds, 500 builds per month
+* *Limitations*: Extremely long build times
+
+## DocEvent
+
+[pricing page](https://docevent.io/pricing/)
+
+* *Free tier*: Lets you transfer 200MB of FTP or sftp data, and 5000 operations, 5 accounts/users max
+* *Pros*: Free FTP and SFTP server, 3 regions, us-east-1, eu-west-1, ap-southeast-2
+* *Limitations*: Backend is your own S3 or S3-compatible bucket
+* *Exceeding the free tier*: You can no longer login to the FTP service if you go over your free tier allowance
 
 ## Firebase hosting
 
@@ -46,14 +62,6 @@
 * *Pros*: Use any static website generator, Custom domains
 * *Limitations*: Only works with GitLab, No automatic HTTPS
 
-## Vercel
-
-[Pricing Page](https://vercel.com/pricing)
-
-* *Free tier*: Unlimited websites, Automatic HTTPS, Deployment with git, Analytics for 1 project, [sponsorship](https://vercel.com/support/articles/can-vercel-sponsor-my-open-source-project) for open source projects
-* *Pros*: Various starter templates, DNS management, Edge CDN, first-class support for Next.js
-* *Limitations*: Free tier does not allow commercial usage
-
 ## Netlify
 
 [Product page](https://www.netlify.com/features) / [Pricing page](https://www.netlify.com/pricing/)
@@ -76,18 +84,10 @@
 * *Pros*: Deploy from CLI, Custom 404 pages
 * *Limitations*: No custom redirects in free tier, No custom domain in free tier
 
-## Cloudflare Pages
+## Vercel
 
-[pricing page](https://pages.cloudflare.com)
+[Pricing Page](https://vercel.com/pricing)
 
-* *Free tier*: Unlimited sites, Unlimited requests, Unlimited bandwidth, 1 concurrent builds, 500 builds per month
-* *Limitations*: Extremely long build times
-
-## DocEvent
-
-[pricing page](https://docevent.io/pricing/)
-
-* *Free tier*: Lets you transfer 200MB of FTP or sftp data, and 5000 operations, 5 accounts/users max
-* *Pros*: Free FTP and SFTP server, 3 regions, us-east-1, eu-west-1, ap-southeast-2
-* *Limitations*: Backend is your own S3 or S3-compatible bucket
-* *Exceeding the free tier*: You can no longer login to the FTP service if you go over your free tier allowance
+* *Free tier*: Unlimited websites, Automatic HTTPS, Deployment with git, Analytics for 1 project, [sponsorship](https://vercel.com/support/articles/can-vercel-sponsor-my-open-source-project) for open source projects
+* *Pros*: Various starter templates, DNS management, Edge CDN, first-class support for Next.js
+* *Limitations*: Free tier does not allow commercial usage
