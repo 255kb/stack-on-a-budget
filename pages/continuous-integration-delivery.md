@@ -74,6 +74,7 @@
 ## Drone
 
 [Home page](https://drone.io)
+
 * *Free tier*: unlimited public projects and unlimited builds
 * *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (GitHub, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
 * *Limitations*: free tier is limited to open source projects
