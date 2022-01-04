@@ -83,7 +83,7 @@
 
 [Product page](https://about.gitlab.com/gitlab-ci/) / [Shared runners details](https://about.gitlab.com/gitlab-com/settings/#shared-runners)
 
-* *Free tier*: shared runners (Digital Ocean 4GB instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
+* *Free tier*: shared runners (DigitalOcean 4GB instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
 * *Pros*: runners can also be installed on premise, fully integrated with GitLab
 * *Limitations*: Shared runners builds can be delayed some time
 
