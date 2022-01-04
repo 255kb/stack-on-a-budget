@@ -73,7 +73,7 @@
 
 ## Drone
 
-[Home page](https://drone.io)
+[Product page](https://drone.io)
 
 * *Free tier*: unlimited public projects and unlimited builds
 * *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (GitHub, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
@@ -96,21 +96,21 @@
 
 ## Shippable
 
-[Home page](https://app.shippable.com/)
+[Product page](https://app.shippable.com/)
 
 * *Free tier*: unlimited projects from either public or private repos, unlimited builds for open source repositories, 150 builds/month for private repositories, one concurrent job
 * *Pros*: integrates with GitHub or Bitbucket, uses Docker buildpacks, custom images, YAML file config, build badges, integrates with a lot of services, including various AWS services, Slack, GitLab, IRC, Jenkins and JFrog Artifactory
 
 ## TeamCity
 
-[Home page](https://www.jetbrains.com/teamcity/)
+[Product page](https://www.jetbrains.com/teamcity/)
 
 * *Free tier*: 20 builds configurations, 3 build agents, access to all features
 * *Pros*: Integrates with cloud providers (AWS, Microsoft Azure and VMware vSphere) and VCS providers (GitHub, Bitbucket), supports Docker
 
 ## Travis CI (Org)
 
-[Home page](https://travis-ci.org/)
+[Product page](https://travis-ci.org/)
 
 * *Free tier*: unlimited projects and parallel testing for open source projects
 * *Pros*: great language and hosting provider support, integrates with many tools (GitHub, Bitbucket, Code Climate, Slack, Jira, etc)
