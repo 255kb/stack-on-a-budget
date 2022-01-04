@@ -10,6 +10,7 @@
 - [Codeship](#codeship)
 - [ContinuousPHP](#continuousphp)
 - [Drone](#drone)
+- [GitHub Actions](#github-actions)
 - [GitLab CI](#gitlab-ci)
 - [Semaphore](#semaphore)
 - [Shippable](#shippable)
@@ -78,6 +79,14 @@
 * *Free tier*: unlimited public projects and unlimited builds
 * *Pros*: Integrates with multiple providers and their services (AWS, Heroku, Google AppEngine, etc.), supports VCS (GitHub, Bitbucket), uses Docker, supports multiple languages (Go, Python, JavaScript...) and environments including Chrome and Firefox for browser testing (Selenium, PhantomJS...)
 * *Limitations*: free tier is limited to open source projects
+
+## GitHub Actions
+
+[Product page](https://github.com/features/actions)
+
+* *Free tier*: Unlimited minutes/month for public repositories, 2000 minutes/month for private repositories
+* *Pros*: Easy to use
+* *Limitations*: Can only be used with GitHub source control
 
 ## GitLab CI
 
