@@ -83,6 +83,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Codeship](pages/continuous-integration-delivery.md#codeship)
     - [ContinuousPHP](pages/continuous-integration-delivery.md#continuousphp)
     - [Drone](pages/continuous-integration-delivery.md#drone)
+    - [GitHub Actions](pages/continuous-integration-delivery.md#github-actions)
     - [GitLab CI](pages/continuous-integration-delivery.md#gitlab-ci)
     - [Semaphore](pages/continuous-integration-delivery.md#semaphore)
     - [Shippable](pages/continuous-integration-delivery.md#shippable)
