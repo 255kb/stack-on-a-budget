@@ -14,7 +14,7 @@
 
 ## Elastic Email
 
-[Pricing page](https://elasticemail.com/pricing/)
+[Pricing page](https://elasticemail.com/email-api-pricing)
 
 * *Free tier*: 100 emails/day
 * *Pros*: powerful insights, HTTP API, 24/7 support
