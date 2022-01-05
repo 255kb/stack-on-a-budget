@@ -16,4 +16,4 @@ jobs:
     - name: Check links
       run: |
         gem install awesome_bot
-        awesome_bot pages/*.md --allow-timeout --allow-redirect --allow-ssl --white-list https://www.algolia.com/pricing 
+        awesome_bot pages/*.md --allow-timeout --allow-redirect --allow-ssl --request-delay 10 --white-list https://www.algolia.com/pricing 
