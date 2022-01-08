@@ -72,6 +72,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [prismic.io](pages/content-as-a-service.md#prismicio)
     - [Sanity](pages/content-as-a-service.md#sanity)
     - [Storyblok](pages/content-as-a-service.md#storyblok)
+    - [Supportivekoala](pages/content-as-a-service.md#supportivekoala)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)
     - [Cloudflare](pages/content-delivery-networks.md#cloudflare)
 - [**Continuous integration/delivery**](pages/continuous-integration-delivery.md)

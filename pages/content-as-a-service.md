@@ -11,6 +11,7 @@
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
 - [Storyblok](#storyblok)
+- [Supportivekoala](#supportivekoala)
 
 <!-- /TOC -->
 
@@ -83,3 +84,10 @@
 * *Pros*: Internationalization. Image and video asset support. Visual editor for editing a live site. Js/Node/Ruby/PHP SDKs. Headless CMS.
 * *Limitations*: 1 user. Max 50mb video size. No version history. No webhooks.
 * *Exceeding the free tier*: Will reach out if they think there you’re using it in an abusive way.
+
+## Supportivekoala
+
+[Product page](https://supportivekoala.com/)
+
+* *Free tier*: Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week
+* *Pros*: You can generate images by API or on zapier from a big library of templates that looks like canva.com
