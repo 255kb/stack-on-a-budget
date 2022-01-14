@@ -10,6 +10,7 @@
 - [GitLab Pages](#gitlab-pages)
 - [Netlify](#netlify)
 - [Render](#render)
+- [Scaleway](#scaleway)
 - [Surge](#surge)
 - [Vercel](#vercel)
 
@@ -75,6 +76,12 @@
 
 * *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
+
+## Scaleway
+
+[Product page](https://www.scaleway.com/en/object-storage) / [Pricing page](https://www.scaleway.com/en/pricing/#object-storage)
+
+* *Free tier*: 75 GB of storage, 75GB of bandwidth
 
 ## Surge
 
