@@ -201,6 +201,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
     - [Netlify](pages/static-app-hosting.md#netlify)
     - [Render](pages/static-app-hosting.md#render)
+    - [Scaleway](pages/static-app-hosting.md#scaleway)
     - [Surge](pages/static-app-hosting.md#surge)
     - [Vercel](pages/static-app-hosting.md#vercel)
 - [**User authentication**](pages/user-authentication.md)
