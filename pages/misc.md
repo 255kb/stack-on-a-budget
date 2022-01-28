@@ -9,6 +9,7 @@
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
 - [Taskade](#taskade)
+- [Warrant](#warrant)
 
 <!-- /TOC -->
 
@@ -70,3 +71,12 @@
 * *Pros*: Simple and real-time task management
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
+
+## Warrant
+
+[Pricing page](https://warrant.dev/pricing)
+
+* *Free tier*: 10,000 API requests per month, unlimited users & access rules, access logs & events
+* *Pros*: Authorization as a service, "one click" implementation of role based access control and other schemes
+* *Limitations*: 7-day retention for access logs & events on the free tier
+* *Exceeding the free tier*: Need to pay, API will continue to work, sales rep will contact user
