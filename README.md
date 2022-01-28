@@ -156,6 +156,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
     - [Taskade](pages/misc.md#taskade)
+    - [Warrant](pages/misc.md#warrant)
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md#countly-analytics)
