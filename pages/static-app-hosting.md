@@ -2,17 +2,19 @@
 
 <!-- TOC depthfrom:2 -->
 
-- [AWS S3](#aws-s3)
-- [Cloudflare Pages](#cloudflare-pages)
-- [DocEvent](#docevent)
-- [Firebase hosting](#firebase-hosting)
-- [GitHub Pages](#github-pages)
-- [GitLab Pages](#gitlab-pages)
-- [Netlify](#netlify)
-- [Render](#render)
-- [Scaleway](#scaleway)
-- [Surge](#surge)
-- [Vercel](#vercel)
+- [Static app hosting](#static-app-hosting)
+  - [AWS S3](#aws-s3)
+  - [Cloudflare Pages](#cloudflare-pages)
+  - [DocEvent](#docevent)
+  - [Firebase hosting](#firebase-hosting)
+  - [GitHub Pages](#github-pages)
+  - [GitLab Pages](#gitlab-pages)
+  - [Netlify](#netlify)
+  - [IONOS Deploy Now](#ionos-deploy-now)
+  - [Render](#render)
+  - [Scaleway](#scaleway)
+  - [Surge](#surge)
+  - [Vercel](#vercel)
 
 <!-- /TOC -->
 
@@ -69,6 +71,14 @@
 
 * *Free tier*: Unlimited sites, Custom domain, Automatic HTTPS, Open source projects get [pro plan for free](https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/)
 * *Pros*: Deployment with git, Custom redirect rules, Webhooks and Notifications for integration with third party services, Form handling, User authentication handling, CMS
+
+## IONOS Deploy Now
+
+[Product page](https://deploynow.space/) / [More info](https://docs.ionos.space/)
+
+* *Free tier*: 3 static projects with staging and 50 MB of storage each, Build workflow via [GitHub Actions](https://github.com/features/actions), No bandwith limitation, DDos protection, Geo redundancy, IPv6, Climate neutral hosting, GDPR compliant
+* *Pros*: Automatic HTTPS, Custom domains, Deploy with git, Framework auto detection
+* *Limitations*: Only with GitHub, Full LAMP support only in paid plans
 
 ## Render
 

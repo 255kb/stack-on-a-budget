@@ -201,6 +201,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
     - [Netlify](pages/static-app-hosting.md#netlify)
+    - [IONOS Deploy Now](pages/static-app-hosting.md#ionos-deploy-now)
     - [Render](pages/static-app-hosting.md#render)
     - [Scaleway](pages/static-app-hosting.md#scaleway)
     - [Surge](pages/static-app-hosting.md#surge)
