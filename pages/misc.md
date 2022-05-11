@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#Geocodio)
@@ -12,6 +13,15 @@
 - [Warrant](#warrant)
 
 <!-- /TOC -->
+
+## Argonaut
+
+[Argonaut](https://argonaut.dev/?utm_source=stack-on-a-budget&utm_medium=rsrc)
+
+* *Free Tier*: Unlimited apps and deployments for 5 environments and 2 users
+* *Pros*: App deployment and infrastructure management in one place, bring your own cloud
+* *Limitations*: Currently support only AWS
+* *Exceeding the free tier*: Can continue using; our team will reach out
 
 ## ExchangeRate-API
 
