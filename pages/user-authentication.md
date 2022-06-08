@@ -10,6 +10,7 @@
 - [MojoAuth](#mojoauth)
 - [Okta](#okta)
 - [Ory](#ory)
+- [SuperTokens](#SuperTokens)
 - [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
@@ -73,6 +74,15 @@
 
 * *Free tier*: always free, unlimited users, rate limit requests/minute
 * *Pros*: Open Source (Apache2), API first, support FIDO2/WebAuthn, SDKs for all languages, custom UI & flows cloud native
+
+## SuperTokens
+
+[Pricing](https://supertokens.com/pricing), [Open-Source](https://github.com/supertokens/supertokens-core)
+
+- *Free tier*: Self-hosted version is always free, unlimited users. The hosted cloud solution is free up to 5K monthly active users
+- *Pros*: Covers all primary methods of authentication and session management(including email/password, social, JWT, oAuth, etc.), lowest vendor lock-in, pre-built UI, quick to implement, easy to customize, feature segmentation
+- *Limitations*: None. Cloud and free/open-source solution both are identical
+- *Exceeding the free tier*: (Applicable to hosted cloud solution only) You can switch to open-source version without any limitations or you can upgrade to increase the monthly active users support
 
 ## Visual Studio Mobile Center
 
