@@ -216,6 +216,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [MojoAuth](pages/user-authentication.md#mojoauth)
     - [Okta](pages/user-authentication.md#okta)
     - [Ory](pages/user-authentication.md#ory)
+    - [SuperTokens](pages/user-authentication.md#supertokens)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
     - [Apify](pages/web-scraping.md#apify)
