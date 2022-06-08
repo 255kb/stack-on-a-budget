@@ -64,6 +64,6 @@
 
 [Pricing page](https://mailazy.com/pricing.html)
 
-* *Free tier*: 15000 emails/month, 500 emails/day sending limit, get upto 50,000 email/month in beta program
+* *Free tier*: 10000 emails/month, 350 emails/day sending limit, get upto 50,000 email/month in beta program
 * *Pros*: Integrate either with SMTP or REST Email API, real-time analytics and logs, No credit card required
 * *Exceeding the free tier*: sending stops, upgrade plan
