@@ -8,12 +8,10 @@
 - [Codefresh](#codefresh)
 - [Codemagic](#codemagic)
 - [Codeship](#codeship)
-- [ContinuousPHP](#continuousphp)
 - [Drone](#drone)
 - [GitHub Actions](#github-actions)
 - [GitLab CI](#gitlab-ci)
 - [Semaphore](#semaphore)
-- [Shippable](#shippable)
 - [TeamCity](#teamcity)
 - [Travis CI (Org)](#travis-ci-org)
 - [Visual Studio Team Services](#visual-studio-team-services)
@@ -64,14 +62,6 @@
 * *Pros*: Easy to set up, Supports many hosting providers (AWS, Heroku)
 * *Limitations*: No Docker support in free tier
 
-## ContinuousPHP
-
-[Pricing page](https://continuousphp.com/plans)
-
-* *Free tier*: Unlimited projects for open source projects
-* *Pros*: Supports many hosting providers (AWS, Zend Server), Supports GitHub, GitLab, Bitbucket
-* *Limitations*: Dedicated to PHP
-
 ## Drone
 
 [Product page](https://drone.io)
@@ -102,13 +92,6 @@
 
 * *Free tier*: Free for open source projects or 100 private builds/month
 * *Pros*: Supports many languages (JavaScript, Python, PHP, Go, Java), Supports many databases (PostgreSQL, MySQL, MongoDB), Supports Docker, Integrates with GitHub and Bitbucket, Automatic configuration, Integrates with communication tools (Slack, Basecamp), Implements custom workflow through API, Deploys to many hosting providers (AWS S3, AWS Lambda, AWS Elastic Beanstalk, Cloud 66, Heroku, FTP)
-
-## Shippable
-
-[Product page](https://app.shippable.com/)
-
-* *Free tier*: Unlimited projects from either public or private repos, Unlimited builds for open source repositories, 150 builds/month for private repositories, 1 concurrent job
-* *Pros*: Integrates with GitHub or Bitbucket, Uses Docker buildpacks, Supports custom Docker images, Supports YAML file config, Supports build badges, Integrates with many services (AWS, Slack, GitLab, IRC, Jenkins, JFrog Artifactory)
 
 ## TeamCity
 
