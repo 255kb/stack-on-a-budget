@@ -190,7 +190,6 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Serverless app hosting**](pages/serverless-app-hosting.md)
     - [AWS Lambda](pages/serverless-app-hosting.md#aws-lambda)
     - [Google Cloud Functions](pages/serverless-app-hosting.md#google-cloud-functions)
-    - [Hook.io](pages/serverless-app-hosting.md#hook-io)
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
     - [Cloudflare Pages](pages/static-app-hosting.md#cloudflare-pages)

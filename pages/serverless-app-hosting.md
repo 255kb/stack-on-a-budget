@@ -4,7 +4,6 @@
 
 - [AWS Lambda](#aws-lambda)
 - [Google Cloud Functions](#google-cloud-functions)
-- [Hook.io](#hook-io)
 
 <!-- /TOC -->
 
@@ -21,11 +20,3 @@
 
 * *Free tier*: 2M requests/month, 400k GB-seconds/month, 200k GHz-seconds/month, 5GB Outbound Date, Unlimited Inbound, Unlimited Outbound to Google APIs in same region
 * *Pros*: automatic scaling, easy to integrate and manage from Firebase console, Node.js support, Webhooks, integration with Google APIs like Cloud Pub/Sub
-
-## Hook io
-
-[Pricing page](https://hook.io/pricing)
-* *Free Tier*: 1k requests/month, 2 concurrent requests, 20 services, logs, cron jobs, 100 datastore documents, 100MB file-system storage
-* *Pros*: Open-Source Hosting platform Optimized for deploying webhooks and microservices. Comes with a datastore or virtual file system out of the box. 
-* *Cons*: They don't allow long running services by design.
-* *Limitations*: 10s max service timeout, no custom domains, no role based access control, no support
