@@ -86,7 +86,7 @@
 
 [Pricing page](https://warrant.dev/pricing)
 
-* *Free tier*: 10,000 API requests per month, unlimited users & access rules, access logs & events
+* *Free tier*: 1 million API requests per month & 1,000 authz rules
 * *Pros*: Authorization as a service, "one click" implementation of role based access control and other schemes
 * *Limitations*: 7-day retention for access logs & events on the free tier
-* *Exceeding the free tier*: Need to pay, API will continue to work, sales rep will contact user
+* *Exceeding the free tier*: Need to pay, API will continue to work, team will contact user
