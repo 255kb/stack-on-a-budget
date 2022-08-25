@@ -30,8 +30,7 @@
 
 [pricing page](https://pages.cloudflare.com)
 
-* *Free tier*: Unlimited sites, Unlimited requests, Unlimited bandwidth, 1 concurrent builds, 500 builds per month
-* *Limitations*: Extremely long build times
+* *Free tier*: Unlimited sites, Unlimited requests, Unlimited bandwidth, 1 concurrent build, 500 builds per month
 
 ## DocEvent
 
