@@ -4,6 +4,7 @@
 
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
+- [Honeybadger.io](#honeybadgerio)
 - [Librato](#librato)
 - [New Relic](#new-relic)
 - [OnlineOrNot](#onlineornot)
@@ -28,11 +29,20 @@
 * *Pros*: Monitor cron jobs, background services, scheduled tasks. API access, many integrations, open-source (can be self-hosted).
 * *Limitations*: no SMS notifications for the free tier, no SSO login options
 
+## Honeybadger.io
+
+[Pricing page](https://www.honeybadger.io/plans/)
+
+* *Free tier* tier: 1000 errors per month, unlimited projects.
+* *Pros*: Full stack Exception monitoring, Uptime monitoring, and Check-in/Cron Monitoring
+* *Limitations*: 3 users, 15 day data retention, 5 uptime checks and 5 check-ins per month. Integrates with: GitHub, GitLab, SMS, Email, Slack, and more
+* *Exceeding the free tier*: Honeybadger continues to process up to 125% of the limit before stop processing data until the end of the month. Also sends email alerts.
+
 ## Librato
 
 [Pricing page](https://www.librato.com/pricing)
 
-* *Free tier*: (Developer plan) 100 metric streams at 60s resolution 1 day retention, 10 alerts, 1 dashboard
+* *Free tier*: (Developer plan) 100 metric streams at 60s resolution 1 day retention, 10 alerts, 1 dashboard.
 * *Pros*: allows for submission of metrics from multiple sources, metrics can be submitted via an agent or directly to the API.
 
 ## New Relic

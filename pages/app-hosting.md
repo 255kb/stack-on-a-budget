@@ -10,11 +10,9 @@
 - [Glitch](#glitch)
 - [Google App Engine](#google-app-engine)
 - [Google Compute Engine](#google-compute-engine)
-- [Heroku](#heroku)
 - [IBM Cloud](#ibm-cloud)
 - [Koyeb](#koyeb)
 - [Netlify](#netlify)
-- [OpeNode](#openode)
 - [OpenShift](#openshift)
 - [Oracle](#oracle)
 - [Qoddi](#qoddi)
@@ -86,14 +84,6 @@
 * *Pros*: Works well with other Google Cloud features (load balancing, datastores, etc.)
 * *Limitations*: Limited to US region only for now
 
-## Heroku
-
-[Pricing page](https://www.heroku.com/pricing)
-
-* *Free tier*: One dyno (512MB memory), Custom domains
-* *Pros*: Supports multiple languages (Node.js, Ruby, Java, PHP, Python, Go, Scala or Clojure)
-* *Limitations*: Instance will sleep after 30 mins of inactivity
-
 ## IBM Cloud
 
 [Pricing page](https://cloud.ibm.com/pricing/)
@@ -116,12 +106,6 @@
 * *Free tier*: 100GB bandwidth per month, 1 concurrent build, 300 build minutes/month, 125000 serverless function invocations per month, 100 form submissions per month, 1000 active Identity users per month, 2500 large media transformations per month
 * *Pros*: Deploy with Git, Edge CDN
 * *Limitations*: No site analytics on free tier
-
-## OpeNode
-
-[Pricing page](https://www.openode.io/pricing)
-* *Free tier*: 100MB RAM, 1GB Storage, 100GB Bandwidth / Month
-* *Limitations*: Your code will be open-sourced unless you declare your project is educational (for students)
 
 ## OpenShift
 
