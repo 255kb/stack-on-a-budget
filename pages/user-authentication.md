@@ -36,9 +36,8 @@
 
 [Pricing page](https://www.descope.com/)
 
-* *Free tier*: 7,500 active users/month 
-* *Pros*: ?
-* *Limitations*: ?
+* *Free tier*: 7,500 active users/month, 50 free tenants (up to 5 SAML/SSO tenants)
+* *Pros*: Highly customizable AuthN flows, has both a no-code and API approach (SDKs in Golang/Node/Python/React), multiple auth methods included (FIDO2/WebAuthn too) 
 
 ## Firebase authentication
 
