@@ -205,6 +205,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**User authentication**](pages/user-authentication.md)
     - [Auth0](pages/user-authentication.md#auth0)
     - [AWS Cognito](pages/user-authentication.md#aws-cognito)
+    - [Descope](pages/user-authentication.md#descope)
     - [Firebase authentication](pages/user-authentication.md#firebase-authentication)
     - [Ionic Auth](pages/user-authentication.md#ionic-auth)
     - [LoginRadius](pages/user-authentication.md#loginradius)

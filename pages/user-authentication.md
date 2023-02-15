@@ -4,6 +4,7 @@
 
 - [Auth0](#auth0)
 - [AWS Cognito](#aws-cognito)
+- [Descope](#descope)
 - [Firebase authentication](#firebase-authentication)
 - [Ionic Auth](#ionic-auth)
 - [LoginRadius](#loginradius)
@@ -30,6 +31,13 @@
 * *Free tier*: 50,000 active users/month (active means at least one activity during a calendar month)
 * *Pros*: supports mobile and web apps, multiple authentication providers (Facebook, Twitter, Google, ...)
 * *Limitations*: Cognito Sync (users data synchornization) is only included in the AWS 1 year free tier in the limit of 10GB storage and 1,000,000 sync operations/month
+
+## Descope
+
+[Pricing page](https://www.descope.com/pricing)
+
+* *Free tier*: 7,500 active users/month, 50 free tenants (up to 5 SAML/SSO tenants)
+* *Pros*: Highly customizable AuthN flows, has both a no-code and API approach (SDKs in Golang/Node/Python/React), a variety of passwordless authntication methods included (FIDO2/WebAuthn too) 
 
 ## Firebase authentication
 
