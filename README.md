@@ -109,6 +109,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Supabase Postgres](pages/database-hosting.md#supabase-postgres)
 - [**Database management**](pages/database-management.md)
     - [Redsmin](pages/database-management.md#redsmin)
+    - [ERD Lab](https://www.erdlab.io/)
 - [**Data mining**](pages/data-mining.md)
     - [Count](pages/data-mining.md#count)
     - [Metabase](pages/data-mining.md#metabase)
