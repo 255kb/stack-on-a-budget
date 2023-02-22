@@ -26,7 +26,8 @@
 
 ## Sauce Labs
 
-[Pricing page](https://saucelabs.com/open-sauce)
+[Pricing page](https://saucelabs.com/pricing)
+[Open source license](https://opensource.saucelabs.com/) (bottom of page)
 
 * *Free tier*: free for open source, unlimited automated testing, unlimited manual testing, 5 concurrent VMs, 2 subaccounts
 * *Pros*: web tests on hundreds of platform/OS/browser combinations, integrates well with test runners like Karma and Selenium
