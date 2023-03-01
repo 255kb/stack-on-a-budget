@@ -14,6 +14,7 @@
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
+- [PlanetScale](#planetscale)
 - [Railway](#railway)
 - [Redis Cloud](#redis-cloud)
 - [Supabase Postgres](#supabase-postgres)
@@ -115,6 +116,13 @@
 * *Free tier*: 2 Autonomous Database instances with 1 OCPU and 20GB storage each
 * *Pros*: Flexible workload tuning
 * *Limitations*: Maximum of 20 simultaneous database sessions
+
+## PlanetScale
+
+[Pricing Page](https://planetscale.com/pricing)
+
+* _Free tier_: 1 Database, 5Gb, 1 billion row read/month, 10 million row write/month, 1 production and 1 development branch
+* _Pros_: Serverless MySQL platform
 
 ## Railway
 
