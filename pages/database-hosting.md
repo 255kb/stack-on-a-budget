@@ -14,6 +14,7 @@
 - [MongoDB Atlas](#mongodb-atlas)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
+- [PlanetScale](#planetscale)
 - [Railway](#railway)
 - [Redis Cloud](#redis-cloud)
 - [Supabase Postgres](#supabase-postgres)
