@@ -117,6 +117,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Metabase](pages/data-mining.md#metabase)
 - [**Dependency management**](pages/dependency-management.md)
     - [Dependabot](pages/dependency-management.md#dependabot)
+    - [Renovate](pages/dependency-management.md#renovate)
 - [**DNS hosting**](pages/dns-hosting.md)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
