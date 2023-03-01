@@ -116,6 +116,13 @@
 * *Pros*: Flexible workload tuning
 * *Limitations*: Maximum of 20 simultaneous database sessions
 
+## PlanetScale
+
+[Pricing Page](https://planetscale.com/pricing)
+
+* _Free tier_: 1 Database, 5Gb, 1 billion row read/month, 10 million row write/month, 1 production and 1 development branch
+* _Pros_: Serverless MySQL platform
+
 ## Railway
 
 [Pricing page](https://railway.app/pricing)
