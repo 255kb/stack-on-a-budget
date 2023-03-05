@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AppVeyor](#appveyor)
+- [Bitbucket Pipelines](#bitbucket-pipelines)
 - [Bitrise](#bitrise)
 - [CircleCI](#circleci)
 - [Codefresh](#codefresh)
@@ -24,6 +25,13 @@
 
 * *Free tier*: Unlimited projects for open source, 1 concurrent build
 * *Pros*: Build support for .NET, Xamarin, Node.js and Ruby, Integrates with 10 different Git hosting providers including GitHub, GitLab and Bitbucket, Deploys to Azure, Amazon and other hosting providers
+
+## Bitbucket Pipelines
+[Product Page](https://bitbucket.org/product/features/pipelines)
+
+* *Free tier*: 50 min / month included
+* *Pros*: You can have your runner self-hosted, full integration with Bitbucket
+* *Cons*: Only with Bitbucket
 
 ## Bitrise
 
