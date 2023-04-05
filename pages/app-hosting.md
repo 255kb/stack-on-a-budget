@@ -147,7 +147,7 @@
 
 * *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
-* *Limitations*: Free tier does not allow GitHub actions to track deployments. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead.
+* *Limitations*: Free tier does not allow tracking deployments from Github. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead if you prefer
 
 ## Vercel
 
