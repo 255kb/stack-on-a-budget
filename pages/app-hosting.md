@@ -2,22 +2,24 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [AppHarbor](#appharbor)
-- [AWS EC2](#aws-ec2)
-- [Azure App Service](#azure-app-service)
-- [Fly](#fly)
-- [GearHost](#gearhost)
-- [Glitch](#glitch)
-- [Google App Engine](#google-app-engine)
-- [Google Compute Engine](#google-compute-engine)
-- [IBM Cloud](#ibm-cloud)
-- [Koyeb](#koyeb)
-- [Netlify](#netlify)
-- [OpenShift](#openshift)
-- [Oracle](#oracle)
-- [Qoddi](#qoddi)
-- [Railway](#railway)
-- [Vercel](#vercel)
+- [App hosting](#app-hosting)
+  - [AppHarbor](#appharbor)
+  - [AWS EC2](#aws-ec2)
+  - [Azure App Service](#azure-app-service)
+  - [Fly](#fly)
+  - [GearHost](#gearhost)
+  - [Glitch](#glitch)
+  - [Google App Engine](#google-app-engine)
+  - [Google Compute Engine](#google-compute-engine)
+  - [IBM Cloud](#ibm-cloud)
+  - [Koyeb](#koyeb)
+  - [Netlify](#netlify)
+  - [OpenShift](#openshift)
+  - [Oracle](#oracle)
+  - [Qoddi](#qoddi)
+  - [Railway](#railway)
+  - [Render](#render)
+  - [Vercel](#vercel)
 
 <!-- /TOC -->
 
@@ -138,6 +140,14 @@
 * *Free tier*: 1GB memory per container, Shared CPU, 1GB disk usage (10GB hard limit), 100GB outbound bandwidth (unlimited inbound). [Read more](https://railway.app/legal/fair-use)
 * *Pros*: You can have your app and database on the same platform and run both of them for free, [see](database-hosting.md#railway) for database hosting
 * *Limitations*: Only 99% uptime SLA, 3 projects, 2 plugins per project, 2 environments per project, 3 live deploys per environment
+
+## Render
+
+[Pricing page](https://render.com/pricing)
+
+* *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
+* *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
+* *Limitations*: Free tier does not allow GitHub actions to track deployments. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead.
 
 ## Vercel
 
