@@ -41,6 +41,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Oracle](pages/app-hosting.md#oracle)
     - [Qoddi](pages/app-hosting.md#qoddi)
     - [Railway](pages/app-hosting.md#railway)
+    - [Render](pages/app-hosting.md#render)
     - [Vercel](pages/app-hosting.md#vercel)
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
     - [Datadog](pages/application-performance-monitoring.md#datadog)
