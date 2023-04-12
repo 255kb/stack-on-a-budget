@@ -4,6 +4,7 @@
 
 - [Count](#count)
 - [Metabase](#metabase)
+- [Noteable](#noteable)
 
 <!-- /TOC -->
 
