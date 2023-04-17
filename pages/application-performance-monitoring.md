@@ -38,3 +38,12 @@
 * *Free tier*: 100 GB/month, 1 free full access user, unlimited free basic users.
 * *Pros*: Collect all your telemetry data in one place to deliver full-stack observability and power AI-driven insights so you can confidently improve service reliability and accelerate time to market. Supports most popular back-end, front-end, infrastructure, and cloud frameworks and services.
 * *Exceeding the free tier*: After exceeding the 100 GB/month you will see a paywall asking you to add a credit card. Data collection will continue and access to key pages to lower data ingest will still be available.
+
+## Sentry
+
+[Pricing page](https://sentry.io/pricing/)
+
+* *Free tier*: 10,000 transactions/month, 30-day data retention.
+* *Pros*: Sentry is [BSD-licensed open source](https://github.com/getsentry/sentry) and also comes with free tier for error monitoring and session replays.
+* *Exceeding the free tier*: After exceeding 10,000 transactions/month, no new transactions will be ingested. The account remains free and existing performance data within the retention period is still available.
+* *Limitations*: Limit 1 user

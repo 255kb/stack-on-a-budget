@@ -48,6 +48,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Elastic APM](pages/application-performance-monitoring.md#elastic-apm)
     - [Lightstep](pages/application-performance-monitoring.md#lightstep)
     - [New Relic](pages/application-performance-monitoring.md#new-relic)
+    - [Sentry](pages/application-performance-monitoring.md#sentry)
 - [**App Testing**](pages/app-testing.md)
     - [Applitools](pages/app-testing.md#applitools)
     - [LambdaTest](pages/app-testing.md#LambdaTest)
