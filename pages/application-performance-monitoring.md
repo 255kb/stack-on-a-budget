@@ -6,6 +6,7 @@
 - [Elastic APM](#elastic-apm)
 - [Lightstep](#lightstep)
 - [New Relic](#new-relic)
+- [Sentry](#sentry)
 
 <!-- /TOC -->
 
