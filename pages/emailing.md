@@ -22,9 +22,9 @@
 
 ## Emaillabs
 
-[Pricing page](http://emaillabs.io/pricing/)
+[Pricing page](https://emaillabs.io/en/pricing/)
 
-* *Free tier*: 24,000 emails/month
+* *Free tier*: 300 emails/day
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
 
