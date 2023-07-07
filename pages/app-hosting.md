@@ -2,8 +2,6 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [App hosting](#app-hosting)
-- [AppHarbor](#appharbor)
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
 - [Fly](#fly)
@@ -21,14 +19,6 @@
 - [Vercel](#vercel)
 
 <!-- /TOC -->
-
-## AppHarbor
-
-[Pricing page](https://appharbor.com/pricing)
-
-* *Free tier*: 1 worker unit, apphb.com hostname
-* *Pros*: Auto scaling, Deploy with git, One of few PaaS for .NET apps
-* *Limitations*: No custom domain on free tier
 
 ## AWS EC2
 
