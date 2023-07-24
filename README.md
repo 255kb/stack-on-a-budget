@@ -209,6 +209,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Surge](pages/static-app-hosting.md#surge)
     - [Vercel](pages/static-app-hosting.md#vercel)
 - [**User authentication**](pages/user-authentication.md)
+    - [Aserto]([pages/user-authentication.md#aserto])
     - [Auth0](pages/user-authentication.md#auth0)
     - [AWS Cognito](pages/user-authentication.md#aws-cognito)
     - [Descope](pages/user-authentication.md#descope)

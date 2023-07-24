@@ -15,6 +15,12 @@
 - [Visual Studio Mobile Center](#visual-studio-mobile-center)
 
 <!-- /TOC -->
+## Aserto
+
+[Pricing page](https://www.aserto.com/pricing)
+
+* *Free tier*: Up to 100 authorizer instances and 1,000 active users/month. 
+* *Pros*: Add fine-grained authorization to your applications and support every authorization model from day 1 (RBAC, ABAC, PBAC, and ReBAC). SDKs & quickstarts avaibale for Go, Python, React, JavaScript, Java, Ruby and more.
 
 ## Auth0
 
