@@ -225,6 +225,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Apify](pages/web-scraping.md#apify)
     - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
+    - [SearchApi](pages/web-scraping.md#searchapi)
     - [PhantomJsCloud](pages/web-scraping.md#phantomjscloud)
 - [**Website audit**](pages/website-audit.md)
     - [Checkbot](pages/website-audit.md#checkbot)
