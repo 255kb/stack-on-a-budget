@@ -39,7 +39,7 @@
 
 - *Free tier*: 100 successful API calls per month.
 - *Pros*: Supports precise location geo-targeting, uses only premium US-based proxies, Structures Google results into JSON in real-time (~2 seconds).
-- *Exceeding the free tier*: Returns an error `You have used all of the searches for the month.`
+- *Limitations*: Rate limited to 20% monthly plan searches per 1 hour.
 
 ## PhantomJsCloud
 
