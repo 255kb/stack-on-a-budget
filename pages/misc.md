@@ -6,7 +6,7 @@
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#Geocodio)
-- [ipapi.is](#IPAPI)
+- [ipapi.is](#ipapiis)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
@@ -49,7 +49,7 @@
 * *Pros*: Forward and reverse geocoding, supports data appends such as Census data, congressional districts and timezones
 * *Limitations*: Only covers US and Canada
 
-## IP API
+## ipapi.is
 
 [Home page](https://ipapi.is/)
 
