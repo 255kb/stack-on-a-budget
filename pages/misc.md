@@ -6,7 +6,7 @@
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#Geocodio)
-- [ipapi.is](#ipapi)
+- [ipapi.is](#IPAPI)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
