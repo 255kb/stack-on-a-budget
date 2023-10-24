@@ -6,6 +6,7 @@
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#Geocodio)
+- [ipapi.is](#ipapiis)
 - [Let's encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
@@ -47,6 +48,15 @@
 * *Free tier*: 2,500 lookups per day
 * *Pros*: Forward and reverse geocoding, supports data appends such as Census data, congressional districts and timezones
 * *Limitations*: Only covers US and Canada
+
+## ipapi.is
+
+[Home page](https://ipapi.is/)
+
+* *Free tier*: 1,000 API lookups per day
+* *Pros*: The free tier includes full API output with all data types. The API is replicated on mutiple servers worldwide which results in a fast performance.
+* *Limitations*: No limits
+* *Exceeding the free tier*: need to pay if 1,000 free daily API lookups are exceeded
 
 ## Let's Encrypt
 

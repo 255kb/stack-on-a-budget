@@ -156,6 +156,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
     - [Geocodio](pages/misc.md#geocodio)
+    - [ipapi.is](pages/misc.md#ipapiis)
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
