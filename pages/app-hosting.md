@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Alwaysdata](#alwaysdata)
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
 - [Fly](#fly)
@@ -19,6 +20,13 @@
 - [Vercel](#vercel)
 
 <!-- /TOC -->
+
+## Alwaysdata
+
+[Pricing page](https://alwaysdata.com/)
+
+* *Free tier*: up to 100MB overall
+* *Pros*: Unlimited sites and applications (are supported Node.js, Python, PHP, Ruby, Elixir, Java, Deno and .NET), full SSL support, create schedules tasks, automatic backups each day with a retention of 30 days, domain administration with unlimited domains and emails
 
 ## AWS EC2
 
