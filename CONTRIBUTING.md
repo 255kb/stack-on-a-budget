@@ -13,33 +13,29 @@ All contributions are welcome!
 
 [Link to relevant page (product description/pricing)](#)
 
-- *Free tier*: [free tier description]
-- *Pros*: [basic review, interesting features, anything non obvious... avoid copying service description]
-- *Limitations*: [specific limitations important to know (exceeding the free tier is not a limitation!)]
-- *Exceeding the free tier*: [what happens when exceeding the free tier (API return an error, need to pay, informed by email, etc), in order to anticipate eventual migration]
+- *Free tier*: should reflect what is offered in the free tier, not the limitations. Also, try to avoid copying marketing description of the service especially if it is very specific or fancy, like "2 awesome Super.io boxes", if it means "2 build agents"
+- *Pros*: basic review, interesting features, anything non obvious... avoid copying the service description.
+- *Limitations*: specific limitations important to know (exceeding the free tier is not a limitation!), like an instance sleeping for 30 minutes every day. 
+- *Exceeding the free tier*: what happens when exceeding the free tier: API returns an error, a payment method needs to be added, an email is sent.
+- *Credit card required*: this is optional. You can answer "yes" or "no", or provide more information if it's relevant.
 
-# Rules
+**Example**:
+  
+    ### AWS Cool product
+    
+    [Pricing page](#)
+    
+    - *Free tier*: 100MB storage per project, 1GB bandwidth/month, 2 build agents
+    - *Pros*: nice interface, automated notifications pushed to GitHub, reactive support
+    - *Limitations*: limited to 5 projects, no SSL for the free tier, automated deployment limited to provider X
+    - *Exceeding the free tier*: service continues to work and a sale representative contacts the user
+    - *Credit card required*: No
 
-## Service selection
+# Services selection
 
-As a rule of thumb free tiers too limited should be excluded. The idea is that a developer should be able to use the free tier without being forced to switch to another service or do a lot of modification to continue using the service. 
+The free tiers should be usable for small projects in production without cost. 
+Services limited in time or too limited in functionnalities shouldn't be listed. 
 
-That is why free tiers limited in time should be excluded. Some exception could be made, I did one for AWS EC2 considering the duration of the free tier and the popularity of the service.
-
-## Service description
-
-**Free tier description**
-
-The free tier description should reflect what is offered in the free tier, not the limitations. Also, try to avoid copying marketing description of the service especially if it is very specific or fancy, like "2 awesome Super.io boxes", if it means "2 build agents".
-
-**Limitations**
-
-Any limitation that is not critical* should be stated in the *Limitations* section of each service. A limitation should be understood as something which is not directly part of the free tier description but important to know. For example, "100Mb bucket for free" should be part of the free tier description and not the limitations section.
-
-###### \* Because a critical limitation may exclude the service from this list.
-
-A good example could be:
-- *Free tier*: 100MB storage per project, 1GB bandwidth/month, 2 build agents
-- *Pros*: nice interface, automated notifications pushed to GitHub, reactive support
-- *Limitations*: limit of 5 projects maximum, no SSL for the free tier, deployment to hosting provider limited to AWS and Google Cloud
-- *Exceeding the free tier*: service continues to work and a sale representative contacts the user
+Some examples:
+- it's ok to list a free tier for an emailing service, even if it offers only 100 emails per month.
+- it is not ok if the service offers an application instance for free only for 12 hours a day, or if there is a mandatory idle time of 6 hours. 
