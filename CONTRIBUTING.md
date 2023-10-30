@@ -34,7 +34,7 @@ All contributions are welcome!
 # Services selection
 
 The free tiers should be usable for small projects in production without cost. 
-Services limited in time or too limited in functionnalities shouldn't be listed. 
+Services limited in time or too limited in functionalities shouldn't be listed. 
 
 Some examples:
 - it's ok to list a free tier for an emailing service, even if it offers only 100 emails per month.
