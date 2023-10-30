@@ -2,18 +2,17 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Misc](#misc)
-  - [Argonaut](#argonaut)
-  - [ExchangeRate-API](#exchangerate-api)
-  - [FingerprintJS Pro](#fingerprintjs-pro)
-  - [Geocodio](#geocodio)
-  - [ipapi.is](#ipapiis)
-  - [Let's Encrypt](#lets-encrypt)
-  - [Mailtrap](#mailtrap)
-  - [ostr.io](#ostrio)
-  - [Svix](#svix)
-  - [Taskade](#taskade)
-  - [Warrant](#warrant)
+- [Argonaut](#argonaut)
+- [ExchangeRate-API](#exchangerate-api)
+- [FingerprintJS Pro](#fingerprintjs-pro)
+- [Geocodio](#geocodio)
+- [ipapi.is](#ipapiis)
+- [Let's Encrypt](#lets-encrypt)
+- [Mailtrap](#mailtrap)
+- [ostr.io](#ostrio)
+- [Svix](#svix)
+- [Taskade](#taskade)
+- [Warrant](#warrant)
 
 <!-- /TOC -->
 
