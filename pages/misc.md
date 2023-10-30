@@ -2,16 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Argonaut](#argonaut)
-- [ExchangeRate-API](#exchangerate-api)
-- [FingerprintJS Pro](#fingerprintjs-pro)
-- [Geocodio](#Geocodio)
-- [ipapi.is](#ipapiis)
-- [Let's encrypt](#lets-encrypt)
-- [Mailtrap](#mailtrap)
-- [ostr.io](#ostrio)
-- [Taskade](#taskade)
-- [Warrant](#warrant)
+- [Misc](#misc)
+  - [Argonaut](#argonaut)
+  - [ExchangeRate-API](#exchangerate-api)
+  - [FingerprintJS Pro](#fingerprintjs-pro)
+  - [Geocodio](#geocodio)
+  - [ipapi.is](#ipapiis)
+  - [Let's Encrypt](#lets-encrypt)
+  - [Mailtrap](#mailtrap)
+  - [ostr.io](#ostrio)
+  - [Svix](#svix)
+  - [Taskade](#taskade)
+  - [Warrant](#warrant)
 
 <!-- /TOC -->
 
@@ -82,6 +84,15 @@
 * *Pros*: simple and easy to use, "one click" setup for Monitoring and Domains Protection, Prerendering supports ES6 (ECMAScript 2015)
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, Domain Names Protections continues to work as it's free for all accounts on all plans
+
+## Svix
+
+[Pricing page](https://www.svix.com/pricing/)
+
+* *Free tier*: 50,000 webhook messages/month, 7 day data retention, unlimited environments
+* *Pros*: super easy to ship a reliable, scalable webhook service with automatic retries, HMAC signatures, etc.
+* *Limitations*: rate limited to 10 messages/second
+* *Exceeding the free tier*: need to pay but service will continue working and a sales rep will reach out
 
 ## Taskade
 
