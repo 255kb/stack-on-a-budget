@@ -26,6 +26,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [PagerDuty](pages/alerting-and-paging.md/#pagerduty)
     - [OpsGenie](pages/alerting-and-paging.md/#opsgenie)
 - [**App hosting**](pages/app-hosting.md)
+    - [Alwaysdata](pages/app-hosting.md#alwaysdata)
     - [AWS EC2](pages/app-hosting.md#aws-ec2)
     - [Azure App Service](pages/app-hosting.md#azure-app-service)
     - [Fly](pages/app-hosting.md#fly)
