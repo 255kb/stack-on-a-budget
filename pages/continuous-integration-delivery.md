@@ -88,9 +88,9 @@
 
 ## GitLab CI
 
-[Product page](https://about.gitlab.com/gitlab-ci/)
+[Product page](https://about.gitlab.com/pricing/)
 
-* *Free tier*: Shared runners (DigitalOcean 4GB instances with CoreOS and Docker) for public/private projects, tests can be run in parallel
+* *Free tier*: Shared runners (DigitalOcean 4GB instances with CoreOS and Docker) for public/private projects, tests can be run in parallel, 400 compute minutes per month
 * *Pros*: Runners can also be installed on premise, fully integrated with GitLab
 * *Limitations*: Shared runners builds can be delayed some time
 
