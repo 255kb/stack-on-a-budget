@@ -17,7 +17,7 @@
 
 ## Renovate
 
-[Product Page](https://www.mend.io/free-developer-tools/renovate/)
+[Product Page](https://www.mend.io/renovate-free/)
 
 * *Free tier*: Unlimited private repos
 * *Pros*: App directly integrated on GitHub and Azure DevOps, support of multiple languages.
