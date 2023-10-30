@@ -34,7 +34,7 @@
 
 * *Free tier*: 750 hours/month of t2.micro instances
 * *Limitations*: Expires 12 months after sign-up
-* *Credit card required*: Yes, [ou must add a valid [credit card, debit card, or another payment method](https://repost.aws/knowledge-center/free-tier-payment-method))
+* *Credit card required*: Yes, [you must add a valid [credit card, debit card, or another payment method](https://repost.aws/knowledge-center/free-tier-payment-method))
 
 ## Azure App Service
 
