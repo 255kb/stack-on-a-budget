@@ -226,7 +226,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
     - [Apify](pages/web-scraping.md#apify)
-    - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
+    - [Crawlbase](pages/web-scraping.md#crawlbase)
     - [Scraper API](pages/web-scraping.md#scraper-api)
     - [SearchApi](pages/web-scraping.md#searchapi)
     - [PhantomJsCloud](pages/web-scraping.md#phantomjscloud)
