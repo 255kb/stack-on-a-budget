@@ -3,7 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Apify](#apify)
-- [ProxyCrawl](#proxycrawl)
+- [Crawlbase](#crawlbase)
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
 - [PhantomJsCloud](#phantomjscloud)
@@ -17,9 +17,9 @@
 * *Pros*: Handles proxies, provides simple interface and url classification to make scraping easier
 * *Limitations*: Rate limited to 1 crawler at a time, data retention of 7 days.
 
-## ProxyCrawl
+## Crawlbase
 
-[ProxyCrawl Home Page](https://proxycrawl.com)
+[CrawlBase Home Page](https://crawlbase.com)
 
 * *Free tier*: 1,000 Free API Calls
 * *Pros*: Bypass blocks, captchas and allows to scrape javascript pages with a simple API without managing proxies. Supports all websites.
