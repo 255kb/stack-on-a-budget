@@ -12,6 +12,7 @@
 - [Google Cloud Datastore](#google-cloud-datastore)
 - [InfluxDB Cloud](#influxdb-cloud)
 - [MongoDB Atlas](#mongodb-atlas)
+- [Neon](#neon)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
 - [PlanetScale](#planetscale)
@@ -100,6 +101,15 @@
 
 * *Free tier*: Start with a free 3-node replica set and 512 MB of storage / Shared RAM.
 * *Pros*: Fast, secure, and highly available MongoDB service for any scale.
+
+## Neon
+
+[Pricing page](https://neon.tech/pricing)
+
+* *Free tier*: 1 project, 10 branches, 3 GiB storage, unlimited databases.
+* *Pros*: Serverless Postgres with branching.
+* *Limitations*: Shared compute with 1 GiB RAM per branch, idles after 5 minutes, max of 100 active hours for non-primary branches.
+* *Exceeding the free tier*: Non-primary branches over the hour limit will be suspended.
 
 ## OpenShift MongoDB
 
