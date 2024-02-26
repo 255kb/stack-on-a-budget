@@ -4,6 +4,7 @@
 
 - [Application Insights](#application-insights)
 - [Bugfender](#bugfender)
+- [HyperDX](#hyperdx)
 - [Logentries](#logentries)
 - [Loggly](#loggly)
 - [Logsene](#logsene)
@@ -27,6 +28,13 @@
 
 * *Free tier*: 100k daily logs, 1 day log retention, 1 app.
 * *Pros*: Android & iOS SDKs, automatic UI logging, offline logs, device information, custom data.
+
+## HyperDX
+
+[Product page](https://www.hyperdx.io/) - [Pricing page](https://www.hyperdx.io/pricing)
+
+* *Free tier*: Store up to 3GB/month, 3 day log retention, 1 user.
+* *Pros*: Allows you to do full-text search across all your events without any complex search syntax, and allows you to create alerts and visualizations on top of all your events as well, supports numerous platform SDKs (Node.js, Python, .NET and etc). There are several different data collectors (Fluentd, Syslog, OpenTelemetry, Fluent Bit).
 
 ## Logentries
 
