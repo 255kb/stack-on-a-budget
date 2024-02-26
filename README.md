@@ -118,7 +118,6 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Data mining**](pages/data-mining.md)
     - [Count](pages/data-mining.md#count)
     - [Metabase](pages/data-mining.md#metabase)
-    - [Noteable](pages/data-mining.md#noteable)
 - [**Dependency management**](pages/dependency-management.md)
     - [Dependabot](pages/dependency-management.md#dependabot)
     - [Renovate](pages/dependency-management.md#renovate)
