@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Aiven MySQL/PostgreSQL/Redis](#aiven)
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
 - [DataStax Astra Cassandra](#datastax-astra-cassandra)
@@ -21,6 +22,12 @@
 - [Supabase Postgres](#supabase-postgres)
 
 <!-- /TOC -->
+
+## aiven
+[Product page](https://aiven.io/free-mysql-database)
+* *Free tier*: 1 VM, 1 CPU, 1 GB RAm, 5 GB storage for PostgreSQL and MySQL, one free PostgreSQL, one free MySQL, and one free Redis
+* *Pros:* Dedicated VM, no credit card required, Performance graphs, Data encrypted on disk and network, Backups for disaster recovery, One-click version upgrade, certifications like SOC2, ISO27001, PCI-DSS and GDPR
+* *Limitations*: For PostgreSQL: no connection pooling, Support only through the Aiven Community Forum, Only a limited number of DigitalOcean regions, Not covered under Aiven's 99.99% SLA
 
 ## AWS DynamoDB
 
@@ -126,13 +133,6 @@
 * *Free tier*: 2 Autonomous Database instances with 1 OCPU and 20GB storage each
 * *Pros*: Flexible workload tuning
 * *Limitations*: Maximum of 20 simultaneous database sessions
-
-## PlanetScale
-
-[Pricing Page](https://planetscale.com/pricing)
-
-* _Free tier_: 1 Database, 5Gb, 1 billion row read/month, 10 million row write/month, 1 production and 1 development branch
-* _Pros_: Serverless MySQL platform
 
 ## Railway
 
