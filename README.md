@@ -93,6 +93,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Travis CI (Org)](pages/continuous-integration-delivery.md#travis-ci-org)
     - [Visual Studio Team Services](pages/continuous-integration-delivery.md#visual-studio-team-services)
 - [**Database hosting**](pages/database-hosting.md)
+    - [Aiven MySQL/PostgreSQL/Redis](pages/database-hosting.md#aiven)
     - [AWS DynamoDB](pages/database-hosting.md#aws-dynamodb)
     - [Cloud AMQP](pages/database-hosting.md#cloud-amqp)
     - [Cloudant CouchDB](pages/database-hosting.md#cloudant-couchdb)
