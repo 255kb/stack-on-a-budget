@@ -107,7 +107,6 @@ The goal is to have enough details about each free tier so developers can choose
     - [Neon](pages/database-hosting.md#neon)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Oracle Cloud](pages/database-hosting.md#oracle-cloud)
-    - [PlanetScale](pages/database-hosting.md#planetscale)
     - [Railway](pages/database-hosting.md#railway)
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
     - [Supabase Postgres](pages/database-hosting.md#supabase-postgres)
