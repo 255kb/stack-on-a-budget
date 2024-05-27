@@ -5,7 +5,7 @@
 - [Aiven MySQL/PostgreSQL/Redis](#aiven)
 - [AWS DynamoDB](#aws-dynamodb)
 - [Cloudant CouchDB](#cloudant-couchdb)
-- [CockroachDB](#CockroachDB)
+- [CockroachDB](#cockroachdb)
 - [DataStax Astra Cassandra](#datastax-astra-cassandra)
 - [Dydra](#dydra)
 - [ElephantSQL](#elephantsql)
