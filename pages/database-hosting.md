@@ -45,6 +45,14 @@
 * *Limitations*: Account on shared multitenant instance
 * *Exceeding the free tier*: Credit card needed after first 30 days to charge exceeding usage
 
+## CockroachDB
+
+[Pricing page](https://www.cockroachlabs.com/pricing/)
+
+* *Free tier*: 10GB storage with 50M Request Units per month.
+* *Pros*: PostgreSQL compatible. Multiple cloud hosts and regions to choose from. Distributed, resilient database hosting. Free hourly backups. Open-source and self hostable. No credit card required to get started.
+* *Limitations*: Credit card required to set up multiple clusters.
+* *Exceeding the free tier*: $0.50/GB over 10GB storage, $0.20 per additional 1M Request Units.
 
 ## DataStax Astra Cassandra
 [Product page](https://www.datastax.com/products/datastax-astra)
