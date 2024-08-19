@@ -25,6 +25,8 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Alerting and Paging**](pages/alerting-and-paging.md)
     - [PagerDuty](pages/alerting-and-paging.md/#pagerduty)
     - [OpsGenie](pages/alerting-and-paging.md/#opsgenie)
+- [**API management**](pages/api-management.md)
+    - [Zuplo](pages/api-management.md/#zuplo)
 - [**App hosting**](pages/app-hosting.md)
     - [Alwaysdata](pages/app-hosting.md#alwaysdata)
     - [AWS EC2](pages/app-hosting.md#aws-ec2)
