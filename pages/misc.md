@@ -10,6 +10,7 @@
 - [Let's Encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
+- [ParityVend](#parityvend)
 - [Svix](#svix)
 - [Taskade](#taskade)
 - [Warrant](#warrant)
@@ -83,6 +84,16 @@
 * *Pros*: simple and easy to use, "one click" setup for Monitoring and Domains Protection, Prerendering supports ES6 (ECMAScript 2015)
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, Domain Names Protections continues to work as it's free for all accounts on all plans
+
+## ParityVend
+
+[Home Page](https://www.ambeteco.com/ParityVend/)
+
+- *Free tier*: 7,500 API requests per month. Access to all features, including No-Code and API, customization options, unlimited projects. Full functionality for creating adaptive geo-based pricing flows with a modern dashboard and detailed statistics.
+- *Pros*: Setting up ParityVend takes less than 7 minutes. This tool helps your business adjust prices based on the visitor's country, making your products more affordable and accessible worldwide. By doing so, it opens up new markets and increases your sales, making your business more profitable. 
+- *Limitations*: ParityVend branding is displayed on all banners. Anti-abuse systems (VPN, proxy, TOR protection) are not included in the free tier.
+- *Exceeding the free tier*: Service continues to work, but once the 7,500 request limit is reached, additional requests are not processed until the quota resets and result in an error. Users can upgrade to a paid plan for a higher quota at any time.
+- *Credit card required*: No
 
 ## Svix
 
