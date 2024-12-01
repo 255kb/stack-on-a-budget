@@ -125,6 +125,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Dependabot](pages/dependency-management.md#dependabot)
     - [Renovate](pages/dependency-management.md#renovate)
 - [**DNS hosting**](pages/dns-hosting.md)
+    - [FreeDNS](pages/dns-hosting.md#freedns)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
     - [Elastic Email](pages/emailing.md#elastic-email)
