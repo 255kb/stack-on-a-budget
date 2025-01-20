@@ -115,7 +115,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Redis Cloud](pages/database-hosting.md#redis-cloud)
     - [Supabase Postgres](pages/database-hosting.md#supabase-postgres)
 - [**Database management**](pages/database-management.md)
-    - [KS DB Merge Tools](pages/database-management.md#ksdbmergetools)
+    - [KS DB Merge Tools](pages/database-management.md#ks-db-merge-tools)
     - [Redsmin](pages/database-management.md#redsmin)
 - [**Database modeling**](pages/database-modeling.md)
     - [ERD Lab](pages/database-modeling.md#erdlab)
