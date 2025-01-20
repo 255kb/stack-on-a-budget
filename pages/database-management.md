@@ -2,7 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [KS DB Merge Tools](#ksdbmergetools)
+- [KS DB Merge Tools](#ks-db-merge-tools)
 - [Redsmin](#redsmin)
 
 <!-- /TOC -->
