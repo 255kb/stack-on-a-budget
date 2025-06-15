@@ -91,6 +91,6 @@
 [Product page](https://phare.io) - [Pricing page](https://phare.io/pricing)
 
 * *Free tier*: 100k monthly monitoring events, 30s intervals, unlimited users, unlimited projects, unlimited status pages
-* *Pros*: Bootstraped european company, 11 monitoring regions, no feature gating with affordable paid tier.
+* *Pros*: Bootstrapped european company, 11 monitoring regions, no feature gating with affordable paid tier.
 * *Limitations*: No IP filtering, TCP monitoring on ports 25, 465, 587 and 2525 is restricted.
 * *Exceeding the free tier*: You will get alerted before consuming all your quota, an overage of 10% is allowed before locking your resources. 
