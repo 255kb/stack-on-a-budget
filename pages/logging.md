@@ -41,7 +41,8 @@
 
 * *Free tier*: 100MB logs every month, 1 day log retention
 * *Pros*: Android & iOS SDKs, automatic wireless browser based logging ui, device info, 1-click request interception/mocking, mock apis, screenshots, screen capture, log session sharing
-
+* *Exceeding the free tier*: Existing logs can be viewed but new logs will be blocked
+* *Credit card required*: No
 
 ## Logentries
 
