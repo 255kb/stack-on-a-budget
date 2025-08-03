@@ -147,6 +147,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Application Insights](pages/logging.md#application-insights)
     - [Bugfender](pages/logging.md#bugfender)
     - [HyperDX](pages/logging.md#hyperdx)
+    - [LogDog](pages/logging.md#logdog)
     - [Logentries](pages/logging.md#logentries)
     - [Loggly](pages/logging.md#loggly)
     - [Logsene](pages/logging.md#logsene)
