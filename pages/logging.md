@@ -5,6 +5,7 @@
 - [Application Insights](#application-insights)
 - [Bugfender](#bugfender)
 - [HyperDX](#hyperdx)
+- [LogDog](#logdog)
 - [Logentries](#logentries)
 - [Loggly](#loggly)
 - [Logsene](#logsene)
@@ -35,6 +36,13 @@
 
 * *Free tier*: Store up to 3GB/month, 3 day log retention, 1 user.
 * *Pros*: Allows you to do full-text search across all your events without any complex search syntax, and allows you to create alerts and visualizations on top of all your events as well, supports numerous platform SDKs (Node.js, Python, .NET and etc). There are several different data collectors (Fluentd, Syslog, OpenTelemetry, Fluent Bit).
+
+[Product page](https://log.dog) - [Pricing page](https://log.dog/pricing)
+
+* *Free tier*: 100MB logs every month, 1 day log retention
+* *Pros*: Android & iOS SDKs, automatic wireless browser based logging ui, device info, 1-click request interception/mocking, mock apis, screenshots, screen capture, log session sharing
+* *Exceeding the free tier*: Existing logs can be viewed but new logs will be blocked
+* *Credit card required*: No
 
 ## Logentries
 
