@@ -37,6 +37,8 @@
 * *Free tier*: Store up to 3GB/month, 3 day log retention, 1 user.
 * *Pros*: Allows you to do full-text search across all your events without any complex search syntax, and allows you to create alerts and visualizations on top of all your events as well, supports numerous platform SDKs (Node.js, Python, .NET and etc). There are several different data collectors (Fluentd, Syslog, OpenTelemetry, Fluent Bit).
 
+## LogDog 
+
 [Product page](https://log.dog) - [Pricing page](https://log.dog/pricing)
 
 * *Free tier*: 100MB logs every month, 1 day log retention
