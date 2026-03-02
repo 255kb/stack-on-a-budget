@@ -2,9 +2,19 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Echolon](#echolon)
 - [Zuplo](#zuplo)
 
 <!-- /TOC -->
+
+## Echolon
+
+[Pricing page](https://echolon.app/pricing)
+
+- *Free tier*: 100% free for personal use, optional commercial version; 100% open source
+- *Pros*: A free open source Postman alternative to build and test your APIs.
+- *Limitations*: Commercial usage is paid
+- *Credit card required*: No
 
 ## Zuplo
 
