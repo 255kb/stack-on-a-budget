@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Agent Gateway](#agent-gateway)
 - [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
@@ -16,6 +17,15 @@
 - [Warrant](#warrant)
 
 <!-- /TOC -->
+
+## Agent Gateway
+
+[Agent Gateway](https://agent-gateway-kappa.vercel.app)
+
+* *Free Tier*: 200 free credits, no signup required — just generate a key and start calling APIs
+* *Pros*: 35 production-ready API services in one gateway (crypto prices, wallet balances, web scraping, WHOIS, scheduling, and more); pay-as-you-go with USDC on Base blockchain; OpenAPI spec included
+* *Limitations*: Credits consumed per API call; free tier covers ~200 requests
+* *Exceeding the free tier*: Top up with USDC on Base blockchain; no subscription required
 
 ## APIVerve
 
