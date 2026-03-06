@@ -8,7 +8,6 @@
 - [CircleCI](#circleci)
 - [Codefresh](#codefresh)
 - [Codemagic](#codemagic)
-- [Codeship](#codeship)
 - [Drone](#drone)
 - [GitHub Actions](#github-actions)
 - [GitLab CI](#gitlab-ci)
@@ -61,14 +60,6 @@
 
 * *Free tier*: 500 build minutes/month, MacOS standard VM
 * *Pros*: Easy to setup Flutter, ReactNative, Cordova, Ionic, and iOS/Android native projects, Publish to App Store and Google Play Store directly
-
-## Codeship
-
-[Pricing page](https://codeship.com/pricing)
-
-* *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
-* *Pros*: Easy to set up, Supports many hosting providers (AWS, Heroku)
-* *Limitations*: No Docker support in free tier
 
 ## Drone
 

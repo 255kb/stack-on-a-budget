@@ -152,7 +152,7 @@
 
 ## Redis Cloud
 
-[Pricing page](https://redislabs.com/pricing)
+[Pricing page](https://redis.io/pricing/)
 
 * *Free tier*: 30MB, 30 connections
 * *Pros*: managed, possibility to choose cloud provider (AWS, Azure, GCE, IBM Softlayer) and availability zones

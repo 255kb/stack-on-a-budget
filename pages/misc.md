@@ -14,7 +14,6 @@
 - [ostr.io](#ostrio)
 - [Svix](#svix)
 - [Taskade](#taskade)
-- [Warrant](#warrant)
 
 <!-- /TOC -->
 
@@ -120,12 +119,3 @@
 * *Pros*: Simple and real-time task management
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
-
-## Warrant
-
-[Pricing page](https://warrant.dev/pricing)
-
-* *Free tier*: 1 million API requests per month & 1,000 authz rules
-* *Pros*: Authorization as a service, "one click" implementation of role based access control and other schemes
-* *Limitations*: 7-day retention for access logs & events on the free tier
-* *Exceeding the free tier*: Need to pay, API will continue to work, team will contact user

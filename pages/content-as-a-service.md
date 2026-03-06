@@ -7,7 +7,6 @@
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
 - [Localizely](#localizely)
-- [PersianJSONPlaceholder](#persianjsonplaceholder)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
 - [Storyblok](#storyblok)
@@ -53,12 +52,6 @@
 
 * *Free tier*: 250 string keys, 1 project, unlimited languages and users. 
 * *Pros*: Easy to use. Over-the-air translation updates. Completely free for Open Source projects without limitations.
-
-## PersianJSONPlaceholder
-
-[Product page](https://jsonplaceholder.ir/)
-
-* *Free tier*: Completely free to use
 
 ## prismic.io
 
