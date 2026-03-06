@@ -6,6 +6,7 @@
 - [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
+- [Frostbyte API](#frostbyte-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
@@ -50,6 +51,15 @@
 * *Free tier*: Free JSON currency conversion rate dataset
 * *Pros*: No request limits, multiple data sources
 * *Limitations*: Only updated every 24 hours
+
+## Frostbyte API
+
+[Frostbyte API](https://agent-gateway-kappa.vercel.app)
+
+* *Free tier*: 200 free API credits, no signup required for public endpoints (IP geolocation, crypto prices)
+* *Pros*: 40+ developer APIs behind one gateway (IP geolocation, DNS lookup, crypto prices, screenshots, code execution), instant API key creation, no credit card needed
+* *Limitations*: Rate limited to 10 requests per minute on free tier
+* *Exceeding the free tier*: API returns an error, can top up with USDC on Base
 
 ## FingerprintJS Pro
 

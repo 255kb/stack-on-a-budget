@@ -160,6 +160,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [APIVerve](pages/misc.md#apiverve)
     - [Argonaut](pages/misc.md#argonaut)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
+    - [Frostbyte API](pages/misc.md/#frostbyte-api)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
     - [Geocodio](pages/misc.md#geocodio)
     - [ipapi.is](pages/misc.md#ipapiis)
