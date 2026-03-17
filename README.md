@@ -203,6 +203,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Security**](pages/security.md)
     - [Snyk](pages/security.md#snyk)
 - [**Serverless app hosting**](pages/serverless-app-hosting.md)
+    - [AppSail](pages/serverless-app-hosting.md#appsail)  
     - [AWS Lambda](pages/serverless-app-hosting.md#aws-lambda)
     - [Google Cloud Functions](pages/serverless-app-hosting.md#google-cloud-functions)
 - [**Static app hosting**](pages/static-app-hosting.md)
