@@ -10,6 +10,7 @@
   - [GitLab Pages](#gitlab-pages)
   - [Netlify](#netlify)
   - [Render](#render)
+  - [Slate](#slate)
   - [Surge](#surge)
   - [Vercel](#vercel)
 
@@ -66,6 +67,14 @@
 * *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
 * *Limitations*: Free tier does not allow GitHub actions to track deployments. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead.
+
+## Slate
+
+[Product & Pricing page](https://catalyst.zoho.com/slate/index.html?src=header)
+
+* *Free tier*: 500 MB CDN storage, 300,000 requests, 100,000 ISR reads, 50,000 ISR writes, 25,000 GB-seconds function invocations, 72,000 GB-seconds build compute free per month
+* *Pros*: No Credit card required to get started, Pay-as-you-go after free tier limit, Supports all major JS frameworks(React, Next.JS, Vue, Angular, and more), Git-based auto deploys from GitHub, GitLab, and Bitbucket, Automatic SSL provisioning and managed CDN, Rollback to any previous deployment, Instant live previews with code change.
+* *Limitations*: Three preview deployments per app.
 
 ## Surge
 
