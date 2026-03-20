@@ -10,7 +10,7 @@
   - [GitLab Pages](#gitlab-pages)
   - [Netlify](#netlify)
   - [Render](#render)
-  - [Slate](#slate)
+  - [Catalyst Slate](#catalyst-slate)
   - [Surge](#surge)
   - [Vercel](#vercel)
 
@@ -68,7 +68,7 @@
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
 * *Limitations*: Free tier does not allow GitHub actions to track deployments. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead.
 
-## Slate
+## Catalyst Slate
 
 [Product & Pricing page](https://catalyst.zoho.com/slate/index.html?src=header)
 
