@@ -2,7 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [AppSail](#appsail)
+- [Catalyst AppSail](#catalyst-appsail)
 - [AWS Lambda](#aws-lambda)
 - [Google Cloud Functions](#google-cloud-functions)
 
