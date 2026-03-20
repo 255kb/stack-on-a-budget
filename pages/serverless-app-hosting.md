@@ -8,7 +8,7 @@
 
 <!-- /TOC -->
 
-## AppSail
+## Catalyst AppSail
 
 [Pricing page](https://catalyst.zoho.com/free-tier.html)
 
