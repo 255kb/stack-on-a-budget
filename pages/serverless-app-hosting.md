@@ -2,10 +2,18 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Catalyst AppSail](#catalyst-appsail)
 - [AWS Lambda](#aws-lambda)
 - [Google Cloud Functions](#google-cloud-functions)
 
 <!-- /TOC -->
+
+## Catalyst AppSail
+
+[Pricing page](https://catalyst.zoho.com/free-tier.html)
+
+* *Free tier*: 15 GB-hours/month of app execution (shared across all AppSail services in your account, renews monthly)
+* *Pros*: serverless PaaS with automatic scaling, supports any language/runtime via custom Docker containers or Catalyst-managed runtimes (Node.js, Java, Python), scales to zero when idle, free tier that is refreshed every month
 
 ## AWS Lambda
 
