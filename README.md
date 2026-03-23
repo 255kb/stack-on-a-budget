@@ -166,6 +166,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [ipapi.is](pages/misc.md#ipapiis)
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)
+    - [MyAddress.AI](pages/misc.md#myaddressai)
     - [ostr.io](pages/misc.md#ostrio)
     - [Svix](pages/misc.md#svix)
     - [Taskade](pages/misc.md#taskade)
