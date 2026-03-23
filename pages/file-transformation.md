@@ -4,6 +4,7 @@
 
 - [Cloudinary](#cloudinary)
 - [Filestack](#filestack)
+- [PDFSpark](#pdfspark)
 
 <!-- /TOC -->
 
@@ -23,3 +24,12 @@
 * *Free tier*: 250 file uploads/month, 500 file transformations/month, 3GB bandwidth/month
 * *Pros*: image and video transformations, document file conversions, audio/video transcoding, free CDN, HTML widget, iOS SDK, tons of cloud storage integrations
 * *Limitations*: file upload size limited to 50 MB, free tier does not offer custom CNAME, S3 as file source is premium feature
+
+## PDFSpark
+
+[Home page](https://pdfspark.dev)
+
+* *Free tier*: Free HTML and URL to PDF conversion API with no authentication required
+* *Pros*: Convert any HTML content or URL to a high-quality PDF document via a simple API call; no API key or signup needed; supports custom page sizes and options
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
