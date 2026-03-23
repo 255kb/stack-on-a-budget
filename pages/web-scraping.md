@@ -4,6 +4,7 @@
 
 - [Apify](#apify)
 - [Crawlbase](#crawlbase)
+- [PageShot](#pageshot)
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
 - [PhantomJsCloud](#phantomjscloud)
@@ -24,6 +25,15 @@
 * *Free tier*: 1,000 Free API Calls
 * *Pros*: Bypass blocks, captchas and allows to scrape javascript pages with a simple API without managing proxies. Supports all websites.
 * *Limitations*: Rate limited to 20 requests per second, may be increased upon request.
+
+## PageShot
+
+[Home page](https://pageshot.site)
+
+* *Free tier*: Free screenshot and web page capture API with no authentication required
+* *Pros*: Capture full-page screenshots, specific viewport sizes, and page content via a simple API call; no API key or signup needed
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
 
 ## Scraper API
 
