@@ -12,6 +12,7 @@
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
 - [Mailtrap](#mailtrap)
+- [MyAddress.AI](#myaddressai)
 - [ostr.io](#ostrio)
 - [Svix](#svix)
 - [Taskade](#taskade)
@@ -102,6 +103,15 @@
 * *Free tier*: 1 inbox, 50 messages per inbox, 2 emails/sec per inbox
 * *Pros*: Easy to setup
 * *Limitations*: No team members, no forward rules, no email address
+
+## MyAddress.AI
+
+[Home page](https://myaddress.ai)
+
+* *Free tier*: Free address autocomplete and geocoding API with no authentication required
+* *Pros*: Address autocomplete suggestions and geocoding lookups via a simple API call; no API key or signup needed; supports international addresses
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
 
 ## ostr.io
 
