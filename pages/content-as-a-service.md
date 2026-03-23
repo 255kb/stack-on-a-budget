@@ -7,6 +7,7 @@
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
 - [Localizely](#localizely)
+- [OGForge](#ogforge)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
 - [Storyblok](#storyblok)
@@ -53,6 +54,15 @@
 * *Free tier*: 250 string keys, 1 project, unlimited languages and users. 
 * *Pros*: Easy to use. Over-the-air translation updates. Completely free for Open Source projects without limitations.
 
+## OGForge
+
+[Home page](https://ogforge.dev)
+
+* *Free tier*: Free Open Graph image generation API with no authentication required
+* *Pros*: Generate dynamic Open Graph (OG) images for social media previews via a simple API call; no API key or signup needed; customizable templates and styles
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
+
 ## prismic.io
 
 [Pricing page](https://prismic.io/pricing)
@@ -76,7 +86,7 @@
 * *Free tier*: Unlimited content entries, unlimited components
 * *Pros*: Internationalization. Image and video asset support. Visual editor for editing a live site. Js/Node/Ruby/PHP SDKs. Headless CMS.
 * *Limitations*: 1 user. Max 50mb video size. No version history. No webhooks.
-* *Exceeding the free tier*: Will reach out if they think there you’re using it in an abusive way.
+* *Exceeding the free tier*: Will reach out if they think there you're using it in an abusive way.
 
 ## Supportivekoala
 
