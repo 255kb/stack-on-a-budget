@@ -142,6 +142,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**File transformation**](pages/file-transformation.md)
     - [Cloudinary](pages/file-transformation.md#cloudinary)
     - [Filestack](pages/file-transformation.md#filestack)
+    - [PDFSpark](pages/file-transformation.md#pdfspark)
 - [**Logging**](pages/logging.md)
     - [Application Insights](pages/logging.md#application-insights)
     - [Bugfender](pages/logging.md#bugfender)
