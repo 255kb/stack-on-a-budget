@@ -11,6 +11,7 @@
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
+- [LinkShrink](#linkshrink)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
 - [Svix](#svix)
@@ -94,6 +95,15 @@
 * *Free tier*: provide SSL certificates for free
 * *Pros*: free, support for wildcard certificates
 * *Limitations*: certificates are valid for 90 days so automation is strongly recommended
+
+## LinkShrink
+
+[Home page](https://linkshrink.dev)
+
+* *Free tier*: Free privacy-first URL shortener API with no authentication required
+* *Pros*: Shorten URLs via a simple API call with no tracking or analytics collected on end users; no API key or signup needed; privacy-focused by design
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
 
 ## Mailtrap
 
