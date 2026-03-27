@@ -169,6 +169,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [LinkShrink](pages/misc.md#linkshrink)
     - [Mailtrap](pages/misc.md#mailtrap)
+    - [MyAddress.AI](pages/misc.md#myaddressai)
     - [ostr.io](pages/misc.md#ostrio)
     - [QRMint](pages/misc.md#qrmint)
     - [Svix](pages/misc.md#svix)
