@@ -170,6 +170,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [LinkShrink](pages/misc.md#linkshrink)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
+    - [QRMint](pages/misc.md#qrmint)
     - [Svix](pages/misc.md#svix)
     - [Taskade](pages/misc.md#taskade)
 - [**Mobile analytics**](pages/mobile-analytics.md)

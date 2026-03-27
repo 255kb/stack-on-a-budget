@@ -14,6 +14,7 @@
 - [LinkShrink](#linkshrink)
 - [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
+- [QRMint](#qrmint)
 - [Svix](#svix)
 - [Taskade](#taskade)
 
@@ -121,6 +122,15 @@
 * *Pros*: simple and easy to use, "one click" setup for Monitoring and Domains Protection, Prerendering supports ES6 (ECMAScript 2015)
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, Domain Names Protections continues to work as it's free for all accounts on all plans
+
+## QRMint
+
+[Home page](https://qrmint.dev)
+
+* *Free tier*: Free QR code generation API with no authentication required
+* *Pros*: Generate QR codes for any content via a simple API call; supports multiple output formats; no API key or signup needed
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
 
 ## Svix
 
