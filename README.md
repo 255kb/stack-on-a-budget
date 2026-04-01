@@ -171,6 +171,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Mailtrap](pages/misc.md#mailtrap)
     - [MyAddress.AI](pages/misc.md#myaddressai)
     - [ostr.io](pages/misc.md#ostrio)
+    - [PredScope API](pages/misc.md#predscope-api)
     - [QRMint](pages/misc.md#qrmint)
     - [Svix](pages/misc.md#svix)
     - [Taskade](pages/misc.md#taskade)

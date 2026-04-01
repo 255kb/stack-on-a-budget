@@ -15,6 +15,7 @@
 - [Mailtrap](#mailtrap)
 - [MyAddress.AI](#myaddressai)
 - [ostr.io](#ostrio)
+- [PredScope API](#predscope-api)
 - [QRMint](#qrmint)
 - [Svix](#svix)
 - [Taskade](#taskade)
@@ -132,6 +133,15 @@
 * *Pros*: simple and easy to use, "one click" setup for Monitoring and Domains Protection, Prerendering supports ES6 (ECMAScript 2015)
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, Domain Names Protections continues to work as it's free for all accounts on all plans
+
+## PredScope API
+
+[Home page](https://predscope.com/api)
+
+* *Free tier*: Unlimited API calls, no authentication required
+* *Pros*: Free REST API for prediction market odds data from Polymarket — 1200+ events, CORS enabled, updates every 10 minutes, JSON responses
+* *Limitations*: Read-only data; prediction market events only
+* *Exceeding the free tier*: No paid tier, the API is free for all
 
 ## QRMint
 
