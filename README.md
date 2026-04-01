@@ -167,6 +167,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Geocodio](pages/misc.md#geocodio)
     - [ipapi.is](pages/misc.md#ipapiis)
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
+    - [LinkMeta](pages/misc.md#linkmeta)
     - [LinkShrink](pages/misc.md#linkshrink)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [MyAddress.AI](pages/misc.md#myaddressai)

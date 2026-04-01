@@ -11,6 +11,7 @@
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
+- [LinkMeta](#linkmeta)
 - [LinkShrink](#linkshrink)
 - [Mailtrap](#mailtrap)
 - [MyAddress.AI](#myaddressai)
@@ -97,6 +98,15 @@
 * *Free tier*: provide SSL certificates for free
 * *Pros*: free, support for wildcard certificates
 * *Limitations*: certificates are valid for 90 days so automation is strongly recommended
+
+## LinkMeta
+
+[Home page](https://linkmeta.softvoyagers.com)
+
+* *Free tier*: Free link metadata and preview extraction API — retrieves title, description, images, and Open Graph data from any URL
+* *Pros*: Extract metadata and Open Graph data from any URL via a simple API call; no API key or signup needed
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
 
 ## LinkShrink
 
