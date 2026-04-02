@@ -174,6 +174,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [QRMint](pages/misc.md#qrmint)
     - [Svix](pages/misc.md#svix)
     - [Taskade](pages/misc.md#taskade)
+    - [ToolPipe](pages/misc.md#toolpipe)
 - [**Mobile analytics**](pages/mobile-analytics.md)
     - [Amazon Mobile Analytics](pages/mobile-analytics.md#amazon-mobile-analytics)
     - [Countly Analytics](pages/mobile-analytics.md#countly-analytics)
