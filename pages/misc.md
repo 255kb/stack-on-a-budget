@@ -18,6 +18,7 @@
 - [QRMint](#qrmint)
 - [Svix](#svix)
 - [Taskade](#taskade)
+- [ToolPipe](#toolpipe)
 
 <!-- /TOC -->
 
@@ -159,3 +160,12 @@
 * *Pros*: Simple and real-time task management
 * *Limitations*: No limits
 * *Exceeding the free tier*: need to pay, will included unlimited workspaces, file uploads, and more advanced features
+
+## ToolPipe
+
+[Home page](https://toolpipe.dev)
+
+* *Free tier*: 145+ developer utility API endpoints, no API key required for basic usage
+* *Pros*: All-in-one developer utility API covering JSON formatting, hashing (MD5/SHA), UUID generation, QR codes, DNS lookup, JWT decoding, regex testing, Base64 encoding, PDF processing, and more; also available as an MCP server via npm (`@cosai-labs/toolpipe-mcp-server`)
+* *Limitations*: Rate limited on the free tier
+* *Credit card required*: No
