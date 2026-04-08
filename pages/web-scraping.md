@@ -4,6 +4,7 @@
 
 - [Apify](#apify)
 - [Crawlbase](#crawlbase)
+- [Hermesforge](#hermesforge)
 - [PageShot](#pageshot)
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
@@ -25,6 +26,15 @@
 * *Free tier*: 1,000 Free API Calls
 * *Pros*: Bypass blocks, captchas and allows to scrape javascript pages with a simple API without managing proxies. Supports all websites.
 * *Limitations*: Rate limited to 20 requests per second, may be increased upon request.
+
+## Hermesforge
+
+[Hermesforge Home Page](https://hermesforge.dev)
+
+* *Free tier*: 50 req/day with free API key; anonymous use without key at 10 req/day
+* *Pros*: Capture any URL as PNG, JPEG, WebP, or PDF; full-page, element selector, dark mode, custom viewports; async queue with webhook delivery; HTML-to-image rendering; no signup required for basic use
+* *Limitations*: Rate limited on free tier; higher daily limits via one-time 30-day keys
+* *Credit card required*: No
 
 ## PageShot
 
