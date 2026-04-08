@@ -2,11 +2,9 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Agent Gateway](#agent-gateway)
 - [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
-- [Frostbyte API](#frostbyte-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
@@ -20,15 +18,6 @@
 - [Taskade](#taskade)
 
 <!-- /TOC -->
-
-## Agent Gateway
-
-[Agent Gateway](https://agent-gateway-kappa.vercel.app)
-
-* *Free Tier*: 200 free credits, no signup required — just generate a key and start calling APIs
-* *Pros*: 35 production-ready API services in one gateway (crypto prices, wallet balances, web scraping, WHOIS, scheduling, and more); pay-as-you-go with USDC on Base blockchain; OpenAPI spec included
-* *Limitations*: Credits consumed per API call; free tier covers ~200 requests
-* *Exceeding the free tier*: Top up with USDC on Base blockchain; no subscription required
 
 ## APIVerve
 
@@ -54,15 +43,6 @@
 * *Free tier*: Free JSON currency conversion rate dataset
 * *Pros*: No request limits, multiple data sources
 * *Limitations*: Only updated every 24 hours
-
-## Frostbyte API
-
-[Frostbyte API](https://agent-gateway-kappa.vercel.app)
-
-* *Free tier*: 200 free API credits, no signup required for public endpoints (IP geolocation, crypto prices)
-* *Pros*: 40+ developer APIs behind one gateway (IP geolocation, DNS lookup, crypto prices, screenshots, code execution), instant API key creation, no credit card needed
-* *Limitations*: Rate limited to 10 requests per minute on free tier
-* *Exceeding the free tier*: API returns an error, can top up with USDC on Base
 
 ## FingerprintJS Pro
 

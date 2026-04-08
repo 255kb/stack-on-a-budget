@@ -33,9 +33,10 @@ All contributions are welcome!
 
 # Services selection
 
-The free tiers should be usable for small projects in production without cost. 
-Services limited in time or too limited in functionalities shouldn't be listed. 
+The purpose of this project is to list services with free tiers that can be used in production for application hosting. The free tier should be usable for small projects without cost. Services that are too limited in functionalities or that are limited in time shouldn't be listed.
 
-Some examples:
-- it's ok to list a free tier for an emailing service, even if it offers only 100 emails per month.
-- it is not ok if the service offers an application instance for free only for 12 hours a day, or if there is a mandatory idle time of 6 hours. 
+The list is not limited to hosting providers. It can include any service that can be useful for production applications, like databases, email services, monitoring tools, data APIs (e.g. currency or geocoding), etc. 
+
+However, the list should not include services that are not actively used in production applications, like development tools, code editors, design tools, etc. 
+
+Personal or hobby projects shouldn't be listed either. We aim to list services that will be around for a some time. 
