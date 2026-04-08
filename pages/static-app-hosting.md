@@ -55,9 +55,9 @@
 
 ## Netlify
 
-[Product page](https://www.netlify.com/features) / [Pricing page](https://www.netlify.com/pricing/)
+[Pricing page](https://www.netlify.com/pricing/)
 
-* *Free tier*: Unlimited sites, Custom domain, Automatic HTTPS, Open source projects get [pro plan for free](https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/)
+* *Free tier*: Unlimited sites, Custom domain, Automatic HTTPS
 * *Pros*: Deployment with git, Custom redirect rules, Webhooks and Notifications for integration with third party services, Form handling, User authentication handling, CMS
 
 ## Render
