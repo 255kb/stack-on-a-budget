@@ -1,6 +1,6 @@
 All contributions are welcome!
 
-- Submit them through issues or pull request.
+- Submit them through pull requests (not accepting issues).
 - Try to contribute one service at a time to allow easy review and merging.
 - Search for existing issues and pull requests to avoid duplicates.
 - Do not forget to update the table of content.
