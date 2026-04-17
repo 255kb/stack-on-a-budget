@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [APIVerve](#apiverve)
+- [AI Dev Jobs API](#ai-dev-jobs-api)
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
@@ -25,6 +26,15 @@
 - _Pros_: High quality curated APIs to help build your next project, 1 API Key gives you access to all APIs
 - _Limitations_: Free tier has rate limits, and some API features are locked down on the free tier
 - _Exceeding the free tier_: API calls return an error
+
+## AI Dev Jobs API
+
+[API docs](https://aidevboard.com/api-docs)
+
+- _Free Tier_: 100 API requests per hour, no authentication required
+- _Pros_: 7,400+ AI/ML job listings from 400+ companies, search by role, company, location, and salary. OpenAPI 3.0 spec available. Also offered as an MCP server for AI agents
+- _Limitations_: free tier limited to 100 requests per hour
+- _Exceeding the free tier_: API returns a rate limit error with Retry-After header
 
 ## Argonaut
 
