@@ -114,6 +114,15 @@
 - _Exceeding the free tier_: need to pay but service will continue working and a sales rep will reach out
 
 ## Taskade
+## Typing Words GIF
+
+[Typing Words GIF](https://typingwordsgif.com/)
+
+- _Free Tier_: Free to use, no signup required
+- _Pros_: Create typing text animations and export as GIFs directly in browser. No account needed.
+- _Limitations_: None
+- _Exceeding the free tier_: N/A
+
 
 [Home page](https://taskade.com)
 
