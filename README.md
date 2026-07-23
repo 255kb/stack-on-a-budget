@@ -76,6 +76,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [OGForge](pages/content-as-a-service.md#ogforge)
     - [prismic.io](pages/content-as-a-service.md#prismicio)
     - [Sanity](pages/content-as-a-service.md#sanity)
+    - [snill.ai](pages/content-as-a-service.md#snillai)
     - [Storyblok](pages/content-as-a-service.md#storyblok)
     - [Supportivekoala](pages/content-as-a-service.md#supportivekoala)
 - [**Content Delivery Networks**](pages/content-delivery-networks.md)

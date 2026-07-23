@@ -10,6 +10,7 @@
 - [OGForge](#ogforge)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
+- [snill.ai](#snillai)
 - [Storyblok](#storyblok)
 - [Supportivekoala](#supportivekoala)
 
@@ -78,6 +79,16 @@
 * *Free tier*: 3 users, 10K documents, 500K API CDN requests, 100K API requests, 2 datasets (can be made private), image pipeline / asset CDN, 100 realtime concurrent database connections, support for GraphQL (beta)
 * *Pros*: Good documentation, Studio (editor / content manager) is easily customisable, great community support in slack channel, powerful query language (GROQ), GraphQL support, webhooks
 * *Exceeding the free tier*: Payment details need to be added for overages or requests will be blocked
+
+## snill.ai
+
+[Pricing page](https://snill.ai)
+
+* *Free tier*: 1 user, 2 apps, 1,000 records, 100 MB file storage, 10 AI requests/day. Each app includes a relational database, dashboards, a REST API with OpenAPI spec, outbound webhooks, and role-based access control.
+* *Pros*: Generates a complete business system (data model, dashboards, REST API) from a plain-language description; scoped API keys, HMAC-signed webhooks, CSV/JSON import and export, version history with one-click rollback, daily backups; data and AI are hosted in the EU.
+* *Limitations*: Free tier is single-user and capped at 2 apps and 1,000 records
+* *Exceeding the free tier*: Upgrade to the Pro plan ($19 per user/month) for higher limits; the free tier keeps working otherwise
+* *Credit card required*: No
 
 ## Storyblok
 
