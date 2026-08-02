@@ -9,6 +9,7 @@
 - [SendGrid](#sendgrid)
 - [SparkPost](#sparkpost)
 - [Mailazy](#mailazy)
+- [ZeroSMTP](#zerosmtp)
 
 <!-- /TOC -->
 
@@ -67,3 +68,12 @@
 * *Free tier*: 10000 emails/month, 350 emails/day sending limit, get upto 50,000 email/month in beta program
 * *Pros*: Integrate either with SMTP or REST Email API, real-time analytics and logs, No credit card required
 * *Exceeding the free tier*: sending stops, upgrade plan
+
+## ZeroSMTP
+
+[GitHub](https://github.com/msgwing/ZeroSMTP)
+
+* *Free tier*: 200 emails/day, SMTP only (no REST API), no credit card, no signup approval wait
+* *Pros*: Accepts plain SMTP AUTH (username/password over TLS) with no OAuth setup — useful for older devices, printers, and legacy apps that other providers' modern-auth-only APIs don't support; 15 ready-to-run code examples
+* *Limitations*: Always sends from a shared `@msgwing.com` address, not your own domain — not suitable if the sender must be your own domain, or for anything beyond low-volume/internal use
+* *Exceeding the free tier*: Sending is rate-limited (200/day); there's no paid tier to upgrade into
