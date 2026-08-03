@@ -9,6 +9,7 @@
 - [SendGrid](#sendgrid)
 - [SparkPost](#sparkpost)
 - [Mailazy](#mailazy)
+- [Mailtrap](#mailtrap)
 
 <!-- /TOC -->
 
@@ -67,3 +68,11 @@
 * *Free tier*: 10000 emails/month, 350 emails/day sending limit, get upto 50,000 email/month in beta program
 * *Pros*: Integrate either with SMTP or REST Email API, real-time analytics and logs, No credit card required
 * *Exceeding the free tier*: sending stops, upgrade plan
+
+## Mailtrap
+
+[Pricing page](https://mailtrap.io/pricing/)
+
+* *Free tier*: 4,000 emails/month, 150 emails/day via Email API and SMTP. Email Marketing: 500 contacts, 1,500 emails/month. Email Sandbox: 50 test emails/month, 1 sandbox, 10 stored emails
+* *Pros*: Full Email API and SMTP sending platform with sandbox testing, delivery analytics, and contact management. No credit card required
+* *Exceeding the free tier*: Sending stops, upgrade plan required
