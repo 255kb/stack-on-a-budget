@@ -9,7 +9,6 @@
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
-- [Mailtrap](#mailtrap)
 - [ostr.io](#ostrio)
 - [QRMint](#qrmint)
 - [Svix](#svix)
@@ -76,15 +75,6 @@
 - _Free tier_: provide SSL certificates for free
 - _Pros_: free, support for wildcard certificates
 - _Limitations_: certificates are valid for 90 days so automation is strongly recommended
-
-## Mailtrap
-
-[Pricing page](https://mailtrap.io/pricing)
-
-- _Free tier_: 1 inbox, 50 messages per inbox, 2 emails/sec per inbox
-- _Pros_: Easy to setup
-- _Limitations_: No team members, no forward rules, no email address
-
 
 ## ostr.io
 
