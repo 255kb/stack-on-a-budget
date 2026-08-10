@@ -10,6 +10,7 @@
 - [Glitch](#glitch)
 - [Google App Engine](#google-app-engine)
 - [Google Compute Engine](#google-compute-engine)
+- [host4.ai](#host4ai)
 - [IBM Cloud](#ibm-cloud)
 - [Koyeb](#koyeb)
 - [Netlify](#netlify)
@@ -87,6 +88,14 @@
 * *Pros*: Works well with other Google Cloud features (load balancing, datastores, etc.)
 * *Limitations*: Limited to US region only for now
 * *Credit card required*: Yes, you must provide a [credit card or other payment method](https://cloud.google.com/free/docs/free-cloud-features), even for a free trial
+
+## host4.ai
+
+[Pricing page](https://host4.ai/#pricing)
+
+* *Free tier*: 20 AI builder credits, SSH terminal access, free .host4.ai subdomain
+* *Pros*: Cloud hosting with AI coding agents (Claude Code, Codex) preinstalled, Describe what you want and AI builds and deploys it live, Browser-based terminal, No setup required
+* *Limitations*: Limited AI builder credits on free tier
 
 ## IBM Cloud
 

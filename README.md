@@ -37,6 +37,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Glitch](pages/app-hosting.md#glitch)
     - [Google App Engine](pages/app-hosting.md#google-app-engine)
     - [Google Compute Engine](pages/app-hosting.md#google-compute-engine)
+    - [host4.ai](pages/app-hosting.md#host4ai)
     - [IBM Cloud](pages/app-hosting.md#ibm-cloud)
     - [Koyeb](pages/app-hosting.md#koyeb)
     - [Netlify](pages/app-hosting.md#netlify)
