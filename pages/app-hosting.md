@@ -5,6 +5,7 @@
 - [Alwaysdata](#alwaysdata)
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
+- [Faable](#faable)
 - [Fly](#fly)
 - [GearHost](#gearhost)
 - [Glitch](#glitch)
@@ -44,6 +45,16 @@
 * *Pros*: Supports .NET, easy publishing directly from Git/GitHub/Bitbucket
 * *Limitations*: Cumulative limit for CPU (60 minutes allowed every 24 hours), No uptime SLA, No custom domain, No SSL
 * *Credit card required*: Yes, you must add a [credit or debit card](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-credit-card)
+
+## Faable
+
+[Pricing page](https://faable.com/docs/deploy/pricing)
+
+* *Free tier*: 1 instance per project with 0.5 CPU / 1 GB RAM, 10 GB bandwidth, 10 successful deployments per day, build artifacts up to 512 MB, automatic SSL and a WAF, plus OAuth 2.0 / OIDC authentication
+* *Pros*: framework auto-detection for Node.js and Python (no Dockerfile or CI config), push-to-deploy from GitHub, all infrastructure in the EU
+* *Limitations*: free apps sleep after 2 hours without traffic and cold start on the next request; Docker and Dockerfile builds need a paid plan
+* *Exceeding the free tier*: extra deployments are not dropped — the build completes and the release waits, going live at 00:00 UTC when the counter resets; builds over 512 MB stop with an `artifact_too_large` error
+* *Credit card required*: No
 
 ## Fly
 
