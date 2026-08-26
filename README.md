@@ -239,6 +239,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [PageShot](pages/web-scraping.md#pageshot)
     - [Scraper API](pages/web-scraping.md#scraper-api)
     - [SearchApi](pages/web-scraping.md#searchapi)
+    - [SocialCrawl](pages/web-scraping.md#socialcrawl)
     - [PhantomJsCloud](pages/web-scraping.md#phantomjscloud)
 - [**Website audit**](pages/website-audit.md)
     - [Checkbot](pages/website-audit.md#checkbot)
