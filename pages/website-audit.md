@@ -4,6 +4,7 @@
 
 - [Checkbot](#checkbot)
 - [RatedWithAI](#ratedwithai)
+- [SeoMods](#seomods)
 - [WebsiteReady](#websiteready)
 
 <!-- /TOC -->
@@ -22,6 +23,16 @@
 * *Free tier*: Free website accessibility scan with WCAG 2.2 compliance scoring, issue detection, and remediation guidance. No account required.
 * *Pros*: AI-powered accessibility checker that scans web pages for WCAG 2.1/2.2 violations across all levels (A, AA, AAA). Provides plain-language explanations and fix suggestions. Covers color contrast, alt text, heading structure, ARIA attributes, and more.
 * *Limitations*: Free tier limited to single-page scans. Bulk scanning and monitoring require a paid plan.
+
+## SeoMods
+
+[Product page](https://seomods.com)
+
+* *Free tier*: All 80+ tools are open without an account: on-page and technical audits, Core Web Vitals, keyword research, backlink analysis, schema generators, and WHOIS/DNS/SSL lookups. No usage quota.
+* *Pros*: No signup wall and no rate limit, so it can be used ad hoc during a deploy or an audit without provisioning anything. Results are exportable. Also covers AI search visibility checks (ChatGPT, Perplexity) alongside classic SEO checks. Interface in English and Turkish.
+* *Limitations*: Browser-based only — there is no public API to script against.
+* *Exceeding the free tier*: Not applicable, there is no paid tier.
+* *Credit card required*: No
 
 ## WebsiteReady
 

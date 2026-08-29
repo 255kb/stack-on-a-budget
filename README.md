@@ -243,3 +243,4 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Website audit**](pages/website-audit.md)
     - [Checkbot](pages/website-audit.md#checkbot)
     - [RatedWithAI](pages/website-audit.md#ratedwithai)
+    - [SeoMods](pages/website-audit.md#seomods)
