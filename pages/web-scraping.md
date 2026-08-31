@@ -8,6 +8,7 @@
 - [PageShot](#pageshot)
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
+- [SocialCrawl](#socialcrawl)
 - [PhantomJsCloud](#phantomjscloud)
 
 <!-- /TOC -->
@@ -68,3 +69,13 @@
 * *Free tier*: About 500 pages/day ($0.05/day in credit)
 * *Pros*: Browser Automation, PDF Generation, Screenshots, Full request/response details in JSON.  Scales to hundreds of parallel requests.
 * *Limitations*: Free tier blocked from using the Builtin Anonymous Proxy system.
+
+## SocialCrawl
+
+[SocialCrawl pricing](https://www.socialcrawl.dev/pricing)
+
+* *Free tier*: 100 credits on signup; credits never expire. Standard endpoints cost 1 credit. Cache hits and failed requests are not charged.
+* *Pros*: One GET /v1 API and one JSON schema across 50+ social and commerce platforms. OpenAPI spec published at /v1/openapi.json.
+* *Limitations*: Free allotment is one-time, not monthly. Advanced/premium endpoints cost 5 or 10 credits; /v1/search/everywhere costs 20. 50 concurrent requests per key.
+* *Exceeding the free tier*: API returns 402 until more credits are purchased.
+* *Credit card required*: No
