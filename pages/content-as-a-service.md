@@ -7,6 +7,7 @@
 - [FakeJSON](#fakejson)
 - [Image Charts](#image-charts)
 - [Localizely](#localizely)
+- [Motomarks](#motomarks)
 - [OGForge](#ogforge)
 - [prismic.io](#prismicio)
 - [Sanity](#sanity)
@@ -53,6 +54,16 @@
 
 * *Free tier*: 250 string keys, 1 project, unlimited languages and users. 
 * *Pros*: Easy to use. Over-the-air translation updates. Completely free for Open Source projects without limitations.
+
+## Motomarks
+
+[Pricing page](https://motomarks.io/pricing)
+
+* *Free tier*: 1,000 requests per day for the published car-logo library, including the image CDN and JSON brand data. Free plan stays free.
+* *Pros*: Request badge, wordmark, or full logo for a brand slug in PNG or WebP, sized from 64px to 1024px, without keeping a local asset folder.
+* *Limitations*: Attribution link required on the free plan. Not every manufacturer has every logo variant.
+* *Exceeding the free tier*: Requests over the daily cap return a rate-limit response. Upgrade from the dashboard for a higher daily limit.
+* *Credit card required*: No
 
 ## OGForge
 
