@@ -186,6 +186,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Google Stackdriver](pages/monitoring.md#google-stackdriver)
     - [Healthchecks.io](pages/monitoring.md#healthchecksio)
     - [Honeybadger.io](pages/monitoring.md#honeybadgerio)
+    - [Keptick](pages/monitoring.md#keptick)
     - [Librato](pages/monitoring.md#librato)
     - [MonitorMonk](pages/monitoring.md#monitormonk)
     - [New Relic](pages/monitoring.md#new-relic)

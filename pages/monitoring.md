@@ -5,6 +5,7 @@
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
 - [Honeybadger.io](#honeybadgerio)
+- [Keptick](#keptick)
 - [Librato](#librato)
 - [MonitorMonk](#monitormonk)
 - [New Relic](#new-relic)
@@ -38,6 +39,16 @@
 * *Pros*: Full stack Exception monitoring, Uptime monitoring, and Check-in/Cron Monitoring
 * *Limitations*: 3 users, 15 day data retention, 5 uptime checks and 5 check-ins per month. Integrates with: GitHub, GitLab, SMS, Email, Slack, and more
 * *Exceeding the free tier*: Honeybadger continues to process up to 125% of the limit before stop processing data until the end of the month. Also sends email alerts.
+
+## Keptick
+
+[Product and pricing](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_stack_budget#pricing) - [Usage guide](https://keptick.aifirm.app/guide?utm_source=github&utm_medium=directory&utm_campaign=e08_stack_budget)
+
+* *Free tier*: One workflow monitor, 500 outcome receipts per day, seven-day detailed history and opt-in email alerts. The first monitor stays available after the 14-day workspace trial.
+* *Pros*: Accepts JSON receipts over HTTP and checks reported failures, output counts below a chosen minimum, and missing runs. Includes n8n outcome and error-workflow templates.
+* *Limitations*: 30 receipts per monitor per minute; the dashboard shows up to 100 recent outcomes per monitor. Missing-run checks start about every five minutes and may take additional cycles; email adds delivery delay. Depends on the workflow reporting completed work accurately.
+* *Exceeding the free tier*: Ingestion returns HTTP 429 when a receipt limit is reached. Additional monitors require a paid subscription after the trial. There are no automatic overage charges or automatic paid conversion.
+* *Credit card required*: No.
 
 ## Librato
 
