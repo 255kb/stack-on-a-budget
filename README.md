@@ -74,6 +74,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [FakeJSON](pages/content-as-a-service.md#fakejson)
     - [Image Charts](pages/content-as-a-service.md#image-charts)
     - [Localizely](pages/content-as-a-service.md#localizely)
+    - [Motomarks](pages/content-as-a-service.md#motomarks)
     - [OGForge](pages/content-as-a-service.md#ogforge)
     - [prismic.io](pages/content-as-a-service.md#prismicio)
     - [Sanity](pages/content-as-a-service.md#sanity)
