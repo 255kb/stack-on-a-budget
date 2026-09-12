@@ -9,6 +9,7 @@
 - [Geocodio](#geocodio)
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
+- [Live Tennis API](#live-tennis-api)
 - [ostr.io](#ostrio)
 - [QRMint](#qrmint)
 - [Svix](#svix)
@@ -75,6 +76,15 @@
 - _Free tier_: provide SSL certificates for free
 - _Pros_: free, support for wildcard certificates
 - _Limitations_: certificates are valid for 90 days so automation is strongly recommended
+
+## Live Tennis API
+
+[Live Tennis API](https://livetennisapi.com)
+
+- _Free Tier_: 30 requests/minute and 100 requests/day with a free API key (no card) — covers live scores with serving and break-point state, player profiles with current rankings, fixtures, and usage
+- _Pros_: real-time tennis data across ATP, WTA, Challenger, ITF and junior tours; REST plus SDKs (npm/PyPI) and an MCP server; the free quota fits development and 15-minute-cadence widgets
+- _Limitations_: completed-match history, head-to-head and market prices are on paid tiers; the daily cap does not support continuous fast polling
+- _Exceeding the free tier_: API calls return HTTP 429 until the daily reset
 
 ## ostr.io
 
