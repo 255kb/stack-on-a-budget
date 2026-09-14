@@ -20,6 +20,7 @@
 - [Railway](#railway)
 - [Redis Cloud](#redis-cloud)
 - [Supabase Postgres](#supabase-postgres)
+- [Turso](#turso)
 
 <!-- /TOC -->
 
@@ -165,3 +166,13 @@
 * *Pros*: Open source, built in realtime capabilities and auth, 40+ extensions and pgbouncer preinstalled
 * *Limitations*: Paused after 1 week of inactivity
 * *Exceeding the free tier*: There are no overage charges. Team will reach out asking user to upgrade to a higher plan if limits are exceeded.
+
+### Turso
+
+[Pricing page](https://turso.tech/pricing)
+
+- *Free tier*: 9 GB total storage across up to 500 databases, 1 billion row reads per month, and 25 million row writes per month.
+- *Pros*: SQLite-compatible database (libSQL) hosted at the edge for ultra-low latency, supports embedded replicas, database branching (Git-like workflow), and official SDKs for TypeScript, Python, Go, Rust, and more. No credit card required to start.
+- *Limitations*: Databases on the free tier are limited to a single location (multi-region primaries require a paid plan), max 9 GB total storage limit.
+- *Exceeding the free tier*: Operations are rate-limited/capped or require upgrading to the Scaler plan ($29/month).
+- *Credit card required*: No
