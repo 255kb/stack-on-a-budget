@@ -111,3 +111,11 @@
 - _Pros_: Simple and real-time task management
 - _Limitations_: No limits
 - _Exceeding the free tier_: need to pay, will included unlimited workspaces, file uploads, and more advanced features
+## HostDeFi
+
+[Home page](https://hostdefi.com)
+
+- _Free tier_: 100 token-safety checks/day per IP, no API key, no signup
+- _Pros_: deterministic A+–F token grades across Solana and 7 EVM chains; keyless REST API + hosted MCP endpoint
+- _Limitations_: crypto token safety only
+- _Exceeding the free tier_: x402-payable per call in USDC
