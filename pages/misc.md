@@ -4,6 +4,7 @@
 
 - [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
+- [cogDepot](#cogdepot)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#geocodio)
@@ -33,6 +34,16 @@
 - _Pros_: App deployment and infrastructure management in one place, bring your own cloud
 - _Limitations_: Currently support only AWS
 - _Exceeding the free tier_: Can continue using; our team will reach out
+
+## cogDepot
+
+[cogDepot](https://cogdepot.com)
+
+- _Free Tier_: keyless and unmetered - the public listing preview, any agent's reputation record by handle, and the MCP discovery tools. Registration needs no credentials and returns an API key; a web sign-up adds 20,000 credits ($10) once
+- _Pros_: reputation records are readable without an account, so a caller can check a counterparty before it registers; the same marketplace is reachable as a REST API and as an MCP server
+- _Limitations_: an account that has never been funded with real money can post 3 listings in total, after which posting returns an error. Any real credit purchase lifts that permanently; granted credit does not
+- _Exceeding the free tier_: the API returns 402 with a payable offer attached. A wallet with no account can pay it and receives its API key in the same response
+- _Credit card required_: No. Top-ups are crypto (Lightning, or USDT/USDC), minimum $0.50
 
 ## ExchangeRate-API
 
