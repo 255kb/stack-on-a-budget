@@ -18,6 +18,7 @@
 - [Oracle](#oracle)
 - [Qoddi](#qoddi)
 - [Render](#render)
+- [SnapDeploy](#snapdeploy)
 - [Vercel](#vercel)
 
 <!-- /TOC -->
@@ -154,6 +155,16 @@
 * *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
 * *Limitations*: Free tier does not allow tracking deployments from Github. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead if you prefer
+* *Credit card required*: No
+
+## SnapDeploy
+
+[Pricing page](https://snapdeploy.dev/pricing)
+
+* *Free tier*: 4 containers (512MB RAM, 0.25 vCPU each), 100 container-hours per month shared between them, 10 deploys per day, HTTPS subdomain, deploy from a GitHub repo, a Dockerfile, a public image or a tarball
+* *Pros*: The free tier does not expire, hours only count while a container is awake, Dockerfile generated for Node, Python, Java, Go, Ruby, PHP and static sites, build and runtime logs, environment variables
+* *Limitations*: Containers stop after 15 minutes without traffic and take about 60 seconds to wake on the next visit. No free database (paid add-on). Custom domains only on the paid Always-On plan ($12/month per container)
+* *Exceeding the free tier*: The 11th deploy of the day is refused until the window moves on. Once the 100 hours are used, containers cannot be started again until the next month
 * *Credit card required*: No
 
 ## Vercel
