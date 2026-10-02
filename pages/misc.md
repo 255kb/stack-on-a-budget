@@ -7,6 +7,7 @@
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [Geocodio](#geocodio)
+- [Indexed](#indexed)
 - [ipapi.is](#ipapiis)
 - [Let's Encrypt](#lets-encrypt)
 - [ostr.io](#ostrio)
@@ -58,6 +59,16 @@
 - _Free tier_: 2,500 lookups per day
 - _Pros_: Forward and reverse geocoding, supports data appends such as Census data, congressional districts and timezones
 - _Limitations_: Only covers US and Canada
+
+## Indexed
+
+[API docs](https://indexed.vc/docs/api)
+
+- _Free tier_: An API key with no card required, 25 searches a day (company and investor search by name or website domain) and 25 credits a month for full company records with funding rounds and investors (3 credits each). `GET /api/v1/industries` needs no key
+- _Pros_: Look up a company by website domain, one at a time or up to 100 per batch. Domains that are not in the database return a coverage status and cost nothing. OpenAPI 3.1 spec
+- _Limitations_: Free keys cannot use bulk enrichment, webhooks or sorted listing. CORS is not enabled, so call it from a server
+- _Exceeding the free tier_: Past 25 searches a day the API returns `429 SEARCH_QUOTA_EXCEEDED` until 00:00 UTC. When the monthly credits run out it returns `402 CREDIT_LIMIT_REACHED` with upgrade links, and paid plans raise both limits
+- _Credit card required_: No
 
 ## ipapi.is
 
