@@ -6,6 +6,7 @@
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
+- [FXMacroData](#fxmacrodata)
 - [Geocodio](#geocodio)
 - [Indexed](#indexed)
 - [ipapi.is](#ipapiis)
@@ -51,6 +52,16 @@
 - _Pros_: identifies browser and hybrid mobile application users even when they purge data
 - _Limitations_: the rate limit is reduced to 3 identifications per second
 - _Exceeding the free tier_: the SDK returns an error
+
+## FXMacroData
+
+[Free access docs](https://fxmacrodata.com/documentation/rate-limits?utm_source=github&utm_medium=referral&utm_campaign=stack-on-a-budget&utm_content=readme)
+
+- _Free tier_: No key, account or card. USD macroeconomic releases (CPI, payrolls, GDP, policy rate and others) for the most recent 90 days, the USD release calendar, USD COT positioning, USD central bank press releases, and the indicator catalogue for all 22 covered currencies. Fair use of 100 requests a day
+- _Pros_: Data comes straight from the official publishers (central banks and statistics agencies) and every release row carries its publication timestamp, which helps with point-in-time checks. Plain JSON over REST. A hosted MCP server is also available, and its USD release, calendar and catalogue tools work without a key too
+- _Limitations_: Keyless releases become readable 15 minutes after publication. Other currencies, FX rates, commodities and history older than 90 days need a key. CORS is not enabled, so call it from a server
+- _Exceeding the free tier_: Routes outside the free set return `401 api_key_required` with a subscribe link; a trial or paid key unlocks them
+- _Credit card required_: No
 
 ## Geocodio
 
