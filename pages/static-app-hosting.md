@@ -11,6 +11,7 @@
   - [Netlify](#netlify)
   - [Render](#render)
   - [Catalyst Slate](#catalyst-slate)
+  - [Shipvela](#shipvela)
   - [Surge](#surge)
   - [Vercel](#vercel)
 
@@ -75,6 +76,16 @@
 * *Free tier*: 500 MB CDN storage, 300,000 requests, 100,000 ISR reads, 50,000 ISR writes, 25,000 GB-seconds function invocations, 72,000 GB-seconds build compute free per month
 * *Pros*: No Credit card required to get started, Pay-as-you-go after free tier limit, Supports all major JS frameworks(React, Next.JS, Vue, Angular, and more), Git-based auto deploys from GitHub, GitLab, and Bitbucket, Automatic SSL provisioning and managed CDN, Rollback to any previous deployment, Instant live previews with code change.
 * *Limitations*: Three preview deployments per app.
+
+## Shipvela
+
+[Product and pricing page](https://shipvela.com/#pricing) / [Deployment documentation](https://shipvela.com/docs)
+
+* *Free tier*: 3 projects and 20 publishes per month, custom domains and managed HTTPS
+* *Pros*: GitHub repository imports, CLI publishing of prebuilt static files, deployment history and build logs
+* *Limitations*: Hobby supports static websites and React/Vite output; server-rendered Next.js requires a paid plan. CLI uploads are limited to 50 MB and 5,000 files. General backend servers and databases are not provisioned.
+* *Exceeding the free tier*: New publishing is blocked until the monthly allowance resets or the account upgrades; no automatic overage charges
+* *Credit card required*: No
 
 ## Surge
 
