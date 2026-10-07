@@ -119,12 +119,13 @@
 
 ## Neon
 
-[Pricing page](https://neon.tech/pricing)
+[Pricing page](https://neon.com/pricing)
 
-* *Free tier*: 1 project, 10 branches, 3 GiB storage, unlimited databases.
-* *Pros*: Serverless Postgres with branching.
-* *Limitations*: Shared compute with 1 GiB RAM per branch, idles after 5 minutes, max of 100 active hours for non-primary branches.
-* *Exceeding the free tier*: Non-primary branches over the hour limit will be suspended.
+* *Free tier*: 100 projects, 1 GB storage per project (20 GB total), 100 CU-hours of compute per project per month, 10 branches per project, 5 GB egress per project per month.
+* *Pros*: Serverless Postgres with branching, autoscaling up to 2 CU (8 GB RAM) and scale to zero. Includes a 6-hour instant restore window.
+* *Limitations*: Compute suspends after 5 minutes of inactivity, which cannot be disabled on the free plan. Community support only.
+* *Exceeding the free tier*: Compute is suspended until the next billing period when CU-hours or egress run out. Writes are blocked above 1 GB per project or 20 GB in total. Data is not deleted.
+* *Credit card required*: No
 
 ## OpenShift MongoDB
 
