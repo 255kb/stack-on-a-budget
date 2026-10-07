@@ -17,6 +17,7 @@
 - [Neon](#neon)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
+- [Prisma Postgres](#prisma-postgres)
 - [Railway](#railway)
 - [Redis Cloud](#redis-cloud)
 - [Supabase Postgres](#supabase-postgres)
@@ -141,6 +142,15 @@
 * *Free tier*: 2 Autonomous Database instances with 1 OCPU and 20GB storage each
 * *Pros*: Flexible workload tuning
 * *Limitations*: Maximum of 20 simultaneous database sessions
+
+## Prisma Postgres
+
+[Pricing page](https://www.prisma.io/pricing)
+
+* *Free tier*: 1.01 GB storage, 200k operations per month, 50 databases.
+* *Pros*: Managed PostgreSQL 17 on unikernels and bare metal, with zero cold starts and a built-in connection pool. Works with any Postgres client or ORM. Unlimited data transfer.
+* *Limitations*: No backups or point-in-time recovery on the free plan.
+* *Credit card required*: No
 
 ## Railway
 
