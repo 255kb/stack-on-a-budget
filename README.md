@@ -166,6 +166,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Argonaut](pages/misc.md#argonaut)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
+    - [FXMacroData](pages/misc.md#fxmacrodata)
     - [Geocodio](pages/misc.md#geocodio)
     - [Indexed](pages/misc.md#indexed)
     - [ipapi.is](pages/misc.md#ipapiis)
