@@ -223,6 +223,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Netlify](pages/static-app-hosting.md#netlify)
     - [Render](pages/static-app-hosting.md#render)
     - [Catalyst Slate](pages/static-app-hosting.md#catalyst-slate)
+    - [Shipvela](pages/static-app-hosting.md#shipvela)
     - [Surge](pages/static-app-hosting.md#surge)
     - [Vercel](pages/static-app-hosting.md#vercel)
 - [**User authentication**](pages/user-authentication.md)
