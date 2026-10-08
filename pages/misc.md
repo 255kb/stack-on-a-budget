@@ -4,6 +4,7 @@
 
 - [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
+- [Equibles](#equibles)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [FXMacroData](#fxmacrodata)
@@ -35,6 +36,16 @@
 - _Pros_: App deployment and infrastructure management in one place, bring your own cloud
 - _Limitations_: Currently support only AWS
 - _Exceeding the free tier_: Can continue using; our team will reach out
+
+## Equibles
+
+[Pricing page](https://equibles.com/pricing)
+
+- _Free tier_: 100 requests a day, shared between the hosted MCP server and the REST API. Covers SEC filings with full-text search, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F institutional holdings, ETF and fund holdings, and end-of-day stock prices. ChatGPT and Claude can connect over OAuth without an API key
+- _Pros_: Filing data comes from SEC filings and company releases, and answers link back to the source document. The same data is reachable over MCP for AI assistants and over plain JSON REST with an API key; CORS is enabled
+- _Limitations_: End-of-day prices only; option chains and delayed or real-time quotes need a paid plan. The daily counter resets at 00:00 UTC
+- _Exceeding the free tier_: The REST API returns `429` and the MCP server replies that the daily cap is reached until the counter resets; there are no overage charges
+- _Credit card required_: No
 
 ## ExchangeRate-API
 
