@@ -43,7 +43,7 @@
 
 - _Free Tier_: Sign up at datacircle.dev with your work email: a $5 credit, that's 2,105 LinkedIn profiles at $2.375 per 1,000. Free: 10M+ U.S. B2B leads, as a flat file. Download it at datacircle.dev.
 - _Pros_: Query your favorite B2B data APIs through us. Same request, same price, no markup. You send the provider's own request to api.datacircle.dev, with your Datacircle key. That's the only change.
-- _Limitations_: The $5 credit is given once per workspace and never expires. Right now we have 2 live LinkedIn profile APIs that we trust: Up2Data and HarvestAPI.
+- _Limitations_: The $5 credit is given once per workspace and never expires. Right now we have 3 live LinkedIn profile APIs that we trust: Up2Data, HarvestAPI and Fetchin.
 - _Exceeding the free tier_: A call your balance can't cover answers 402. Add funds, from $5, on your dashboard.
 - _Credit card required_: No
 
