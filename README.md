@@ -111,6 +111,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [InfluxDB Cloud](pages/database-hosting.md#influxdb-cloud)
     - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Neon](pages/database-hosting.md#neon)
+    - [Nile](pages/database-hosting.md#nile)
     - [Openshift MongoDB](pages/database-hosting.md#openshift-mongodb)
     - [Oracle Cloud](pages/database-hosting.md#oracle-cloud)
     - [Prisma Postgres](pages/database-hosting.md#prisma-postgres)

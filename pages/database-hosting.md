@@ -15,6 +15,7 @@
 - [InfluxDB Cloud](#influxdb-cloud)
 - [MongoDB Atlas](#mongodb-atlas)
 - [Neon](#neon)
+- [Nile](#nile)
 - [OpenShift MongoDB](#openshift-mongodb)
 - [Oracle Cloud Free Tier](#oracle-cloud-free-tier)
 - [Prisma Postgres](#prisma-postgres)
@@ -126,6 +127,16 @@
 * *Pros*: Serverless Postgres with branching, autoscaling up to 2 CU (8 GB RAM) and scale to zero. Includes a 6-hour instant restore window.
 * *Limitations*: Compute suspends after 5 minutes of inactivity, which cannot be disabled on the free plan. Community support only.
 * *Exceeding the free tier*: Compute is suspended until the next billing period when CU-hours or egress run out. Writes are blocked above 1 GB per project or 20 GB in total. Data is not deleted.
+* *Credit card required*: No
+
+## Nile
+
+[Pricing page](https://www.thenile.dev/pricing)
+
+* *Free tier*: 1 GB storage, 50 million query tokens per month of serverless compute, unlimited databases and tenant DBs, up to 500 connections with connection pooling, 1 branch.
+* *Pros*: Serverless Postgres built for multi-tenant SaaS and AI applications, with native tenant isolation, vector embeddings (`pg_vector`), integrated auth (users, tenants, social login), zero cold starts, and no pausing/sleeping of databases due to inactivity. Can also run locally via Docker.
+* *Limitations*: Limited to 1 region and 1 branch. Backups, workspace sharing, and SLA are not included on the free tier.
+* *Exceeding the free tier*: $1.50 per additional GB of storage, $0.06 per million additional query tokens.
 * *Credit card required*: No
 
 ## OpenShift MongoDB
