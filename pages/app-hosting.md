@@ -6,6 +6,7 @@
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
 - [Faable](#faable)
+- [FadeHost](#fadehost)
 - [Fly](#fly)
 - [GearHost](#gearhost)
 - [Glitch](#glitch)
@@ -54,6 +55,16 @@
 * *Pros*: framework auto-detection for Node.js and Python (no Dockerfile or CI config), push-to-deploy from GitHub, all infrastructure in the EU
 * *Limitations*: free apps sleep after 2 hours without traffic and cold start on the next request; Docker and Dockerfile builds need a paid plan
 * *Exceeding the free tier*: extra deployments are not dropped — the build completes and the release waits, going live at 00:00 UTC when the counter resets; builds over 512 MB stop with an `artifact_too_large` error
+* *Credit card required*: No
+
+## FadeHost
+
+[Pricing page](https://fadehost.com/plans-and-limits/)
+
+* *Free tier*: 1 app or bot per account with 256 MB RAM and 3 GB disk, deployed from a GitHub repository or a template and running around the clock; Node.js, Python, Bun, Deno, Go, Java, PHP and Ruby; a web address with HTTPS at name.fadehost.app
+* *Pros*: runtime detected from the repository (no Dockerfile), redeploy on push, console and crash diagnosis in the panel, one-click MySQL database on paid tiers
+* *Limitations*: the free web address sleeps when idle and wakes on the next request; free capacity is limited, new free apps are admitted daily; a precompiled binary in the repository is refused on the free tier
+* *Exceeding the free tier*: nothing is charged automatically; a paid tier (from $2 a month for 1 GB) is picked in the panel
 * *Credit card required*: No
 
 ## Fly

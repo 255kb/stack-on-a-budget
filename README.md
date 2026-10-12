@@ -33,6 +33,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [AWS EC2](pages/app-hosting.md#aws-ec2)
     - [Azure App Service](pages/app-hosting.md#azure-app-service)
     - [Faable](pages/app-hosting.md#faable)
+    - [FadeHost](pages/app-hosting.md#fadehost)
     - [Fly](pages/app-hosting.md#fly)
     - [GearHost](pages/app-hosting.md#gearhost)
     - [Glitch](pages/app-hosting.md#glitch)
