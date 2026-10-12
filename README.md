@@ -165,6 +165,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Misc**](pages/misc.md)
     - [APIVerve](pages/misc.md#apiverve)
     - [Argonaut](pages/misc.md#argonaut)
+    - [Equibles](pages/misc.md#equibles)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
     - [FXMacroData](pages/misc.md#fxmacrodata)
