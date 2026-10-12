@@ -199,6 +199,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [PingPong](pages/monitoring.md#pingpong)
     - [Phare](pages/monitoring.md#phare)
     - [Sematext SPM](pages/monitoring.md#sematext-spm)
+    - [SolidPing](pages/monitoring.md#solidping)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
 - [**Push notifications**](pages/push-notifications.md)
     - [Azure Notification Hubs](pages/push-notifications.md#azure-notification-hubs)

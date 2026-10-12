@@ -11,6 +11,7 @@
 - [New Relic](#new-relic)
 - [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
+- [SolidPing](#solidping)
 - [Uptime Robot](#uptime-robot)
 - [PingPong](#pingpong)
 
@@ -80,6 +81,16 @@
 
 * *Free tier*: 30 minutes retention, 5 hosts, unlimited dashboards, unlimited users, 1 alert
 * *Pros*: includes APM, infrastructure monitoring, and custom metrics, out of the box charts and filtering, REST API, correlation with logs, integration with Slack, HipChat, PagerDuty, OpsGenie, VictorOps, BigPanda, WebHooks, Nagios...
+
+## SolidPing
+
+[Product page](https://www.solidping.io) - [Pricing page](https://www.solidping.io/pricing)
+
+* *Free tier*: 100 monitors, 10 check executions per minute, 5 team members, 1 private-location agent, status pages, on-call schedules and escalation
+* *Pros*: Many check types (HTTP, TCP, ICMP, DNS, TLS expiry, databases, MQTT, SMTP, cron heartbeats, headless browser, custom JavaScript). Alerts via Slack, Discord, Teams, Telegram, ntfy, webhooks and more. Open source (AGPL-3.0) and self-hostable with the same features. Hosted in France (OVH).
+* *Limitations*: Status pages keep the SolidPing badge, no custom status-page domain. SMS and voice alerts are not included in hosted plans.
+* *Exceeding the free tier*: New monitors are refused once the limit is reached, existing ones keep running. Upgrade from the dashboard.
+* *Credit card required*: No
 
 ## Uptime Robot
 
