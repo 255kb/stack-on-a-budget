@@ -33,7 +33,7 @@ All contributions are welcome!
 
 # Services selection
 
-The purpose of this project is to list services with free tiers that can be used in production for application hosting. The free tier should be usable for small projects without cost. Services that are too limited in functionalities or that are limited in time shouldn't be listed.
+The purpose of this project is to list services with free tiers that can be used in production for application hosting. The free tier should be usable for small projects without cost. Services that are too limited in functionalities, that are limited in time, or only offers one-off credits, shouldn't be listed.
 
 The list is not limited to hosting providers. It can include any service that can be useful for production applications, like databases, email services, monitoring tools, data APIs (e.g. currency or geocoding), etc. 
 
