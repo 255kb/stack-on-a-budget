@@ -10,12 +10,13 @@
 
 ## Cloudinary
 
-[Pricing page](http://cloudinary.com/pricing)
+[Pricing page](https://cloudinary.com/pricing)
 
-
-* *Free tier*: 75,000 total images or videos and 7,500 monthly transformations, 2GB storage, 5GB bandwidth/month
-* *Pros*: free tiers includes images and videos manipulations (resizing, effects, overlays, optimization), backup and revisions, supports PDF, sprites, animated GIFs, etc. Provide SDK in multiple languages
-* *Limitations*: free tier does not offer custom domain
+* *Free tier*: 25 monthly credits (on a rolling 30-day window). 1 credit equals 1 GB of storage, 1 GB of viewing bandwidth, or 1,000 transformations (mix and match across storage, bandwidth, and transformations as needed).
+* *Pros*: Free tier includes image and video manipulations (resizing, AI effects, overlays, auto-format, quality optimization), backup and revisions, supports PDF, animated GIFs, video transcoding, and global CDN delivery. Provides SDKs in multiple languages.
+* *Limitations*: Free tier does not offer custom domain (CNAME) and has concurrency limits on transformations.
+* *Exceeding the free tier*: Account features are restricted/blocked when limits are reached until usage falls below the threshold or the plan is upgraded (no surprise overage charges on the free plan).
+* *Credit card required*: No
 
 ## Filestack
 
