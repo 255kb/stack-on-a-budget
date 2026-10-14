@@ -7,6 +7,7 @@
 - [Muscula](#muscula)
 - [Rollbar](#rollbar)
 - [Sentry](#sentry)
+- [Telemetry Tracker](#telemetry-tracker)
 
 <!-- /TOC -->
 
@@ -50,3 +51,13 @@
 * *Free tier*: 5,000 events/month, 30-day history
 * *Pros*: [BSD-licensed open source](https://github.com/getsentry/sentry), supports source maps and symbolication, view source code in stack traces, request/session information available, filtering, API access, Single sign-on. Sentry also comes with free tier for application monitoring and session replays.
 * *Limitations*: Limit 1 user
+
+## Telemetry Tracker
+
+[Product page](https://telemetry-tracker.com/) - [Pricing page](https://telemetry-tracker.com/#pricing)
+
+* *Free tier*: 250K ingest units/month (one unit is one error, event or session), 14-day retention, 1 project, 2 API keys
+* *Pros*: Grouped errors with release tags, source map upload for readable stack traces, alerts by email, webhooks, Slack, Discord, Microsoft Teams and Telegram. Also records events, sessions and Web Vitals. SDKs for Next.js, React, Vue, Nuxt, React Native, Node.js and NestJS. [MIT-licensed open source](https://github.com/Telemetry-Tracker/telemetry-tracker), can be self-hosted.
+* *Limitations*: JavaScript/TypeScript SDKs only (no native iOS/Android SDKs), community support only on the free plan
+* *Exceeding the free tier*: New ingest is rejected with HTTP 429 until the next calendar month. Stored data is kept for the retention window and there is no overage charge.
+* *Credit card required*: No

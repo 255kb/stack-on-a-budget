@@ -145,6 +145,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Muscula](pages/error-reporting.md#muscula)
     - [Rollbar](pages/error-reporting.md#rollbar)
     - [Sentry](pages/error-reporting.md#sentry)
+    - [Telemetry Tracker](pages/error-reporting.md#telemetry-tracker)
 - [**File transformation**](pages/file-transformation.md)
     - [Cloudinary](pages/file-transformation.md#cloudinary)
     - [Filestack](pages/file-transformation.md#filestack)
