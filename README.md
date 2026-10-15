@@ -147,6 +147,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Sentry](pages/error-reporting.md#sentry)
 - [**File transformation**](pages/file-transformation.md)
     - [Cloudinary](pages/file-transformation.md#cloudinary)
+    - [CurlShot](pages/file-transformation.md#curlshot)
     - [Filestack](pages/file-transformation.md#filestack)
     - [PDFSpark](pages/file-transformation.md#pdfspark)
 - [**Logging**](pages/logging.md)
