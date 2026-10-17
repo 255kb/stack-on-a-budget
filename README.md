@@ -45,6 +45,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Oracle](pages/app-hosting.md#oracle)
     - [Qoddi](pages/app-hosting.md#qoddi)
     - [Render](pages/app-hosting.md#render)
+    - [The Vibe Hosting](pages/app-hosting.md#the-vibe-hosting)
     - [Vercel](pages/app-hosting.md#vercel)
 - [**Application performance monitoring**](pages/application-performance-monitoring.md)
     - [Datadog](pages/application-performance-monitoring.md#datadog)
