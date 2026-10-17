@@ -18,6 +18,7 @@
 - [Oracle](#oracle)
 - [Qoddi](#qoddi)
 - [Render](#render)
+- [The Vibe Hosting](#the-vibe-hosting)
 - [Vercel](#vercel)
 
 <!-- /TOC -->
@@ -154,6 +155,16 @@
 * *Free tier*: 100GB outbound bandwidth per month (unlimited inbound)
 * *Pros*: Includes CDN, Deploy with git, Custom domains, Automatic HTTPS
 * *Limitations*: Free tier does not allow tracking deployments from Github. You can use [this tool](https://github.com/marketplace/actions/render-github-action) instead if you prefer
+* *Credit card required*: No
+
+## The Vibe Hosting
+
+[Pricing page](https://thevibehosting.com/pricing)
+
+* *Free tier*: $0.90 of credit every month without signup (servers up to 256 MB RAM that sleep when idle, 2 per network); $2.25 every month with a verified phone, enough to keep a 512 MB server running 24/7 (up to 2 GB RAM per server, unlimited servers, custom domains). CPU is not billed.
+* *Pros*: Each server is a full root Ubuntu machine in a gVisor sandbox with its own HTTPS subdomain, created with a single HTTP call (`POST /create`) and no account setup. Designed so AI coding agents (Claude Code, Cursor, Codex) can create servers and deploy on their own via a published SKILL.md. Sleeping servers keep their files and wake on the next HTTP request or SSH connection.
+* *Limitations*: Without a verified phone, servers sleep when idle. Max 4 GB RAM per server, no GPUs. Service is in beta, no uptime SLA.
+* *Exceeding the free tier*: Usage is paid from prepaid credit (RAM $0.005/GB-hour while awake, egress $0.10/GB, disk $0.25/GB-month). If credit runs out, servers are paused after a short grace period until credit is added.
 * *Credit card required*: No
 
 ## Vercel
