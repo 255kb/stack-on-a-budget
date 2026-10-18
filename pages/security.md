@@ -4,6 +4,7 @@
 
 - [IPASIS](#ipasis)
 - [Snyk](#snyk)
+- [Vetto](#vetto)
 
 <!-- /TOC -->
 
@@ -25,3 +26,12 @@
 - *Pros:* GitHub Pull Requests integration, IDE extensions, a CLI
 - *Limitations:* No license reports, JIRA integrations, API or rich reports
 
+## Vetto
+
+[Pricing page](https://usevetto.com/#pricing)
+
+- *Free tier*: 1 site, 1,000 email checks per month on signup forms (re-checking the same address doesn't count). Disposable and dead-domain blocking, "did you mean" fixes for typo'd emails, bot honeypot. Privacy relays (Apple Hide My Email, Firefox Relay, DuckDuckGo) are allowed.
+- *Pros*: one script tag, no backend changes needed on the free tier, checks fail open so signups never break.
+- *Limitations*: a small "Protected by Vetto" link is shown under its messages; Gmail alias detection, signed verdict tokens and the server-side API are paid features.
+- *Exceeding the free tier*: checks are skipped and signups go through unchecked until the next month.
+- *Credit card required*: No
