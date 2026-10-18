@@ -216,6 +216,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Security**](pages/security.md)
     - [IPASIS](pages/security.md#ipasis)
     - [Snyk](pages/security.md#snyk)
+    - [Vetto](pages/security.md#vetto)
 - [**Serverless app hosting**](pages/serverless-app-hosting.md)
     - [Catalyst AppSail](pages/serverless-app-hosting.md#catalyst-appsail)  
     - [AWS Lambda](pages/serverless-app-hosting.md#aws-lambda)
