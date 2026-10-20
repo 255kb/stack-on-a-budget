@@ -43,6 +43,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Netlify](pages/app-hosting.md#netlify)
     - [OpenShift](pages/app-hosting.md#openshift)
     - [Oracle](pages/app-hosting.md#oracle)
+    - [Prisma Compute](pages/app-hosting.md#prisma-compute)
     - [Qoddi](pages/app-hosting.md#qoddi)
     - [Render](pages/app-hosting.md#render)
     - [The Vibe Hosting](pages/app-hosting.md#the-vibe-hosting)
