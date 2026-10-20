@@ -8,7 +8,6 @@
 - [Faable](#faable)
 - [Fly](#fly)
 - [GearHost](#gearhost)
-- [Glitch](#glitch)
 - [Google App Engine](#google-app-engine)
 - [Google Compute Engine](#google-compute-engine)
 - [IBM Cloud](#ibm-cloud)
@@ -74,13 +73,6 @@
 * *Limitations*: Cumulative limits for CPU (60 minutes allowed every 24 hours) and RAM (256MB allocated every hour), 1GB bandwidth allowd every 24 hours, [250 concurrent connections](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans), No SSL support, only 32bits processes
 * *Exceeding the free tier*: If CPU usage, RAM usage or bandwidth consumed reaches the limit within its timefame, the application goes offline until the counter resets
 
-## Glitch
-
-[Pricing page](https://glitch.com/pricing)
-
-* *Free tier*: Instantly deployed Node.js app with collaboration tool, 1000 project hours, 4000 requests/hour, 512MB ram, 200MB disk excluding node_modules, Custom domain
-* *Pros*: Based on Node.js, Online editor with real time collaboration, Live redeploy, Great for prototyping and collaboration
-* *Limitations*: Free tier instances will sleep after 5 mins of inactivity but will turn on when someone accesses the website
 
 ## Google App Engine
 

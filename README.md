@@ -35,7 +35,6 @@ The goal is to have enough details about each free tier so developers can choose
     - [Faable](pages/app-hosting.md#faable)
     - [Fly](pages/app-hosting.md#fly)
     - [GearHost](pages/app-hosting.md#gearhost)
-    - [Glitch](pages/app-hosting.md#glitch)
     - [Google App Engine](pages/app-hosting.md#google-app-engine)
     - [Google Compute Engine](pages/app-hosting.md#google-compute-engine)
     - [IBM Cloud](pages/app-hosting.md#ibm-cloud)
