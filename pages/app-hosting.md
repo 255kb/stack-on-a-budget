@@ -16,6 +16,7 @@
 - [Netlify](#netlify)
 - [OpenShift](#openshift)
 - [Oracle](#oracle)
+- [Prisma Compute](#prisma-compute)
 - [Qoddi](#qoddi)
 - [Render](#render)
 - [The Vibe Hosting](#the-vibe-hosting)
@@ -139,6 +140,16 @@
 * *Free tier*: 2 Compute(AMD) Micro instances (1/8th OCPU, 1GB memory each), Ampere A1 Compute(Arm) instances (4 OCPUs and 24GB of memory that you can allocate flexibly), 20TB outbound bandwidth (unlimited inbound) [Read more](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm)
 * *Pros*: Free forever virtual machines
 * *Limitations*: OS selection restricted to Oracle Enterprise Linux, CentOS and Ubuntu
+
+## Prisma Compute
+
+[Pricing page](https://www.prisma.io/pricing)
+
+* *Free tier*: 1M requests, 360 GB-hours of memory, 4 active vCPU-hours and 10 GB outbound bandwidth per month
+* *Pros*: Part of the Prisma developer platform: hosts TypeScript apps (Node.js, Bun, Next.js) next to a [Prisma Postgres](https://www.prisma.io/postgres) database in the same project, deploy from the CLI or on git push, each feature branch can get a preview with its own database, idle apps scale to zero
+* *Limitations*: No WebSocket servers, cron jobs or persistent filesystem, each service runs in one region, a request must start responding within 60 seconds
+* *Exceeding the free tier*: No usage billing on the free plan, so nothing is charged; to go past the limits you move to a paid plan (from $10/month plus usage)
+* *Credit card required*: No
 
 ## Qoddi
 
