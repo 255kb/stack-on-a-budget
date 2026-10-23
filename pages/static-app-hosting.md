@@ -5,6 +5,7 @@
 - [Static app hosting](#static-app-hosting)
   - [AWS S3](#aws-s3)
   - [Cloudflare Pages](#cloudflare-pages)
+  - [deed.page](#deedpage)
   - [Firebase hosting](#firebase-hosting)
   - [GitHub Pages](#github-pages)
   - [GitLab Pages](#gitlab-pages)
@@ -30,6 +31,16 @@
 [pricing page](https://pages.cloudflare.com)
 
 * *Free tier*: Unlimited sites, Unlimited requests, Unlimited bandwidth, 1 concurrent build, 500 builds per month
+
+## deed.page
+
+[Pricing page](https://deed.page/pricing) / [API docs](https://deed.page/docs)
+
+* *Free tier*: 25 sites, 25 MB per site, 60 publishes per hour, last 10 versions kept per site, 1 custom domain, 1 webhook, automatic HTTPS on `<slug>.deed.page`
+* *Pros*: Publish a single HTML file or a tarball of prebuilt files with one HTTP PUT (no CLI, no git, no build step), you choose the subdomain, the first publish returns a token that updates the same URL later, version history with rollback, remote MCP server for AI coding agents, cookieless per-site analytics
+* *Limitations*: Static files only (no server-side code or databases), one request body is capped at 4 MB (larger sites use a manifest upload), no password protection on the free tier, no dashboard (API and MCP only), a lost token can only be recovered if a recovery email was attached
+* *Exceeding the free tier*: The API returns an error (`403 quota_sites`, `413 quota_bytes` or `429 rate_limited`) and existing sites stay online; nothing is charged automatically
+* *Credit card required*: No (no account or email needed either)
 
 ## Firebase hosting
 
