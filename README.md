@@ -225,6 +225,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
     - [Cloudflare Pages](pages/static-app-hosting.md#cloudflare-pages)
+    - [deed.page](pages/static-app-hosting.md#deedpage)
     - [Firebase hosting](pages/static-app-hosting.md#firebase-hosting)
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
