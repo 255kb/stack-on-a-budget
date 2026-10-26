@@ -5,6 +5,7 @@
 - [Alwaysdata](#alwaysdata)
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
+- [Cloady](#cloady)
 - [Faable](#faable)
 - [Fly](#fly)
 - [GearHost](#gearhost)
@@ -46,6 +47,16 @@
 * *Pros*: Supports .NET, easy publishing directly from Git/GitHub/Bitbucket
 * *Limitations*: Cumulative limit for CPU (60 minutes allowed every 24 hours), No uptime SLA, No custom domain, No SSL
 * *Credit card required*: Yes, you must add a [credit or debit card](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-credit-card)
+
+## Cloady
+
+[Product and pricing page](https://cloady.com)
+
+* *Free tier*: 0.5 vCPU, 1 GB RAM, 5 GB SSD storage and 200 GB monthly traffic, shared across applications in a workspace; no time-limited trial credits
+* *Pros*: Deploy applications and databases from GitHub, Docker images, uploaded folders or templates; custom domains with automatic TLS; browser terminal and database UI
+* *Limitations*: Phone verification is required. The free resources are a shared workspace allowance, not a separate allowance per application. Managed backups are an optional paid add-on.
+* *Exceeding the free tier*: If any free-tier threshold is exceeded, the whole allocated configuration becomes billable, rather than only the excess. Paid resources are configurable in the pricing calculator.
+* *Credit card required*: No, within the free tier
 
 ## Faable
 
