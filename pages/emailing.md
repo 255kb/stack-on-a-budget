@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [AliasMail](#aliasmail)
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [Parsio Email Parser](#parsio-email-parser)
@@ -12,6 +13,16 @@
 - [Mailtrap](#mailtrap)
 
 <!-- /TOC -->
+
+## AliasMail
+
+[Product page](https://aliasmail.space/)
+
+* *Free tier*: Permanent email forwarding aliases, disposable inboxes, real-time webhooks, No credit card required
+* *Pros*: Zero-log privacy forwarding, custom alias handles, HMAC-SHA256 signed webhooks for instant delivery
+* *Limitations*: Free tier includes standard rate limits and community support
+* *Exceeding the free tier*: Generous free limits, optional paid plans available for custom domains
+* *Credit card required*: No
 
 ## Elastic Email
 
