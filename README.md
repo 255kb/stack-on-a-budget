@@ -111,6 +111,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Firebase database](pages/database-hosting.md#firebase-database)
     - [Google Cloud Datastore](pages/database-hosting.md#google-cloud-datastore)
     - [InfluxDB Cloud](pages/database-hosting.md#influxdb-cloud)
+    - [Layerbase](pages/database-hosting.md#layerbase)
     - [MongoDB Atlas](pages/database-hosting.md#mongodb-atlas)
     - [Neon](pages/database-hosting.md#neon)
     - [Nile](pages/database-hosting.md#nile)
