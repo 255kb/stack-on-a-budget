@@ -13,6 +13,7 @@
 - [Firebase database](#firebase-database)
 - [Google Cloud Datastore](#google-cloud-datastore)
 - [InfluxDB Cloud](#influxdb-cloud)
+- [Layerbase](#layerbase)
 - [MongoDB Atlas](#mongodb-atlas)
 - [Neon](#neon)
 - [Nile](#nile)
@@ -111,6 +112,16 @@
 
 * *Free tier*: Writes: 5MB every 5 minutes, Tasks & Queries: 300MB every 5 minutes, Storage: 30 days of retention, Cardinality: Up to 10,000 series, Alerting: 2 alert checks and 2 notification rules, You can create up to: 5 dashboards, 5 tasks, 2 databases to store your time series data
 * *Pros*: purpose-built time series database, pre-built UI and dashboarding tools, background processing and monitoring agent
+
+## Layerbase
+
+[Pricing page](https://layerbase.com/pricing)
+
+* *Free tier*: 2 databases, 5 GB storage, 20 concurrent connections, choice of 8 engines (PostgreSQL, MariaDB, SQLite, libSQL, DuckDB, Redis, Valkey, TypeDB)
+* *Pros*: several database engines under one account, database branching, migration guides from Neon, Supabase, PlanetScale and Upstash
+* *Limitations*: free databases sleep when idle and wake on connect; archived after 14 days hibernated (7 days if never used), with data preserved
+* *Exceeding the free tier*: upgrade to a paid plan (from $5/month)
+* *Credit card required*: No
 
 ## MongoDB Atlas
 
