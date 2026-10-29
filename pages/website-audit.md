@@ -4,6 +4,7 @@
 
 - [Checkbot](#checkbot)
 - [RatedWithAI](#ratedwithai)
+- [Vaneform](#vaneform)
 - [WebsiteReady](#websiteready)
 
 <!-- /TOC -->
@@ -22,6 +23,13 @@
 * *Free tier*: Free website accessibility scan with WCAG 2.2 compliance scoring, issue detection, and remediation guidance. No account required.
 * *Pros*: AI-powered accessibility checker that scans web pages for WCAG 2.1/2.2 violations across all levels (A, AA, AAA). Provides plain-language explanations and fix suggestions. Covers color contrast, alt text, heading structure, ARIA attributes, and more.
 * *Limitations*: Free tier limited to single-page scans. Bulk scanning and monitoring require a paid plan.
+
+## Vaneform
+
+[Pricing page](https://vaneform.com/)
+
+* *Free tier*: Free website traffic lookup for any domain — estimated monthly visits, traffic sources, top countries, search keywords and similar sites. No signup required for basic lookups.
+* *Pros*: Instant domain lookup without an account. Useful when auditing a site's traffic profile before SEO or launch decisions.
 
 ## WebsiteReady
 
