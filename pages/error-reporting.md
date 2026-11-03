@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Bugsnag](#bugsnag)
+- [LogBrew](#logbrew)
 - [LogRocket](#logrocket)
 - [Muscula](#muscula)
 - [Rollbar](#rollbar)
@@ -18,6 +19,15 @@
 * *Pros*: Advanced error search and filtering, error spike and regression alerts, daily and weekly summary emails, support for sourcemaps, dSYMs, and Proguard mapping files
 * *Limitations*: Limited to 1 user
 * *Exceeding the free tier*: Error reporting continues, but only new errors will be recorded. You'll be alerted to upgrade to increase your data allotment.
+
+## LogBrew
+
+[Product page](https://logbrew.co/) - [Pricing page](https://logbrew.co/en/pricing)
+
+* *Free tier*: 100,000 errors/month, 50 GB of logs, 50 GB of app metrics, 50 million trace spans, 30-day retention, unlimited team members and projects
+* *Pros*: Errors are grouped into issues and linked to their logs, trace, release and affected users. Every feature is on every plan, including alerts by email, Slack, Discord, Microsoft Teams and signed webhooks, source map and dSYM upload, and a hosted MCP server and CLI for coding agents. SDKs for JavaScript, React Native, Python, Go, Java, .NET, PHP, Ruby, Rust and Swift, plus OpenTelemetry.
+* *Exceeding the free tier*: Each meter warns at 80%. At 100%, only that signal type pauses until the monthly reset. There are no overage charges.
+* *Credit card required*: No
 
 ## LogRocket
 

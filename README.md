@@ -145,6 +145,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [SparkPost](pages/emailing.md#sparkpost)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
+    - [LogBrew](pages/error-reporting.md#logbrew)
     - [LogRocket](pages/error-reporting.md#logrocket)
     - [Muscula](pages/error-reporting.md#muscula)
     - [Rollbar](pages/error-reporting.md#rollbar)
