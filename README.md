@@ -207,6 +207,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Sematext SPM](pages/monitoring.md#sematext-spm)
     - [SolidPing](pages/monitoring.md#solidping)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
+    - [Waitcher](pages/monitoring.md#waitcher)
 - [**Push notifications**](pages/push-notifications.md)
     - [Azure Notification Hubs](pages/push-notifications.md#azure-notification-hubs)
     - [Batch](pages/push-notifications.md#batch)
