@@ -255,6 +255,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Web Scraping**](pages/web-scraping.md)
     - [Apify](pages/web-scraping.md#apify)
     - [Crawlbase](pages/web-scraping.md#crawlbase)
+    - [LurkAPI](pages/web-scraping.md#lurkapi)
     - [PageShot](pages/web-scraping.md#pageshot)
     - [Scraper API](pages/web-scraping.md#scraper-api)
     - [SearchApi](pages/web-scraping.md#searchapi)

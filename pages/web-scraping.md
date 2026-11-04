@@ -5,6 +5,7 @@
 - [Apify](#apify)
 - [Crawlbase](#crawlbase)
 - [Hermesforge](#hermesforge)
+- [LurkAPI](#lurkapi)
 - [PageShot](#pageshot)
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
@@ -35,6 +36,16 @@
 * *Free tier*: 50 req/day with free API key; anonymous use without key at 10 req/day
 * *Pros*: Capture any URL as PNG, JPEG, WebP, or PDF; full-page, element selector, dark mode, custom viewports; async queue with webhook delivery; HTML-to-image rendering; no signup required for basic use
 * *Limitations*: Rate limited on free tier; higher daily limits via one-time 30-day keys
+* *Credit card required*: No
+
+## LurkAPI
+
+[LurkAPI pricing](https://lurkapi.com/pricing)
+
+* *Free tier*: 100 credits on signup, then once a UTC day a balance under 25 is topped back up to 25. Most endpoints cost 1 credit.
+* *Pros*: One GET request returns JSON from public pages on 16 platforms: TikTok, Instagram, YouTube, Reddit, X, LinkedIn and others, the Meta, Google, TikTok and LinkedIn ad libraries, and any web page as HTML, markdown or text. OpenAPI 3.1 spec and an MCP server. Invalid requests, rate-limited calls and 5xx errors aren't charged.
+* *Limitations*: 50 requests per 10 seconds per account. Web page scraping costs 1 to 24 credits depending on what it takes to get past the site's bot checks.
+* *Exceeding the free tier*: API returns 402 until the next daily top-up or a purchased credit pack.
 * *Credit card required*: No
 
 ## PageShot
