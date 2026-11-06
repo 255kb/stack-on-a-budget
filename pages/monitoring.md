@@ -9,6 +9,7 @@
 - [Librato](#librato)
 - [MonitorMonk](#monitormonk)
 - [New Relic](#new-relic)
+- [NoCert](#nocert)
 - [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
 - [SolidPing](#solidping)
@@ -75,6 +76,16 @@
 * *Free tier*: 100 GB/month, 1 free full access user, unlimited free basic users.
 * *Pros*: Collect all your telemetry data (including logs) in one place to deliver full-stack observability and power AI-driven insights so you can confidently improve service reliability and accelerate time to market. Supports most popular back-end, front-end, infrastructure, and cloud frameworks and services.
 * *Exceeding the free tier*: After exceeding the 100 GB/month you will see a paywall asking you to add a credit card. Data collection will continue and access to key pages to lower data ingest will still be available.
+
+## NoCert
+
+[Product page](https://nocert.io) - [Pricing page](https://nocert.io/pricing)
+
+* *Free tier*: 50 active TLS certificates, 2 Sentinel agents, 1 user, 3 notification rules, email alerts and one Discord channel.
+* *Pros*: Discovers public and internal certificates and tracks their expiry dates in one inventory.
+* *Limitations*: Slack, Microsoft Teams and SSO require a paid plan.
+* *Exceeding the free tier*: Adding resources pauses after seven days above 50 active certificates; existing monitoring and alerts continue. Excess agents pause after a 30-day grace period. No automatic paid upgrade.
+* *Credit card required*: No.
 
 ## Sematext SPM
 
