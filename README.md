@@ -229,6 +229,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Google Cloud Functions](pages/serverless-app-hosting.md#google-cloud-functions)
 - [**Static app hosting**](pages/static-app-hosting.md)
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
+    - [BrewPage](pages/static-app-hosting.md#brewpage)
     - [Cloudflare Pages](pages/static-app-hosting.md#cloudflare-pages)
     - [deed.page](pages/static-app-hosting.md#deedpage)
     - [Firebase hosting](pages/static-app-hosting.md#firebase-hosting)
