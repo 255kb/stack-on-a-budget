@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [AliasMail](#aliasmail)
+- [anon.li](#anonli)
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [Parsio Email Parser](#parsio-email-parser)
@@ -23,6 +24,15 @@
 * *Limitations*: Free tier includes standard rate limits and community support
 * *Exceeding the free tier*: Generous free limits, optional paid plans available for custom domains
 * *Credit card required*: No
+
+## anon.li
+
+[Pricing page](https://anon.li/pricing)
+
+* *Free tier*: 10 email aliases (including 1 custom alias), 1 recipient, replies through the alias, PGP-encrypted forwarding, 500 API requests/month
+* *Pros*: open source (AGPL-3.0), REST API and `anonli` CLI to create and manage aliases, removal of known tracking pixels from forwarded mail
+* *Limitations*: 1 recipient address on the free plan
+* *Exceeding the free tier*: a paid plan is needed (Plus: $5.79/month billed yearly or $6.99/month)
 
 ## Elastic Email
 
