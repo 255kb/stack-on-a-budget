@@ -4,6 +4,7 @@
 
 - [Static app hosting](#static-app-hosting)
   - [AWS S3](#aws-s3)
+  - [BrewPage](#brewpage)
   - [Cloudflare Pages](#cloudflare-pages)
   - [deed.page](#deedpage)
   - [Firebase hosting](#firebase-hosting)
@@ -25,6 +26,16 @@
 * *Free tier*: 5 GB of storage, 20000 GET requests, 2000 PUT requests, 15 GB data transfer per month
 * *Pros*: ACL policies, Custom rules and MIME types, Supports expiration, Multiple regions world-wide
 * *Limitations*: Free only for 12 months
+
+## BrewPage
+
+[Product page](https://brewpage.app) / [API docs](https://brewpage.app/api)
+
+* *Free tier*: HTML and Markdown pages up to 5 MB, multi-file static sites up to 20 MB (200 files, 5 MB per file), files up to 5 MB (video 20 MB), JSON documents and key-value values up to 1 MB, automatic HTTPS link for every publication
+* *Pros*: Publish with one HTTP POST (no signup, no API key), the returned owner token updates the content at the same URL, optional password protection, unlisted links or a public gallery, MCP server (20 tools, remote or npm `brewpage-mcp`) for AI agents, GitHub Action, OpenAPI contract
+* *Limitations*: Every publication expires (default 15 days, maximum 30 days, 90 days with a free account) and is then deleted; static files only (server code such as PHP is never executed); no custom domains; per-IP rate limits with no published figure
+* *Exceeding the free tier*: The API returns an error (`400` naming the limit, `413` for a request over 25 MiB, `429` with `Retry-After`); nothing is charged
+* *Credit card required*: No (no account needed either)
 
 ## Cloudflare Pages
 
