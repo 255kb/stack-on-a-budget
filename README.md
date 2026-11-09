@@ -134,6 +134,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
     - [AliasMail](pages/emailing.md#aliasmail)
+    - [anon.li](pages/emailing.md#anonli)
     - [Elastic Email](pages/emailing.md#elastic-email)
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [Mailazy](pages/emailing.md#mailazy)
