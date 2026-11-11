@@ -11,6 +11,7 @@
   - [GitHub Pages](#github-pages)
   - [GitLab Pages](#gitlab-pages)
   - [Netlify](#netlify)
+  - [Reliant](#reliant)
   - [Render](#render)
   - [Catalyst Slate](#catalyst-slate)
   - [Shipvela](#shipvela)
@@ -82,6 +83,16 @@
 
 * *Free tier*: Unlimited sites, Custom domain, Automatic HTTPS
 * *Pros*: Deployment with git, Custom redirect rules, Webhooks and Notifications for integration with third party services, Form handling, User authentication handling, CMS
+
+## Reliant
+
+[Pricing page](https://reliantlabs.io/pricing) / [Hosting docs](https://docs.reliantlabs.io/forge/hosting)
+
+* *Free tier*: 1 static site per organization (counted across its environments), 1 GiB storage, 10 GiB traffic per month, served through a CDN with HTTPS
+* *Pros*: Deployed with the open-source forge CLI (`npx @reliantlabs/forge env deploy prod`), which adopts an existing Vite app or Next.js static export in place; a site can also be deployed with no account (`--claimable`), which returns a URL and a claim link
+* *Limitations*: Static exports only on the free tier (backends and managed Postgres need billing); a second site or environment is queued until billing is set up; a deploy made without an account goes offline after 72 hours unless it is claimed
+* *Exceeding the free tier*: Past 10 GiB of traffic the site answers 429 until the month rolls over; a release too large for the storage cap is held with a message
+* *Credit card required*: No
 
 ## Render
 
