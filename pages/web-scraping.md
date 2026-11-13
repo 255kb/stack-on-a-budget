@@ -10,6 +10,7 @@
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
 - [SocialCrawl](#socialcrawl)
+- [SocialScrape](#socialscrape)
 - [PhantomJsCloud](#phantomjscloud)
 
 <!-- /TOC -->
@@ -89,4 +90,14 @@
 * *Pros*: One GET /v1 API and one JSON schema across 50+ social and commerce platforms. OpenAPI spec published at /v1/openapi.json.
 * *Limitations*: Free allotment is one-time, not monthly. Advanced/premium endpoints cost 5 or 10 credits; /v1/search/everywhere costs 20. 50 concurrent requests per key.
 * *Exceeding the free tier*: API returns 402 until more credits are purchased.
+* *Credit card required*: No
+
+## SocialScrape
+
+[SocialScrape pricing](https://socialscrape.dev/pricing)
+
+* *Free tier*: 100 credits on signup. A profile or a page of posts costs 1 credit. Failed requests and cached repeats are not charged.
+* *Pros*: One API key and one JSON shape for posts across 29 platforms, including TikTok, Instagram, YouTube, Facebook, LinkedIn, X and Reddit. Returns profiles, posts, comments, search results and transcripts. Monitors send new posts to a webhook. Python and JavaScript SDKs, an OpenAPI file and an MCP server.
+* *Limitations*: The free credits are one-time, not monthly. Every request needs an API key.
+* *Exceeding the free tier*: API returns 402 until more credits are purchased. Credit packs start at $13 for 1,000 credits and never expire; monthly plans start at $27 for 18,000 credits.
 * *Credit card required*: No
