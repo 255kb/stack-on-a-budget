@@ -231,6 +231,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [AWS S3](pages/static-app-hosting.md#aws-s3)
     - [BrewPage](pages/static-app-hosting.md#brewpage)
     - [Cloudflare Pages](pages/static-app-hosting.md#cloudflare-pages)
+    - [Convika](pages/static-app-hosting.md#convika)
     - [deed.page](pages/static-app-hosting.md#deedpage)
     - [Firebase hosting](pages/static-app-hosting.md#firebase-hosting)
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
