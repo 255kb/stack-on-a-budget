@@ -5,6 +5,7 @@
 - [AliasMail](#aliasmail)
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
+- [FairValid](#fairvalid)
 - [Parsio Email Parser](#parsio-email-parser)
 - [Postmark](#postmark)
 - [SendGrid](#sendgrid)
@@ -39,6 +40,15 @@
 * *Free tier*: 300 emails/day
 * *Pros*: SMTP or REST, API for logs and analytics
 * *Exceeding the free tier*: billing starts, no service interruptions
+
+## FairValid
+
+[Pricing page](https://fairvalid.com/en/pricing) · [API reference](https://fairvalid.com/en/help/api)
+
+* *Free tier*: 300 credits each month, shared between email verification and FairMatch work-email discovery. A valid or invalid verification result uses 1 credit; a newly delivered verified FairMatch work email uses 4 credits.
+* *Pros*: Server API for verification jobs and results, idempotent retries, and signed completion events. Test keys support reserved example addresses without using live credits.
+* *Limitations*: Unknown and catch-all results are inconclusive and have zero net credit cost. Monthly free credits do not roll over; API scopes, key spending caps, workspace access and processing limits still apply.
+* *Exceeding the free tier*: More live work requires available workspace credits. The free allowance refreshes monthly; optional paid credit packs are available.
 
 ## Parsio Email Parser
 
