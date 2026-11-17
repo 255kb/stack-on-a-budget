@@ -4,6 +4,7 @@
 
 - [Static app hosting](#static-app-hosting)
   - [AWS S3](#aws-s3)
+  - [Birta](#birta)
   - [BrewPage](#brewpage)
   - [Cloudflare Pages](#cloudflare-pages)
   - [Convika](#convika)
@@ -28,6 +29,16 @@
 * *Free tier*: 5 GB of storage, 20000 GET requests, 2000 PUT requests, 15 GB data transfer per month
 * *Pros*: ACL policies, Custom rules and MIME types, Supports expiration, Multiple regions world-wide
 * *Limitations*: Free only for 12 months
+
+## Birta
+
+[HTML to website](https://birta.dev/tools/html-to-website) / [Pricing](https://birta.dev/#pricing)
+
+* *Free tier*: 20 projects, 25 MB per published version, HTTPS address per project, custom domain, form submissions, version history with rollback, visitor stats, up to 3 collaborators
+* *Pros*: Paste HTML or drop an .html file and get a link that opens for 24 hours with no account; keep it in an account and it becomes a site at a permanent address. Multi-file sites publish as a folder from an account or from an AI agent over MCP; reviewers leave remarks right on the page
+* *Limitations*: Static files only (no server code); a small Birta mark on free sites; the no-account link expires after 24 hours and is closed to search engines
+* *Exceeding the free tier*: A new project or a version over 25 MB is refused; live sites keep working; nothing is charged
+* *Credit card required*: No
 
 ## BrewPage
 
