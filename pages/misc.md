@@ -6,6 +6,7 @@
 - [Argonaut](#argonaut)
 - [Equibles](#equibles)
 - [ExchangeRate-API](#exchangerate-api)
+- [Fair Value Calculator](#fair-value-calculator)
 - [FingerprintJS Pro](#fingerprintjs-pro)
 - [FXMacroData](#fxmacrodata)
 - [Geocodio](#geocodio)
@@ -54,6 +55,16 @@
 - _Free tier_: Free JSON currency conversion rate dataset
 - _Pros_: No request limits, multiple data sources
 - _Limitations_: Only updated every 24 hours
+
+## Fair Value Calculator
+
+[Developer page](https://fairvalue-calculator.com/developers)
+
+- _Free tier_: No key, account or card for the data files: five daily-updated stock lists (undervalued stocks, overvalued stocks, value traps, largest companies, top 150 companies) as JSON and CSV under CC BY 4.0. The hosted MCP server for ChatGPT, Claude and other assistants works with a free account over OAuth, without an API key: 3 full fair-value verdicts and 30 quick snapshots a day, unlimited stock search, 5 comparisons or screens a day
+- _Pros_: Covers 40,000+ listed stocks worldwide, recalculated daily from 26 valuation models; each verdict carries a fair-value range, a quality score and the 12-month trend. CORS is enabled on the JSON files, and the datasets are also archived on Zenodo with a DOI
+- _Limitations_: Valuations, not market data: no price quotes or price history. The data files are fixed lists, not a per-ticker REST API; single-stock lookups go through the MCP server
+- _Exceeding the free tier_: The MCP server answers with the status `free_daily_limit_reached` and no valuation until the counter resets at 00:00 UTC; a paid plan raises the limits. The data files have no daily quota, only a general rate limit
+- _Credit card required_: No
 
 ## FingerprintJS Pro
 
