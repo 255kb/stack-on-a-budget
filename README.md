@@ -175,6 +175,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Argonaut](pages/misc.md#argonaut)
     - [Equibles](pages/misc.md#equibles)
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
+    - [Fair Value Calculator](pages/misc.md#fair-value-calculator)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
     - [FXMacroData](pages/misc.md#fxmacrodata)
     - [Geocodio](pages/misc.md#geocodio)
