@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [DMARCmetric](#dmarcmetric)
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
 - [Honeybadger.io](#honeybadgerio)
@@ -18,6 +19,16 @@
 - [Waitcher](#waitcher)
 
 <!-- /TOC -->
+
+## DMARCmetric
+
+[Product page](https://dmarcmetric.com/?utm_source=stack-on-a-budget) - [Pricing page](https://dmarcmetric.com/pricing.html?utm_source=stack-on-a-budget)
+
+* *Free tier*: 1 domain, 10,000 messages/month of DMARC aggregate reports, 30-day history, email alerts and digests (weekly by default).
+* *Pros*: Shows which services send mail as your domain and whether each one passes SPF/DKIM alignment, plus a policy advisor that re-checks your live DMARC record. The DMARC/SPF/DKIM checkers and the DMARC XML report viewer work without an account.
+* *Limitations*: Forensic (RUF) reports, MTA-STS/TLS-RPT checks and team members require a paid plan.
+* *Exceeding the free tier*: Reports keep being collected (nothing is dropped); upgrading lifts the 10,000-message monthly limit. A second domain requires a paid plan.
+* *Credit card required*: No.
 
 ## Google Stackdriver
 
