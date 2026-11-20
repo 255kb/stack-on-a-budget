@@ -211,6 +211,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [SolidPing](pages/monitoring.md#solidping)
     - [Uptime Robot](pages/monitoring.md#uptime-robot)
     - [Waitcher](pages/monitoring.md#waitcher)
+    - [ZoneBI](pages/monitoring.md#zonebi)
 - [**Push notifications**](pages/push-notifications.md)
     - [Azure Notification Hubs](pages/push-notifications.md#azure-notification-hubs)
     - [Batch](pages/push-notifications.md#batch)

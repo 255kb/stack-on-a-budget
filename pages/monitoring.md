@@ -16,6 +16,7 @@
 - [Uptime Robot](#uptime-robot)
 - [PingPong](#pingpong)
 - [Waitcher](#waitcher)
+- [ZoneBI](#zonebi)
 
 <!-- /TOC -->
 
@@ -147,4 +148,14 @@
 * *Pros*: API and browser tests kept in your repository run as scheduled monitors, with screenshots, traces and logs for each run; monitors managed from a CLI or the web app; alerts by email, Slack or webhook
 * *Limitations*: test monitors run at least 2 hours apart; free accounts share part of the hosted runner's daily capacity
 * *Exceeding the free tier*: Not possible - monitors over the limit are refused, and test runs past the daily cap are skipped until midnight UTC
+* *Credit card required*: No
+
+## ZoneBI
+
+[Pricing page](https://zonebi.com/en/?src=stackonabudget-en-01#pricing)
+
+* *Free tier*: 3 domains with 290+ checks (domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC, Spamhaus blocklists), alerts by email, browser notifications, Slack, Discord, Teams, Chatwork and Telegram, and 1 automated phone call per month. No time limit.
+* *Pros*: explains each finding and how to fix it in plain words, shared status pages, monthly reports, DMARC aggregate reports, API, 10 languages.
+* *Limitations*: 3 domains; SMS and LINE alerts are only on paid plans; phone calls are limited to 1 per month.
+* *Exceeding the free tier*: more domains need a paid plan (from $12/month, excluding tax). Phone calls and SMS stop for the rest of the period once the plan's limit is reached; there are no overage charges.
 * *Credit card required*: No
