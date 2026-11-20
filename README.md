@@ -196,6 +196,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Segment](pages/mobile-analytics.md#segment)
     - [Visual Studio Mobile Center](pages/mobile-analytics.md#visual-studio-mobile-center)
 - [**Monitoring**](pages/monitoring.md)
+    - [DMARCmetric](pages/monitoring.md#dmarcmetric)
     - [Google Stackdriver](pages/monitoring.md#google-stackdriver)
     - [Healthchecks.io](pages/monitoring.md#healthchecksio)
     - [Honeybadger.io](pages/monitoring.md#honeybadgerio)
