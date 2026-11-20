@@ -10,6 +10,7 @@
 - [Scraper API](#scraper-api)
 - [SearchApi](#searchapi)
 - [SocialCrawl](#socialcrawl)
+- [Social Fetch](#social-fetch)
 - [SocialScrape](#socialscrape)
 - [PhantomJsCloud](#phantomjscloud)
 
@@ -90,6 +91,16 @@
 * *Pros*: One GET /v1 API and one JSON schema across 50+ social and commerce platforms. OpenAPI spec published at /v1/openapi.json.
 * *Limitations*: Free allotment is one-time, not monthly. Advanced/premium endpoints cost 5 or 10 credits; /v1/search/everywhere costs 20. 50 concurrent requests per key.
 * *Exceeding the free tier*: API returns 402 until more credits are purchased.
+* *Credit card required*: No
+
+## Social Fetch
+
+[Social Fetch pricing](https://www.socialfetch.dev/pricing)
+
+* *Free tier*: 100 credits on signup. Many lookups cost 1 credit.
+* *Pros*: One REST API for public profiles, posts, comments, transcripts and search from TikTok, Instagram, YouTube, X, Reddit and LinkedIn, plus a hosted MCP server with OAuth. Failed lookups and rejected requests are not charged.
+* *Limitations*: Each lookup has a fixed credit price listed on its page in the API reference. A completed lookup is charged even when it finds nothing.
+* *Exceeding the free tier*: Metered requests return 402 insufficient_credits until credits are added.
 * *Credit card required*: No
 
 ## SocialScrape
