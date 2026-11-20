@@ -143,6 +143,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Postmark](pages/emailing.md#postmark)
     - [SendGrid](pages/emailing.md#sendgrid)
     - [SparkPost](pages/emailing.md#sparkpost)
+    - [TurboSMTP](pages/emailing.md#serversmtp)
 - [**Error Reporting**](pages/error-reporting.md)
     - [Bugsnag](pages/error-reporting.md#bugsnag)
     - [LogBrew](pages/error-reporting.md#logbrew)
