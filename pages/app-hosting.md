@@ -5,6 +5,7 @@
 - [Alwaysdata](#alwaysdata)
 - [AWS EC2](#aws-ec2)
 - [Azure App Service](#azure-app-service)
+- [blitz.cloud](#blitzcloud)
 - [Faable](#faable)
 - [Fly](#fly)
 - [GearHost](#gearhost)
@@ -46,6 +47,15 @@
 * *Pros*: Supports .NET, easy publishing directly from Git/GitHub/Bitbucket
 * *Limitations*: Cumulative limit for CPU (60 minutes allowed every 24 hours), No uptime SLA, No custom domain, No SSL
 * *Credit card required*: Yes, you must add a [credit or debit card](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-credit-card)
+
+## blitz.cloud
+
+[Pricing page](https://blitz.cloud/pricing/)
+
+* *Free tier*: 5 apps, 512MB RAM pool, 10GB storage, 1 managed database (PostgreSQL, MariaDB or Redis) with nightly backups kept 7 days
+* *Pros*: deploy your own code from GitHub, GitLab, Codeberg, Gitea or Forgejo with a build on every push, or a public Docker image, or a one-click open-source app; data centres in the EU
+* *Limitations*: free apps sleep after 15 minutes without visitors (wake in about 10 seconds); one database per app; Docker images must be public
+* *Credit card required*: No
 
 ## Faable
 
