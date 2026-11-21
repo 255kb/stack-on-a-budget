@@ -13,6 +13,7 @@
   - [GitHub Pages](#github-pages)
   - [GitLab Pages](#gitlab-pages)
   - [Netlify](#netlify)
+  - [Pagehaus](#pagehaus)
   - [Reliant](#reliant)
   - [Render](#render)
   - [Catalyst Slate](#catalyst-slate)
@@ -105,6 +106,16 @@
 
 * *Free tier*: Unlimited sites, Custom domain, Automatic HTTPS
 * *Pros*: Deployment with git, Custom redirect rules, Webhooks and Notifications for integration with third party services, Form handling, User authentication handling, CMS
+
+## Pagehaus
+
+[Product page](https://pagehaus.app) / [Pricing](https://pagehaus.app/pricing)
+
+* *Free tier*: 1 site at yourname.pagehaus.site with HTTPS, 250 MB storage, 20 GB of traffic a month, 50 contact form messages a month, 7 days of version history, cookie-free visitor stats
+* *Pros*: Upload files, folders or a zip in the browser, over SFTP, with a command-line tool or a GitHub Action, or from Claude and ChatGPT over MCP; Server Side Includes for shared headers and footers; contact forms with no code; a Markdown blog with RSS; `_redirects` rules
+* *Limitations*: Static files only (no server code); custom domains on paid plans (from $4/month); 25 MB per file; links on free sites are nofollow
+* *Exceeding the free tier*: Uploads are refused when storage is full; sites keep running past the traffic allowance, with emails at 80% and 100%, and are paused only at three times the limit; nothing is charged
+* *Credit card required*: No
 
 ## Reliant
 
