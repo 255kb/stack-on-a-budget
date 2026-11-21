@@ -243,6 +243,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [GitHub Pages](pages/static-app-hosting.md#github-pages)
     - [GitLab Pages](pages/static-app-hosting.md#gitlab-pages)
     - [Netlify](pages/static-app-hosting.md#netlify)
+    - [Pagehaus](pages/static-app-hosting.md#pagehaus)
     - [Reliant](pages/static-app-hosting.md#reliant)
     - [Render](pages/static-app-hosting.md#render)
     - [Catalyst Slate](pages/static-app-hosting.md#catalyst-slate)
