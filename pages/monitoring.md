@@ -155,7 +155,7 @@
 
 [Product page](https://waitcher.dev) - [Pricing page](https://waitcher.dev/pricing)
 
-* *Free tier*: 5 monitors (website, certificate and heartbeat checks every 30 minutes), including 1 API or browser test monitor that runs every 2 hours or less often, 12 test runs a day, run reports kept for 7 days and run history for 14 days
+* *Free tier*: 10 monitors (website, certificate and heartbeat checks every 30 minutes), including 1 API or browser test monitor that runs every 2 hours or less often, 12 test runs a day, run reports kept for 7 days and run history for 14 days
 * *Pros*: API and browser tests kept in your repository run as scheduled monitors, with screenshots, traces and logs for each run; monitors managed from a CLI or the web app; alerts by email, Slack or webhook
 * *Limitations*: test monitors run at least 2 hours apart; free accounts share part of the hosted runner's daily capacity
 * *Exceeding the free tier*: Not possible - monitors over the limit are refused, and test runs past the daily cap are skipped until midnight UTC
