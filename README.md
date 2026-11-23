@@ -131,6 +131,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**Dependency management**](pages/dependency-management.md)
     - [Dependabot](pages/dependency-management.md#dependabot)
 - [**DNS hosting**](pages/dns-hosting.md)
+    - [Linkora](pages/dns-hosting.md#linkora)
     - [LuaDNS](pages/dns-hosting.md#luadns)
 - [**Emailing**](pages/emailing.md)
     - [AliasMail](pages/emailing.md#aliasmail)
