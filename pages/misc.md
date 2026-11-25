@@ -8,6 +8,7 @@
 - [ExchangeRate-API](#exchangerate-api)
 - [Fair Value Calculator](#fair-value-calculator)
 - [FingerprintJS Pro](#fingerprintjs-pro)
+- [Free LLM API Hub](#free-llm-api-hub)
 - [FXMacroData](#fxmacrodata)
 - [Geocodio](#geocodio)
 - [Indexed](#indexed)
@@ -74,6 +75,16 @@
 - _Pros_: identifies browser and hybrid mobile application users even when they purge data
 - _Limitations_: the rate limit is reduced to 3 identifications per second
 - _Exceeding the free tier_: the SDK returns an error
+
+## Free LLM API Hub
+
+[Website and API docs](https://freellmapihub.com)
+
+- _Free tier_: the full dataset of free-tier and trial-credit LLM API offers from 60+ providers as a no-auth CORS JSON API, CSV, llms.txt and RSS feed (MIT-licensed data)
+- _Pros_: every entry is dated and linked to the provider's own docs, compare pages per provider, changes published as RSS
+- _Limitations_: it is a dataset, not an inference API; read-only
+- _Exceeding the free tier_: no quota, the files are static
+- _Credit card required_: No
 
 ## FXMacroData
 

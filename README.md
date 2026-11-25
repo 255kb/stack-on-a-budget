@@ -179,6 +179,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [ExchangeRate-API](pages/misc.md#exchangerate-api)
     - [Fair Value Calculator](pages/misc.md#fair-value-calculator)
     - [FingerprintJS Pro](pages/misc.md#fingerprintjs-pro)
+    - [Free LLM API Hub](pages/misc.md#free-llm-api-hub)
     - [FXMacroData](pages/misc.md#fxmacrodata)
     - [Geocodio](pages/misc.md#geocodio)
     - [Indexed](pages/misc.md#indexed)
