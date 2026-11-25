@@ -12,6 +12,7 @@
 - [Geocodio](#geocodio)
 - [Indexed](#indexed)
 - [ipapi.is](#ipapiis)
+- [Kite](#kite)
 - [Let's Encrypt](#lets-encrypt)
 - [ostr.io](#ostrio)
 - [QRMint](#qrmint)
@@ -111,6 +112,15 @@
 - _Pros_: The free tier includes full API output with all data types. The API is replicated on mutiple servers worldwide which results in a fast performance.
 - _Limitations_: No limits
 - _Exceeding the free tier_: need to pay if 1,000 free daily API lookups are exceeded
+
+## Kite
+
+[Kite](https://kite.new/pricing)
+
+- _Free Tier_: Unlimited editors and viewers, 1 workspace with 3 files and 3 design systems, 100 agent actions a day
+- _Pros_: UI design canvas that coding agents (Claude, ChatGPT, Cursor, Codex) edit through a hosted MCP server; frames copy out as HTML, React or Tailwind; no AI credits, the agent runs on your own plan
+- _Limitations_: 3 files on the free plan; no version history
+- _Exceeding the free tier_: Pro plan needed for more files or unlimited agent actions
 
 ## Let's Encrypt
 
