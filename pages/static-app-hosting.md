@@ -119,11 +119,11 @@
 
 ## Reliant
 
-[Pricing page](https://reliantlabs.io/pricing) / [Hosting docs](https://docs.reliantlabs.io/forge/hosting)
+[Pricing page](https://reliantlabs.io/pricing) / [Hosting docs](https://docs.reliantlabs.io/hosting/overview)
 
-* *Free tier*: 1 static site per organization (counted across its environments), 1 GiB storage, 10 GiB traffic per month, served through a CDN with HTTPS
+* *Free tier*: Any number of static sites in one organization per person (each environment is its own site), 1 GiB storage per site and 10 GiB in total, 10 GiB traffic per month, served through a CDN with HTTPS
 * *Pros*: Deployed with the open-source forge CLI (`npx @reliantlabs/forge env deploy prod`), which adopts an existing Vite app or Next.js static export in place; a site can also be deployed with no account (`--claimable`), which returns a URL and a claim link
-* *Limitations*: Static exports only on the free tier (backends and managed Postgres need billing); a second site or environment is queued until billing is set up; a deploy made without an account goes offline after 72 hours unless it is claimed
+* *Limitations*: Static exports only on the free tier (backends and managed Postgres need billing); sites in a person's other organizations are queued until billing is set up; a deploy made without an account goes offline after 72 hours unless it is claimed
 * *Exceeding the free tier*: Past 10 GiB of traffic the site answers 429 until the month rolls over; a release too large for the storage cap is held with a message
 * *Credit card required*: No
 
