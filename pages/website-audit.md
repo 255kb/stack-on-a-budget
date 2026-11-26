@@ -5,6 +5,7 @@
 - [Checkbot](#checkbot)
 - [RatedWithAI](#ratedwithai)
 - [Vaneform](#vaneform)
+- [VibeShield](#vibeshield)
 - [WebsiteReady](#websiteready)
 
 <!-- /TOC -->
@@ -30,6 +31,16 @@
 
 * *Free tier*: Free website traffic lookup for any domain — estimated monthly visits, traffic sources, top countries, search keywords and similar sites. No signup required for basic lookups.
 * *Pros*: Instant domain lookup without an account. Useful when auditing a site's traffic profile before SEO or launch decisions.
+
+## VibeShield
+
+[Pricing page](https://shipbastion.com/#pricing)
+
+- *Free tier*: Unlimited read-only pre-launch security audits for any public URL (109+ checks covering 52 client-side JS secret patterns, 10 Mozilla Observatory security headers, TLS/HSTS, `.env`/`.git`/`.map` exposure, and read-only Supabase PostgREST RLS & public storage bucket checks), live SVG security badges (`/api/badge.svg`), and an MIT-licensed CLI (`curl -sSL https://shipbastion.com/cli.sh`). No account required.
+- *Pros*: Instant passive inspection in under 2 seconds without installing an agent or granting repository access; targets Next.js, Supabase, Firebase, and AI-built web apps; includes browser-side Supabase RLS SQL and Next.js Nonce CSP generators.
+- *Limitations*: Passive external inspection only (does not perform authenticated crawling, intrusive fuzzing, or private Git repository scanning). Copy-paste domain-tailored remediation patches, 50-URL batch CSV scanning, and executive PDF export require a one-time paid pass.
+- *Exceeding the free tier*: Single-URL diagnostic audits remain free; unlocking copy-paste custom fix packs and batch CSV scanning is a one-time fee (no recurring subscription).
+- *Credit card required*: No
 
 ## WebsiteReady
 

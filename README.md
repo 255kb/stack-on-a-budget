@@ -282,4 +282,5 @@ The goal is to have enough details about each free tier so developers can choose
     - [Checkbot](pages/website-audit.md#checkbot)
     - [RatedWithAI](pages/website-audit.md#ratedwithai)
     - [Vaneform](pages/website-audit.md#vaneform)
+    - [VibeShield](pages/website-audit.md#vibeshield)
 
