@@ -27,6 +27,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [OpsGenie](pages/alerting-and-paging.md/#opsgenie)
 - [**API management**](pages/api-management.md)
     - [Echolon](pages/api-management.md/#echolon)
+    - [Scalekit](pages/api-management.md#scalekit)
     - [Zuplo](pages/api-management.md/#zuplo)
 - [**App hosting**](pages/app-hosting.md)
     - [Alwaysdata](pages/app-hosting.md#alwaysdata)
