@@ -134,6 +134,7 @@ The goal is to have enough details about each free tier so developers can choose
 - [**DNS hosting**](pages/dns-hosting.md)
     - [Linkora](pages/dns-hosting.md#linkora)
     - [LuaDNS](pages/dns-hosting.md#luadns)
+    - [prod.page](pages/dns-hosting.md#prodpage)
 - [**Emailing**](pages/emailing.md)
     - [AliasMail](pages/emailing.md#aliasmail)
     - [Elastic Email](pages/emailing.md#elastic-email)
