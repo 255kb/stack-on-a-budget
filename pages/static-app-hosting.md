@@ -62,7 +62,7 @@
 [Pricing page](https://convika.com/pricing/) / [Docs](https://convika.com/docs/)
 
 * *Free tier*: 1 published page at a time (10 kept with drafts), 10,000 page views a month, 50 form entries shown a month, 1 custom subdomain with automatic HTTPS, visitor analytics for the last 90 days, HTML uploads up to 2 MB
-* *Pros*: Upload an .html file, a folder or a .zip in the browser, or publish from an MCP client (Claude, Claude Code, Codex) at `https://mcp.convika.com`; forms that store entries (CSV/JSON export) and visitor analytics are built in; commercial use is allowed on the free plan
+* *Pros*: Upload an .html file, a folder or a .zip in the browser; forms that store entries (CSV/JSON export) and visitor analytics are built in; commercial use is allowed on the free plan
 * *Limitations*: One published page at a time on the free plan; a small Convika bar at the bottom of each page on the free plan
 * *Exceeding the free tier*: Past 10,000 page views in a month, editing and analytics pause, and pages stop 7 days later until the month ends (UTC) or a plan is bought; nothing is charged
 * *Credit card required*: No
