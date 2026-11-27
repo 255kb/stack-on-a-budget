@@ -20,7 +20,7 @@
 
 ## CiteReady
 
-[Pricing page](https://cite.shipbastion.com/#pricing)
+[Pricing page](https://cite.shipbastion.com/#compare)
 
 - *Free tier*: Unlimited single-URL AI search readiness (GEO) audits checking 10 AI crawlers (`OAI-SearchBot`, `GPTBot`, `PerplexityBot`, `ClaudeBot`, `Google-Extended`, `Applebot-Extended`, `Bytespider`, `Baiduspider`), `X-Robots-Tag` headers, Schema.org JSON-LD entity graph depth, and root `/llms.txt` compliance, plus free online `/generator`, `/robots-builder`, `/schema-builder`, live SVG score badges, and a zero-install MIT CLI (`curl -fsSL https://cite.shipbastion.com/cli.sh`). No account required.
 - *Pros*: Instant 2-second live audit with dual-site side-by-side comparison (PK), browser-side `robots.txt` and Schema.org `@graph` builders, and a zero-dependency GitHub Action for CI checks.
