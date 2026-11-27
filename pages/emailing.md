@@ -6,6 +6,7 @@
 - [Elastic Email](#elastic-email)
 - [Emaillabs](#emaillabs)
 - [FairValid](#fairvalid)
+- [InboxShield](#inboxshield)
 - [Parsio Email Parser](#parsio-email-parser)
 - [Postmark](#postmark)
 - [SendGrid](#sendgrid)
@@ -49,6 +50,16 @@
 * *Pros*: Server API for verification jobs and results, idempotent retries, and signed completion events. Test keys support reserved example addresses without using live credits.
 * *Limitations*: Unknown and catch-all results are inconclusive and have zero net credit cost. Monthly free credits do not roll over; API scopes, key spending caps, workspace access and processing limits still apply.
 * *Exceeding the free tier*: More live work requires available workspace credits. The free allowance refreshes monthly; optional paid credit packs are available.
+
+## InboxShield
+
+[Pricing page](https://inbox.shipbastion.com/#pricing)
+
+- *Free tier*: Unlimited read-only email deliverability and DNS authentication audits for any sending domain (recursive SPF 10-lookup tree & online [SPF Flattener](https://inbox.shipbastion.com/spf-flattener), 24-selector DKIM, strict RFC 7489 DMARC linter & policy simulator, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBL blacklists), live SVG badges (`/api/badge.svg`), free MTA-STS/TLS-RPT/BIMI & DMARC rollout generators, and an MIT-licensed CLI (`zColdWater/inboxshield-cli`). No account required.
+- *Pros*: Instant 6-phase DNS verification in under 3 seconds without DNS delegation, CNAME lock-in, or mailbox OAuth access; catches RFC 7208 `>10` SPF PermErrors and Google/Yahoo bulk-sender compliance gaps before campaigns hit spam.
+- *Limitations*: On-demand DNS diagnostic and remediation workbench (does not operate a hosted 24/7 inbound DMARC XML report mailbox). Unmasked domain-tailored copy-paste DNS fix records for 5 registrars, 50-domain batch CSV scanning, and printable A4 PDF reports require a one-time paid pass.
+- *Exceeding the free tier*: Single-domain live diagnostics, SPF flattening, and CLI checks remain free; unlocking copy-paste remediation records and batch CSV export is a one-time fee (no recurring subscription).
+- *Credit card required*: No
 
 ## Parsio Email Parser
 
