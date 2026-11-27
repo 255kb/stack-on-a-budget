@@ -280,6 +280,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [PhantomJsCloud](pages/web-scraping.md#phantomjscloud)
 - [**Website audit**](pages/website-audit.md)
     - [Checkbot](pages/website-audit.md#checkbot)
+    - [CiteReady](pages/website-audit.md#citeready)
     - [RatedWithAI](pages/website-audit.md#ratedwithai)
     - [Vaneform](pages/website-audit.md#vaneform)
     - [VibeShield](pages/website-audit.md#vibeshield)
