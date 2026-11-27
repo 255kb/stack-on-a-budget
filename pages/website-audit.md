@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Checkbot](#checkbot)
+- [CiteReady](#citeready)
 - [RatedWithAI](#ratedwithai)
 - [Vaneform](#vaneform)
 - [VibeShield](#vibeshield)
@@ -16,6 +17,16 @@
 
 * *Free tier*: Free tier for small websites (less than 250 URLs).
 * *Pros*: Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Check as many websites as you want as often as you want including localhost sites. Crawls your site testing multiple pages at once.
+
+## CiteReady
+
+[Pricing page](https://cite.shipbastion.com/#compare)
+
+- *Free tier*: Unlimited single-URL AI search readiness (GEO) audits checking 10 AI crawlers (`OAI-SearchBot`, `GPTBot`, `PerplexityBot`, `ClaudeBot`, `Google-Extended`, `Applebot-Extended`, `Bytespider`, `Baiduspider`), `X-Robots-Tag` headers, Schema.org JSON-LD entity graph depth, and root `/llms.txt` compliance, plus free online `/generator`, `/robots-builder`, `/schema-builder`, live SVG score badges, and a zero-install MIT CLI (`curl -fsSL https://cite.shipbastion.com/cli.sh`). No account required.
+- *Pros*: Instant 2-second live audit with dual-site side-by-side comparison (PK), browser-side `robots.txt` and Schema.org `@graph` builders, and a zero-dependency GitHub Action for CI checks.
+- *Limitations*: Audits technical on-site AI crawlability, `/llms.txt`, and structured entity markup on demand (does not perform daily LLM prompt-polling subscriptions). Copy-paste 5-platform fix packs, 50-URL batch CSV scanning, and printable A4 PDF reports require a one-time paid unlock.
+- *Exceeding the free tier*: Single-URL audits and interactive builders remain free; unlocking platform fix packs and 50-URL batch CSV is a one-time fee (no recurring subscription).
+- *Credit card required*: No
 
 ## RatedWithAI
 
