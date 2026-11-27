@@ -140,6 +140,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Elastic Email](pages/emailing.md#elastic-email)
     - [Emaillabs](pages/emailing.md#emaillabs)
     - [FairValid](pages/emailing.md#fairvalid)
+    - [InboxShield](pages/emailing.md#inboxshield)
     - [Mailazy](pages/emailing.md#mailazy)
     - [Mailtrap](pages/emailing.md#mailtrap)
     - [Parsio Email Parser](pages/emailing.md#parsio-email-parser)
