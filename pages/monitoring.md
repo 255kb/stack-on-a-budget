@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [12happy](#12happy)
 - [DMARCmetric](#dmarcmetric)
 - [Google Stackdriver](#google-stackdriver)
 - [Healthchecks.io](#healthchecksio)
@@ -20,6 +21,16 @@
 - [ZoneBI](#zonebi)
 
 <!-- /TOC -->
+
+## 12happy
+
+[Product page](https://www.12hpy.com/?utm_source=stack-on-a-budget) - [Pricing page](https://www.12hpy.com/pricing?utm_source=stack-on-a-budget)
+
+* *Free tier*: 50 monitors (HTTP, keyword, ping, TCP) checked every 5 minutes, alerts by email, Slack, Telegram and the iPhone/Android apps, 1 public status page, 3 months of history, 1 API key.
+* *Pros*: A failed check is re-checked from a second location before anyone is alerted. Public REST API and an open-source MCP server (works on the free plan). Free tools (website down checker, DNS propagation checker) without an account.
+* *Limitations*: 5-minute check interval, 1 user, up to 10 alert channels, the status page uses a 12happy address and branding. SMS, webhooks, heartbeat (cron) monitors and maintenance windows are on paid plans.
+* *Exceeding the free tier*: Adding monitors beyond 50 is refused until you upgrade.
+* *Credit card required*: No.
 
 ## DMARCmetric
 
